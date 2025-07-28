@@ -1,0 +1,12 @@
+{
+  "action": {
+    "description": "Motion by Senator GROHOSKI of Hancock to ACCEPT Report A Ought to Pass as Amended by Committee Amendment \"A\" (S-431) Report. FAILED",
+    "date": "2025-06-17",
+    "organization_id": "~{\"classification\": \"upper\"}",
+    "classification": [
+      "amendment-failure"
+    ],
+    "related_entities": []
+  },
+  "bill_id": "LD 1211"
+}

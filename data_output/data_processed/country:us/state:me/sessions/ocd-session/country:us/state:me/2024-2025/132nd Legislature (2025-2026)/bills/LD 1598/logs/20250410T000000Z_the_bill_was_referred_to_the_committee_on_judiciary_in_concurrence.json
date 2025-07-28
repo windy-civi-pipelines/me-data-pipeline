@@ -1,0 +1,12 @@
+{
+  "action": {
+    "description": "The Bill was REFERRED to the Committee on JUDICIARY in concurrence",
+    "date": "2025-04-10",
+    "organization_id": "~{\"classification\": \"upper\"}",
+    "classification": [
+      "referral-committee"
+    ],
+    "related_entities": []
+  },
+  "bill_id": "LD 1598"
+}

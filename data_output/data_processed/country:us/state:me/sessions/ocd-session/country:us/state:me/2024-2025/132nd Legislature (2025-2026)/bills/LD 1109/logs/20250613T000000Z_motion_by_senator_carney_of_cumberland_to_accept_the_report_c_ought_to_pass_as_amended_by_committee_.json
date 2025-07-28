@@ -1,0 +1,12 @@
+{
+  "action": {
+    "description": "Motion by Senator CARNEY of Cumberland to ACCEPT The Report C Ought to Pass As Amended by Committee Amendment \"B\" (H-663) FAILED",
+    "date": "2025-06-13",
+    "organization_id": "~{\"classification\": \"upper\"}",
+    "classification": [
+      "amendment-failure"
+    ],
+    "related_entities": []
+  },
+  "bill_id": "LD 1109"
+}

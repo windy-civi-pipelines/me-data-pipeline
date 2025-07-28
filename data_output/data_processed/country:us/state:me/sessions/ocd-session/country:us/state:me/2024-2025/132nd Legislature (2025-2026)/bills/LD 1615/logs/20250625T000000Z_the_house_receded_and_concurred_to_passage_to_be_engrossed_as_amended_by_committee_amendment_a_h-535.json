@@ -1,0 +1,12 @@
+{
+  "action": {
+    "description": "The House RECEDED and CONCURRED to PASSAGE TO BE ENGROSSED as Amended by Committee Amendment \"A\" (H-535) as Amended by Senate Amendment \"A\" (S-440) thereto.",
+    "date": "2025-06-25",
+    "organization_id": "~{\"classification\": \"lower\"}",
+    "classification": [
+      "reading-3"
+    ],
+    "related_entities": []
+  },
+  "bill_id": "LD 1615"
+}

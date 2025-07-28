@@ -1,0 +1,12 @@
+{
+  "action": {
+    "description": "On motion by Senator BENNETT of Oxford the Senate RECONSIDERED their actions whereby the Bill was PASSED TO BE ENACTED. PREVAILED",
+    "date": "2025-06-17",
+    "organization_id": "~{\"classification\": \"upper\"}",
+    "classification": [
+      "passage"
+    ],
+    "related_entities": []
+  },
+  "bill_id": "LD 1868"
+}

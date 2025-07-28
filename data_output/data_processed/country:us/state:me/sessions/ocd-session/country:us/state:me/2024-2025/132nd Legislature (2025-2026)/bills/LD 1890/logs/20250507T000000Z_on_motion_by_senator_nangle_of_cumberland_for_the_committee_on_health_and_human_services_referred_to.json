@@ -1,0 +1,12 @@
+{
+  "action": {
+    "description": "On motion by Senator Nangle of Cumberland for the Committee on Health and Human Services REFERRED to the Committee on Health Coverage, Insurance and Financial Services, in concurrence.",
+    "date": "2025-05-07",
+    "organization_id": "~{\"classification\": \"upper\"}",
+    "classification": [
+      "referral-committee"
+    ],
+    "related_entities": []
+  },
+  "bill_id": "LD 1890"
+}

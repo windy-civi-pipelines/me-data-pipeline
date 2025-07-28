@@ -1,0 +1,12 @@
+{
+  "action": {
+    "description": "On motion of Representative CRAFTS of Newcastle, the Bill was REFERRED to the Committee on HOUSING AND ECONOMIC DEVELOPMENT.",
+    "date": "2025-04-03",
+    "organization_id": "~{\"classification\": \"lower\"}",
+    "classification": [
+      "referral-committee"
+    ],
+    "related_entities": []
+  },
+  "bill_id": "LD 1467"
+}

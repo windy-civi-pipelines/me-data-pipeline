@@ -1,0 +1,10 @@
+{
+  "action": {
+    "description": "The House INSISTED on REFERENCE to the Committee on ENVIRONMENT AND NATURAL RESOURCES.",
+    "date": "2025-03-11",
+    "organization_id": "~{\"classification\": \"lower\"}",
+    "classification": [],
+    "related_entities": []
+  },
+  "bill_id": "LD 383"
+}

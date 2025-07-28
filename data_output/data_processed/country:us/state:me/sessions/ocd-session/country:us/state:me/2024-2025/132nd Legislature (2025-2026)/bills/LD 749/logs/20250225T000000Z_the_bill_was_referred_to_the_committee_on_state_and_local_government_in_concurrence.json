@@ -1,0 +1,12 @@
+{
+  "action": {
+    "description": "The Bill was REFERRED to the Committee on STATE AND LOCAL GOVERNMENT in concurrence",
+    "date": "2025-02-25",
+    "organization_id": "~{\"classification\": \"upper\"}",
+    "classification": [
+      "referral-committee"
+    ],
+    "related_entities": []
+  },
+  "bill_id": "LD 749"
+}

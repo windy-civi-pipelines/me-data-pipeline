@@ -1,0 +1,10 @@
+{
+  "action": {
+    "description": "Refer Approved by Chairs/Leads - REFER TO OTHER",
+    "date": "2025-03-11T04:00:00+00:00",
+    "organization_id": "~{\"classification\": \"legislature\"}",
+    "classification": [],
+    "related_entities": []
+  },
+  "bill_id": "LD 977"
+}

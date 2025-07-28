@@ -1,0 +1,13 @@
+{
+  "action": {
+    "description": "Committee Amendment \"A\" (S-97) was READ and ADOPTED.",
+    "date": "2025-05-22",
+    "organization_id": "~{\"classification\": \"lower\"}",
+    "classification": [
+      "committee-passage-favorable",
+      "passage"
+    ],
+    "related_entities": []
+  },
+  "bill_id": "LD 583"
+}

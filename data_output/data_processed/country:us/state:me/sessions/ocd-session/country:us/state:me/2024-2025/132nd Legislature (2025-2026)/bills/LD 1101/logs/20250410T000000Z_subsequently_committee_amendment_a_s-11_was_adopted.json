@@ -1,0 +1,12 @@
+{
+  "action": {
+    "description": "Subsequently, Committee Amendment \"A\" (S-11) was ADOPTED.",
+    "date": "2025-04-10",
+    "organization_id": "~{\"classification\": \"lower\"}",
+    "classification": [
+      "committee-passage-favorable"
+    ],
+    "related_entities": []
+  },
+  "bill_id": "LD 1101"
+}

@@ -1,0 +1,10 @@
+{
+  "action": {
+    "description": "The Joint Order was READ.",
+    "date": "2025-03-04",
+    "organization_id": "~{\"classification\": \"lower\"}",
+    "classification": [],
+    "related_entities": []
+  },
+  "bill_id": "HP 500"
+}

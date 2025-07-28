@@ -1,0 +1,12 @@
+{
+  "action": {
+    "description": "The House INSISTED on its action whereby the Report of the Committee on JUDICIARY was READ and REJECTED and the Bill was REFERRED to the Committee on CRIMINAL JUSTICE AND PUBLIC SAFETY.",
+    "date": "2025-05-20",
+    "organization_id": "~{\"classification\": \"lower\"}",
+    "classification": [
+      "referral-committee"
+    ],
+    "related_entities": []
+  },
+  "bill_id": "LD 1916"
+}

@@ -1,0 +1,13 @@
+{
+  "action": {
+    "description": "Committee Amendment \"A\" (S-79) READ and ADOPTED.",
+    "date": "2025-05-14",
+    "organization_id": "~{\"classification\": \"upper\"}",
+    "classification": [
+      "committee-passage-favorable",
+      "passage"
+    ],
+    "related_entities": []
+  },
+  "bill_id": "LD 504"
+}

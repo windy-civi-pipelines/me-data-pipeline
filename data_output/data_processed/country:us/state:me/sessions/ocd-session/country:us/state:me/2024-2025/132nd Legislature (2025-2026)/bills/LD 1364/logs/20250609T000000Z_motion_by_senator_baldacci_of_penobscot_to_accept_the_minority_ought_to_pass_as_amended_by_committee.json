@@ -1,0 +1,12 @@
+{
+  "action": {
+    "description": "Motion by Senator BALDACCI of Penobscot to ACCEPT the Minority Ought to Pass as Amended by Committee Amendment \"A\" (H-523) Report FAILED.",
+    "date": "2025-06-09",
+    "organization_id": "~{\"classification\": \"upper\"}",
+    "classification": [
+      "amendment-failure"
+    ],
+    "related_entities": []
+  },
+  "bill_id": "LD 1364"
+}

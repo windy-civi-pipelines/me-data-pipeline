@@ -1,0 +1,12 @@
+{
+  "action": {
+    "description": "On further motion by Same Senator asked and received leave of the Senate to Withdraw their motion on INDEFINITE POSTPONEMENT.",
+    "date": "2025-05-22",
+    "organization_id": "~{\"classification\": \"upper\"}",
+    "classification": [
+      "withdrawal"
+    ],
+    "related_entities": []
+  },
+  "bill_id": "SP 10"
+}

@@ -1,0 +1,12 @@
+{
+  "action": {
+    "description": "On motion by Senator Beebe-Center of Knox for the Committee on Criminal Justice and Public Safety REFERRED to the Committee on Housing and Economic Development, in concurrence.",
+    "date": "2025-04-08",
+    "organization_id": "~{\"classification\": \"upper\"}",
+    "classification": [
+      "referral-committee"
+    ],
+    "related_entities": []
+  },
+  "bill_id": "LD 876"
+}

@@ -1,0 +1,12 @@
+{
+  "action": {
+    "description": "Senator BALDACCI of Penobscot asked and received leave of the Senate to Withdraw their motion to Table Until Later in Today's Session.",
+    "date": "2025-06-12",
+    "organization_id": "~{\"classification\": \"upper\"}",
+    "classification": [
+      "withdrawal"
+    ],
+    "related_entities": []
+  },
+  "bill_id": "LD 229"
+}

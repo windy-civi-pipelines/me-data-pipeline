@@ -1,0 +1,10 @@
+{
+  "action": {
+    "description": "On motion of Representative LIBBY of Auburn, the House RECONSIDERED its action to RECEDE and CONCUR.",
+    "date": "2025-05-22",
+    "organization_id": "~{\"classification\": \"lower\"}",
+    "classification": [],
+    "related_entities": []
+  },
+  "bill_id": "LD 639"
+}

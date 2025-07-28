@@ -1,0 +1,12 @@
+{
+  "action": {
+    "description": "The Bill was REFERRED to the Committee on HOUSING AND ECONOMIC DEVELOPMENT.",
+    "date": "2025-02-04",
+    "organization_id": "~{\"classification\": \"lower\"}",
+    "classification": [
+      "referral-committee"
+    ],
+    "related_entities": []
+  },
+  "bill_id": "LD 445"
+}

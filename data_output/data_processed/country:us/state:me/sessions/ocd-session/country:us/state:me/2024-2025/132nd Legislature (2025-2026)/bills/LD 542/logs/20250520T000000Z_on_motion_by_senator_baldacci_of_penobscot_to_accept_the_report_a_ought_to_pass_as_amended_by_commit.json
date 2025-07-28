@@ -1,0 +1,12 @@
+{
+  "action": {
+    "description": "On motion by Senator BALDACCI of Penobscot to ACCEPT The Report A Ought to Pass As Amended by Committee Amendment \"A\" (H-115) Report FAILED",
+    "date": "2025-05-20",
+    "organization_id": "~{\"classification\": \"upper\"}",
+    "classification": [
+      "amendment-failure"
+    ],
+    "related_entities": []
+  },
+  "bill_id": "LD 542"
+}

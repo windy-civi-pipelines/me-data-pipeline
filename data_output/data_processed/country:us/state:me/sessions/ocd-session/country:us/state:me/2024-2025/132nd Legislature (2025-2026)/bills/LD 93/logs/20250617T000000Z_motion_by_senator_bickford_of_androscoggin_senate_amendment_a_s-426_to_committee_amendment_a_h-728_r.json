@@ -1,0 +1,12 @@
+{
+  "action": {
+    "description": "Motion by Senator BICKFORD of Androscoggin Senate Amendment \"A\" (S-426) to Committee Amendment \"A\" (H-728) READ and FAILED ADOPTION.",
+    "date": "2025-06-17",
+    "organization_id": "~{\"classification\": \"upper\"}",
+    "classification": [
+      "amendment-failure"
+    ],
+    "related_entities": []
+  },
+  "bill_id": "LD 93"
+}

@@ -1,0 +1,12 @@
+{
+  "action": {
+    "description": "Subsequently, ACCEPTANCE of The Minority Ought to Pass As Amended by Committee Amendment \"A\" (H-117) Report FAILED.",
+    "date": "2025-05-29",
+    "organization_id": "~{\"classification\": \"upper\"}",
+    "classification": [
+      "amendment-failure"
+    ],
+    "related_entities": []
+  },
+  "bill_id": "LD 487"
+}

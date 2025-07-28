@@ -1,0 +1,12 @@
+{
+  "action": {
+    "description": "Motion of Representative THORNE of Carmel to INDEFINITELY POSTPONE House Amendment \"R\" (H-33) to Committee Amendment \"A\" (H-13) FAILED.",
+    "date": "2025-03-20",
+    "organization_id": "~{\"classification\": \"lower\"}",
+    "classification": [
+      "amendment-failure"
+    ],
+    "related_entities": []
+  },
+  "bill_id": "LD 609"
+}

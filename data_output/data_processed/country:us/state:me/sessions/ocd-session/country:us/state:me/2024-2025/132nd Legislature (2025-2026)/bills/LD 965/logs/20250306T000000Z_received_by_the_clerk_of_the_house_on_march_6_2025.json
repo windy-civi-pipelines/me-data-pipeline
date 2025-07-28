@@ -1,0 +1,12 @@
+{
+  "action": {
+    "description": "Received by the Clerk of the House on March 6, 2025.",
+    "date": "2025-03-06",
+    "organization_id": "~{\"classification\": \"lower\"}",
+    "classification": [
+      "receipt"
+    ],
+    "related_entities": []
+  },
+  "bill_id": "LD 965"
+}

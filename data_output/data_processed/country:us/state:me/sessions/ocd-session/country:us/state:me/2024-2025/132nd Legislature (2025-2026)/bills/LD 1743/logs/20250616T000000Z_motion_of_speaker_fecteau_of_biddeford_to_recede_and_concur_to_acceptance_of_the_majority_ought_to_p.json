@@ -1,0 +1,12 @@
+{
+  "action": {
+    "description": "Motion of Speaker FECTEAU of Biddeford, to RECEDE and CONCUR to ACCEPTANCE of the Majority Ought to Pass Report and PASSAGE TO BE ENGROSSED FAILED.",
+    "date": "2025-06-16",
+    "organization_id": "~{\"classification\": \"lower\"}",
+    "classification": [
+      "reading-3"
+    ],
+    "related_entities": []
+  },
+  "bill_id": "LD 1743"
+}

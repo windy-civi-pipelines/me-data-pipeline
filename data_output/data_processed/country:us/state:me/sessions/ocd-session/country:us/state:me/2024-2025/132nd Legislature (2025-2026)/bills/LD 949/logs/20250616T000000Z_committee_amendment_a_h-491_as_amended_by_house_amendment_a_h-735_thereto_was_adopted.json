@@ -1,0 +1,12 @@
+{
+  "action": {
+    "description": "Committee Amendment \"A\" (H-491) as Amended by House Amendment \"A\" (H-735) thereto was ADOPTED.",
+    "date": "2025-06-16",
+    "organization_id": "~{\"classification\": \"lower\"}",
+    "classification": [
+      "committee-passage-favorable"
+    ],
+    "related_entities": []
+  },
+  "bill_id": "LD 949"
+}

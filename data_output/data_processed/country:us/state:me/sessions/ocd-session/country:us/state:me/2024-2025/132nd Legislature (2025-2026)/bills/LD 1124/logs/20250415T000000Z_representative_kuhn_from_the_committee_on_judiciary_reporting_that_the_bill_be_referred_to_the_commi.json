@@ -1,0 +1,12 @@
+{
+  "action": {
+    "description": "Representative KUHN from the Committee on JUDICIARY Reporting that the Bill be REFERRED to the Committee on LABOR.",
+    "date": "2025-04-15",
+    "organization_id": "~{\"classification\": \"lower\"}",
+    "classification": [
+      "referral-committee"
+    ],
+    "related_entities": []
+  },
+  "bill_id": "LD 1124"
+}

@@ -1,0 +1,13 @@
+{
+  "action": {
+    "description": "Motion of Representative FAULKINGHAM of Winter Harbor to RECEDE and CONCUR to ACCEPTANCE of the Minority Ought to Pass as Amended Report and PASSAGE TO BE ENGROSSED as Amended by Committee Amendment \"A\" (S-74) FAILED.",
+    "date": "2025-05-22",
+    "organization_id": "~{\"classification\": \"lower\"}",
+    "classification": [
+      "amendment-failure",
+      "reading-3"
+    ],
+    "related_entities": []
+  },
+  "bill_id": "LD 828"
+}

@@ -1,0 +1,10 @@
+{
+  "action": {
+    "description": "A vote of the House was taken. 61 voted in favor of the same and 66 against, and accordingly the motion to RECONSIDER FAILED.",
+    "date": "2025-06-11",
+    "organization_id": "~{\"classification\": \"lower\"}",
+    "classification": [],
+    "related_entities": []
+  },
+  "bill_id": "LD 1089"
+}

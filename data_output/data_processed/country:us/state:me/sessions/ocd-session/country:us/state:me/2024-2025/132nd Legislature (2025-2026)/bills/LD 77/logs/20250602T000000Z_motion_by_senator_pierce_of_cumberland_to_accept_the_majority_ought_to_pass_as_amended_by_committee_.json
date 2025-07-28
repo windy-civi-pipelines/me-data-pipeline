@@ -1,0 +1,12 @@
+{
+  "action": {
+    "description": "Motion by Senator PIERCE of Cumberland to ACCEPT the Majority Ought to Pass as Amended by Committee Amendment \"A\" (H-323) Report FAILED",
+    "date": "2025-06-02",
+    "organization_id": "~{\"classification\": \"upper\"}",
+    "classification": [
+      "amendment-failure"
+    ],
+    "related_entities": []
+  },
+  "bill_id": "LD 77"
+}

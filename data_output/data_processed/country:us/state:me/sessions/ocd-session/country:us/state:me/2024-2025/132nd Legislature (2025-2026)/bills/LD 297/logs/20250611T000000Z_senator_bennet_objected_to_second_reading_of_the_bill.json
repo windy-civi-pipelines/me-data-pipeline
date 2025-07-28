@@ -1,0 +1,10 @@
+{
+  "action": {
+    "description": "Senator Bennet OBJECTED to Second Reading of the Bill",
+    "date": "2025-06-11",
+    "organization_id": "~{\"classification\": \"upper\"}",
+    "classification": [],
+    "related_entities": []
+  },
+  "bill_id": "LD 297"
+}

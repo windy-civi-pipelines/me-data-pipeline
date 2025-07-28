@@ -1,0 +1,12 @@
+{
+  "action": {
+    "description": "On motion of Representative HEPLER, the Bill was REFERRED to the Committee on INLAND FISHERIES AND WILDLIFE.",
+    "date": "2025-03-20",
+    "organization_id": "~{\"classification\": \"lower\"}",
+    "classification": [
+      "referral-committee"
+    ],
+    "related_entities": []
+  },
+  "bill_id": "LD 1042"
+}

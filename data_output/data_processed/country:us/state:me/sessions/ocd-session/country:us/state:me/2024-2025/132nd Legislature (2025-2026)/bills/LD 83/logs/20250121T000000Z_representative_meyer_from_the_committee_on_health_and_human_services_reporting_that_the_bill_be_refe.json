@@ -1,0 +1,12 @@
+{
+  "action": {
+    "description": "Representative MEYER from the Committee on HEALTH AND HUMAN SERVICES Reporting that the Bill be REFERRED to the Committee on JUDICIARY.",
+    "date": "2025-01-21",
+    "organization_id": "~{\"classification\": \"lower\"}",
+    "classification": [
+      "referral-committee"
+    ],
+    "related_entities": []
+  },
+  "bill_id": "LD 83"
+}

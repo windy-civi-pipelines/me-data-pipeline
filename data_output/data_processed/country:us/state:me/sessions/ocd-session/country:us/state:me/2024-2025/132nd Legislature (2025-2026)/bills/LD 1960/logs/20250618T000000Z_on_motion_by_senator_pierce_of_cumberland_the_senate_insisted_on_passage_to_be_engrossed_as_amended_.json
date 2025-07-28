@@ -1,0 +1,12 @@
+{
+  "action": {
+    "description": "On motion by Senator PIERCE of Cumberland The Senate INSISTED on PASSAGE TO BE ENGROSSED AS AMENDED by Committee Amendment \"A\" (S-231) as Amended by Senate Amendment \"A\" (S-430) thereto.",
+    "date": "2025-06-18",
+    "organization_id": "~{\"classification\": \"upper\"}",
+    "classification": [
+      "reading-3"
+    ],
+    "related_entities": []
+  },
+  "bill_id": "LD 1960"
+}

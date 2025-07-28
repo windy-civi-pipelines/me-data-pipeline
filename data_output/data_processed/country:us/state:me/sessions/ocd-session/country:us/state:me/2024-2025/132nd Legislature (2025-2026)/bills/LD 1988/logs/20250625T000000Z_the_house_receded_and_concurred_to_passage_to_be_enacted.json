@@ -1,0 +1,10 @@
+{
+  "action": {
+    "description": "The House RECEDED and CONCURRED to PASSAGE TO BE ENACTED.",
+    "date": "2025-06-25",
+    "organization_id": "~{\"classification\": \"lower\"}",
+    "classification": [],
+    "related_entities": []
+  },
+  "bill_id": "LD 1988"
+}

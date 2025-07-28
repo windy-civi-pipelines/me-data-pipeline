@@ -1,0 +1,12 @@
+{
+  "action": {
+    "description": "On motion by Senator Tepler of Sagadahoc for the Committee on Marine Resources REFERRED to the Committee on Inland Fisheries and Wildlife, in concurrence.",
+    "date": "2025-03-20",
+    "organization_id": "~{\"classification\": \"upper\"}",
+    "classification": [
+      "referral-committee"
+    ],
+    "related_entities": []
+  },
+  "bill_id": "LD 1042"
+}

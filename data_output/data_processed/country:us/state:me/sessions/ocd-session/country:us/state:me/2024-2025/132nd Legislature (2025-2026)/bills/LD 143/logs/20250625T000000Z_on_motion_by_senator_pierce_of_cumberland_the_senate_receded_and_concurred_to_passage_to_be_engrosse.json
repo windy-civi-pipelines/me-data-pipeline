@@ -1,0 +1,12 @@
+{
+  "action": {
+    "description": "On motion by Senator PIERCE of Cumberland the Senate RECEDED and CONCURRED to PASSAGE TO BE ENGROSSED AS AMENDED by Committee Amendment \"A\" (S-12) and House Amendment \"A\" (H-783) PREVAILED",
+    "date": "2025-06-25",
+    "organization_id": "~{\"classification\": \"upper\"}",
+    "classification": [
+      "reading-3"
+    ],
+    "related_entities": []
+  },
+  "bill_id": "LD 143"
+}

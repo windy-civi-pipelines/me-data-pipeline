@@ -1,0 +1,12 @@
+{
+  "action": {
+    "description": "Motion by Senator STEWART of Aroostook Senate Amendment \"A\" (S-351) to Committee Amendment \"A\" (S-308) FAILED",
+    "date": "2025-06-11",
+    "organization_id": "~{\"classification\": \"upper\"}",
+    "classification": [
+      "amendment-failure"
+    ],
+    "related_entities": []
+  },
+  "bill_id": "LD 913"
+}

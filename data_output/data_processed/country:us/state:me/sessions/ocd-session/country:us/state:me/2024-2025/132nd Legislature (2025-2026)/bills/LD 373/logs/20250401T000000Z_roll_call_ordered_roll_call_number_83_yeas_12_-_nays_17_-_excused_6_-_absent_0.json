@@ -1,0 +1,10 @@
+{
+  "action": {
+    "description": "Roll Call Ordered Roll Call Number 83 Yeas 12 - Nays 17 - Excused 6 - Absent 0",
+    "date": "2025-04-01",
+    "organization_id": "~{\"classification\": \"upper\"}",
+    "classification": [],
+    "related_entities": []
+  },
+  "bill_id": "LD 373"
+}

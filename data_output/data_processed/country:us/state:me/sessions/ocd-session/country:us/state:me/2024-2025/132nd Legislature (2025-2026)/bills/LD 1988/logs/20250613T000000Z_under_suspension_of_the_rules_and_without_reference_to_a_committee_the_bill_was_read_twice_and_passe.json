@@ -1,0 +1,12 @@
+{
+  "action": {
+    "description": "Under suspension of the rules and WITHOUT REFERENCE to a Committee, the Bill was READ TWICE and PASSED TO BE ENGROSSED.",
+    "date": "2025-06-13",
+    "organization_id": "~{\"classification\": \"lower\"}",
+    "classification": [
+      "reading-3"
+    ],
+    "related_entities": []
+  },
+  "bill_id": "LD 1988"
+}

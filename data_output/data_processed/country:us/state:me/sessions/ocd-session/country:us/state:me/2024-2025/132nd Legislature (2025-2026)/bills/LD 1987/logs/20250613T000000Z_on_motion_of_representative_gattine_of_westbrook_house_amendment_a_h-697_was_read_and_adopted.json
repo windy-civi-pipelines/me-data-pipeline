@@ -1,0 +1,12 @@
+{
+  "action": {
+    "description": "On motion of Representative GATTINE of Westbrook, House Amendment \"A\" (H-697) was READ and ADOPTED.",
+    "date": "2025-06-13",
+    "organization_id": "~{\"classification\": \"lower\"}",
+    "classification": [
+      "passage"
+    ],
+    "related_entities": []
+  },
+  "bill_id": "LD 1987"
+}

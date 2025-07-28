@@ -1,0 +1,12 @@
+{
+  "action": {
+    "description": "On motion by Senator STEWART of Aroostook the Senate RECEDED AND CONCURRED to The Majority Ought to Pass Report and the Bill PASSED TO BE ENGROSSED in concurrence. PREVAILED",
+    "date": "2025-06-18",
+    "organization_id": "~{\"classification\": \"upper\"}",
+    "classification": [
+      "reading-3"
+    ],
+    "related_entities": []
+  },
+  "bill_id": "LD 556"
+}

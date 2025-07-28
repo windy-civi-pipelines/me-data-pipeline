@@ -1,0 +1,12 @@
+{
+  "action": {
+    "description": "Motion by Senator CARNEY of Cumberland to ADOPT Senate Amendment \"A\" (S-324) to Committee Amendment \"A\" (H-537) FAILED",
+    "date": "2025-06-11",
+    "organization_id": "~{\"classification\": \"upper\"}",
+    "classification": [
+      "amendment-failure"
+    ],
+    "related_entities": []
+  },
+  "bill_id": "LD 297"
+}

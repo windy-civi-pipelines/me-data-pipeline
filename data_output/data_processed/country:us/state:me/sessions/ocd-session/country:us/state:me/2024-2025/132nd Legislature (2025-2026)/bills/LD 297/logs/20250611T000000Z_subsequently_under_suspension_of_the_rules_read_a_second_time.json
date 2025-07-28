@@ -1,0 +1,12 @@
+{
+  "action": {
+    "description": "Subsequently, Under suspension of the Rules, READ A SECOND TIME.",
+    "date": "2025-06-11",
+    "organization_id": "~{\"classification\": \"upper\"}",
+    "classification": [
+      "reading-2"
+    ],
+    "related_entities": []
+  },
+  "bill_id": "LD 297"
+}

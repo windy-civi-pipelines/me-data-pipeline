@@ -1,0 +1,12 @@
+{
+  "action": {
+    "description": "On motion by Senator RAFFERTY of York for the Committee on EDUCATION AND CULTURAL AFFAIRS the Bill was REFERRED to the Committee on APPROPRIATIONS AND FINANCIAL AFFAIRS.",
+    "date": "2025-05-20",
+    "organization_id": "~{\"classification\": \"upper\"}",
+    "classification": [
+      "referral-committee"
+    ],
+    "related_entities": []
+  },
+  "bill_id": "LD 1312"
+}

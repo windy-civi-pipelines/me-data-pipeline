@@ -1,0 +1,13 @@
+{
+  "action": {
+    "description": "Motion of Representative MORRIS of Turner to RECEDE and CONCUR to FAILED PASSAGE TO BE ENGROSSED as Amended by Committee Amendment \"A\" (H-422) FAILED.",
+    "date": "2025-06-10",
+    "organization_id": "~{\"classification\": \"lower\"}",
+    "classification": [
+      "amendment-failure",
+      "reading-3"
+    ],
+    "related_entities": []
+  },
+  "bill_id": "LD 1928"
+}

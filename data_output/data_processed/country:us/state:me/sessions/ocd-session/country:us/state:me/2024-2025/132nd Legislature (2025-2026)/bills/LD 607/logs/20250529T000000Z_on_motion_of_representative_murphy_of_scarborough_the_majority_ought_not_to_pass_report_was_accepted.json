@@ -1,0 +1,12 @@
+{
+  "action": {
+    "description": "On motion of Representative MURPHY of Scarborough, the Majority Ought Not to Pass Report was ACCEPTED.",
+    "date": "2025-05-29",
+    "organization_id": "~{\"classification\": \"lower\"}",
+    "classification": [
+      "committee-failure"
+    ],
+    "related_entities": []
+  },
+  "bill_id": "LD 607"
+}

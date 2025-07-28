@@ -1,0 +1,12 @@
+{
+  "action": {
+    "description": "On motion by Senator BENNETT of Oxford the Senate RECONSIDERED their actions whereby the Bill was PASSAGE TO BE ENGROSSED AS AMENDED by Committee Amendment \"A\" (H-422)",
+    "date": "2025-06-09",
+    "organization_id": "~{\"classification\": \"upper\"}",
+    "classification": [
+      "reading-3"
+    ],
+    "related_entities": []
+  },
+  "bill_id": "LD 1928"
+}

@@ -1,0 +1,12 @@
+{
+  "action": {
+    "description": "On motion by Senator BENNETT of Oxford READ and REFERRED to the Committee on Veterans and Legal Affairs.",
+    "date": "2025-01-08",
+    "organization_id": "~{\"classification\": \"upper\"}",
+    "classification": [
+      "referral-committee"
+    ],
+    "related_entities": []
+  },
+  "bill_id": "SP 10"
+}

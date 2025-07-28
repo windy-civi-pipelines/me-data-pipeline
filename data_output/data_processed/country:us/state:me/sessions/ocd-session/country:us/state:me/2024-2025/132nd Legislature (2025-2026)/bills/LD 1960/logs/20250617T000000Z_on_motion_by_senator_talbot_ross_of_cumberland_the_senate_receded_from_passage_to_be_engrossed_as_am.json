@@ -1,0 +1,12 @@
+{
+  "action": {
+    "description": "On motion by Senator TALBOT ROSS of Cumberland the Senate RECEDED from PASSAGE TO BE ENGROSSED AS AMENDED by Committee Amendment \"A\" (S-231)",
+    "date": "2025-06-17",
+    "organization_id": "~{\"classification\": \"upper\"}",
+    "classification": [
+      "reading-3"
+    ],
+    "related_entities": []
+  },
+  "bill_id": "LD 1960"
+}

@@ -1,0 +1,12 @@
+{
+  "action": {
+    "description": "On motion by Senator PIERCE of Cumberland Bill and accompanying papers COMMITTED to the Committee on TAXATION in NON-CONCURRENCE.",
+    "date": "2025-06-16",
+    "organization_id": "~{\"classification\": \"upper\"}",
+    "classification": [
+      "referral-committee"
+    ],
+    "related_entities": []
+  },
+  "bill_id": "LD 229"
+}

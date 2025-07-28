@@ -1,0 +1,12 @@
+{
+  "action": {
+    "description": "READ and PASSED.",
+    "date": "2025-06-25",
+    "organization_id": "~{\"classification\": \"lower\"}",
+    "classification": [
+      "passage"
+    ],
+    "related_entities": []
+  },
+  "bill_id": "SP 797"
+}

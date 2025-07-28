@@ -1,0 +1,12 @@
+{
+  "action": {
+    "description": "Motion by Senator ROTUNDO of Androscoggin Senate Amendment \"A\" (S-1) to Committee Amendment \"A\" (H-1) to INDEFINITELY POSTPONE FAILED",
+    "date": "2025-02-11",
+    "organization_id": "~{\"classification\": \"upper\"}",
+    "classification": [
+      "amendment-failure"
+    ],
+    "related_entities": []
+  },
+  "bill_id": "LD 209"
+}

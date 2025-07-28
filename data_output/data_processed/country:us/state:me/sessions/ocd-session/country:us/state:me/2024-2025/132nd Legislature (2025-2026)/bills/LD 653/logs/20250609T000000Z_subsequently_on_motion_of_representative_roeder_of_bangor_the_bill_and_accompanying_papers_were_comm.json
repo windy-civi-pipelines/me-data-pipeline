@@ -1,0 +1,12 @@
+{
+  "action": {
+    "description": "Subsequently, on motion of Representative ROEDER of Bangor the Bill and accompanying papers were COMMITTED to the Committee on LABOR.",
+    "date": "2025-06-09",
+    "organization_id": "~{\"classification\": \"lower\"}",
+    "classification": [
+      "referral-committee"
+    ],
+    "related_entities": []
+  },
+  "bill_id": "LD 653"
+}

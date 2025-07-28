@@ -1,0 +1,13 @@
+{
+  "action": {
+    "description": "On motion of Representative PLUECKER of Warren, House Amendment \"A\" (H-488) to Committee Amendment \"A\" (S-220) was READ and ADOPTED.",
+    "date": "2025-06-04",
+    "organization_id": "~{\"classification\": \"lower\"}",
+    "classification": [
+      "committee-passage-favorable",
+      "passage"
+    ],
+    "related_entities": []
+  },
+  "bill_id": "LD 1771"
+}

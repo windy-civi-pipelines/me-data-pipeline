@@ -1,0 +1,12 @@
+{
+  "action": {
+    "description": "On motion of Representative CRAFTS of Newcastle, the Majority Ought Not to Pass Report was ACCEPTED.",
+    "date": "2025-05-13",
+    "organization_id": "~{\"classification\": \"lower\"}",
+    "classification": [
+      "committee-failure"
+    ],
+    "related_entities": []
+  },
+  "bill_id": "LD 320"
+}

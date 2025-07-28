@@ -1,0 +1,10 @@
+{
+  "action": {
+    "description": "On motion of Representative FAULKINGHAM of Winter Harbor, the House RECONSIDERED its action whereby the Resolve FAILED FINAL PASSAGE.",
+    "date": "2025-05-13",
+    "organization_id": "~{\"classification\": \"lower\"}",
+    "classification": [],
+    "related_entities": []
+  },
+  "bill_id": "LD 1297"
+}

@@ -1,0 +1,12 @@
+{
+  "action": {
+    "description": "On motion by Senator NANGLE of Cumberland the Bill was REFERRED to the Committee on Transportation In NON-CONCURRENCE",
+    "date": "2025-01-14",
+    "organization_id": "~{\"classification\": \"upper\"}",
+    "classification": [
+      "referral-committee"
+    ],
+    "related_entities": []
+  },
+  "bill_id": "LD 188"
+}

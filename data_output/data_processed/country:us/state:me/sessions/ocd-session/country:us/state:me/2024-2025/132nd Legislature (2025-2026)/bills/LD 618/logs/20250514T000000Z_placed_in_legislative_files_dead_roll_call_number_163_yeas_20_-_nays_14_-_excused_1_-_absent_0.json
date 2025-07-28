@@ -1,0 +1,12 @@
+{
+  "action": {
+    "description": "Placed in Legislative Files (DEAD) Roll Call Number 163 Yeas 20 - Nays 14 - Excused 1 - Absent 0",
+    "date": "2025-05-14",
+    "organization_id": "~{\"classification\": \"upper\"}",
+    "classification": [
+      "failure"
+    ],
+    "related_entities": []
+  },
+  "bill_id": "LD 618"
+}

@@ -1,0 +1,12 @@
+{
+  "action": {
+    "description": "Subsequently, Committee Amendment \"A\" (H-684) as Amended by House Amendment \"A\" (H-711) thereto was ADOPTED.",
+    "date": "2025-06-13",
+    "organization_id": "~{\"classification\": \"lower\"}",
+    "classification": [
+      "committee-passage-favorable"
+    ],
+    "related_entities": []
+  },
+  "bill_id": "LD 1763"
+}

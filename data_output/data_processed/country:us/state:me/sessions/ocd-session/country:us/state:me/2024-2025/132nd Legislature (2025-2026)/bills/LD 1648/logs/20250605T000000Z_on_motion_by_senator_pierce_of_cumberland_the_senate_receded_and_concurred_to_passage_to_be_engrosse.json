@@ -1,0 +1,12 @@
+{
+  "action": {
+    "description": "On motion by Senator PIERCE of Cumberland the Senate RECEDED and CONCURRED to PASSAGE TO BE ENGROSSED as Amended by Committee Amendment \"A\" (S-202) as Amended by House Amendment \"A\" (H-429) thereto in concurrence.",
+    "date": "2025-06-05",
+    "organization_id": "~{\"classification\": \"upper\"}",
+    "classification": [
+      "reading-3"
+    ],
+    "related_entities": []
+  },
+  "bill_id": "LD 1648"
+}

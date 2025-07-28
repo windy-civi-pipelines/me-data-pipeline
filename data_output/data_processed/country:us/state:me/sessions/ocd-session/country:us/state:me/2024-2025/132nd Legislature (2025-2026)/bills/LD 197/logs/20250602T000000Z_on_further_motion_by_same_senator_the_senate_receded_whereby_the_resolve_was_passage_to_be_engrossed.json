@@ -1,0 +1,12 @@
+{
+  "action": {
+    "description": "On further motion by Same Senator the Senate RECEDED whereby the Resolve was PASSAGE TO BE ENGROSSED AS AMENDED by Committee Amendment \"A\" (S-126)",
+    "date": "2025-06-02",
+    "organization_id": "~{\"classification\": \"upper\"}",
+    "classification": [
+      "reading-3"
+    ],
+    "related_entities": []
+  },
+  "bill_id": "LD 197"
+}

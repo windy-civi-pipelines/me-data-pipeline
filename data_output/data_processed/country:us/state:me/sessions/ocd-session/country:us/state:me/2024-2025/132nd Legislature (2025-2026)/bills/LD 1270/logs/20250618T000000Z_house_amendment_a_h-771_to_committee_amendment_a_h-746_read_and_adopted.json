@@ -1,0 +1,12 @@
+{
+  "action": {
+    "description": "House Amendment \"A\" (H-771) to Committee Amendment \"A\" (H-746) READ and ADOPTED",
+    "date": "2025-06-18",
+    "organization_id": "~{\"classification\": \"upper\"}",
+    "classification": [
+      "committee-passage-favorable"
+    ],
+    "related_entities": []
+  },
+  "bill_id": "LD 1270"
+}

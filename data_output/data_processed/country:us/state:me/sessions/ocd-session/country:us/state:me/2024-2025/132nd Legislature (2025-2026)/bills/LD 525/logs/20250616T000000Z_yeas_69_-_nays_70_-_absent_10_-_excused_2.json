@@ -1,0 +1,10 @@
+{
+  "action": {
+    "description": "(Yeas 69 - Nays 70 - Absent 10 - Excused 2)",
+    "date": "2025-06-16",
+    "organization_id": "~{\"classification\": \"lower\"}",
+    "classification": [],
+    "related_entities": []
+  },
+  "bill_id": "LD 525"
+}

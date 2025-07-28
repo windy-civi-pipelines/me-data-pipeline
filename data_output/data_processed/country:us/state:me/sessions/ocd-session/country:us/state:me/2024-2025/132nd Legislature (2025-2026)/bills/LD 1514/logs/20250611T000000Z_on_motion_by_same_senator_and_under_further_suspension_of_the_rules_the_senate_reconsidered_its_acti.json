@@ -1,0 +1,12 @@
+{
+  "action": {
+    "description": "On motion by Same Senator and under further suspension of the Rules the Senate RECONSIDERED its action whereby the bill was PASSED TO BE ENGROSSED AS AMENDED by Committee Amendment \"A\" (H-355)",
+    "date": "2025-06-11",
+    "organization_id": "~{\"classification\": \"upper\"}",
+    "classification": [
+      "reading-3"
+    ],
+    "related_entities": []
+  },
+  "bill_id": "LD 1514"
+}

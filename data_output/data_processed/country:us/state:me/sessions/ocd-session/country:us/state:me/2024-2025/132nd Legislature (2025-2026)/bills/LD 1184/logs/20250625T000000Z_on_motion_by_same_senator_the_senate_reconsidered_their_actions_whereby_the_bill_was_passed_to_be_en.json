@@ -1,0 +1,12 @@
+{
+  "action": {
+    "description": "On motion by Same Senator the Senate RECONSIDERED their actions whereby the Bill was PASSED TO BE ENGROSSED AS AMENDED.",
+    "date": "2025-06-25",
+    "organization_id": "~{\"classification\": \"upper\"}",
+    "classification": [
+      "reading-3"
+    ],
+    "related_entities": []
+  },
+  "bill_id": "LD 1184"
+}

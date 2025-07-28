@@ -1,0 +1,10 @@
+{
+  "action": {
+    "description": "Roll Call Ordered Roll Call Number 3 Yeas 15 - Nays 18 - Excused 2 - Absent 0 FAILED",
+    "date": "2025-01-14",
+    "organization_id": "~{\"classification\": \"upper\"}",
+    "classification": [],
+    "related_entities": []
+  },
+  "bill_id": "SP 98"
+}

@@ -1,0 +1,12 @@
+{
+  "action": {
+    "description": "LD 1731 In Senate, June 25, 2025, this Bill, having been returned by the Governor, together with objections to the same pursuant to the provisions of the Constitution of the State of Maine, after reconsideration, the Senate proceeded to vote on the question: \"Shall this Bill become a law notwithstanding the objections of the Governor?\" 16 and 16, accordingly it was the vote of the Senate that the Bill not become law and the VETO was SUSTAINED.",
+    "date": "2025-06-25",
+    "organization_id": "~{\"classification\": \"upper\"}",
+    "classification": [
+      "veto-override-failure"
+    ],
+    "related_entities": []
+  },
+  "bill_id": "LD 1731"
+}

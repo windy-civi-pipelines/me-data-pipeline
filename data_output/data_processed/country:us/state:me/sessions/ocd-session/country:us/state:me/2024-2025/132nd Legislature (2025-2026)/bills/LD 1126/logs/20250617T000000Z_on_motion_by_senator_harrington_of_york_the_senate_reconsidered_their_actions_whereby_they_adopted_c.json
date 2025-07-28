@@ -1,0 +1,12 @@
+{
+  "action": {
+    "description": "On motion by Senator HARRINGTON of York the Senate RECONSIDERED their actions whereby they ADOPTED Committee Amendment \"A\" (H-660)",
+    "date": "2025-06-17",
+    "organization_id": "~{\"classification\": \"upper\"}",
+    "classification": [
+      "committee-passage-favorable"
+    ],
+    "related_entities": []
+  },
+  "bill_id": "LD 1126"
+}

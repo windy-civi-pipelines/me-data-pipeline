@@ -1,0 +1,12 @@
+{
+  "action": {
+    "description": "Committee Amendment \"A\" (H-686) READ. READ and ADOPTED in concurrence",
+    "date": "2025-06-13",
+    "organization_id": "~{\"classification\": \"upper\"}",
+    "classification": [
+      "committee-passage-favorable"
+    ],
+    "related_entities": []
+  },
+  "bill_id": "LD 997"
+}

@@ -1,0 +1,12 @@
+{
+  "action": {
+    "description": "PASSED TO BE ENACTED, in concurrence.",
+    "date": "2025-06-02",
+    "organization_id": "~{\"classification\": \"upper\"}",
+    "classification": [
+      "passage"
+    ],
+    "related_entities": []
+  },
+  "bill_id": "LD 1159"
+}

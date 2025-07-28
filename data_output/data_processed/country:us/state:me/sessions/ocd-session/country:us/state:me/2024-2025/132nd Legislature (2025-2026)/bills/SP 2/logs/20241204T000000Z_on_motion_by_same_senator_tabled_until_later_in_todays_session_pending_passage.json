@@ -1,0 +1,10 @@
+{
+  "action": {
+    "description": "On motion by Same Senator Tabled until Later in Today's Session, pending PASSAGE",
+    "date": "2024-12-04",
+    "organization_id": "~{\"classification\": \"upper\"}",
+    "classification": [],
+    "related_entities": []
+  },
+  "bill_id": "SP 2"
+}

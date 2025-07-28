@@ -1,0 +1,10 @@
+{
+  "action": {
+    "description": "On motion by Senator STEWART of Aroostook Roll Call Ordered Roll Call Number 72 Yeas 20 - Nays 14 - Excused 1 - Absent 0",
+    "date": "2025-03-25",
+    "organization_id": "~{\"classification\": \"upper\"}",
+    "classification": [],
+    "related_entities": []
+  },
+  "bill_id": "LD 234"
+}

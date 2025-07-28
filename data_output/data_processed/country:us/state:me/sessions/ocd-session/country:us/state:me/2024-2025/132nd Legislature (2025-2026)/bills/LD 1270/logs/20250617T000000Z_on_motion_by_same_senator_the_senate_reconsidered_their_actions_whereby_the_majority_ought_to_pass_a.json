@@ -1,0 +1,12 @@
+{
+  "action": {
+    "description": "On motion by Same Senator the Senate RECONSIDERED their actions whereby The Majority Ought to Pass As Amended by Committee Amendment \"A\" (H-746) Report FAILED.",
+    "date": "2025-06-17",
+    "organization_id": "~{\"classification\": \"upper\"}",
+    "classification": [
+      "amendment-failure"
+    ],
+    "related_entities": []
+  },
+  "bill_id": "LD 1270"
+}

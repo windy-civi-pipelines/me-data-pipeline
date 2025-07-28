@@ -1,0 +1,12 @@
+{
+  "action": {
+    "description": "Subsequently, the bill was PASSED TO BE ENGROSSED AS AMENDED by Committee Amendment \"A\" (S-331) PREVAILED",
+    "date": "2025-06-11",
+    "organization_id": "~{\"classification\": \"upper\"}",
+    "classification": [
+      "reading-3"
+    ],
+    "related_entities": []
+  },
+  "bill_id": "LD 1138"
+}

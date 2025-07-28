@@ -1,0 +1,10 @@
+{
+  "action": {
+    "description": "Motion of Speaker FECTEAU of Biddeford to RECEDE and CONCUR to FINAL PASSAGE FAILED.",
+    "date": "2025-06-03",
+    "organization_id": "~{\"classification\": \"lower\"}",
+    "classification": [],
+    "related_entities": []
+  },
+  "bill_id": "LD 723"
+}

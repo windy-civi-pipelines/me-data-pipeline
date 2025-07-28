@@ -1,0 +1,13 @@
+{
+  "action": {
+    "description": "Motion of Speaker FECTEAU of Biddeford, to RECEDE and CONCUR to ACCEPTANCE of REPORT C Ought to Pass as Amended and PASSAGE TO BE ENGROSSED as Amended by Committee Amendment \"B\" (H-768) FAILED.",
+    "date": "2025-06-18",
+    "organization_id": "~{\"classification\": \"lower\"}",
+    "classification": [
+      "amendment-failure",
+      "reading-3"
+    ],
+    "related_entities": []
+  },
+  "bill_id": "LD 1940"
+}

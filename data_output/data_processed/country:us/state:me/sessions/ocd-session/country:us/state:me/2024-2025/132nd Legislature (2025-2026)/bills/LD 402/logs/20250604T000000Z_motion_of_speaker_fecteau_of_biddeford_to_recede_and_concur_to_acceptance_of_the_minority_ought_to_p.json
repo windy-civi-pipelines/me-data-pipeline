@@ -1,0 +1,13 @@
+{
+  "action": {
+    "description": "Motion of Speaker FECTEAU of Biddeford, to RECEDE and CONCUR to ACCEPTANCE of the Minority Ought to Pass as Amended Report and PASSAGE TO BE ENGROSSED as Amended by Committee Amendment \"B\" (H-381) FAILED.",
+    "date": "2025-06-04",
+    "organization_id": "~{\"classification\": \"lower\"}",
+    "classification": [
+      "amendment-failure",
+      "reading-3"
+    ],
+    "related_entities": []
+  },
+  "bill_id": "LD 402"
+}

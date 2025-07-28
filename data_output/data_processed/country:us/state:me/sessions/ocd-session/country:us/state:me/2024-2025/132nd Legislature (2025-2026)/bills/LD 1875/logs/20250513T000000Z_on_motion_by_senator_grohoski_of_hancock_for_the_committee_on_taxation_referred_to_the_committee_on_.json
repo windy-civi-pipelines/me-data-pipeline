@@ -1,0 +1,12 @@
+{
+  "action": {
+    "description": "On motion by Senator Grohoski of Hancock for the Committee on Taxation REFERRED to the Committee on Transportation, in concurrence.",
+    "date": "2025-05-13",
+    "organization_id": "~{\"classification\": \"upper\"}",
+    "classification": [
+      "referral-committee"
+    ],
+    "related_entities": []
+  },
+  "bill_id": "LD 1875"
+}

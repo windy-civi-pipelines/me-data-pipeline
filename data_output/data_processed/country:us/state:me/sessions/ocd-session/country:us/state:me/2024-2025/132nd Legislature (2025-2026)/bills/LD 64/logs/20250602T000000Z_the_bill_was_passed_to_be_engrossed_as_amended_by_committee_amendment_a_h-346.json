@@ -1,0 +1,12 @@
+{
+  "action": {
+    "description": "The Bill was PASSED TO BE ENGROSSED as Amended by Committee Amendment \"A\" (H-346).",
+    "date": "2025-06-02",
+    "organization_id": "~{\"classification\": \"lower\"}",
+    "classification": [
+      "reading-3"
+    ],
+    "related_entities": []
+  },
+  "bill_id": "LD 64"
+}

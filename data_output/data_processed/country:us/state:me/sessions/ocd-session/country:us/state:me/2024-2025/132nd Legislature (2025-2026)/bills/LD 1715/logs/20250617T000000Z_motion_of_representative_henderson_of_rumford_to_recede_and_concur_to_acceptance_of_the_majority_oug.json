@@ -1,0 +1,13 @@
+{
+  "action": {
+    "description": "Motion of Representative HENDERSON of Rumford to RECEDE and CONCUR to ACCEPTANCE of the Majority Ought to Pass as Amended Report and PASSAGE TO BE ENGROSSED as Amended by Committee Amendment \"A\" (S-256) FAILED.",
+    "date": "2025-06-17",
+    "organization_id": "~{\"classification\": \"lower\"}",
+    "classification": [
+      "amendment-failure",
+      "reading-3"
+    ],
+    "related_entities": []
+  },
+  "bill_id": "LD 1715"
+}

@@ -1,0 +1,12 @@
+{
+  "action": {
+    "description": "Committee Amendment \"A\" (H-1) as Amended by House Amendment \"H\" (H-9) thereto was ADOPTED.",
+    "date": "2025-02-25",
+    "organization_id": "~{\"classification\": \"lower\"}",
+    "classification": [
+      "committee-passage-favorable"
+    ],
+    "related_entities": []
+  },
+  "bill_id": "LD 209"
+}

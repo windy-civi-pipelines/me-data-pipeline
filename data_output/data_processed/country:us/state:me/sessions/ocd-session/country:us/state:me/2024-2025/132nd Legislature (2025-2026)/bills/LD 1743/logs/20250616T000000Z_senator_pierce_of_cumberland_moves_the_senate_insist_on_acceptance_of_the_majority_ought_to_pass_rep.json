@@ -1,0 +1,12 @@
+{
+  "action": {
+    "description": "Senator PIERCE of Cumberland moves The Senate INSIST on ACCEPTANCE of The Majority Ought to Pass Report and PASSAGE TO BE ENGROSSED",
+    "date": "2025-06-16",
+    "organization_id": "~{\"classification\": \"upper\"}",
+    "classification": [
+      "reading-3"
+    ],
+    "related_entities": []
+  },
+  "bill_id": "LD 1743"
+}

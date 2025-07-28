@@ -1,0 +1,10 @@
+{
+  "action": {
+    "description": "In accordance with Section 23 of Article IX of the Constitution, a two-thirds vote of all the members elected to the House was necessary.",
+    "date": "2025-06-02",
+    "organization_id": "~{\"classification\": \"lower\"}",
+    "classification": [],
+    "related_entities": []
+  },
+  "bill_id": "LD 1724"
+}

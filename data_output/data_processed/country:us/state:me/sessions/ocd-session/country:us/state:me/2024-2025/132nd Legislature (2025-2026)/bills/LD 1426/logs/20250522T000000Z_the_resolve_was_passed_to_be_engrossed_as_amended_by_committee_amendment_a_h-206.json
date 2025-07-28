@@ -1,0 +1,12 @@
+{
+  "action": {
+    "description": "The Resolve was PASSED TO BE ENGROSSED as Amended by Committee Amendment \"A\" (H-206).",
+    "date": "2025-05-22",
+    "organization_id": "~{\"classification\": \"lower\"}",
+    "classification": [
+      "reading-3"
+    ],
+    "related_entities": []
+  },
+  "bill_id": "LD 1426"
+}

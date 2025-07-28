@@ -1,0 +1,12 @@
+{
+  "action": {
+    "description": "The Bill was in the possession of the House when the Legislature adjourned Sine Die and was placed in the Legislative Files. (DEAD)",
+    "date": "2025-06-25",
+    "organization_id": "~{\"classification\": \"lower\"}",
+    "classification": [
+      "failure"
+    ],
+    "related_entities": []
+  },
+  "bill_id": "LD 77"
+}
