@@ -249,6 +249,7 @@
     "division_id": "ocd-division/country:us/state:me"
   },
   "_processing": {
-    "logs_latest_update": "2025-10-25T00:00:06Z"
+    "logs_latest_update": "2025-10-25T00:00:06Z",
+    "text_extraction_latest_update": "2025-10-25T06:28:42.764205Z"
   }
 }
