@@ -1,0 +1,12 @@
+{
+  "action": {
+    "description": "On motion by Senator HICKMAN of Kennebec READ and ADOPTED.",
+    "date": "2025-02-25",
+    "organization_id": "~{\"classification\": \"upper\"}",
+    "classification": [
+      "passage"
+    ],
+    "related_entities": []
+  },
+  "bill_id": "SP 332"
+}

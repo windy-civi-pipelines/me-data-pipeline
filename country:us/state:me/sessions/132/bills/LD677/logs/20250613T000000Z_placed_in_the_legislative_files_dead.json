@@ -1,0 +1,12 @@
+{
+  "action": {
+    "description": "Placed in the Legislative Files. (DEAD)",
+    "date": "2025-06-13",
+    "organization_id": "~{\"classification\": \"lower\"}",
+    "classification": [
+      "failure"
+    ],
+    "related_entities": []
+  },
+  "bill_id": "LD 677"
+}

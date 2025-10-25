@@ -1,0 +1,13 @@
+{
+  "action": {
+    "description": "Senate Amendment \"B\" (S-409) to Committee Amendment \"A\" (S-320) was READ and ADOPTED.",
+    "date": "2025-06-17",
+    "organization_id": "~{\"classification\": \"lower\"}",
+    "classification": [
+      "committee-passage-favorable",
+      "passage"
+    ],
+    "related_entities": []
+  },
+  "bill_id": "LD 1488"
+}

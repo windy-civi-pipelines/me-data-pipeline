@@ -1,0 +1,12 @@
+{
+  "action": {
+    "description": "On motion of Representative GATTINE of Westbrook, the House RECONSIDERED its action whereby the Bill was PASSED TO BE ENGROSSED as Amended by Committee Amendment \"A\" (H-1)",
+    "date": "2025-02-25",
+    "organization_id": "~{\"classification\": \"lower\"}",
+    "classification": [
+      "reading-3"
+    ],
+    "related_entities": []
+  },
+  "bill_id": "LD 209"
+}

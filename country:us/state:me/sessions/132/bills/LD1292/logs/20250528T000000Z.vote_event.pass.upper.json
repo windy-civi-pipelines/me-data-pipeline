@@ -1,0 +1,248 @@
+{
+  "identifier": "",
+  "motion_text": "ACCEPT MAJORITY OUGHT NOT TO PASS REPORT",
+  "motion_classification": [
+    "passage"
+  ],
+  "start_date": "2025-05-28",
+  "result": "pass",
+  "organization": "~{\"classification\": \"upper\"}",
+  "legislative_session": "132",
+  "bill": "9bd8cb40-b131-11f0-b972-cac8d13cbc67",
+  "bill_action": null,
+  "bill_identifier": "LD 1292",
+  "votes": [
+    {
+      "option": "no",
+      "voter_name": "BAILEY of York",
+      "voter_id": "~{\"name\": \"BAILEY of York\"}",
+      "note": ""
+    },
+    {
+      "option": "no",
+      "voter_name": "BALDACCI of Penobscot",
+      "voter_id": "~{\"name\": \"BALDACCI of Penobscot\"}",
+      "note": ""
+    },
+    {
+      "option": "no",
+      "voter_name": "BEEBE-CENTER of Knox",
+      "voter_id": "~{\"name\": \"BEEBE-CENTER of Knox\"}",
+      "note": ""
+    },
+    {
+      "option": "no",
+      "voter_name": "BENNETT of Oxford",
+      "voter_id": "~{\"name\": \"BENNETT of Oxford\"}",
+      "note": ""
+    },
+    {
+      "option": "yes",
+      "voter_name": "BERNARD of Aroostook",
+      "voter_id": "~{\"name\": \"BERNARD of Aroostook\"}",
+      "note": ""
+    },
+    {
+      "option": "yes",
+      "voter_name": "BICKFORD of Androscoggin",
+      "voter_id": "~{\"name\": \"BICKFORD of Androscoggin\"}",
+      "note": ""
+    },
+    {
+      "option": "other",
+      "voter_name": "BLACK of Franklin",
+      "voter_id": "~{\"name\": \"BLACK of Franklin\"}",
+      "note": ""
+    },
+    {
+      "option": "yes",
+      "voter_name": "BRADSTREET of Kennebec",
+      "voter_id": "~{\"name\": \"BRADSTREET of Kennebec\"}",
+      "note": ""
+    },
+    {
+      "option": "no",
+      "voter_name": "BRENNER of Cumberland",
+      "voter_id": "~{\"name\": \"BRENNER of Cumberland\"}",
+      "note": ""
+    },
+    {
+      "option": "yes",
+      "voter_name": "CARNEY of Cumberland",
+      "voter_id": "~{\"name\": \"CARNEY of Cumberland\"}",
+      "note": ""
+    },
+    {
+      "option": "no",
+      "voter_name": "CURRY of Waldo",
+      "voter_id": "~{\"name\": \"CURRY of Waldo\"}",
+      "note": ""
+    },
+    {
+      "option": "yes",
+      "voter_name": "CYRWAY of Kennebec",
+      "voter_id": "~{\"name\": \"CYRWAY of Kennebec\"}",
+      "note": ""
+    },
+    {
+      "option": "yes",
+      "voter_name": "DAUGHTRY of Cumberland",
+      "voter_id": "~{\"name\": \"DAUGHTRY of Cumberland\"}",
+      "note": ""
+    },
+    {
+      "option": "no",
+      "voter_name": "DUSON of Cumberland",
+      "voter_id": "~{\"name\": \"DUSON of Cumberland\"}",
+      "note": ""
+    },
+    {
+      "option": "yes",
+      "voter_name": "FARRIN of Somerset",
+      "voter_id": "~{\"name\": \"FARRIN of Somerset\"}",
+      "note": ""
+    },
+    {
+      "option": "yes",
+      "voter_name": "GROHOSKI of Hancock",
+      "voter_id": "~{\"name\": \"GROHOSKI of Hancock\"}",
+      "note": ""
+    },
+    {
+      "option": "yes",
+      "voter_name": "GUERIN of Penobscot",
+      "voter_id": "~{\"name\": \"GUERIN of Penobscot\"}",
+      "note": ""
+    },
+    {
+      "option": "yes",
+      "voter_name": "HAGGAN of Penobscot",
+      "voter_id": "~{\"name\": \"HAGGAN of Penobscot\"}",
+      "note": ""
+    },
+    {
+      "option": "yes",
+      "voter_name": "HARRINGTON of York",
+      "voter_id": "~{\"name\": \"HARRINGTON of York\"}",
+      "note": ""
+    },
+    {
+      "option": "no",
+      "voter_name": "HICKMAN of Kennebec",
+      "voter_id": "~{\"name\": \"HICKMAN of Kennebec\"}",
+      "note": ""
+    },
+    {
+      "option": "no",
+      "voter_name": "INGWERSEN of York",
+      "voter_id": "~{\"name\": \"INGWERSEN of York\"}",
+      "note": ""
+    },
+    {
+      "option": "yes",
+      "voter_name": "LAWRENCE of York",
+      "voter_id": "~{\"name\": \"LAWRENCE of York\"}",
+      "note": ""
+    },
+    {
+      "option": "yes",
+      "voter_name": "LIBBY of Cumberland",
+      "voter_id": "~{\"name\": \"LIBBY of Cumberland\"}",
+      "note": ""
+    },
+    {
+      "option": "yes",
+      "voter_name": "MARTIN of Oxford",
+      "voter_id": "~{\"name\": \"MARTIN of Oxford\"}",
+      "note": ""
+    },
+    {
+      "option": "yes",
+      "voter_name": "MOORE of Washington",
+      "voter_id": "~{\"name\": \"MOORE of Washington\"}",
+      "note": ""
+    },
+    {
+      "option": "yes",
+      "voter_name": "NANGLE of Cumberland",
+      "voter_id": "~{\"name\": \"NANGLE of Cumberland\"}",
+      "note": ""
+    },
+    {
+      "option": "yes",
+      "voter_name": "PIERCE of Cumberland",
+      "voter_id": "~{\"name\": \"PIERCE of Cumberland\"}",
+      "note": ""
+    },
+    {
+      "option": "yes",
+      "voter_name": "RAFFERTY of York",
+      "voter_id": "~{\"name\": \"RAFFERTY of York\"}",
+      "note": ""
+    },
+    {
+      "option": "no",
+      "voter_name": "RENY of Lincoln",
+      "voter_id": "~{\"name\": \"RENY of Lincoln\"}",
+      "note": ""
+    },
+    {
+      "option": "no",
+      "voter_name": "ROTUNDO of Androscoggin",
+      "voter_id": "~{\"name\": \"ROTUNDO of Androscoggin\"}",
+      "note": ""
+    },
+    {
+      "option": "yes",
+      "voter_name": "STEWART of Aroostook",
+      "voter_id": "~{\"name\": \"STEWART of Aroostook\"}",
+      "note": ""
+    },
+    {
+      "option": "no",
+      "voter_name": "TALBOT ROSS of Cumberland",
+      "voter_id": "~{\"name\": \"TALBOT ROSS of Cumberland\"}",
+      "note": ""
+    },
+    {
+      "option": "no",
+      "voter_name": "TEPLER of Sagadahoc",
+      "voter_id": "~{\"name\": \"TEPLER of Sagadahoc\"}",
+      "note": ""
+    },
+    {
+      "option": "yes",
+      "voter_name": "TIMBERLAKE of Androscoggin",
+      "voter_id": "~{\"name\": \"TIMBERLAKE of Androscoggin\"}",
+      "note": ""
+    },
+    {
+      "option": "no",
+      "voter_name": "TIPPING of Penobscot",
+      "voter_id": "~{\"name\": \"TIPPING of Penobscot\"}",
+      "note": ""
+    }
+  ],
+  "counts": [
+    {
+      "option": "yes",
+      "value": 20
+    },
+    {
+      "option": "no",
+      "value": 14
+    },
+    {
+      "option": "other",
+      "value": 1
+    }
+  ],
+  "sources": [
+    {
+      "url": "https://legislature.maine.gov/LawMakerWeb/rollcall.asp?ID=280097733&chamber=Senate&serialnumber=249",
+      "note": ""
+    }
+  ],
+  "extras": {},
+  "dedupe_key": "https://legislature.maine.gov/LawMakerWeb/rollcall.asp?ID=280097733&chamber=Senate&serialnumber=249"
+}

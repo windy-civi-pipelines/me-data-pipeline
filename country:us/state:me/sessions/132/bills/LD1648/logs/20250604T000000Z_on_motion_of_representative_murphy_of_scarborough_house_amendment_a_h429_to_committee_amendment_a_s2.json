@@ -1,0 +1,13 @@
+{
+  "action": {
+    "description": "On motion of Representative MURPHY of Scarborough, House Amendment \"A\" (H-429) to Committee Amendment \"A\" (S-202) was READ and ADOPTED.",
+    "date": "2025-06-04",
+    "organization_id": "~{\"classification\": \"lower\"}",
+    "classification": [
+      "committee-passage-favorable",
+      "passage"
+    ],
+    "related_entities": []
+  },
+  "bill_id": "LD 1648"
+}

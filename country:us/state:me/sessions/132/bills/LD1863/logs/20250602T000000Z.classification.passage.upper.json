@@ -1,0 +1,12 @@
+{
+  "action": {
+    "description": "On motion by Senator CURRY of Waldo Senate Amendment \"A\" (S-230) READ and ADOPTED.",
+    "date": "2025-06-02",
+    "organization_id": "~{\"classification\": \"upper\"}",
+    "classification": [
+      "passage"
+    ],
+    "related_entities": []
+  },
+  "bill_id": "LD 1863"
+}

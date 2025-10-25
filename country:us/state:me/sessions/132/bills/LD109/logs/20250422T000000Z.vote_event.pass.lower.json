@@ -1,0 +1,938 @@
+{
+  "identifier": "",
+  "motion_text": "ACC MAJ OTP AS AMENDED REP",
+  "motion_classification": [
+    "passage"
+  ],
+  "start_date": "2025-04-22",
+  "result": "pass",
+  "organization": "~{\"classification\": \"lower\"}",
+  "legislative_session": "132",
+  "bill": "e46de764-b131-11f0-b972-cac8d13cbc67",
+  "bill_action": null,
+  "bill_identifier": "LD 109",
+  "votes": [
+    {
+      "option": "yes",
+      "voter_name": "ABDI of Lewiston",
+      "voter_id": "~{\"name\": \"ABDI of Lewiston\"}",
+      "note": ""
+    },
+    {
+      "option": "no",
+      "voter_name": "ADAMS of Lebanon",
+      "voter_id": "~{\"name\": \"ADAMS of Lebanon\"}",
+      "note": ""
+    },
+    {
+      "option": "no",
+      "voter_name": "ALBERT of Madawaska",
+      "voter_id": "~{\"name\": \"ALBERT of Madawaska\"}",
+      "note": ""
+    },
+    {
+      "option": "yes",
+      "voter_name": "ANKELES of Brunswick",
+      "voter_id": "~{\"name\": \"ANKELES of Brunswick\"}",
+      "note": ""
+    },
+    {
+      "option": "no",
+      "voter_name": "ARATA of New Gloucester",
+      "voter_id": "~{\"name\": \"ARATA of New Gloucester\"}",
+      "note": ""
+    },
+    {
+      "option": "yes",
+      "voter_name": "ARCHER of Saco",
+      "voter_id": "~{\"name\": \"ARCHER of Saco\"}",
+      "note": ""
+    },
+    {
+      "option": "no",
+      "voter_name": "ARDELL of Monticello",
+      "voter_id": "~{\"name\": \"ARDELL of Monticello\"}",
+      "note": ""
+    },
+    {
+      "option": "yes",
+      "voter_name": "ARFORD of Brunswick",
+      "voter_id": "~{\"name\": \"ARFORD of Brunswick\"}",
+      "note": ""
+    },
+    {
+      "option": "no",
+      "voter_name": "BABIN of Fort Fairfield",
+      "voter_id": "~{\"name\": \"BABIN of Fort Fairfield\"}",
+      "note": ""
+    },
+    {
+      "option": "no",
+      "voter_name": "BAGSHAW of Windham",
+      "voter_id": "~{\"name\": \"BAGSHAW of Windham\"}",
+      "note": ""
+    },
+    {
+      "option": "yes",
+      "voter_name": "BECK of South Portland",
+      "voter_id": "~{\"name\": \"BECK of South Portland\"}",
+      "note": ""
+    },
+    {
+      "option": "yes",
+      "voter_name": "BELL of Yarmouth",
+      "voter_id": "~{\"name\": \"BELL of Yarmouth\"}",
+      "note": ""
+    },
+    {
+      "option": "no",
+      "voter_name": "BISHOP of Bucksport",
+      "voter_id": "~{\"name\": \"BISHOP of Bucksport\"}",
+      "note": ""
+    },
+    {
+      "option": "no",
+      "voter_name": "BLIER of Buxton",
+      "voter_id": "~{\"name\": \"BLIER of Buxton\"}",
+      "note": ""
+    },
+    {
+      "option": "no",
+      "voter_name": "BOYER of Poland",
+      "voter_id": "~{\"name\": \"BOYER of Poland\"}",
+      "note": ""
+    },
+    {
+      "option": "yes",
+      "voter_name": "BOYER of Cape Elizabeth",
+      "voter_id": "~{\"name\": \"BOYER of Cape Elizabeth\"}",
+      "note": ""
+    },
+    {
+      "option": "yes",
+      "voter_name": "BRENNAN of Portland",
+      "voter_id": "~{\"name\": \"BRENNAN of Portland\"}",
+      "note": ""
+    },
+    {
+      "option": "yes",
+      "voter_name": "BRIDGEO of Augusta",
+      "voter_id": "~{\"name\": \"BRIDGEO of Augusta\"}",
+      "note": ""
+    },
+    {
+      "option": "yes",
+      "voter_name": "BUNKER of Farmington",
+      "voter_id": "~{\"name\": \"BUNKER of Farmington\"}",
+      "note": ""
+    },
+    {
+      "option": "no",
+      "voter_name": "CAMPBELL of Orrington",
+      "voter_id": "~{\"name\": \"CAMPBELL of Orrington\"}",
+      "note": ""
+    },
+    {
+      "option": "yes",
+      "voter_name": "CARLOW of Buxton",
+      "voter_id": "~{\"name\": \"CARLOW of Buxton\"}",
+      "note": ""
+    },
+    {
+      "option": "no",
+      "voter_name": "CARUSO of Caratunk",
+      "voter_id": "~{\"name\": \"CARUSO of Caratunk\"}",
+      "note": ""
+    },
+    {
+      "option": "no",
+      "voter_name": "CHAPMAN of Auburn",
+      "voter_id": "~{\"name\": \"CHAPMAN of Auburn\"}",
+      "note": ""
+    },
+    {
+      "option": "no",
+      "voter_name": "CIMINO of Bridgton",
+      "voter_id": "~{\"name\": \"CIMINO of Bridgton\"}",
+      "note": ""
+    },
+    {
+      "option": "yes",
+      "voter_name": "CLOUTIER of Lewiston",
+      "voter_id": "~{\"name\": \"CLOUTIER of Lewiston\"}",
+      "note": ""
+    },
+    {
+      "option": "yes",
+      "voter_name": "CLUCHEY of Bowdoinham",
+      "voter_id": "~{\"name\": \"CLUCHEY of Bowdoinham\"}",
+      "note": ""
+    },
+    {
+      "option": "no",
+      "voter_name": "COLLAMORE of Pittsfield",
+      "voter_id": "~{\"name\": \"COLLAMORE of Pittsfield\"}",
+      "note": ""
+    },
+    {
+      "option": "no",
+      "voter_name": "COLLINS of Sidney",
+      "voter_id": "~{\"name\": \"COLLINS of Sidney\"}",
+      "note": ""
+    },
+    {
+      "option": "no",
+      "voter_name": "COOPER of Windham",
+      "voter_id": "~{\"name\": \"COOPER of Windham\"}",
+      "note": ""
+    },
+    {
+      "option": "yes",
+      "voter_name": "COPELAND of Saco",
+      "voter_id": "~{\"name\": \"COPELAND of Saco\"}",
+      "note": ""
+    },
+    {
+      "option": "yes",
+      "voter_name": "CRAFTS of Newcastle",
+      "voter_id": "~{\"name\": \"CRAFTS of Newcastle\"}",
+      "note": ""
+    },
+    {
+      "option": "no",
+      "voter_name": "CRAY of Palmyra",
+      "voter_id": "~{\"name\": \"CRAY of Palmyra\"}",
+      "note": ""
+    },
+    {
+      "option": "yes",
+      "voter_name": "CROCKETT of Portland",
+      "voter_id": "~{\"name\": \"CROCKETT of Portland\"}",
+      "note": ""
+    },
+    {
+      "option": "no",
+      "voter_name": "DAIGLE of Fort Kent",
+      "voter_id": "~{\"name\": \"DAIGLE of Fort Kent\"}",
+      "note": ""
+    },
+    {
+      "option": "yes",
+      "voter_name": "DEBRITO of Waterville",
+      "voter_id": "~{\"name\": \"DEBRITO of Waterville\"}",
+      "note": ""
+    },
+    {
+      "option": "yes",
+      "voter_name": "DHALAC of South Portland",
+      "voter_id": "~{\"name\": \"DHALAC of South Portland\"}",
+      "note": ""
+    },
+    {
+      "option": "yes",
+      "voter_name": "DILL of Old Town",
+      "voter_id": "~{\"name\": \"DILL of Old Town\"}",
+      "note": ""
+    },
+    {
+      "option": "yes",
+      "voter_name": "DODGE of Belfast",
+      "voter_id": "~{\"name\": \"DODGE of Belfast\"}",
+      "note": ""
+    },
+    {
+      "option": "yes",
+      "voter_name": "DOUDERA of Camden",
+      "voter_id": "~{\"name\": \"DOUDERA of Camden\"}",
+      "note": ""
+    },
+    {
+      "option": "no",
+      "voter_name": "DRINKWATER of Milford",
+      "voter_id": "~{\"name\": \"DRINKWATER of Milford\"}",
+      "note": ""
+    },
+    {
+      "option": "no",
+      "voter_name": "DUCHARME of Madison",
+      "voter_id": "~{\"name\": \"DUCHARME of Madison\"}",
+      "note": ""
+    },
+    {
+      "option": "yes",
+      "voter_name": "EATON of Deer Isle",
+      "voter_id": "~{\"name\": \"EATON of Deer Isle\"}",
+      "note": ""
+    },
+    {
+      "option": "no",
+      "voter_name": "EDER of Waterboro",
+      "voter_id": "~{\"name\": \"EDER of Waterboro\"}",
+      "note": ""
+    },
+    {
+      "option": "yes",
+      "voter_name": "FAIRCLOTH of Bangor",
+      "voter_id": "~{\"name\": \"FAIRCLOTH of Bangor\"}",
+      "note": ""
+    },
+    {
+      "option": "yes",
+      "voter_name": "FARRIN of Jefferson",
+      "voter_id": "~{\"name\": \"FARRIN of Jefferson\"}",
+      "note": ""
+    },
+    {
+      "option": "no",
+      "voter_name": "FAULKINGHAM of Winter Harbor",
+      "voter_id": "~{\"name\": \"FAULKINGHAM of Winter Harbor\"}",
+      "note": ""
+    },
+    {
+      "option": "yes",
+      "voter_name": "FECTEAU of Biddeford",
+      "voter_id": "~{\"name\": \"FECTEAU of Biddeford\"}",
+      "note": ""
+    },
+    {
+      "option": "no",
+      "voter_name": "FLYNN of Albion",
+      "voter_id": "~{\"name\": \"FLYNN of Albion\"}",
+      "note": ""
+    },
+    {
+      "option": "no",
+      "voter_name": "FOLEY of Wells",
+      "voter_id": "~{\"name\": \"FOLEY of Wells\"}",
+      "note": ""
+    },
+    {
+      "option": "no",
+      "voter_name": "FOSTER of Dexter",
+      "voter_id": "~{\"name\": \"FOSTER of Dexter\"}",
+      "note": ""
+    },
+    {
+      "option": "no",
+      "voter_name": "FREDERICKS of Sanford",
+      "voter_id": "~{\"name\": \"FREDERICKS of Sanford\"}",
+      "note": ""
+    },
+    {
+      "option": "other",
+      "voter_name": "FREDETTE of Newport",
+      "voter_id": "~{\"name\": \"FREDETTE of Newport\"}",
+      "note": ""
+    },
+    {
+      "option": "yes",
+      "voter_name": "FRIEDMANN of Bar Harbor",
+      "voter_id": "~{\"name\": \"FRIEDMANN of Bar Harbor\"}",
+      "note": ""
+    },
+    {
+      "option": "yes",
+      "voter_name": "FROST of Belgrade",
+      "voter_id": "~{\"name\": \"FROST of Belgrade\"}",
+      "note": ""
+    },
+    {
+      "option": "yes",
+      "voter_name": "GATTINE of Westbrook",
+      "voter_id": "~{\"name\": \"GATTINE of Westbrook\"}",
+      "note": ""
+    },
+    {
+      "option": "yes",
+      "voter_name": "GEIGER of Rockland",
+      "voter_id": "~{\"name\": \"GEIGER of Rockland\"}",
+      "note": ""
+    },
+    {
+      "option": "yes",
+      "voter_name": "GERE of Kennebunkport",
+      "voter_id": "~{\"name\": \"GERE of Kennebunkport\"}",
+      "note": ""
+    },
+    {
+      "option": "no",
+      "voter_name": "GIFFORD of Lincoln",
+      "voter_id": "~{\"name\": \"GIFFORD of Lincoln\"}",
+      "note": ""
+    },
+    {
+      "option": "yes",
+      "voter_name": "GOLEK of Harpswell",
+      "voter_id": "~{\"name\": \"GOLEK of Harpswell\"}",
+      "note": ""
+    },
+    {
+      "option": "yes",
+      "voter_name": "GRAHAM of North Yarmouth",
+      "voter_id": "~{\"name\": \"GRAHAM of North Yarmouth\"}",
+      "note": ""
+    },
+    {
+      "option": "yes",
+      "voter_name": "GRAMLICH of Old Orchard Beach",
+      "voter_id": "~{\"name\": \"GRAMLICH of Old Orchard Beach\"}",
+      "note": ""
+    },
+    {
+      "option": "no",
+      "voter_name": "GREENWOOD of Wales",
+      "voter_id": "~{\"name\": \"GREENWOOD of Wales\"}",
+      "note": ""
+    },
+    {
+      "option": "no",
+      "voter_name": "GRIFFIN of Levant",
+      "voter_id": "~{\"name\": \"GRIFFIN of Levant\"}",
+      "note": ""
+    },
+    {
+      "option": "no",
+      "voter_name": "GUERRETTE of Caribou",
+      "voter_id": "~{\"name\": \"GUERRETTE of Caribou\"}",
+      "note": ""
+    },
+    {
+      "option": "no",
+      "voter_name": "HAGGAN of Hampden",
+      "voter_id": "~{\"name\": \"HAGGAN of Hampden\"}",
+      "note": ""
+    },
+    {
+      "option": "no",
+      "voter_name": "HALL of Wilton",
+      "voter_id": "~{\"name\": \"HALL of Wilton\"}",
+      "note": ""
+    },
+    {
+      "option": "yes",
+      "voter_name": "HASENFUS of Readfield",
+      "voter_id": "~{\"name\": \"HASENFUS of Readfield\"}",
+      "note": ""
+    },
+    {
+      "option": "no",
+      "voter_name": "HENDERSON of Rumford",
+      "voter_id": "~{\"name\": \"HENDERSON of Rumford\"}",
+      "note": ""
+    },
+    {
+      "option": "yes",
+      "voter_name": "HEPLER of Woolwich",
+      "voter_id": "~{\"name\": \"HEPLER of Woolwich\"}",
+      "note": ""
+    },
+    {
+      "option": "yes",
+      "voter_name": "HYMES of Waldo",
+      "voter_id": "~{\"name\": \"HYMES of Waldo\"}",
+      "note": ""
+    },
+    {
+      "option": "other",
+      "voter_name": "JACKSON of Oxford",
+      "voter_id": "~{\"name\": \"JACKSON of Oxford\"}",
+      "note": ""
+    },
+    {
+      "option": "no",
+      "voter_name": "JAVNER of Chester",
+      "voter_id": "~{\"name\": \"JAVNER of Chester\"}",
+      "note": ""
+    },
+    {
+      "option": "yes",
+      "voter_name": "JULIA of Waterville",
+      "voter_id": "~{\"name\": \"JULIA of Waterville\"}",
+      "note": ""
+    },
+    {
+      "option": "yes",
+      "voter_name": "KESSLER of South Portland",
+      "voter_id": "~{\"name\": \"KESSLER of South Portland\"}",
+      "note": ""
+    },
+    {
+      "option": "yes",
+      "voter_name": "KUHN of Falmouth",
+      "voter_id": "~{\"name\": \"KUHN of Falmouth\"}",
+      "note": ""
+    },
+    {
+      "option": "yes",
+      "voter_name": "LAJOIE of Lewiston",
+      "voter_id": "~{\"name\": \"LAJOIE of Lewiston\"}",
+      "note": ""
+    },
+    {
+      "option": "no",
+      "voter_name": "LANCE of Paris",
+      "voter_id": "~{\"name\": \"LANCE of Paris\"}",
+      "note": ""
+    },
+    {
+      "option": "no",
+      "voter_name": "LANIGAN of Sanford",
+      "voter_id": "~{\"name\": \"LANIGAN of Sanford\"}",
+      "note": ""
+    },
+    {
+      "option": "no",
+      "voter_name": "LAVIGNE of Berwick",
+      "voter_id": "~{\"name\": \"LAVIGNE of Berwick\"}",
+      "note": ""
+    },
+    {
+      "option": "yes",
+      "voter_name": "LEE of Auburn",
+      "voter_id": "~{\"name\": \"LEE of Auburn\"}",
+      "note": ""
+    },
+    {
+      "option": "no",
+      "voter_name": "LEMELIN of Chelsea",
+      "voter_id": "~{\"name\": \"LEMELIN of Chelsea\"}",
+      "note": ""
+    },
+    {
+      "option": "yes",
+      "voter_name": "LOOKNER of Portland",
+      "voter_id": "~{\"name\": \"LOOKNER of Portland\"}",
+      "note": ""
+    },
+    {
+      "option": "no",
+      "voter_name": "LYMAN of Livermore Falls",
+      "voter_id": "~{\"name\": \"LYMAN of Livermore Falls\"}",
+      "note": ""
+    },
+    {
+      "option": "yes",
+      "voter_name": "MACIAS of Topsham",
+      "voter_id": "~{\"name\": \"MACIAS of Topsham\"}",
+      "note": ""
+    },
+    {
+      "option": "yes",
+      "voter_name": "MALON of Biddeford",
+      "voter_id": "~{\"name\": \"MALON of Biddeford\"}",
+      "note": ""
+    },
+    {
+      "option": "no",
+      "voter_name": "MASON of Lisbon",
+      "voter_id": "~{\"name\": \"MASON of Lisbon\"}",
+      "note": ""
+    },
+    {
+      "option": "yes",
+      "voter_name": "MASTRACCIO of Sanford",
+      "voter_id": "~{\"name\": \"MASTRACCIO of Sanford\"}",
+      "note": ""
+    },
+    {
+      "option": "yes",
+      "voter_name": "MATHIESON of Kittery",
+      "voter_id": "~{\"name\": \"MATHIESON of Kittery\"}",
+      "note": ""
+    },
+    {
+      "option": "yes",
+      "voter_name": "MATLACK of St. George",
+      "voter_id": "~{\"name\": \"MATLACK of St. George\"}",
+      "note": ""
+    },
+    {
+      "option": "yes",
+      "voter_name": "MCCABE of Lewiston",
+      "voter_id": "~{\"name\": \"MCCABE of Lewiston\"}",
+      "note": ""
+    },
+    {
+      "option": "no",
+      "voter_name": "MCINTYRE of Lowell",
+      "voter_id": "~{\"name\": \"MCINTYRE of Lowell\"}",
+      "note": ""
+    },
+    {
+      "option": "yes",
+      "voter_name": "MEYER of Eliot",
+      "voter_id": "~{\"name\": \"MEYER of Eliot\"}",
+      "note": ""
+    },
+    {
+      "option": "yes",
+      "voter_name": "MILLIKEN of Blue Hill",
+      "voter_id": "~{\"name\": \"MILLIKEN of Blue Hill\"}",
+      "note": ""
+    },
+    {
+      "option": "no",
+      "voter_name": "MINGO of Calais",
+      "voter_id": "~{\"name\": \"MINGO of Calais\"}",
+      "note": ""
+    },
+    {
+      "option": "yes",
+      "voter_name": "MITCHELL of Cumberland",
+      "voter_id": "~{\"name\": \"MITCHELL of Cumberland\"}",
+      "note": ""
+    },
+    {
+      "option": "yes",
+      "voter_name": "MONTELL of Gardiner",
+      "voter_id": "~{\"name\": \"MONTELL of Gardiner\"}",
+      "note": ""
+    },
+    {
+      "option": "yes",
+      "voter_name": "MOONEN of Portland",
+      "voter_id": "~{\"name\": \"MOONEN of Portland\"}",
+      "note": ""
+    },
+    {
+      "option": "no",
+      "voter_name": "MORRIS of Turner",
+      "voter_id": "~{\"name\": \"MORRIS of Turner\"}",
+      "note": ""
+    },
+    {
+      "option": "yes",
+      "voter_name": "MURPHY of Scarborough",
+      "voter_id": "~{\"name\": \"MURPHY of Scarborough\"}",
+      "note": ""
+    },
+    {
+      "option": "no",
+      "voter_name": "NUTTING of Oakland",
+      "voter_id": "~{\"name\": \"NUTTING of Oakland\"}",
+      "note": ""
+    },
+    {
+      "option": "yes",
+      "voter_name": "O'HALLORAN of Brewer",
+      "voter_id": "~{\"name\": \"O'HALLORAN of Brewer\"}",
+      "note": ""
+    },
+    {
+      "option": "no",
+      "voter_name": "OLSEN of Raymond",
+      "voter_id": "~{\"name\": \"OLSEN of Raymond\"}",
+      "note": ""
+    },
+    {
+      "option": "yes",
+      "voter_name": "OSHER of Orono",
+      "voter_id": "~{\"name\": \"OSHER of Orono\"}",
+      "note": ""
+    },
+    {
+      "option": "no",
+      "voter_name": "PARRY of Arundel",
+      "voter_id": "~{\"name\": \"PARRY of Arundel\"}",
+      "note": ""
+    },
+    {
+      "option": "no",
+      "voter_name": "PAUL of Winterport",
+      "voter_id": "~{\"name\": \"PAUL of Winterport\"}",
+      "note": ""
+    },
+    {
+      "option": "no",
+      "voter_name": "PERKINS of Dover-Foxcroft",
+      "voter_id": "~{\"name\": \"PERKINS of Dover-Foxcroft\"}",
+      "note": ""
+    },
+    {
+      "option": "yes",
+      "voter_name": "PLUECKER of Warren",
+      "voter_id": "~{\"name\": \"PLUECKER of Warren\"}",
+      "note": ""
+    },
+    {
+      "option": "other",
+      "voter_name": "POIRIER of Skowhegan",
+      "voter_id": "~{\"name\": \"POIRIER of Skowhegan\"}",
+      "note": ""
+    },
+    {
+      "option": "no",
+      "voter_name": "POMERLEAU of Standish",
+      "voter_id": "~{\"name\": \"POMERLEAU of Standish\"}",
+      "note": ""
+    },
+    {
+      "option": "yes",
+      "voter_name": "PUGH of Portland",
+      "voter_id": "~{\"name\": \"PUGH of Portland\"}",
+      "note": ""
+    },
+    {
+      "option": "no",
+      "voter_name": "QUINT of Hodgdon",
+      "voter_id": "~{\"name\": \"QUINT of Hodgdon\"}",
+      "note": ""
+    },
+    {
+      "option": "yes",
+      "voter_name": "RANA of Bangor",
+      "voter_id": "~{\"name\": \"RANA of Bangor\"}",
+      "note": ""
+    },
+    {
+      "option": "yes",
+      "voter_name": "RAY of Lincolnville",
+      "voter_id": "~{\"name\": \"RAY of Lincolnville\"}",
+      "note": ""
+    },
+    {
+      "option": "yes",
+      "voter_name": "RIELLY of Westbrook",
+      "voter_id": "~{\"name\": \"RIELLY of Westbrook\"}",
+      "note": ""
+    },
+    {
+      "option": "yes",
+      "voter_name": "ROBERTS of South Berwick",
+      "voter_id": "~{\"name\": \"ROBERTS of South Berwick\"}",
+      "note": ""
+    },
+    {
+      "option": "yes",
+      "voter_name": "ROEDER of Bangor",
+      "voter_id": "~{\"name\": \"ROEDER of Bangor\"}",
+      "note": ""
+    },
+    {
+      "option": "yes",
+      "voter_name": "ROLLINS of Augusta",
+      "voter_id": "~{\"name\": \"ROLLINS of Augusta\"}",
+      "note": ""
+    },
+    {
+      "option": "no",
+      "voter_name": "RUDNICKI of Fairfield",
+      "voter_id": "~{\"name\": \"RUDNICKI of Fairfield\"}",
+      "note": ""
+    },
+    {
+      "option": "yes",
+      "voter_name": "RUNTE of York",
+      "voter_id": "~{\"name\": \"RUNTE of York\"}",
+      "note": ""
+    },
+    {
+      "option": "yes",
+      "voter_name": "SACHS of Freeport",
+      "voter_id": "~{\"name\": \"SACHS of Freeport\"}",
+      "note": ""
+    },
+    {
+      "option": "yes",
+      "voter_name": "SALISBURY of Westbrook",
+      "voter_id": "~{\"name\": \"SALISBURY of Westbrook\"}",
+      "note": ""
+    },
+    {
+      "option": "yes",
+      "voter_name": "SARGENT of York",
+      "voter_id": "~{\"name\": \"SARGENT of York\"}",
+      "note": ""
+    },
+    {
+      "option": "yes",
+      "voter_name": "SATO of Gorham",
+      "voter_id": "~{\"name\": \"SATO of Gorham\"}",
+      "note": ""
+    },
+    {
+      "option": "yes",
+      "voter_name": "SAYRE of Kennebunk",
+      "voter_id": "~{\"name\": \"SAYRE of Kennebunk\"}",
+      "note": ""
+    },
+    {
+      "option": "no",
+      "voter_name": "SCHMERSAL-BURGESS of Mexico",
+      "voter_id": "~{\"name\": \"SCHMERSAL-BURGESS of Mexico\"}",
+      "note": ""
+    },
+    {
+      "option": "yes",
+      "voter_name": "SHAGOURY of Hallowell",
+      "voter_id": "~{\"name\": \"SHAGOURY of Hallowell\"}",
+      "note": ""
+    },
+    {
+      "option": "other",
+      "voter_name": "SIMMONS of Waldoboro",
+      "voter_id": "~{\"name\": \"SIMMONS of Waldoboro\"}",
+      "note": ""
+    },
+    {
+      "option": "yes",
+      "voter_name": "SINCLAIR of Bath",
+      "voter_id": "~{\"name\": \"SINCLAIR of Bath\"}",
+      "note": ""
+    },
+    {
+      "option": "yes",
+      "voter_name": "SKOLD of Portland",
+      "voter_id": "~{\"name\": \"SKOLD of Portland\"}",
+      "note": ""
+    },
+    {
+      "option": "no",
+      "voter_name": "SMITH of Palermo",
+      "voter_id": "~{\"name\": \"SMITH of Palermo\"}",
+      "note": ""
+    },
+    {
+      "option": "no",
+      "voter_name": "SOBOLESKI of Phillips",
+      "voter_id": "~{\"name\": \"SOBOLESKI of Phillips\"}",
+      "note": ""
+    },
+    {
+      "option": "yes",
+      "voter_name": "STOVER of Boothbay",
+      "voter_id": "~{\"name\": \"STOVER of Boothbay\"}",
+      "note": ""
+    },
+    {
+      "option": "no",
+      "voter_name": "STROUT of Harrington",
+      "voter_id": "~{\"name\": \"STROUT of Harrington\"}",
+      "note": ""
+    },
+    {
+      "option": "yes",
+      "voter_name": "SUPICA of Bangor",
+      "voter_id": "~{\"name\": \"SUPICA of Bangor\"}",
+      "note": ""
+    },
+    {
+      "option": "no",
+      "voter_name": "SWALLOW of Houlton",
+      "voter_id": "~{\"name\": \"SWALLOW of Houlton\"}",
+      "note": ""
+    },
+    {
+      "option": "yes",
+      "voter_name": "TERRY of Gorham",
+      "voter_id": "~{\"name\": \"TERRY of Gorham\"}",
+      "note": ""
+    },
+    {
+      "option": "no",
+      "voter_name": "THORNE of Carmel",
+      "voter_id": "~{\"name\": \"THORNE of Carmel\"}",
+      "note": ""
+    },
+    {
+      "option": "no",
+      "voter_name": "TUELL of East Machias",
+      "voter_id": "~{\"name\": \"TUELL of East Machias\"}",
+      "note": ""
+    },
+    {
+      "option": "other",
+      "voter_name": "UNDERWOOD of Presque Isle",
+      "voter_id": "~{\"name\": \"UNDERWOOD of Presque Isle\"}",
+      "note": ""
+    },
+    {
+      "option": "no",
+      "voter_name": "WADSWORTH of Hiram",
+      "voter_id": "~{\"name\": \"WADSWORTH of Hiram\"}",
+      "note": ""
+    },
+    {
+      "option": "no",
+      "voter_name": "WALKER of Naples",
+      "voter_id": "~{\"name\": \"WALKER of Naples\"}",
+      "note": ""
+    },
+    {
+      "option": "yes",
+      "voter_name": "WARREN of Scarborough",
+      "voter_id": "~{\"name\": \"WARREN of Scarborough\"}",
+      "note": ""
+    },
+    {
+      "option": "yes",
+      "voter_name": "WEBB of Durham",
+      "voter_id": "~{\"name\": \"WEBB of Durham\"}",
+      "note": ""
+    },
+    {
+      "option": "no",
+      "voter_name": "WHITE of Guilford",
+      "voter_id": "~{\"name\": \"WHITE of Guilford\"}",
+      "note": ""
+    },
+    {
+      "option": "no",
+      "voter_name": "WHITE of Ellsworth",
+      "voter_id": "~{\"name\": \"WHITE of Ellsworth\"}",
+      "note": ""
+    },
+    {
+      "option": "no",
+      "voter_name": "WOOD of Norway",
+      "voter_id": "~{\"name\": \"WOOD of Norway\"}",
+      "note": ""
+    },
+    {
+      "option": "other",
+      "voter_name": "WOOD of Greene",
+      "voter_id": "~{\"name\": \"WOOD of Greene\"}",
+      "note": ""
+    },
+    {
+      "option": "no",
+      "voter_name": "WOODSOME of Waterboro",
+      "voter_id": "~{\"name\": \"WOODSOME of Waterboro\"}",
+      "note": ""
+    },
+    {
+      "option": "yes",
+      "voter_name": "YUSUF of Portland",
+      "voter_id": "~{\"name\": \"YUSUF of Portland\"}",
+      "note": ""
+    },
+    {
+      "option": "yes",
+      "voter_name": "ZAGER of Portland",
+      "voter_id": "~{\"name\": \"ZAGER of Portland\"}",
+      "note": ""
+    }
+  ],
+  "counts": [
+    {
+      "option": "yes",
+      "value": 80
+    },
+    {
+      "option": "no",
+      "value": 64
+    },
+    {
+      "option": "other",
+      "value": 6
+    }
+  ],
+  "sources": [
+    {
+      "url": "https://legislature.maine.gov/LawMakerWeb/rollcall.asp?ID=280095662&chamber=House&serialnumber=93",
+      "note": ""
+    }
+  ],
+  "extras": {},
+  "dedupe_key": "https://legislature.maine.gov/LawMakerWeb/rollcall.asp?ID=280095662&chamber=House&serialnumber=93"
+}

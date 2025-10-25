@@ -1,0 +1,13 @@
+{
+  "action": {
+    "description": "Subsequently, the Bill FAILED PASSAGE TO BE ENGROSSED AS AMENDED by Committee Amendment \"A\" (H-422) in NON-CONCURRENCE.",
+    "date": "2025-06-09",
+    "organization_id": "~{\"classification\": \"upper\"}",
+    "classification": [
+      "amendment-failure",
+      "reading-3"
+    ],
+    "related_entities": []
+  },
+  "bill_id": "LD 1928"
+}

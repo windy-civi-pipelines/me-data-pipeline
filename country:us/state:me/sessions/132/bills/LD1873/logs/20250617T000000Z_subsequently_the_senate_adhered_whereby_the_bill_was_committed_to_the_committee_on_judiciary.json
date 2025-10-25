@@ -1,0 +1,12 @@
+{
+  "action": {
+    "description": "Subsequently, the Senate ADHERED whereby the Bill was COMMITTED to the Committee on JUDICIARY.",
+    "date": "2025-06-17",
+    "organization_id": "~{\"classification\": \"upper\"}",
+    "classification": [
+      "referral-committee"
+    ],
+    "related_entities": []
+  },
+  "bill_id": "LD 1873"
+}

@@ -1,0 +1,12 @@
+{
+  "action": {
+    "description": "The Bill was REFERRED to the Committee on HEALTH AND HUMAN SERVICES in concurrence",
+    "date": "2025-01-14",
+    "organization_id": "~{\"classification\": \"upper\"}",
+    "classification": [
+      "referral-committee"
+    ],
+    "related_entities": []
+  },
+  "bill_id": "LD 166"
+}

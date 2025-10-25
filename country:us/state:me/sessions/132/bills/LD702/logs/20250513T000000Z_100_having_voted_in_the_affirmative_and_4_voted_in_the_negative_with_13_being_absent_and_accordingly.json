@@ -1,0 +1,10 @@
+{
+  "action": {
+    "description": "100 having voted in the affirmative and 4 voted in the negative, with 13 being absent, and accordingly one third of the members present MOVED THE PREVIOUS QUESTION.",
+    "date": "2025-05-13",
+    "organization_id": "~{\"classification\": \"lower\"}",
+    "classification": [],
+    "related_entities": []
+  },
+  "bill_id": "LD 702"
+}

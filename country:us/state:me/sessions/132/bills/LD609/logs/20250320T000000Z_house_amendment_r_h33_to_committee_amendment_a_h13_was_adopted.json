@@ -1,0 +1,12 @@
+{
+  "action": {
+    "description": "House Amendment \"R\" (H-33) to Committee Amendment \"A\" (H-13) was ADOPTED.",
+    "date": "2025-03-20",
+    "organization_id": "~{\"classification\": \"lower\"}",
+    "classification": [
+      "committee-passage-favorable"
+    ],
+    "related_entities": []
+  },
+  "bill_id": "LD 609"
+}

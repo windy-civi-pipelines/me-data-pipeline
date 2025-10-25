@@ -1,0 +1,12 @@
+{
+  "action": {
+    "description": "The Bill was REFERRED to the Committee on JUDICIARY and ordered printed pursuant to Joint Rule 218.",
+    "date": "2025-05-28",
+    "organization_id": "~{\"classification\": \"lower\"}",
+    "classification": [
+      "referral-committee"
+    ],
+    "related_entities": []
+  },
+  "bill_id": "LD 1984"
+}

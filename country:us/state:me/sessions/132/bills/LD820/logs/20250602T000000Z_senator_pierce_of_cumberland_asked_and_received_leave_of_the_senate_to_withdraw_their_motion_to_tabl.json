@@ -1,0 +1,12 @@
+{
+  "action": {
+    "description": "Senator PIERCE of Cumberland asked and received leave of the Senate to Withdraw their motion to table.",
+    "date": "2025-06-02",
+    "organization_id": "~{\"classification\": \"upper\"}",
+    "classification": [
+      "withdrawal"
+    ],
+    "related_entities": []
+  },
+  "bill_id": "LD 820"
+}

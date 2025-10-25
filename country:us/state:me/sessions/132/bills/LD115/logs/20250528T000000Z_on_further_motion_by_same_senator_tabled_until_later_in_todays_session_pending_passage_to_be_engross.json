@@ -1,0 +1,12 @@
+{
+  "action": {
+    "description": "On further motion by Same Senator Tabled until Later in Today's Session, pending PASSAGE TO BE ENGROSSED AS AMENDED BY Committee Amendment \"A\" (S-118)",
+    "date": "2025-05-28",
+    "organization_id": "~{\"classification\": \"upper\"}",
+    "classification": [
+      "reading-3"
+    ],
+    "related_entities": []
+  },
+  "bill_id": "LD 115"
+}

@@ -1,0 +1,12 @@
+{
+  "action": {
+    "description": "Subsequently, the Majority Ought Not to Pass Report was ACCEPTED.",
+    "date": "2025-05-14",
+    "organization_id": "~{\"classification\": \"lower\"}",
+    "classification": [
+      "committee-failure"
+    ],
+    "related_entities": []
+  },
+  "bill_id": "LD 878"
+}

@@ -1,0 +1,12 @@
+{
+  "action": {
+    "description": "Motion by Senator BRADSTREET of Kennebec to table until Later in Today's Session, pending motion of Senator CURRY of Waldo to ACCEPT The Majority Ought to Pass As Amended by Committee Amendment \"A\" (S-273) Report FAILED",
+    "date": "2025-06-05",
+    "organization_id": "~{\"classification\": \"upper\"}",
+    "classification": [
+      "amendment-failure"
+    ],
+    "related_entities": []
+  },
+  "bill_id": "LD 1145"
+}

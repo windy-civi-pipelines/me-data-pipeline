@@ -1,0 +1,10 @@
+{
+  "action": {
+    "description": "ROLL CALL NO. 118",
+    "date": "2025-05-07",
+    "organization_id": "~{\"classification\": \"lower\"}",
+    "classification": [],
+    "related_entities": []
+  },
+  "bill_id": "LD 187"
+}

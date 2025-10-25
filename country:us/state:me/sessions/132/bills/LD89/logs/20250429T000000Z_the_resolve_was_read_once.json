@@ -1,0 +1,12 @@
+{
+  "action": {
+    "description": "The Resolve was READ ONCE.",
+    "date": "2025-04-29",
+    "organization_id": "~{\"classification\": \"lower\"}",
+    "classification": [
+      "reading-1"
+    ],
+    "related_entities": []
+  },
+  "bill_id": "LD 89"
+}

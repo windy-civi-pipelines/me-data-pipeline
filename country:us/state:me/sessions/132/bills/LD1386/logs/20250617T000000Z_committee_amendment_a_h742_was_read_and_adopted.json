@@ -1,0 +1,13 @@
+{
+  "action": {
+    "description": "Committee Amendment \"A\" (H-742) was READ and ADOPTED.",
+    "date": "2025-06-17",
+    "organization_id": "~{\"classification\": \"lower\"}",
+    "classification": [
+      "committee-passage-favorable",
+      "passage"
+    ],
+    "related_entities": []
+  },
+  "bill_id": "LD 1386"
+}

@@ -1,0 +1,12 @@
+{
+  "action": {
+    "description": "Became Law without Governor's Signature",
+    "date": "2025-06-17",
+    "organization_id": "~{\"classification\": \"lower\"}",
+    "classification": [
+      "became-law"
+    ],
+    "related_entities": []
+  },
+  "bill_id": "LD 1979"
+}

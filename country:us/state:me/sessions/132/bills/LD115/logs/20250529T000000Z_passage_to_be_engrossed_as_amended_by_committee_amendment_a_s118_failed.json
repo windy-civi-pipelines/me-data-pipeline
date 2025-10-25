@@ -1,0 +1,13 @@
+{
+  "action": {
+    "description": "PASSAGE TO BE ENGROSSED AS AMENDED BY Committee Amendment \"A\" (S-118) FAILED.",
+    "date": "2025-05-29",
+    "organization_id": "~{\"classification\": \"upper\"}",
+    "classification": [
+      "amendment-failure",
+      "reading-3"
+    ],
+    "related_entities": []
+  },
+  "bill_id": "LD 115"
+}

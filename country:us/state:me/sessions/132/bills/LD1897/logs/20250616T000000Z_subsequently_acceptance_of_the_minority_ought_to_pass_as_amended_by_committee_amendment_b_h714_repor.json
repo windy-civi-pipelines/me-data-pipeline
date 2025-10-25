@@ -1,0 +1,12 @@
+{
+  "action": {
+    "description": "Subsequently, ACCEPTANCE of The Minority Ought to Pass As Amended by Committee Amendment \"B\" (H-714) Report FAILED",
+    "date": "2025-06-16",
+    "organization_id": "~{\"classification\": \"upper\"}",
+    "classification": [
+      "amendment-failure"
+    ],
+    "related_entities": []
+  },
+  "bill_id": "LD 1897"
+}

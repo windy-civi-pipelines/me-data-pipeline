@@ -1,0 +1,12 @@
+{
+  "action": {
+    "description": "Motion of Representative MILLIKEN of Blue Hill to RECEDE and CONCUR to ACCEPTANCE of the Minority Ought to Pass Report and PASSAGE TO BE ENGROSSED FAILED.",
+    "date": "2025-05-20",
+    "organization_id": "~{\"classification\": \"lower\"}",
+    "classification": [
+      "reading-3"
+    ],
+    "related_entities": []
+  },
+  "bill_id": "LD 421"
+}

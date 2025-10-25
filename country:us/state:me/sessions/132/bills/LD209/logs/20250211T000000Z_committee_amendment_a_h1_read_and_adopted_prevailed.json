@@ -1,0 +1,12 @@
+{
+  "action": {
+    "description": "Committee Amendment \"A\" (H-1) READ and ADOPTED PREVAILED",
+    "date": "2025-02-11",
+    "organization_id": "~{\"classification\": \"upper\"}",
+    "classification": [
+      "committee-passage-favorable"
+    ],
+    "related_entities": []
+  },
+  "bill_id": "LD 209"
+}

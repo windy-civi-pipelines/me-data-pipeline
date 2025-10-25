@@ -1,0 +1,10 @@
+{
+  "action": {
+    "description": "The House INSISTED on REFERENCE to the Committee on HOUSING AND ECONOMIC DEVELOPMENT.",
+    "date": "2025-01-21",
+    "organization_id": "~{\"classification\": \"lower\"}",
+    "classification": [],
+    "related_entities": []
+  },
+  "bill_id": "LD 188"
+}

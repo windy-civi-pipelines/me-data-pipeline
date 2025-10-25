@@ -1,0 +1,10 @@
+{
+  "action": {
+    "description": "Subsequently PASSED 2/3 Vote Required in concurrence",
+    "date": "2025-03-04",
+    "organization_id": "~{\"classification\": \"upper\"}",
+    "classification": [],
+    "related_entities": []
+  },
+  "bill_id": "HP 367"
+}

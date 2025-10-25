@@ -1,0 +1,12 @@
+{
+  "action": {
+    "description": "On motion by Senator PIERCE of Cumberland Tabled until Later in Today's Session, pending Motion by Senator STEWART of Aroostook to REFER to the Committee on JOINT RULES In NON-CONCURRENCE",
+    "date": "2025-02-25",
+    "organization_id": "~{\"classification\": \"upper\"}",
+    "classification": [
+      "referral-committee"
+    ],
+    "related_entities": []
+  },
+  "bill_id": "HP 367"
+}

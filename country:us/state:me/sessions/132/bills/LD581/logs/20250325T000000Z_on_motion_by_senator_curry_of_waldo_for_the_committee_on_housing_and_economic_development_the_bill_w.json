@@ -1,0 +1,12 @@
+{
+  "action": {
+    "description": "On motion by Senator CURRY of Waldo for the Committee on HOUSING AND ECONOMIC DEVELOPMENT the Bill was REFERRED to the Committee on EDUCATION AND CULTURAL AFFAIRS.",
+    "date": "2025-03-25",
+    "organization_id": "~{\"classification\": \"upper\"}",
+    "classification": [
+      "referral-committee"
+    ],
+    "related_entities": []
+  },
+  "bill_id": "LD 581"
+}

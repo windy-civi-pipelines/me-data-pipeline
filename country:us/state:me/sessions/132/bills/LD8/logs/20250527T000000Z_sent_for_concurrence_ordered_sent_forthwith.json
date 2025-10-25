@@ -1,0 +1,10 @@
+{
+  "action": {
+    "description": "Sent for concurrence. ORDERED SENT FORTHWITH.",
+    "date": "2025-05-27",
+    "organization_id": "~{\"classification\": \"lower\"}",
+    "classification": [],
+    "related_entities": []
+  },
+  "bill_id": "LD 8"
+}

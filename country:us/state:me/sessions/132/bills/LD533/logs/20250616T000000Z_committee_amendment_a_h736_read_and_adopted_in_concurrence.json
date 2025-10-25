@@ -1,0 +1,13 @@
+{
+  "action": {
+    "description": "Committee Amendment \"A\" (H-736) READ and ADOPTED, in concurrence.",
+    "date": "2025-06-16",
+    "organization_id": "~{\"classification\": \"upper\"}",
+    "classification": [
+      "committee-passage-favorable",
+      "passage"
+    ],
+    "related_entities": []
+  },
+  "bill_id": "LD 533"
+}

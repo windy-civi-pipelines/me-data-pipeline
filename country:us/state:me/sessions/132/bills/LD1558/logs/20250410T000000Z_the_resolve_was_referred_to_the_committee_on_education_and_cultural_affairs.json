@@ -1,0 +1,12 @@
+{
+  "action": {
+    "description": "The Resolve was REFERRED to the Committee on EDUCATION AND CULTURAL AFFAIRS.",
+    "date": "2025-04-10",
+    "organization_id": "~{\"classification\": \"lower\"}",
+    "classification": [
+      "referral-committee"
+    ],
+    "related_entities": []
+  },
+  "bill_id": "LD 1558"
+}

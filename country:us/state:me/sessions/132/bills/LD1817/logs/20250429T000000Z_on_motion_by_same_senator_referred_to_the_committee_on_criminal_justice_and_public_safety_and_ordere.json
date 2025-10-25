@@ -1,0 +1,12 @@
+{
+  "action": {
+    "description": "On motion by Same Senator REFERRED to the Committee on Criminal Justice and Public Safety and ordered printed pursuant to Joint Rule 218.",
+    "date": "2025-04-29",
+    "organization_id": "~{\"classification\": \"upper\"}",
+    "classification": [
+      "referral-committee"
+    ],
+    "related_entities": []
+  },
+  "bill_id": "LD 1817"
+}

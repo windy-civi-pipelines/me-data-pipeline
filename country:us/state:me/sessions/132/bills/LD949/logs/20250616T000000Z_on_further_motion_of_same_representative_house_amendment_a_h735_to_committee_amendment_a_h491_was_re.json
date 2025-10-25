@@ -1,0 +1,13 @@
+{
+  "action": {
+    "description": "On further motion of same Representative House Amendment \"A\" (H-735) to Committee Amendment \"A\" (H-491) was READ and ADOPTED.",
+    "date": "2025-06-16",
+    "organization_id": "~{\"classification\": \"lower\"}",
+    "classification": [
+      "committee-passage-favorable",
+      "passage"
+    ],
+    "related_entities": []
+  },
+  "bill_id": "LD 949"
+}

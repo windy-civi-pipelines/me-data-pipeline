@@ -1,0 +1,13 @@
+{
+  "action": {
+    "description": "Motion of Speaker FECTEAU of Biddeford, to RECEDE and CONCUR to PASSAGE TO BE ENGROSSED as Amended by Committee Amendment \"A\" (S-331) FAILED.",
+    "date": "2025-06-16",
+    "organization_id": "~{\"classification\": \"lower\"}",
+    "classification": [
+      "amendment-failure",
+      "reading-3"
+    ],
+    "related_entities": []
+  },
+  "bill_id": "LD 1138"
+}

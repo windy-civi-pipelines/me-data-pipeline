@@ -1,0 +1,10 @@
+{
+  "action": {
+    "description": "This being an emergency measure, a two-thirds vote of all the members elected to the House was necessary.",
+    "date": "2025-06-16",
+    "organization_id": "~{\"classification\": \"lower\"}",
+    "classification": [],
+    "related_entities": []
+  },
+  "bill_id": "LD 1965"
+}

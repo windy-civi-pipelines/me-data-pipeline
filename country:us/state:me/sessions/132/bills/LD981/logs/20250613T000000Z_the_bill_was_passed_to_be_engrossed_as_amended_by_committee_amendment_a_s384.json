@@ -1,0 +1,12 @@
+{
+  "action": {
+    "description": "The Bill was PASSED TO BE ENGROSSED as Amended by Committee Amendment \"A\" (S-384).",
+    "date": "2025-06-13",
+    "organization_id": "~{\"classification\": \"lower\"}",
+    "classification": [
+      "reading-3"
+    ],
+    "related_entities": []
+  },
+  "bill_id": "LD 981"
+}

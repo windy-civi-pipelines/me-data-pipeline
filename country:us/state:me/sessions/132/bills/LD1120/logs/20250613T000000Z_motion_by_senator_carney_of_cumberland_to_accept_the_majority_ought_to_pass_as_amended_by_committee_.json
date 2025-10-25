@@ -1,0 +1,12 @@
+{
+  "action": {
+    "description": "Motion by Senator CARNEY of Cumberland to ACCEPT The Majority Ought to Pass As Amended by Committee Amendment \"A\" (H-655) FAILED",
+    "date": "2025-06-13",
+    "organization_id": "~{\"classification\": \"upper\"}",
+    "classification": [
+      "amendment-failure"
+    ],
+    "related_entities": []
+  },
+  "bill_id": "LD 1120"
+}

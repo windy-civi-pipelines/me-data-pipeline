@@ -1,0 +1,12 @@
+{
+  "action": {
+    "description": "Committee Amendment \"A\" (H-1) as Amended by Senate Amendment \"F\" (S-6) thereto ADOPTED In NON-CONCURRENCE",
+    "date": "2025-03-11",
+    "organization_id": "~{\"classification\": \"upper\"}",
+    "classification": [
+      "committee-passage-favorable"
+    ],
+    "related_entities": []
+  },
+  "bill_id": "LD 209"
+}

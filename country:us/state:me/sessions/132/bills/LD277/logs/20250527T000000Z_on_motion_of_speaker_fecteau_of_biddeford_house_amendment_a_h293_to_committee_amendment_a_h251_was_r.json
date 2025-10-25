@@ -1,0 +1,13 @@
+{
+  "action": {
+    "description": "On motion of Speaker FECTEAU of Biddeford, House Amendment \"A\" (H-293) to Committee Amendment \"A\" (H-251) was READ and ADOPTED.",
+    "date": "2025-05-27",
+    "organization_id": "~{\"classification\": \"lower\"}",
+    "classification": [
+      "committee-passage-favorable",
+      "passage"
+    ],
+    "related_entities": []
+  },
+  "bill_id": "LD 277"
+}

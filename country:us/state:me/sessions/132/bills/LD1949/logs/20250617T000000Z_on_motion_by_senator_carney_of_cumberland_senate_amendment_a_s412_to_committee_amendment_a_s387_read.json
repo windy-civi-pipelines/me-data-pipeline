@@ -1,0 +1,12 @@
+{
+  "action": {
+    "description": "On motion by Senator CARNEY of Cumberland Senate Amendment \"A\" (S-412) to Committee Amendment \"A\" (S-387) READ and ADOPTED",
+    "date": "2025-06-17",
+    "organization_id": "~{\"classification\": \"upper\"}",
+    "classification": [
+      "committee-passage-favorable"
+    ],
+    "related_entities": []
+  },
+  "bill_id": "LD 1949"
+}

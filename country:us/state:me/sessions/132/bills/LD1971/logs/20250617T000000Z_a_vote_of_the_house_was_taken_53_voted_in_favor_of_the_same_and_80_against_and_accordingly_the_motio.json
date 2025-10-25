@@ -1,0 +1,10 @@
+{
+  "action": {
+    "description": "A vote of the House was taken. 53 voted in favor of the same and 80 against, and accordingly the motion to move the PREVIOUS QUESTION FAILED.",
+    "date": "2025-06-17",
+    "organization_id": "~{\"classification\": \"lower\"}",
+    "classification": [],
+    "related_entities": []
+  },
+  "bill_id": "LD 1971"
+}

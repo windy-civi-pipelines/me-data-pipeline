@@ -1,0 +1,12 @@
+{
+  "action": {
+    "description": "Subsequently, under suspension of the rules and WITHOUT REFERENCE to a Committee, the Bill was READ ONCE.",
+    "date": "2025-05-07",
+    "organization_id": "~{\"classification\": \"lower\"}",
+    "classification": [
+      "reading-1"
+    ],
+    "related_entities": []
+  },
+  "bill_id": "LD 1948"
+}

@@ -1,0 +1,10 @@
+{
+  "action": {
+    "description": "Reported by Representative MATHIESON for the Maine Health Data Organization pursuant to the Maine Revised Statutes, Title 5, section 8072.",
+    "date": "2025-02-20",
+    "organization_id": "~{\"classification\": \"lower\"}",
+    "classification": [],
+    "related_entities": []
+  },
+  "bill_id": "LD 729"
+}

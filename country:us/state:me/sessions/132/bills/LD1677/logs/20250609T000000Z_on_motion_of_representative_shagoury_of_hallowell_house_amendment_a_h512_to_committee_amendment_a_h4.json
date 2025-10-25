@@ -1,0 +1,13 @@
+{
+  "action": {
+    "description": "On motion of Representative SHAGOURY of Hallowell, House Amendment \"A\" (H-512) to Committee Amendment \"A\" (H-442) was READ and ADOPTED.",
+    "date": "2025-06-09",
+    "organization_id": "~{\"classification\": \"lower\"}",
+    "classification": [
+      "committee-passage-favorable",
+      "passage"
+    ],
+    "related_entities": []
+  },
+  "bill_id": "LD 1677"
+}

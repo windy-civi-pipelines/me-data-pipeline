@@ -1,0 +1,10 @@
+{
+  "action": {
+    "description": "Bill RECALLED From Governor (Pursuant to Joint Order - House Paper 1330)",
+    "date": "2025-06-02",
+    "organization_id": "~{\"classification\": \"lower\"}",
+    "classification": [],
+    "related_entities": []
+  },
+  "bill_id": "LD 1389"
+}

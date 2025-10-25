@@ -1,0 +1,12 @@
+{
+  "action": {
+    "description": "On motion of Representative MATHIESON of Kittery, the Bill was REFERRED to the Committee on JUDICIARY.",
+    "date": "2025-02-04",
+    "organization_id": "~{\"classification\": \"lower\"}",
+    "classification": [
+      "referral-committee"
+    ],
+    "related_entities": []
+  },
+  "bill_id": "LD 403"
+}

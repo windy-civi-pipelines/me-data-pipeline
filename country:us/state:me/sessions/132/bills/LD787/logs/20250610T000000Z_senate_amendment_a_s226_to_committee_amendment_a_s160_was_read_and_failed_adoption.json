@@ -1,0 +1,12 @@
+{
+  "action": {
+    "description": "Senate Amendment \"A\" (S-226) to Committee Amendment \"A\" (S-160) was READ and FAILED ADOPTION.",
+    "date": "2025-06-10",
+    "organization_id": "~{\"classification\": \"lower\"}",
+    "classification": [
+      "amendment-failure"
+    ],
+    "related_entities": []
+  },
+  "bill_id": "LD 787"
+}

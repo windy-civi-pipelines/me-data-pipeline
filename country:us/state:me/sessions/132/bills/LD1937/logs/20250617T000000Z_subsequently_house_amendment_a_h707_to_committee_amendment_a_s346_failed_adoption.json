@@ -1,0 +1,12 @@
+{
+  "action": {
+    "description": "Subsequently, House Amendment \"A\" (H-707) to Committee Amendment \"A\" (S-346) FAILED ADOPTION.",
+    "date": "2025-06-17",
+    "organization_id": "~{\"classification\": \"lower\"}",
+    "classification": [
+      "amendment-failure"
+    ],
+    "related_entities": []
+  },
+  "bill_id": "LD 1937"
+}

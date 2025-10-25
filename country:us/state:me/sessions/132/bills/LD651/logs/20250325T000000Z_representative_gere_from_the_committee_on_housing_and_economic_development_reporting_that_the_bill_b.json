@@ -1,0 +1,12 @@
+{
+  "action": {
+    "description": "Representative GERE from the Committee on HOUSING AND ECONOMIC DEVELOPMENT Reporting that the Bill be REFERRED to the Committee on EDUCATION AND CULTURAL AFFAIRS.",
+    "date": "2025-03-25",
+    "organization_id": "~{\"classification\": \"lower\"}",
+    "classification": [
+      "referral-committee"
+    ],
+    "related_entities": []
+  },
+  "bill_id": "LD 651"
+}

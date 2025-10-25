@@ -1,0 +1,12 @@
+{
+  "action": {
+    "description": "Subsequently, the Bill was PASSED TO BE ENACTED. PREVAILED",
+    "date": "2025-05-21",
+    "organization_id": "~{\"classification\": \"upper\"}",
+    "classification": [
+      "passage"
+    ],
+    "related_entities": []
+  },
+  "bill_id": "LD 895"
+}

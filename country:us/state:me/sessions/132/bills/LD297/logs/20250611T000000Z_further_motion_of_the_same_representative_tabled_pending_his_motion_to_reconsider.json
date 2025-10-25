@@ -1,0 +1,10 @@
+{
+  "action": {
+    "description": "Further motion of the same Representative, TABLED pending his motion to RECONSIDER.",
+    "date": "2025-06-11",
+    "organization_id": "~{\"classification\": \"lower\"}",
+    "classification": [],
+    "related_entities": []
+  },
+  "bill_id": "LD 297"
+}

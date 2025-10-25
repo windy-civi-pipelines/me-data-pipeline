@@ -1,0 +1,12 @@
+{
+  "action": {
+    "description": "READ and PASSED, in concurrence.",
+    "date": "2024-12-04",
+    "organization_id": "~{\"classification\": \"upper\"}",
+    "classification": [
+      "passage"
+    ],
+    "related_entities": []
+  },
+  "bill_id": "HP 1"
+}

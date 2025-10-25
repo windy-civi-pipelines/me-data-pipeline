@@ -1,0 +1,13 @@
+{
+  "action": {
+    "description": "Motion of Representative CLOUTIER of Lewiston to RECEDE and CONCUR to PASSAGE TO BE ENGROSSED as Amended by Committee Amendment \"A\" (S-231) and Senate Amendment \"A\" (S-430) FAILED.",
+    "date": "2025-06-18",
+    "organization_id": "~{\"classification\": \"lower\"}",
+    "classification": [
+      "amendment-failure",
+      "reading-3"
+    ],
+    "related_entities": []
+  },
+  "bill_id": "LD 1960"
+}

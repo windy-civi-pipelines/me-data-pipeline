@@ -1,0 +1,10 @@
+{
+  "action": {
+    "description": "On motion of Representative LEE of Auburn, House Amendment \"A\" (H-640) was READ.",
+    "date": "2025-06-11",
+    "organization_id": "~{\"classification\": \"lower\"}",
+    "classification": [],
+    "related_entities": []
+  },
+  "bill_id": "LD 508"
+}

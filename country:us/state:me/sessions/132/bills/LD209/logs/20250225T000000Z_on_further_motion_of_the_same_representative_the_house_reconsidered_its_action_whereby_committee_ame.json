@@ -1,0 +1,12 @@
+{
+  "action": {
+    "description": "On further motion of the same Representative the House RECONSIDERED its action whereby Committee Amendment \"A\" (H-1) was ADOPTED.",
+    "date": "2025-02-25",
+    "organization_id": "~{\"classification\": \"lower\"}",
+    "classification": [
+      "committee-passage-favorable"
+    ],
+    "related_entities": []
+  },
+  "bill_id": "LD 209"
+}

@@ -1,0 +1,10 @@
+{
+  "action": {
+    "description": "Committee Amendment \"A\" (H-746) was READ.",
+    "date": "2025-06-17",
+    "organization_id": "~{\"classification\": \"lower\"}",
+    "classification": [],
+    "related_entities": []
+  },
+  "bill_id": "LD 1270"
+}

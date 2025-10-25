@@ -1,0 +1,10 @@
+{
+  "action": {
+    "description": "On further motion of same Representative TABLED pending RECONSIDERATION whereby the Bill FAILED PASSAGE TO BE ENACTED.",
+    "date": "2025-02-25",
+    "organization_id": "~{\"classification\": \"lower\"}",
+    "classification": [],
+    "related_entities": []
+  },
+  "bill_id": "LD 209"
+}

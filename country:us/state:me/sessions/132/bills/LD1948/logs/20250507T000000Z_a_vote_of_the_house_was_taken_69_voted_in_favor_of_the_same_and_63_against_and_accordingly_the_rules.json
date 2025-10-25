@@ -1,0 +1,10 @@
+{
+  "action": {
+    "description": "A vote of the House was taken. 69 voted in favor of the same and 63 against, and accordingly the rules were SUSPENDED and the Bill was given its SECOND READING without REFERENCE to the Committee on Bills in the Second Reading.",
+    "date": "2025-05-07",
+    "organization_id": "~{\"classification\": \"lower\"}",
+    "classification": [],
+    "related_entities": []
+  },
+  "bill_id": "LD 1948"
+}

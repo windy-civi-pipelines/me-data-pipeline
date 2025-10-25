@@ -1,0 +1,12 @@
+{
+  "action": {
+    "description": "On further motion by Same Senator Senate Amendment \"B\" (S-468) to Committee Amendment \"A\" (H-660) READ and ADOPTED. PREVAILED",
+    "date": "2025-06-25",
+    "organization_id": "~{\"classification\": \"upper\"}",
+    "classification": [
+      "committee-passage-favorable"
+    ],
+    "related_entities": []
+  },
+  "bill_id": "LD 1126"
+}

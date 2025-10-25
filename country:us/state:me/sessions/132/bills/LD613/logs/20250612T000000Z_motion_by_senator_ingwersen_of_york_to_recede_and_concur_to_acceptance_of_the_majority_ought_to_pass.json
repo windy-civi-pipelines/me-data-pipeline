@@ -1,0 +1,12 @@
+{
+  "action": {
+    "description": "Motion by Senator INGWERSEN of York to RECEDE AND CONCUR to ACCEPTANCE of The Majority Ought to Pass As Amended by Committee Amendment \"A\" (H-433) Report FAILED",
+    "date": "2025-06-12",
+    "organization_id": "~{\"classification\": \"upper\"}",
+    "classification": [
+      "amendment-failure"
+    ],
+    "related_entities": []
+  },
+  "bill_id": "LD 613"
+}

@@ -1,0 +1,12 @@
+{
+  "action": {
+    "description": "The RESOLUTION was REFERRED to the Committee on VETERANS AND LEGAL AFFAIRS.",
+    "date": "2025-04-03",
+    "organization_id": "~{\"classification\": \"lower\"}",
+    "classification": [
+      "referral-committee"
+    ],
+    "related_entities": []
+  },
+  "bill_id": "LD 1437"
+}

@@ -1,0 +1,12 @@
+{
+  "action": {
+    "description": "On motion by Senator GROHOSKI of Hancock Senate Amendment \"A\" (S-226) to Committee Amendment \"A\" (S-160) READ and ADOPTED",
+    "date": "2025-06-02",
+    "organization_id": "~{\"classification\": \"upper\"}",
+    "classification": [
+      "committee-passage-favorable"
+    ],
+    "related_entities": []
+  },
+  "bill_id": "LD 787"
+}

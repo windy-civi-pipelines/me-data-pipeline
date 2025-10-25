@@ -1,0 +1,10 @@
+{
+  "action": {
+    "description": "CONSENT CALENDAR - FIRST DAY",
+    "date": "2025-05-28",
+    "organization_id": "~{\"classification\": \"lower\"}",
+    "classification": [],
+    "related_entities": []
+  },
+  "bill_id": "LD 88"
+}

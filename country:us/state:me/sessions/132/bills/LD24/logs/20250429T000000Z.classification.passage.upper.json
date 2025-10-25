@@ -1,0 +1,12 @@
+{
+  "action": {
+    "description": "FINALLY PASSED - 2/3 Elected Required, in concurrence.",
+    "date": "2025-04-29",
+    "organization_id": "~{\"classification\": \"upper\"}",
+    "classification": [
+      "passage"
+    ],
+    "related_entities": []
+  },
+  "bill_id": "LD 24"
+}

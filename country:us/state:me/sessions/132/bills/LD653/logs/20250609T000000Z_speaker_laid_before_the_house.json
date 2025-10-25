@@ -1,0 +1,10 @@
+{
+  "action": {
+    "description": "Speaker laid before the House",
+    "date": "2025-06-09",
+    "organization_id": "~{\"classification\": \"lower\"}",
+    "classification": [],
+    "related_entities": []
+  },
+  "bill_id": "LD 653"
+}

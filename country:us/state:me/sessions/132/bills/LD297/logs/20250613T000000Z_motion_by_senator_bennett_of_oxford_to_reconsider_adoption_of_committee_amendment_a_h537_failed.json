@@ -1,0 +1,12 @@
+{
+  "action": {
+    "description": "Motion by Senator BENNETT of Oxford to RECONSIDER ADOPTION of Committee Amendment \"A\" (H-537) FAILED",
+    "date": "2025-06-13",
+    "organization_id": "~{\"classification\": \"upper\"}",
+    "classification": [
+      "amendment-failure"
+    ],
+    "related_entities": []
+  },
+  "bill_id": "LD 297"
+}

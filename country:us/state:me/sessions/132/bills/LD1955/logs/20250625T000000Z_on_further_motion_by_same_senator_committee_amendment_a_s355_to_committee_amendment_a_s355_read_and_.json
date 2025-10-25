@@ -1,0 +1,13 @@
+{
+  "action": {
+    "description": "On further motion by Same Senator Committee Amendment \"A\" (S-355) to Committee Amendment \"A\" (S-355) READ and ADOPTED.",
+    "date": "2025-06-25",
+    "organization_id": "~{\"classification\": \"upper\"}",
+    "classification": [
+      "committee-passage-favorable",
+      "passage"
+    ],
+    "related_entities": []
+  },
+  "bill_id": "LD 1955"
+}

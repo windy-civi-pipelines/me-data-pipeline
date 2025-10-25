@@ -1,0 +1,12 @@
+{
+  "action": {
+    "description": "Subsequently Committee Amendment \"A\" (H-759) as Amended by Senate Amendment \"E\" (S-438) thereto ADOPTED",
+    "date": "2025-06-18",
+    "organization_id": "~{\"classification\": \"upper\"}",
+    "classification": [
+      "committee-passage-favorable"
+    ],
+    "related_entities": []
+  },
+  "bill_id": "LD 210"
+}
