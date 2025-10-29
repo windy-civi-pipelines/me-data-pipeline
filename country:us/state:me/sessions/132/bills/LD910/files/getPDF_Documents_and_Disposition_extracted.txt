@@ -1,0 +1,112 @@
+Title: An Act to Collect Data to Better Understand the Consumer's Health
+Official Title: An Act to Collect Data to Better Understand the Consumer's Health
+Number of Sections: 1
+Source: versions - Documents and Disposition
+Media Type: application/pdf
+Strikethrough Detection: 2 sections found
+
+================================================================================
+
+Section 1:
+132nd MAINE LEGISLATURE
+FIRST REGULAR SESSION-2025
+Legislative Document No. 910
+S.P. 400 In Senate, March 11, 2025
+Insurance Experience
+Received by the Secretary of the Senate on March 5, 2025. Referred to the Committee on
+Health Coverage, Insurance and Financial Services pursuant to Joint Rule 308.2 and ordered
+printed.
+DAREK M. GRANT
+Secretary of the Senate
+Presented by Senator TEPLER of Sagadahoc.
+Cosponsored by Representative ARFORD of Brunswick and
+Senator: BAILEY of York, Representatives: CLUCHEY of Bowdoinham, MASTRACCIO of
+Sanford.
+Printed on recycled paper
+1 Be it enacted by the People of the State of Maine as follows:
+2 Sec. 1. 24-A MRSA §4302, sub-§7 is enacted to read:
+3 7. Claim and prior authorization denial reporting. Beginning in 2026, a carrier
+4 shall provide a quarterly report to the superintendent that identifies the number of claims
+5 for that quarter that were denied and the number of claims for that quarter for which prior
+6 authorization was denied, regardless of whether the claim or the prior authorization was
+7 approved at a later date. The quarterly report must also list the 5 most common reasons for
+8 a claim denial and the 5 most common reasons for a prior authorization denial, in
+9 decreasing order of occurrence.
+10 By January 31st of each year, the superintendent shall submit a report on the information
+11 collected under this subsection to the joint standing committee of the Legislature having
+12 jurisdiction over health coverage, insurance and financial services matters. In addition to
+13 the information provided by carriers under this subsection, the annual report must also
+14 include information provided to the superintendent by the United States Department of
+15 Health and Human Services regarding claim and prior authorization denials under the
+16 federal Affordable Care Act. The committee is authorized to submit legislation related to
+17 the annual report to the session of the Legislature in which the annual report is received.
+18 SUMMARY
+1199 This bill requires a health insurance carrier, beginning in 2026, to provide a quarterly
+2200 report to the Superintendent of Insurance that identifies the number of claims for that
+2211 quarter that were denied, the number of claims for that quarter for which prior authorization
+2222 was denied, the 5 most common reasons for a claim denial and the 5 most common reasons
+2233 for a prior authorization denial. The superintendent is required to submit an annual report
+2244 on that information as well as information provided to the superintendent by the United
+2255 States Department of Health and Human Services regarding claim and prior authorization
+2266 denials under the federal Affordable Care Act to the joint standing committee of the
+2277 Legislature having jurisdiction over health coverage, insurance and financial services
+2288 matters. The committee is authorized to submit legislation related to the annual report to
+2299 the session of the Legislature in which the annual report is received.
+Page 1 - 132LR1992(01)
+[DELETED: tN0I]
+[DELETED: B 7sfaaa c d a t 5 m c r f a p a d id0B1c2j3t4i5H6f7t9T0r1q2w3f4o5S6d u t f A C A t t j s c o t7L h j o h c i a f s8m9t]
+
+
+================================================================================
+
+Raw Text:
+132nd MAINE LEGISLATURE
+FIRST REGULAR SESSION-2025
+Legislative Document No. 910
+S.P. 400 In Senate, March 11, 2025
+An Act to Collect Data to Better Understand the Consumer's Health
+Insurance Experience
+Received by the Secretary of the Senate on March 5, 2025. Referred to the Committee on
+Health Coverage, Insurance and Financial Services pursuant to Joint Rule 308.2 and ordered
+printed.
+DAREK M. GRANT
+Secretary of the Senate
+Presented by Senator TEPLER of Sagadahoc.
+Cosponsored by Representative ARFORD of Brunswick and
+Senator: BAILEY of York, Representatives: CLUCHEY of Bowdoinham, MASTRACCIO of
+Sanford.
+Printed on recycled paper
+
+1 Be it enacted by the People of the State of Maine as follows:
+2 Sec. 1. 24-A MRSA §4302, sub-§7 is enacted to read:
+3 7. Claim and prior authorization denial reporting. Beginning in 2026, a carrier
+4 shall provide a quarterly report to the superintendent that identifies the number of claims
+5 for that quarter that were denied and the number of claims for that quarter for which prior
+6 authorization was denied, regardless of whether the claim or the prior authorization was
+7 approved at a later date. The quarterly report must also list the 5 most common reasons for
+8 a claim denial and the 5 most common reasons for a prior authorization denial, in
+9 decreasing order of occurrence.
+10 By January 31st of each year, the superintendent shall submit a report on the information
+11 collected under this subsection to the joint standing committee of the Legislature having
+12 jurisdiction over health coverage, insurance and financial services matters. In addition to
+13 the information provided by carriers under this subsection, the annual report must also
+14 include information provided to the superintendent by the United States Department of
+15 Health and Human Services regarding claim and prior authorization denials under the
+16 federal Affordable Care Act. The committee is authorized to submit legislation related to
+17 the annual report to the session of the Legislature in which the annual report is received.
+18 SUMMARY
+1199 This bill requires a health insurance carrier, beginning in 2026, to provide a quarterly
+2200 report to the Superintendent of Insurance that identifies the number of claims for that
+2211 quarter that were denied, the number of claims for that quarter for which prior authorization
+2222 was denied, the 5 most common reasons for a claim denial and the 5 most common reasons
+2233 for a prior authorization denial. The superintendent is required to submit an annual report
+2244 on that information as well as information provided to the superintendent by the United
+2255 States Department of Health and Human Services regarding claim and prior authorization
+2266 denials under the federal Affordable Care Act to the joint standing committee of the
+2277 Legislature having jurisdiction over health coverage, insurance and financial services
+2288 matters. The committee is authorized to submit legislation related to the annual report to
+2299 the session of the Legislature in which the annual report is received.
+Page 1 - 132LR1992(01)
+
+[DELETED: tN0I]
+[DELETED: B 7sfaaa c d a t 5 m c r f a p a d id0B1c2j3t4i5H6f7t9T0r1q2w3f4o5S6d u t f A C A t t j s c o t7L h j o h c i a f s8m9t]

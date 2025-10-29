@@ -1,0 +1,751 @@
+Title: An Act to Advance a Clean Energy Economy by Updating Renewable and
+Official Title: An Act to Advance a Clean Energy Economy by Updating Renewable and
+Number of Sections: 13
+Source: versions - Final Disposition
+Media Type: application/pdf
+Strikethrough Detection: 8 sections found
+
+================================================================================
+
+Section 1:
+APPROVED CHAPTER
+JUNE 20, 2025 386
+BY GOVERNOR PUBLIC LAW
+STATE OF MAINE
+_____
+IN THE YEAR OF OUR LORD
+TWO THOUSAND TWENTY-FIVE
+_____
+S.P. 738 - L.D. 1868
+Clean Resource Procurement Laws
+Be it enacted by the People of the State of Maine as follows:
+Sec. 1. 35-A MRSA §3210, sub-§1, as amended by PL 1999, c. 398, Pt. I, §1, is
+further amended to read:
+
+Section 2:
+1. Policy. In order to ensure an adequate and reliable supply of electricity for Maine
+residents and to encourage the use of renewable, clean, efficient and indigenous resources,
+it is the policy of this State to encourage the generation of electricity from renewable, clean
+and efficient sources and to diversify electricity production on which residents of this State
+rely in a manner consistent with this section.
+Sec. 2. 35-A MRSA §3210, sub-§1-A, ¶B, as enacted by PL 2019, c. 477, §1, is
+amended to read:
+B. By January 1, 2050, 100% 2040, 90% of retail sales electricity in the State will
+come from renewable resources and 10% of retail sales electricity in the State will
+come from clean resources.
+Sec. 3. 35-A MRSA §3210, sub-§2, ¶A-4 is enacted to read:
+A-4. "Class III resource" or "clean resource" means a source of generation that
+generates power that can physically be delivered to the control region in which the New
+England Power Pool, or its successor as approved by the Federal Energy Regulatory
+Commission, has authority over transmission, or to the Maritimes Control Area and:
+(1) Is a Class I resource or a Class IA resource;
+(2) Relies on a nuclear power plant or hydroelectric generator that meets all state
+and federal fish passage requirements applicable to the generator; or
+(3) Generates electric energy in a manner that, as determined by the Department
+of Environmental Protection, produces no more than a de minimis level of net
+greenhouse gas emissions and co-pollutant emissions at the point of generation and
+from the fuel supply chain of the facility and has been certified by the Governor's
+Page 1 - 132LR2177(03)
+Energy Office in accordance with rules adopted by the Department of
+Environmental Protection in accordance with this subsection.
+Sec. 4. 35-A MRSA §3210, sub-§2, ¶A-5 is enacted to read:
+A-5. "Clean energy credit" means a tradable instrument that represents an amount of
+electricity generated from an eligible Class III resource.
+Sec. 5. 35-A MRSA §3210, sub-§2, as amended by PL 2019, c. 477, §1, is further
+amended by amending the first blocked paragraph to read:
+The commission shall establish by rule or order standards and procedures necessary to
+implement any definition under this subsection, including but not limited to certifications
+and performance and verification standards necessary for purposes of paragraphs B‑4, D
+and E, and excluding paragraphs A-4 and A-5. Rules adopted under this subsection are
+routine technical rules pursuant to Title 5, chapter 375, subchapter 2‑A.
+Sec. 6. 35-A MRSA §3210, sub-§2, as amended by PL 2019, c. 477, §1, is further
+amended by enacting at the end a new last blocked paragraph to read:
+The Department of Environmental Protection, in coordination with the Governor's Energy
+Office, shall establish by rule standards and procedures necessary to implement the
+definition under paragraph A-4 and verification standards necessary for purposes of
+paragraph A-5. Rules adopted under this subsection are routine technical rules pursuant to
+Title 5, chapter 375, subchapter 2-A.
+Sec. 7. 35-A MRSA §3210, sub-§3-B, ¶A, as enacted by PL 2019, c. 477, §1, is
+amended to read:
+A. Except as provided in paragraph B, beginning January 1, 2020, as a condition of
+licensing pursuant to section 3203, each competitive electricity provider in this State
+must demonstrate in a manner satisfactory to the commission that the percentage of its
+portfolio of supply sources for retail electricity sales in this State, other than to
+customers who have made an election pursuant to subsection 10 that is in effect with
+respect to this subsection, accounted for by Class IA resources is as follows:
+(1) Two and one-half percent for the period from January 1, 2020 to December
+31, 2020;
+(2) Five percent for the period from January 1, 2021 to December 31, 2021;
+(3) Eight percent for the period from January 1, 2022 to December 31, 2022;
+(4) Eleven percent for the period from January 1, 2023 to December 31, 2023;
+(5) Fifteen percent for the period from January 1, 2024 to December 31, 2024;
+(6) Nineteen percent for the period from January 1, 2025 to December 31, 2025;
+(7) Twenty-three percent for the period from January 1, 2026 to December 31,
+2026;
+(8) Twenty-seven percent for the period from January 1, 2027 to December 31,
+2027;
+(9) Thirty-one percent for the period from January 1, 2028 to December 31, 2028;
+Page 2 - 132LR2177(03)
+(10) Thirty-five percent for the period from January 1, 2029 to December 31, 2029;
+and
+(11) Forty percent for the period from January 1, 2030 to December 31, 2030 and
+each year thereafter.;
+(12) Forty-one percent for the period from January 1, 2031 to December 31, 2031;
+(13) Forty-two percent for the period from January 1, 2032 to December 31, 2032;
+(14) Forty-three percent for the period from January 1, 2033 to December 31,
+2033;
+(15) Forty-four percent for the period from January 1, 2034 to December 31, 2034;
+(16) Forty-five percent for the period from January 1, 2035 to December 31, 2035;
+(17) Forty-six percent for the period from January 1, 2036 to December 31, 2036;
+(18) Forty-seven percent for the period from January 1, 2037 to December 31,
+2037;
+(19) Forty-eight percent for the period from January 1, 2038 to December 31,
+2038;
+(20) Forty-nine percent for the period from January 1, 2039 to December 31, 2039;
+and
+(21) Fifty percent for the period from January 1, 2040 to December 31, 2040 and
+each year thereafter.
+Class IA resources used to satisfy the requirements of this paragraph may not be used
+to satisfy the requirements of subsection 3 or, 3‑A or 3-D.
+Sec. 8. 35-A MRSA §3210, sub-§3-D is enacted to read:
+3-D. Portfolio requirements; Class III resources. Portfolio requirements for Class
+III resources are governed by this subsection.
+A. As a condition of licensing pursuant to section 3203, each competitive electricity
+provider in the State must demonstrate in a manner satisfactory to the commission that
+the percentage of its portfolio of supply sources for retail electricity sales in the State
+accounted for by Class III resources is as follows:
+(1) For calendar year 2031, 1%;
+(2) For calendar year 2032, 2%;
+(3) For calendar year 2033, 3%;
+(4) For calendar year 2034, 4%;
+(5) For calendar year 2035, 5%;
+(6) For calendar year 2036, 6%;
+(7) For calendar year 2037, 7%;
+(8) For calendar year 2038, 8%;
+(9) For calendar year 2039, 9%; and
+(10) For calendar year 2040, and each year thereafter, 10%.
+Page 3 - 132LR2177(03)
+Retail electricity sales pursuant to a supply contract or standard-offer service
+arrangement executed by a competitive electricity provider that is in effect on
+September 30, 2025 are exempt from the requirements of this subsection until the end
+date of the existing term of the supply contract or standard-offer service arrangement.
+Class I or IA resources used to satisfy the requirements of this paragraph may not be
+used to satisfy the requirements of subsection 3 or 3-A.
+B. Suspensions of scheduled increases in the portfolio requirements as provided in
+paragraph A are governed by this paragraph.
+(1) If by March 31, 2031 and every 2 years thereafter the commission determines
+that investment in Class III resources in the preceding 2 calendar years has not
+been sufficient for competitive electricity providers to meet the portfolio
+requirements under paragraph A and that the resulting use of clean energy credits
+pursuant to subsection 8 or the alternative compliance payment mechanism
+pursuant to subsection 9, or both of these methods, has burdened electricity
+customers in the State without providing the benefits of new Class III resources,
+the commission may suspend all or some of the future scheduled increases in the
+portfolio requirements under paragraph A.
+(2) If the commission finds that more than 10% of the obligations required to
+satisfy the portfolio requirements for Class III resources under paragraph A are met
+through alternative compliance payments made pursuant to subsection 9 in 3
+consecutive calendar years, the commission shall temporarily suspend all or some
+of the future scheduled increases in the portfolio requirements under paragraph A.
+(3) If the commission suspends any scheduled increases in the portfolio
+requirements under paragraph A pursuant to subparagraph (1) or (2), the
+commission shall report its rationale for suspension to the joint standing committee
+of the Legislature having jurisdiction over energy and utilities matters, the
+Governor's Energy Office and the Office of the Public Advocate and make
+recommendations for modifications to the schedule of increases. The commission
+may resume increases, limited to no more than one percentage point per year over
+the previous year, in the portfolio requirements after a minimum of one year unless
+otherwise directed by the Legislature.
+C. No later than March 31, 2027 and annually thereafter, the commission shall submit
+a report regarding the status of Class III resources in the State and compliance with the
+portfolio requirements under paragraph A to the joint standing committee of the
+Legislature having jurisdiction over utilities and energy matters. The report must
+include, but is not limited to, a description of Class III resources available to meet the
+portfolio requirements under paragraph A, documentation of the loss of any existing
+clean generation capacity in the State, the status of implementation of the portfolio
+requirements under paragraph A, including any suspensions pursuant to paragraph B,
+and recommendations to stimulate investment in Class III resources.
+The commission shall adopt rules to implement this subsection. Rules adopted under this
+subsection are routine technical rules pursuant to Title 5, chapter 375, subchapter 2-A.
+Sec. 9. 35-A MRSA §3210, sub-§7, as amended by PL 2011, c. 283, §1, is further
+amended to read:
+Page 4 - 132LR2177(03)
+
+Section 3:
+7. Information. To the extent that funding is available, the commission shall inform
+electricity consumers in this State of the benefits of electricity generated in this State using
+renewable and clean resources and of the opportunities available in this State to purchase
+electricity that is generated using those resources, including, but not limited to, the green
+power offer and other green power supply products and renewable energy credit and clean
+energy credit products certified under section 3212‑A 3212-B. The commission may not
+promote any renewable or clean resources over others. The commission may apply for,
+receive and expend grant money from the United States Department of Energy and other
+government agencies for this purpose. The commission may create or cause to be created
+a brand or logo to identify Maine renewable and clean resources, including the green power
+offer and other green power supply products and renewable energy credit and clean energy
+credit products certified under section 3212‑A 3212-B, to consumers. The commission
+shall register any mark or logo created pursuant to this subsection with the United States
+Patent and Trademark Office or in accordance with Title 10, chapter 301‑A, or both. Any
+brand or logo created pursuant to this subsection may only be used in accordance with the
+purposes of this subsection as approved by the commission.
+Sec. 10. 35-A MRSA §3210, sub-§8, as amended by PL 2019, c. 477, §1, is further
+amended to read:
+
+Section 4:
+8. Credit trading. The commission shall allow competitive electricity providers to
+satisfy the portfolio requirements of subsections 3, 3‑A, 3‑B and, 3‑C and 3-D through the
+use of renewable energy credits and clean energy credits if the commission determines that
+a reliable system of electrical attribute trading exists. When renewable energy credits are
+used to satisfy the portfolio requirements of subsections 3 and 3‑A, the value of a renewable
+energy credit for electricity generated by a community-based renewable energy project, as
+defined in section 3602, that is participating in the community-based renewable energy
+pilot program established in section 3603 and elects the renewable energy credit multiplier
+under section 3605 is 150% of the amount of the electricity.
+Sec. 11. 35-A MRSA §3210, sub-§9, as amended by PL 2023, c. 306, §1 and c.
+361, §2, is further amended to read:
+
+Section 5:
+9. Alternative compliance payment. The commission shall allow competitive
+electricity providers to satisfy the portfolio requirements for Class I resources under
+subsection 3‑A, Class IA resources under subsection 3‑B, thermal renewable energy credits
+under subsection 3‑C and, Class II resources under subsection 3 and Class III resources
+under subsection 3-D through an alternative compliance payment mechanism in
+accordance with this subsection.
+A. The commission shall set the alternative compliance payment rates by rule and shall
+publish the alternative compliance payment rates by January 31st of each year. In
+setting the rates, the commission shall take into account prevailing market prices,
+standard-offer service prices for electricity, alignment with other New England states,
+reliance on alternative compliance payments to meet the requirements of subsections
+3, 3‑A, 3‑B and, 3‑C and 3-D and investment in Class I, Class IA and, Class II and
+Class III resources and thermal renewable energy credits in the State during the
+previous calendar year.
+(1) The alternative compliance payment rate for the requirements under
+subsections 3‑A, 3‑B and, 3‑C and 3-D may not be greater than $50.
+Page 5 - 132LR2177(03)
+(2) The alternative compliance payment rate for the requirement under subsection
+3 may not be greater than $10.
+B. The commission shall collect alternative compliance payments to meet the
+requirements of subsections 3, 3‑A and, 3‑B and 3-D made by competitive electricity
+providers and shall use all funds collected under this paragraph to provide financial
+assistance for low-income households in accordance with section 3214, subsection 2.
+C. The commission shall collect alternative compliance payments to meet the
+requirements of subsection 3‑C made by competitive electricity providers and shall
+deposit all funds collected under this paragraph in the Thermal Energy Investment
+Fund established under section 10128, subsection 2 to be used to fund incentives and
+low-interest or no-interest loans to businesses, municipalities, educational institutions
+and nonprofit entities in the State for the installation of new thermal energy-derived
+projects.
+The commission shall adopt rules to implement this subsection. Rules adopted to establish
+the alternative compliance payment rates governed by paragraph A, subparagraphs (1) and
+(2) routine technical rules as defined in Title 5, chapter 375, subchapter 2‑A.
+Sec. 12. 35-A MRSA §3210, sub-§11, as amended by PL 2023, c. 321, §1, is
+further amended to read:
+
+Section 6:
+11. Report; renewable energy credit portfolio requirements. By March 31, 2024
+and every 3 years thereafter, the Governor's Energy Office shall submit a report to the joint
+standing committee of the Legislature having jurisdiction over energy matters based on a
+review, conducted in consultation with the commission, of the status and impacts of the
+implementation of the portfolio requirements under subsections 3, 3‑A, 3‑B and, 3‑C and
+3-D. The review must be completed through a public process and must include
+consideration of impacts of these renewable portfolio requirements on energy prices and
+assessment of benefits, including, but not limited to, on greenhouse gas emissions and the
+economy of the State. After reviewing the report required under this subsection, the
+committee may report out legislation regarding renewable portfolio requirements.
+Sec. 13. 35-A MRSA §3210-C, sub-§1, ¶A, as amended by PL 2007, c. 293, §1,
+is further amended to read:
+A. "Capacity resource" means any renewable capacity resource, nonrenewable
+capacity resource, clean resource or interruptible, demand response or energy
+efficiency capacity resource.
+Sec. 14. 35-A MRSA §3210-C, sub-§1, ¶A-2 is enacted to read:
+A-2. "Clean energy credit" has the same meaning as in section 3210, subsection 2,
+paragraph A-5.
+Sec. 15. 35-A MRSA §3210-C, sub-§1, ¶A-3 is enacted to read:
+A-3. "Clean resource" has the same meaning as in section 3210, subsection 2,
+paragraph A-4.
+Sec. 16. 35-A MRSA §3210-C, sub-§3, ¶D, as enacted by PL 2017, c. 134, §2, is
+repealed.
+Sec. 17. 35-A MRSA §3210-C, sub-§3, ¶E is enacted to read:
+Page 6 - 132LR2177(03)
+E. Clean energy credits associated with clean resources. The price paid by the investor-
+owned transmission and distribution utility for the clean energy credits must be lower
+than the price received for those clean energy credits at the time they are sold by the
+investor-owned transmission and distribution utility.
+Sec. 18. 35-A MRSA §3210-C, sub-§3, as amended by PL 2023, c. 516, Pt. B,
+
+Section 7:
+§49, is further amended by amending the last blocked paragraph to read:
+By January 1st of each year, the commission shall submit a report to the joint standing
+committee of the Legislature having jurisdiction over energy and utilities matters on the
+procurement of transmission capacity, capacity resources, energy and, renewable energy
+credits and clean energy credits in the preceding 12 months under this subsection, resources
+procured under section 3210-K and deep-water offshore wind energy pilot projects under
+Public Law 2009, chapter 615, Part A, section 6, as amended by Public Law 2013, chapter
+369, Part H, sections 1 and 2 and chapter 378, sections 4 to 6. The report must contain
+information, including, but not limited to, the number of requests for proposals by the
+commission for long-term contracts, the number of responses to requests for proposals
+pursuant to which a contract has been finalized, the number of executed term sheets or
+contracts resulting from the requests for proposals, the commission's initial estimates of
+ratepayer costs or savings associated with any approved term sheet, actual ratepayer costs
+or savings for the previous year associated with any procurement, the total ratepayer costs
+or savings at the time of the report and the megawatt-hours, renewable energy credits, clean
+energy credits or capacity produced or procured through contracts. The report must include
+actual ratepayer costs or savings for the previous year associated with any contract executed
+under the Community-based Renewable Energy Act. The report must also include a plan
+for the succeeding 12 months pertaining to the procurement of capacity resources, energy
+and, renewable energy credits and clean energy credits, including dates for requests for
+proposals, and types of resources to be procured.
+Sec. 19. 35-A MRSA §3210-C, sub-§3-A is enacted to read:
+3-A. Regional coordination. If the commission determines that the likely benefits to
+ratepayers in the State will exceed the likely costs, the commission may coordinate with
+one or more states to procure, through long-term contracts or other mechanisms,
+transmission capacity, capacity resources, renewable energy credits or clean energy credits.
+Sec. 20. 35-A MRSA §3210-C, sub-§7, as amended by PL 2009, c. 518, §5, is
+further amended to read:
+
+Section 8:
+7. Disposition of resources. An investor-owned transmission and distribution utility
+shall sell capacity resources, energy or, renewable energy credits or clean energy credits
+purchased pursuant to subsection 3 or 3-A or take other action relative to such capacity
+resources, energy or, renewable energy credits or clean energy credits as directed by the
+commission.
+Sec. 21. 35-A MRSA §3210-C, sub-§9, as amended by PL 2009, c. 518, §6, is
+further amended to read:
+
+Section 9:
+9. Contract payments. Except as provided in paragraphs A and B, contracts for
+capacity resources, related energy or, renewable energy credits or clean energy credits
+entered into pursuant to this section must provide that payments will be made only after
+Page 7 - 132LR2177(03)
+contracted amounts of capacity resources, related energy or renewable energy credits have
+been provided.
+A. Contracts with the Efficiency Maine Trust established in section 10103 for energy
+efficiency capacity resources and related energy entered into pursuant to this section
+may provide that up to 20% of the total payment be made at the start of the contract.
+Such contracts must provide that the remaining payments will be made only after the
+supplier has demonstrated, according to measurement and verification protocols
+specified in rules adopted by the Efficiency Maine Trust Board pursuant to section
+10105, subsection 5, that physical installations have been completed and contracted
+amounts of capacity resources and related energy have been substantiated.
+B. Contracts with any entity other than the Efficiency Maine Trust established in
+
+Section 10:
+section 10103 for energy efficiency capacity resources and related energy must provide
+that payments will be made only after the supplier has demonstrated, according to
+measurement and verification protocols specified in rules adopted by the Efficiency
+Maine Trust Board pursuant to section 10105, subsection 5, that physical installations
+have been completed and contracted amounts of capacity resources and related energy
+have been substantiated.
+Sec. 22. 35-A MRSA §3212-B, sub-§1, as enacted by PL 2021, c. 40, §1, is
+amended to read:
+
+Section 11:
+1. Definitions. As used in this section, unless the context otherwise indicates, the
+following terms have the following meanings.
+A. "Green power supply" means electricity or renewable energy credits or clean energy
+credits for electricity generated from renewable capacity resources as defined in section
+3210, subsection 2, paragraph B‑3, including electricity generated by community-
+based renewable energy projects as defined in section 3602, subsection 1.
+A-1. "Clean energy credit" has the same meaning as in section 3210, subsection 2,
+paragraph A-5.
+B. "Renewable energy credit" has the same meaning as in section 3210, subsection 2,
+paragraph B‑2.
+Sec. 23. 35-A MRSA §3212-B, sub-§2, as enacted by PL 2021, c. 40, §1, is
+amended to read:
+
+Section 12:
+2. Certification; information in bill inserts. Information regarding the availability
+of the green power offer and of green power supply products and, renewable energy credit
+products and clean energy credit products that are certified by the commission may, at the
+option of the provider of the offer or the product and with the cooperation of the
+transmission and distribution utility, be presented through inserts in customer bills issued
+by transmission and distribution utilities. The costs of the inserts, including but not limited
+to printing and postage costs, are the responsibility of the provider of the offer or product.
+The commission may define the criteria for certification of green power supply products
+and, renewable energy credit products and clean energy credit products by order or by rule,
+and the commission may limit the criteria for certification for consumer protection and
+eligibility verification purposes. Rules adopted to implement this subsection are routine
+technical rules as defined in Title 5, chapter 375, subchapter 2‑A.
+Page 8 - 132LR2177(03)
+Sec. 24. Public Utilities Commission; rules. The Public Utilities Commission
+may initiate rulemaking to amend its rule Chapter 316: Long-term Contracting and
+Resource Adequacy to implement the Maine Revised Statutes, Title 35-A, section 3210-C.
+Notwithstanding Title 35-A, section 3210-C, subsection 10, rules adopted pursuant to this
+
+Section 13:
+section are routine technical rules as defined in Title 5, chapter 375, subchapter 2-A.
+Page 9 - 132LR2177(03)
+[DELETED:   " I r o " r m a s o g tDC]
+[DELETED:  O i a w r a b t D o s e b r s a p n t i t u p A a v s n f p o o s s f r e s i t S o t t]
+[DELETED:  e s p t a s c o s s e b a c e p t i i e o s f c e p t m t p t s 8 o t a c p m t s 9 o b o t m h b e a c p m p t s 9 i 3 I t c s a s i i t p u p A p t s ( o ( t t L h j o e a u m t E O a t O o t P A a m r u p A t t j s c o t]
+[DELETED:   A c p  T c s a c p t s t p r f C I r u s 3 t a a c p m i I r a t r e c i t S d t  T a c p r f t r u]
+[DELETED:   T c s c a c p t m t  T c s c a c p t m t  T r m b c t a p p a m i o t S  A r t r r u t s t  " r m a r c r n r c r o i d r o e  " r h t s m a i s 3 s 2]
+[DELETED:  o m s t p t l c o o m]
+[DELETED:  h d a t m a v p s 2 p B i e g b c o t p o t o o t p a w t c o t]
+[DELETED: .P  i r t a i r C 3 L C a]
+
+
+================================================================================
+
+Raw Text:
+APPROVED CHAPTER
+JUNE 20, 2025 386
+BY GOVERNOR PUBLIC LAW
+STATE OF MAINE
+_____
+IN THE YEAR OF OUR LORD
+TWO THOUSAND TWENTY-FIVE
+_____
+S.P. 738 - L.D. 1868
+An Act to Advance a Clean Energy Economy by Updating Renewable and
+Clean Resource Procurement Laws
+Be it enacted by the People of the State of Maine as follows:
+Sec. 1. 35-A MRSA §3210, sub-§1, as amended by PL 1999, c. 398, Pt. I, §1, is
+further amended to read:
+1. Policy. In order to ensure an adequate and reliable supply of electricity for Maine
+residents and to encourage the use of renewable, clean, efficient and indigenous resources,
+it is the policy of this State to encourage the generation of electricity from renewable, clean
+and efficient sources and to diversify electricity production on which residents of this State
+rely in a manner consistent with this section.
+Sec. 2. 35-A MRSA §3210, sub-§1-A, ¶B, as enacted by PL 2019, c. 477, §1, is
+amended to read:
+B. By January 1, 2050, 100% 2040, 90% of retail sales electricity in the State will
+come from renewable resources and 10% of retail sales electricity in the State will
+come from clean resources.
+Sec. 3. 35-A MRSA §3210, sub-§2, ¶A-4 is enacted to read:
+A-4. "Class III resource" or "clean resource" means a source of generation that
+generates power that can physically be delivered to the control region in which the New
+England Power Pool, or its successor as approved by the Federal Energy Regulatory
+Commission, has authority over transmission, or to the Maritimes Control Area and:
+(1) Is a Class I resource or a Class IA resource;
+(2) Relies on a nuclear power plant or hydroelectric generator that meets all state
+and federal fish passage requirements applicable to the generator; or
+(3) Generates electric energy in a manner that, as determined by the Department
+of Environmental Protection, produces no more than a de minimis level of net
+greenhouse gas emissions and co-pollutant emissions at the point of generation and
+from the fuel supply chain of the facility and has been certified by the Governor's
+Page 1 - 132LR2177(03)
+
+Energy Office in accordance with rules adopted by the Department of
+Environmental Protection in accordance with this subsection.
+Sec. 4. 35-A MRSA §3210, sub-§2, ¶A-5 is enacted to read:
+A-5. "Clean energy credit" means a tradable instrument that represents an amount of
+electricity generated from an eligible Class III resource.
+Sec. 5. 35-A MRSA §3210, sub-§2, as amended by PL 2019, c. 477, §1, is further
+amended by amending the first blocked paragraph to read:
+The commission shall establish by rule or order standards and procedures necessary to
+implement any definition under this subsection, including but not limited to certifications
+and performance and verification standards necessary for purposes of paragraphs B‑4, D
+and E, and excluding paragraphs A-4 and A-5. Rules adopted under this subsection are
+routine technical rules pursuant to Title 5, chapter 375, subchapter 2‑A.
+Sec. 6. 35-A MRSA §3210, sub-§2, as amended by PL 2019, c. 477, §1, is further
+amended by enacting at the end a new last blocked paragraph to read:
+The Department of Environmental Protection, in coordination with the Governor's Energy
+Office, shall establish by rule standards and procedures necessary to implement the
+definition under paragraph A-4 and verification standards necessary for purposes of
+paragraph A-5. Rules adopted under this subsection are routine technical rules pursuant to
+Title 5, chapter 375, subchapter 2-A.
+Sec. 7. 35-A MRSA §3210, sub-§3-B, ¶A, as enacted by PL 2019, c. 477, §1, is
+amended to read:
+A. Except as provided in paragraph B, beginning January 1, 2020, as a condition of
+licensing pursuant to section 3203, each competitive electricity provider in this State
+must demonstrate in a manner satisfactory to the commission that the percentage of its
+portfolio of supply sources for retail electricity sales in this State, other than to
+customers who have made an election pursuant to subsection 10 that is in effect with
+respect to this subsection, accounted for by Class IA resources is as follows:
+(1) Two and one-half percent for the period from January 1, 2020 to December
+31, 2020;
+(2) Five percent for the period from January 1, 2021 to December 31, 2021;
+(3) Eight percent for the period from January 1, 2022 to December 31, 2022;
+(4) Eleven percent for the period from January 1, 2023 to December 31, 2023;
+(5) Fifteen percent for the period from January 1, 2024 to December 31, 2024;
+(6) Nineteen percent for the period from January 1, 2025 to December 31, 2025;
+(7) Twenty-three percent for the period from January 1, 2026 to December 31,
+2026;
+(8) Twenty-seven percent for the period from January 1, 2027 to December 31,
+2027;
+(9) Thirty-one percent for the period from January 1, 2028 to December 31, 2028;
+Page 2 - 132LR2177(03)
+
+(10) Thirty-five percent for the period from January 1, 2029 to December 31, 2029;
+and
+(11) Forty percent for the period from January 1, 2030 to December 31, 2030 and
+each year thereafter.;
+(12) Forty-one percent for the period from January 1, 2031 to December 31, 2031;
+(13) Forty-two percent for the period from January 1, 2032 to December 31, 2032;
+(14) Forty-three percent for the period from January 1, 2033 to December 31,
+2033;
+(15) Forty-four percent for the period from January 1, 2034 to December 31, 2034;
+(16) Forty-five percent for the period from January 1, 2035 to December 31, 2035;
+(17) Forty-six percent for the period from January 1, 2036 to December 31, 2036;
+(18) Forty-seven percent for the period from January 1, 2037 to December 31,
+2037;
+(19) Forty-eight percent for the period from January 1, 2038 to December 31,
+2038;
+(20) Forty-nine percent for the period from January 1, 2039 to December 31, 2039;
+and
+(21) Fifty percent for the period from January 1, 2040 to December 31, 2040 and
+each year thereafter.
+Class IA resources used to satisfy the requirements of this paragraph may not be used
+to satisfy the requirements of subsection 3 or, 3‑A or 3-D.
+Sec. 8. 35-A MRSA §3210, sub-§3-D is enacted to read:
+3-D. Portfolio requirements; Class III resources. Portfolio requirements for Class
+III resources are governed by this subsection.
+A. As a condition of licensing pursuant to section 3203, each competitive electricity
+provider in the State must demonstrate in a manner satisfactory to the commission that
+the percentage of its portfolio of supply sources for retail electricity sales in the State
+accounted for by Class III resources is as follows:
+(1) For calendar year 2031, 1%;
+(2) For calendar year 2032, 2%;
+(3) For calendar year 2033, 3%;
+(4) For calendar year 2034, 4%;
+(5) For calendar year 2035, 5%;
+(6) For calendar year 2036, 6%;
+(7) For calendar year 2037, 7%;
+(8) For calendar year 2038, 8%;
+(9) For calendar year 2039, 9%; and
+(10) For calendar year 2040, and each year thereafter, 10%.
+Page 3 - 132LR2177(03)
+
+Retail electricity sales pursuant to a supply contract or standard-offer service
+arrangement executed by a competitive electricity provider that is in effect on
+September 30, 2025 are exempt from the requirements of this subsection until the end
+date of the existing term of the supply contract or standard-offer service arrangement.
+Class I or IA resources used to satisfy the requirements of this paragraph may not be
+used to satisfy the requirements of subsection 3 or 3-A.
+B. Suspensions of scheduled increases in the portfolio requirements as provided in
+paragraph A are governed by this paragraph.
+(1) If by March 31, 2031 and every 2 years thereafter the commission determines
+that investment in Class III resources in the preceding 2 calendar years has not
+been sufficient for competitive electricity providers to meet the portfolio
+requirements under paragraph A and that the resulting use of clean energy credits
+pursuant to subsection 8 or the alternative compliance payment mechanism
+pursuant to subsection 9, or both of these methods, has burdened electricity
+customers in the State without providing the benefits of new Class III resources,
+the commission may suspend all or some of the future scheduled increases in the
+portfolio requirements under paragraph A.
+(2) If the commission finds that more than 10% of the obligations required to
+satisfy the portfolio requirements for Class III resources under paragraph A are met
+through alternative compliance payments made pursuant to subsection 9 in 3
+consecutive calendar years, the commission shall temporarily suspend all or some
+of the future scheduled increases in the portfolio requirements under paragraph A.
+(3) If the commission suspends any scheduled increases in the portfolio
+requirements under paragraph A pursuant to subparagraph (1) or (2), the
+commission shall report its rationale for suspension to the joint standing committee
+of the Legislature having jurisdiction over energy and utilities matters, the
+Governor's Energy Office and the Office of the Public Advocate and make
+recommendations for modifications to the schedule of increases. The commission
+may resume increases, limited to no more than one percentage point per year over
+the previous year, in the portfolio requirements after a minimum of one year unless
+otherwise directed by the Legislature.
+C. No later than March 31, 2027 and annually thereafter, the commission shall submit
+a report regarding the status of Class III resources in the State and compliance with the
+portfolio requirements under paragraph A to the joint standing committee of the
+Legislature having jurisdiction over utilities and energy matters. The report must
+include, but is not limited to, a description of Class III resources available to meet the
+portfolio requirements under paragraph A, documentation of the loss of any existing
+clean generation capacity in the State, the status of implementation of the portfolio
+requirements under paragraph A, including any suspensions pursuant to paragraph B,
+and recommendations to stimulate investment in Class III resources.
+The commission shall adopt rules to implement this subsection. Rules adopted under this
+subsection are routine technical rules pursuant to Title 5, chapter 375, subchapter 2-A.
+Sec. 9. 35-A MRSA §3210, sub-§7, as amended by PL 2011, c. 283, §1, is further
+amended to read:
+Page 4 - 132LR2177(03)
+
+7. Information. To the extent that funding is available, the commission shall inform
+electricity consumers in this State of the benefits of electricity generated in this State using
+renewable and clean resources and of the opportunities available in this State to purchase
+electricity that is generated using those resources, including, but not limited to, the green
+power offer and other green power supply products and renewable energy credit and clean
+energy credit products certified under section 3212‑A 3212-B. The commission may not
+promote any renewable or clean resources over others. The commission may apply for,
+receive and expend grant money from the United States Department of Energy and other
+government agencies for this purpose. The commission may create or cause to be created
+a brand or logo to identify Maine renewable and clean resources, including the green power
+offer and other green power supply products and renewable energy credit and clean energy
+credit products certified under section 3212‑A 3212-B, to consumers. The commission
+shall register any mark or logo created pursuant to this subsection with the United States
+Patent and Trademark Office or in accordance with Title 10, chapter 301‑A, or both. Any
+brand or logo created pursuant to this subsection may only be used in accordance with the
+purposes of this subsection as approved by the commission.
+Sec. 10. 35-A MRSA §3210, sub-§8, as amended by PL 2019, c. 477, §1, is further
+amended to read:
+8. Credit trading. The commission shall allow competitive electricity providers to
+satisfy the portfolio requirements of subsections 3, 3‑A, 3‑B and, 3‑C and 3-D through the
+use of renewable energy credits and clean energy credits if the commission determines that
+a reliable system of electrical attribute trading exists. When renewable energy credits are
+used to satisfy the portfolio requirements of subsections 3 and 3‑A, the value of a renewable
+energy credit for electricity generated by a community-based renewable energy project, as
+defined in section 3602, that is participating in the community-based renewable energy
+pilot program established in section 3603 and elects the renewable energy credit multiplier
+under section 3605 is 150% of the amount of the electricity.
+Sec. 11. 35-A MRSA §3210, sub-§9, as amended by PL 2023, c. 306, §1 and c.
+361, §2, is further amended to read:
+9. Alternative compliance payment. The commission shall allow competitive
+electricity providers to satisfy the portfolio requirements for Class I resources under
+subsection 3‑A, Class IA resources under subsection 3‑B, thermal renewable energy credits
+under subsection 3‑C and, Class II resources under subsection 3 and Class III resources
+under subsection 3-D through an alternative compliance payment mechanism in
+accordance with this subsection.
+A. The commission shall set the alternative compliance payment rates by rule and shall
+publish the alternative compliance payment rates by January 31st of each year. In
+setting the rates, the commission shall take into account prevailing market prices,
+standard-offer service prices for electricity, alignment with other New England states,
+reliance on alternative compliance payments to meet the requirements of subsections
+3, 3‑A, 3‑B and, 3‑C and 3-D and investment in Class I, Class IA and, Class II and
+Class III resources and thermal renewable energy credits in the State during the
+previous calendar year.
+(1) The alternative compliance payment rate for the requirements under
+subsections 3‑A, 3‑B and, 3‑C and 3-D may not be greater than $50.
+Page 5 - 132LR2177(03)
+
+(2) The alternative compliance payment rate for the requirement under subsection
+3 may not be greater than $10.
+B. The commission shall collect alternative compliance payments to meet the
+requirements of subsections 3, 3‑A and, 3‑B and 3-D made by competitive electricity
+providers and shall use all funds collected under this paragraph to provide financial
+assistance for low-income households in accordance with section 3214, subsection 2.
+C. The commission shall collect alternative compliance payments to meet the
+requirements of subsection 3‑C made by competitive electricity providers and shall
+deposit all funds collected under this paragraph in the Thermal Energy Investment
+Fund established under section 10128, subsection 2 to be used to fund incentives and
+low-interest or no-interest loans to businesses, municipalities, educational institutions
+and nonprofit entities in the State for the installation of new thermal energy-derived
+projects.
+The commission shall adopt rules to implement this subsection. Rules adopted to establish
+the alternative compliance payment rates governed by paragraph A, subparagraphs (1) and
+(2) routine technical rules as defined in Title 5, chapter 375, subchapter 2‑A.
+Sec. 12. 35-A MRSA §3210, sub-§11, as amended by PL 2023, c. 321, §1, is
+further amended to read:
+11. Report; renewable energy credit portfolio requirements. By March 31, 2024
+and every 3 years thereafter, the Governor's Energy Office shall submit a report to the joint
+standing committee of the Legislature having jurisdiction over energy matters based on a
+review, conducted in consultation with the commission, of the status and impacts of the
+implementation of the portfolio requirements under subsections 3, 3‑A, 3‑B and, 3‑C and
+3-D. The review must be completed through a public process and must include
+consideration of impacts of these renewable portfolio requirements on energy prices and
+assessment of benefits, including, but not limited to, on greenhouse gas emissions and the
+economy of the State. After reviewing the report required under this subsection, the
+committee may report out legislation regarding renewable portfolio requirements.
+Sec. 13. 35-A MRSA §3210-C, sub-§1, ¶A, as amended by PL 2007, c. 293, §1,
+is further amended to read:
+A. "Capacity resource" means any renewable capacity resource, nonrenewable
+capacity resource, clean resource or interruptible, demand response or energy
+efficiency capacity resource.
+Sec. 14. 35-A MRSA §3210-C, sub-§1, ¶A-2 is enacted to read:
+A-2. "Clean energy credit" has the same meaning as in section 3210, subsection 2,
+paragraph A-5.
+Sec. 15. 35-A MRSA §3210-C, sub-§1, ¶A-3 is enacted to read:
+A-3. "Clean resource" has the same meaning as in section 3210, subsection 2,
+paragraph A-4.
+Sec. 16. 35-A MRSA §3210-C, sub-§3, ¶D, as enacted by PL 2017, c. 134, §2, is
+repealed.
+Sec. 17. 35-A MRSA §3210-C, sub-§3, ¶E is enacted to read:
+Page 6 - 132LR2177(03)
+
+E. Clean energy credits associated with clean resources. The price paid by the investor-
+owned transmission and distribution utility for the clean energy credits must be lower
+than the price received for those clean energy credits at the time they are sold by the
+investor-owned transmission and distribution utility.
+Sec. 18. 35-A MRSA §3210-C, sub-§3, as amended by PL 2023, c. 516, Pt. B,
+§49, is further amended by amending the last blocked paragraph to read:
+By January 1st of each year, the commission shall submit a report to the joint standing
+committee of the Legislature having jurisdiction over energy and utilities matters on the
+procurement of transmission capacity, capacity resources, energy and, renewable energy
+credits and clean energy credits in the preceding 12 months under this subsection, resources
+procured under section 3210-K and deep-water offshore wind energy pilot projects under
+Public Law 2009, chapter 615, Part A, section 6, as amended by Public Law 2013, chapter
+369, Part H, sections 1 and 2 and chapter 378, sections 4 to 6. The report must contain
+information, including, but not limited to, the number of requests for proposals by the
+commission for long-term contracts, the number of responses to requests for proposals
+pursuant to which a contract has been finalized, the number of executed term sheets or
+contracts resulting from the requests for proposals, the commission's initial estimates of
+ratepayer costs or savings associated with any approved term sheet, actual ratepayer costs
+or savings for the previous year associated with any procurement, the total ratepayer costs
+or savings at the time of the report and the megawatt-hours, renewable energy credits, clean
+energy credits or capacity produced or procured through contracts. The report must include
+actual ratepayer costs or savings for the previous year associated with any contract executed
+under the Community-based Renewable Energy Act. The report must also include a plan
+for the succeeding 12 months pertaining to the procurement of capacity resources, energy
+and, renewable energy credits and clean energy credits, including dates for requests for
+proposals, and types of resources to be procured.
+Sec. 19. 35-A MRSA §3210-C, sub-§3-A is enacted to read:
+3-A. Regional coordination. If the commission determines that the likely benefits to
+ratepayers in the State will exceed the likely costs, the commission may coordinate with
+one or more states to procure, through long-term contracts or other mechanisms,
+transmission capacity, capacity resources, renewable energy credits or clean energy credits.
+Sec. 20. 35-A MRSA §3210-C, sub-§7, as amended by PL 2009, c. 518, §5, is
+further amended to read:
+7. Disposition of resources. An investor-owned transmission and distribution utility
+shall sell capacity resources, energy or, renewable energy credits or clean energy credits
+purchased pursuant to subsection 3 or 3-A or take other action relative to such capacity
+resources, energy or, renewable energy credits or clean energy credits as directed by the
+commission.
+Sec. 21. 35-A MRSA §3210-C, sub-§9, as amended by PL 2009, c. 518, §6, is
+further amended to read:
+9. Contract payments. Except as provided in paragraphs A and B, contracts for
+capacity resources, related energy or, renewable energy credits or clean energy credits
+entered into pursuant to this section must provide that payments will be made only after
+Page 7 - 132LR2177(03)
+
+contracted amounts of capacity resources, related energy or renewable energy credits have
+been provided.
+A. Contracts with the Efficiency Maine Trust established in section 10103 for energy
+efficiency capacity resources and related energy entered into pursuant to this section
+may provide that up to 20% of the total payment be made at the start of the contract.
+Such contracts must provide that the remaining payments will be made only after the
+supplier has demonstrated, according to measurement and verification protocols
+specified in rules adopted by the Efficiency Maine Trust Board pursuant to section
+10105, subsection 5, that physical installations have been completed and contracted
+amounts of capacity resources and related energy have been substantiated.
+B. Contracts with any entity other than the Efficiency Maine Trust established in
+section 10103 for energy efficiency capacity resources and related energy must provide
+that payments will be made only after the supplier has demonstrated, according to
+measurement and verification protocols specified in rules adopted by the Efficiency
+Maine Trust Board pursuant to section 10105, subsection 5, that physical installations
+have been completed and contracted amounts of capacity resources and related energy
+have been substantiated.
+Sec. 22. 35-A MRSA §3212-B, sub-§1, as enacted by PL 2021, c. 40, §1, is
+amended to read:
+1. Definitions. As used in this section, unless the context otherwise indicates, the
+following terms have the following meanings.
+A. "Green power supply" means electricity or renewable energy credits or clean energy
+credits for electricity generated from renewable capacity resources as defined in section
+3210, subsection 2, paragraph B‑3, including electricity generated by community-
+based renewable energy projects as defined in section 3602, subsection 1.
+A-1. "Clean energy credit" has the same meaning as in section 3210, subsection 2,
+paragraph A-5.
+B. "Renewable energy credit" has the same meaning as in section 3210, subsection 2,
+paragraph B‑2.
+Sec. 23. 35-A MRSA §3212-B, sub-§2, as enacted by PL 2021, c. 40, §1, is
+amended to read:
+2. Certification; information in bill inserts. Information regarding the availability
+of the green power offer and of green power supply products and, renewable energy credit
+products and clean energy credit products that are certified by the commission may, at the
+option of the provider of the offer or the product and with the cooperation of the
+transmission and distribution utility, be presented through inserts in customer bills issued
+by transmission and distribution utilities. The costs of the inserts, including but not limited
+to printing and postage costs, are the responsibility of the provider of the offer or product.
+The commission may define the criteria for certification of green power supply products
+and, renewable energy credit products and clean energy credit products by order or by rule,
+and the commission may limit the criteria for certification for consumer protection and
+eligibility verification purposes. Rules adopted to implement this subsection are routine
+technical rules as defined in Title 5, chapter 375, subchapter 2‑A.
+Page 8 - 132LR2177(03)
+
+Sec. 24. Public Utilities Commission; rules. The Public Utilities Commission
+may initiate rulemaking to amend its rule Chapter 316: Long-term Contracting and
+Resource Adequacy to implement the Maine Revised Statutes, Title 35-A, section 3210-C.
+Notwithstanding Title 35-A, section 3210-C, subsection 10, rules adopted pursuant to this
+section are routine technical rules as defined in Title 5, chapter 375, subchapter 2-A.
+Page 9 - 132LR2177(03)
+
+[DELETED:   " I r o " r m a s o g tDC]
+[DELETED:  O i a w r a b t D o s e b r s a p n t i t u p A a v s n f p o o s s f r e s i t S o t t]
+[DELETED:  e s p t a s c o s s e b a c e p t i i e o s f c e p t m t p t s 8 o t a c p m t s 9 o b o t m h b e a c p m p t s 9 i 3 I t c s a s i i t p u p A p t s ( o ( t t L h j o e a u m t E O a t O o t P A a m r u p A t t j s c o t]
+[DELETED:   A c p  T c s a c p t s t p r f C I r u s 3 t a a c p m i I r a t r e c i t S d t  T a c p r f t r u]
+[DELETED:   T c s c a c p t m t  T c s c a c p t m t  T r m b c t a p p a m i o t S  A r t r r u t s t  " r m a r c r n r c r o i d r o e  " r h t s m a i s 3 s 2]
+[DELETED:  o m s t p t l c o o m]
+[DELETED:  h d a t m a v p s 2 p B i e g b c o t p o t o o t p a w t c o t]
+[DELETED: .P  i r t a i r C 3 L C a]

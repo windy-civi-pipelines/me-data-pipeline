@@ -1,0 +1,201 @@
+Title: 4 Reproduced and distributed under the direction of the Secretary of the Senate.
+Official Title: 4 Reproduced and distributed under the direction of the Secretary of the Senate.
+Number of Sections: 1
+Source: versions - Adopted Amendments
+Media Type: application/pdf
+Strikethrough Detection: 3 sections found
+
+================================================================================
+
+Section 1:
+1 L.D. 779
+2 Date: (Filing No. S- )
+3 JUDICIARY
+5 STATE OF MAINE
+6 SENATE
+7 132ND LEGISLATURE
+8 FIRST SPECIAL SESSION
+9 COMMITTEE AMENDMENT “ ” to S.P. 336, L.D. 779, “An Act to Fund the
+10 Aroostook County Drug Treatment Court”
+11 Amend the bill in section 1 in the 3rd line (page 1, line 4 in L.D.) by striking out the
+12 following: "2026" and inserting the following: '2027'
+13 Amend the bill in section 2 in the 2nd line (page 1, line 9 in L.D.) by striking out the
+14 following: "2026" and inserting the following: '2027'
+15 Amend the bill by striking out all of section 3 and inserting the following:
+16 'Sec. 3. Appropriations and allocations. The following appropriations and
+17 allocations are made.
+18 ATTORNEY GENERAL, DEPARTMENT OF THE
+19 District Attorneys Salaries 0409
+20 Initiative: Appropriates one-time funds to establish one limited-period Assistant District
+21 Attorney position to facilitate the creation of a drug treatment court in Aroostook County.
+22 GENERAL FUND 2025-26 2026-27
+23 Personal Services $0 $140,500
+24 __________ __________
+25 GENERAL FUND TOTAL $0 $140,500
+2262
+27 ATTORNEY GENERAL, DEPARTMENT OF THE
+28 DEPARTMENT TOTALS 2025-26 2026-27
+29
+30 GENERAL FUND $0 $140,500
+31 __________ __________
+32 DEPARTMENT TOTAL - ALL FUNDS $0 $140,500
+3237 HEALTH AND HUMAN SERVICES, DEPARTMENT OF
+34 Office of Behavioral Health Z199
+Page 1 - 132LR2076(02)
+COMMITTEE AMENDMENT
+COMMITTEE AMENDMENT “ ” to S.P. 336, L.D. 779
+1 Initiative: Provides one-time allocation for the Office of Behavioral Health to contract with
+2 an entity to provide the required pretrial services for the new drug treatment court in
+3 Aroostook County.
+4 OTHER SPECIAL REVENUE FUNDS 2025-26 2026-27
+5 All Other $0 $561,283
+6 __________ __________
+7 OTHER SPECIAL REVENUE FUNDS TOTAL $0 $561,283
+84
+9 HEALTH AND HUMAN SERVICES,
+10 DEPARTMENT OF
+11 DEPARTMENT TOTALS 2025-26 2026-27
+12
+13 OTHER SPECIAL REVENUE FUNDS $0 $561,283
+14 __________ __________
+15 DEPARTMENT TOTAL - ALL FUNDS $0 $561,283
+169 PUBLIC DEFENSE SERVICES, MAINE COMMISSION ON
+17 Maine Commission on Public Defense Services Z112
+18 Initiative: Appropriates one-time funds to provide legal representation to participants in the
+19 new drug treatment court in Aroostook County.
+20 GENERAL FUND 2025-26 2026-27
+21 All Other $0 $39,000
+22 __________ __________
+23 GENERAL FUND TOTAL $0 $39,000
+2240
+25 PUBLIC DEFENSE SERVICES, MAINE
+26 COMMISSION ON
+27 DEPARTMENT TOTALS 2025-26 2026-27
+28
+29 GENERAL FUND $0 $39,000
+30 __________ __________
+31 DEPARTMENT TOTAL - ALL FUNDS $0 $39,000
+3225
+33 SECTION TOTALS 2025-26 2026-27
+34
+35 GENERAL FUND $0 $179,500
+36 OTHER SPECIAL REVENUE FUNDS $0 $561,283
+37 __________ __________
+38 SECTION TOTAL - ALL FUNDS $0 $740,783
+3393 '
+40 Amend the bill by relettering or renumbering any nonconsecutive Part letter or section
+41 number to read consecutively.
+Page 2 - 132LR2076(02)
+COMMITTEE AMENDMENT
+COMMITTEE AMENDMENT “ ” to S.P. 336, L.D. 779
+1 SUMMARY
+22 This amendment, which is the majority report of the committee, amends the bill to
+33 provide funding for a drug treatment court in Aroostook County in fiscal year 2026-27
+44 instead of fiscal year 2025-26.
+55 FISCAL NOTE REQUIRED
+66 (See attached)
+Page 3 - 132LR2076(02)
+COMMITTEE AMENDMENT
+[DELETED: LD:(RC0A1A2f3A4f5A6'  T f a a 3  A a a7a8A9D0I1AD262s$0$___L$0$2E S262 D$0$___S$0$7H4O]
+[DELETED: IaAS262r$0$___L$0$  S262 S$0$___S$0$P7M8I9nD262r$0$___L$0$0  S262 D$0$___S$0$5S262 D$0$S$0$___S$0$30A1n]
+[DELETED: TpiF(]
+
+
+================================================================================
+
+Raw Text:
+1 L.D. 779
+2 Date: (Filing No. S- )
+3 JUDICIARY
+4 Reproduced and distributed under the direction of the Secretary of the Senate.
+5 STATE OF MAINE
+6 SENATE
+7 132ND LEGISLATURE
+8 FIRST SPECIAL SESSION
+9 COMMITTEE AMENDMENT “ ” to S.P. 336, L.D. 779, “An Act to Fund the
+10 Aroostook County Drug Treatment Court”
+11 Amend the bill in section 1 in the 3rd line (page 1, line 4 in L.D.) by striking out the
+12 following: "2026" and inserting the following: '2027'
+13 Amend the bill in section 2 in the 2nd line (page 1, line 9 in L.D.) by striking out the
+14 following: "2026" and inserting the following: '2027'
+15 Amend the bill by striking out all of section 3 and inserting the following:
+16 'Sec. 3. Appropriations and allocations. The following appropriations and
+17 allocations are made.
+18 ATTORNEY GENERAL, DEPARTMENT OF THE
+19 District Attorneys Salaries 0409
+20 Initiative: Appropriates one-time funds to establish one limited-period Assistant District
+21 Attorney position to facilitate the creation of a drug treatment court in Aroostook County.
+22 GENERAL FUND 2025-26 2026-27
+23 Personal Services $0 $140,500
+24 __________ __________
+25 GENERAL FUND TOTAL $0 $140,500
+2262
+27 ATTORNEY GENERAL, DEPARTMENT OF THE
+28 DEPARTMENT TOTALS 2025-26 2026-27
+29
+30 GENERAL FUND $0 $140,500
+31 __________ __________
+32 DEPARTMENT TOTAL - ALL FUNDS $0 $140,500
+3237 HEALTH AND HUMAN SERVICES, DEPARTMENT OF
+34 Office of Behavioral Health Z199
+Page 1 - 132LR2076(02)
+COMMITTEE AMENDMENT
+
+COMMITTEE AMENDMENT “ ” to S.P. 336, L.D. 779
+1 Initiative: Provides one-time allocation for the Office of Behavioral Health to contract with
+2 an entity to provide the required pretrial services for the new drug treatment court in
+3 Aroostook County.
+4 OTHER SPECIAL REVENUE FUNDS 2025-26 2026-27
+5 All Other $0 $561,283
+6 __________ __________
+7 OTHER SPECIAL REVENUE FUNDS TOTAL $0 $561,283
+84
+9 HEALTH AND HUMAN SERVICES,
+10 DEPARTMENT OF
+11 DEPARTMENT TOTALS 2025-26 2026-27
+12
+13 OTHER SPECIAL REVENUE FUNDS $0 $561,283
+14 __________ __________
+15 DEPARTMENT TOTAL - ALL FUNDS $0 $561,283
+169 PUBLIC DEFENSE SERVICES, MAINE COMMISSION ON
+17 Maine Commission on Public Defense Services Z112
+18 Initiative: Appropriates one-time funds to provide legal representation to participants in the
+19 new drug treatment court in Aroostook County.
+20 GENERAL FUND 2025-26 2026-27
+21 All Other $0 $39,000
+22 __________ __________
+23 GENERAL FUND TOTAL $0 $39,000
+2240
+25 PUBLIC DEFENSE SERVICES, MAINE
+26 COMMISSION ON
+27 DEPARTMENT TOTALS 2025-26 2026-27
+28
+29 GENERAL FUND $0 $39,000
+30 __________ __________
+31 DEPARTMENT TOTAL - ALL FUNDS $0 $39,000
+3225
+33 SECTION TOTALS 2025-26 2026-27
+34
+35 GENERAL FUND $0 $179,500
+36 OTHER SPECIAL REVENUE FUNDS $0 $561,283
+37 __________ __________
+38 SECTION TOTAL - ALL FUNDS $0 $740,783
+3393 '
+40 Amend the bill by relettering or renumbering any nonconsecutive Part letter or section
+41 number to read consecutively.
+Page 2 - 132LR2076(02)
+COMMITTEE AMENDMENT
+
+COMMITTEE AMENDMENT “ ” to S.P. 336, L.D. 779
+1 SUMMARY
+22 This amendment, which is the majority report of the committee, amends the bill to
+33 provide funding for a drug treatment court in Aroostook County in fiscal year 2026-27
+44 instead of fiscal year 2025-26.
+55 FISCAL NOTE REQUIRED
+66 (See attached)
+Page 3 - 132LR2076(02)
+COMMITTEE AMENDMENT
+
+[DELETED: LD:(RC0A1A2f3A4f5A6'  T f a a 3  A a a7a8A9D0I1AD262s$0$___L$0$2E S262 D$0$___S$0$7H4O]
+[DELETED: IaAS262r$0$___L$0$  S262 S$0$___S$0$P7M8I9nD262r$0$___L$0$0  S262 D$0$___S$0$5S262 D$0$S$0$___S$0$30A1n]
+[DELETED: TpiF(]

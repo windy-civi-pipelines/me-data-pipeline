@@ -1,0 +1,108 @@
+Title: 3 HEALTH COVERAGE, INSURANCE AND FINANCIAL SERVICES
+Official Title: 3 HEALTH COVERAGE, INSURANCE AND FINANCIAL SERVICES
+Number of Sections: 1
+Source: versions - Adopted Amendments
+Media Type: application/pdf
+Strikethrough Detection: 2 sections found
+
+================================================================================
+
+Section 1:
+1 L.D. 1834
+2 Date: (Filing No. S- )
+4 Reproduced and distributed under the direction of the Secretary of the Senate.
+5 STATE OF MAINE
+6 SENATE
+7 132ND LEGISLATURE
+8 FIRST SPECIAL SESSION
+9 COMMITTEE AMENDMENT “ ” to S.P. 716, L.D. 1834, “An Act to Allow Dental
+10 Care Providers to Opt In to Receive Claim Reimbursement Payments Made by Virtual
+11 Credit Cards”
+12 Amend the bill by striking out the title and substituting the following:
+13 'An Act to Clarify the Availability of Alternative Claims Payment Methods to Dental
+14 Care Providers '
+15 Amend the bill by striking out everything after the enacting clause and inserting the
+16 following:
+17 'Sec. 1. 24-A MRSA §2436, sub-§1-A, as amended by PL 2023, c. 232, §1, is
+18 further amended to read:
+19 1-A. A claimant, including a health care provider, may submit simultaneously a claim
+20 for payment with all carriers potentially liable for payment of the claim whether primary
+21 or secondary. Payment or denial of a claim by each carrier must be made within 30 calendar
+22 days after the carrier has received all information needed to pay or deny the claim whether
+23 or not another carrier with which it is attempting to coordinate has acted on the claim. Upon
+24 request by a health care provider, a carrier shall provide the health care provider a method
+25 for making a claims payment using an electronic funds transfer through the automated
+26 clearinghouse network. Any payment made must be in accordance with rules adopted by
+27 the superintendent relative to coordination of benefits. For the purposes of this subsection,
+28 "health care provider" includes a person licensed to provide dental care services under Title
+29 32, chapter 143, subchapter 3 and "carrier" includes an insurer that provides dental
+30 insurance.'
+31 Amend the bill by relettering or renumbering any nonconsecutive Part letter or section
+32 number to read consecutively.
+Page 1 - 132LR1972(02)
+COMMITTEE AMENDMENT
+COMMITTEE AMENDMENT “ ” to S.P. 716, L.D. 1834
+1 SUMMARY
+22 This amendment replaces the bill and changes the title. Under current law, a carrier
+33 must provide a health care provider a method for making claims payments using an
+44 electronic funds transfer through the automated clearinghouse network. The amendment
+55 provides that, for the purposes of that requirement, a health care provider includes a person
+66 licensed to provide dental services under the Maine Revised Statutes, Title 32, chapter 143,
+77 subchapter 3 and a carrier includes an insurer that provides dental insurance.
+Page 2 - 132LR1972(02)
+COMMITTEE AMENDMENT
+[DELETED: LD:(RC0C1C2A3'4C5A6f7' 8f910f1o2d3o4r5f6c7t8"93 c 1 s 3 a " i a i t p d0i1A2n]
+[DELETED: Tm p a h c p a m f m c p u aepls]
+
+
+================================================================================
+
+Raw Text:
+1 L.D. 1834
+2 Date: (Filing No. S- )
+3 HEALTH COVERAGE, INSURANCE AND FINANCIAL SERVICES
+4 Reproduced and distributed under the direction of the Secretary of the Senate.
+5 STATE OF MAINE
+6 SENATE
+7 132ND LEGISLATURE
+8 FIRST SPECIAL SESSION
+9 COMMITTEE AMENDMENT “ ” to S.P. 716, L.D. 1834, “An Act to Allow Dental
+10 Care Providers to Opt In to Receive Claim Reimbursement Payments Made by Virtual
+11 Credit Cards”
+12 Amend the bill by striking out the title and substituting the following:
+13 'An Act to Clarify the Availability of Alternative Claims Payment Methods to Dental
+14 Care Providers '
+15 Amend the bill by striking out everything after the enacting clause and inserting the
+16 following:
+17 'Sec. 1. 24-A MRSA §2436, sub-§1-A, as amended by PL 2023, c. 232, §1, is
+18 further amended to read:
+19 1-A. A claimant, including a health care provider, may submit simultaneously a claim
+20 for payment with all carriers potentially liable for payment of the claim whether primary
+21 or secondary. Payment or denial of a claim by each carrier must be made within 30 calendar
+22 days after the carrier has received all information needed to pay or deny the claim whether
+23 or not another carrier with which it is attempting to coordinate has acted on the claim. Upon
+24 request by a health care provider, a carrier shall provide the health care provider a method
+25 for making a claims payment using an electronic funds transfer through the automated
+26 clearinghouse network. Any payment made must be in accordance with rules adopted by
+27 the superintendent relative to coordination of benefits. For the purposes of this subsection,
+28 "health care provider" includes a person licensed to provide dental care services under Title
+29 32, chapter 143, subchapter 3 and "carrier" includes an insurer that provides dental
+30 insurance.'
+31 Amend the bill by relettering or renumbering any nonconsecutive Part letter or section
+32 number to read consecutively.
+Page 1 - 132LR1972(02)
+COMMITTEE AMENDMENT
+
+COMMITTEE AMENDMENT “ ” to S.P. 716, L.D. 1834
+1 SUMMARY
+22 This amendment replaces the bill and changes the title. Under current law, a carrier
+33 must provide a health care provider a method for making claims payments using an
+44 electronic funds transfer through the automated clearinghouse network. The amendment
+55 provides that, for the purposes of that requirement, a health care provider includes a person
+66 licensed to provide dental services under the Maine Revised Statutes, Title 32, chapter 143,
+77 subchapter 3 and a carrier includes an insurer that provides dental insurance.
+Page 2 - 132LR1972(02)
+COMMITTEE AMENDMENT
+
+[DELETED: LD:(RC0C1C2A3'4C5A6f7' 8f910f1o2d3o4r5f6c7t8"93 c 1 s 3 a " i a i t p d0i1A2n]
+[DELETED: Tm p a h c p a m f m c p u aepls]

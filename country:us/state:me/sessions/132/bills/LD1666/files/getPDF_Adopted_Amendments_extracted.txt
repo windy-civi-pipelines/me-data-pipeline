@@ -1,0 +1,136 @@
+Title: 4 Reproduced and distributed under the direction of the Secretary of the Senate.
+Official Title: 4 Reproduced and distributed under the direction of the Secretary of the Senate.
+Number of Sections: 1
+Source: versions - Adopted Amendments
+Media Type: application/pdf
+Strikethrough Detection: 2 sections found
+
+================================================================================
+
+Section 1:
+1 L.D. 1666
+2 Date: (Filing No. S- )
+3 VETERANS AND LEGAL AFFAIRS
+5 STATE OF MAINE
+6 SENATE
+7 132ND LEGISLATURE
+8 FIRST SPECIAL SESSION
+9 COMMITTEE AMENDMENT “ ” to S.P. 660, L.D. 1666, “An Act to Include in
+10 the Ranked-choice Election Method for General and Special Elections the Offices of
+11 Governor, State Senator and State Representative and to Make Other Related Changes”
+12 Amend the bill in section 2 in subsection 35-A in the last line (page 1, line 12 in L.D.)
+13 by inserting after the following: "elected." the following: 'For the purposes of this
+14 subsection, "continuing candidate" has the same meaning as in section 723-A, subsection
+15 1, paragraph C and "highest continuing ranking" has the same meaning as in section 723-A,
+16 subsection 1, paragraph E.'
+17 Amend the bill in section 10 in paragraph I in the 2nd line (page 2, line 31 in L.D.) by
+18 inserting after the following: "candidates" the following: 'for that office'
+19 Amend the bill in section 10 in paragraph I in the 3rd line (page 2, line 32 in L.D.) by
+20 inserting after the following: "ranking" the following: 'of a candidate for an office'
+21 Amend the bill in section 10 in paragraph I in the 4th line (page 2, line 33 in L.D.) by
+22 inserting after the following: "count" the following: 'in the election for that office'
+23 Amend the bill in section 11 in paragraph J in the first line (page 2, line 37 in L.D.) by
+24 striking out the following: "ballot counting" and inserting the following: 'counting ballot
+25 tabulation'
+26 Amend the bill by striking out all of section 12 and inserting the following:
+27 'Sec. 12. 21-A MRSA §723-A, sub-§2, as amended by PL 2023, c. 628, §2, is
+28 further amended to read:
+29 2. Procedures. Except as provided in subsections 3, 4 and 7, the following procedures
+30 are used to determine the winner of an election determined by ranked-choice voting. The
+31 ranked‑choice voting count ballot tabulation must proceed in rounds. In each round, the
+32 number of votes for each continuing candidate must be counted. Each continuing ballot
+33 counts as one vote is tabulated for its highest-ranked continuing candidate for that round.
+34 Exhausted ballots are not counted tabulated for any continuing candidate. The round then
+35 ends with one of the following 2 potential outcomes.
+Page 1 - 132LR1668(02)
+COMMITTEE AMENDMENT
+COMMITTEE AMENDMENT “ ” to S.P. 660, L.D. 1666
+1 A. If there are 2 or fewer continuing candidates, the ranked-choice voting ballot
+2 tabulation is complete and each ballot is tabulated as one vote for its highest-ranked
+3 continuing candidate, and the candidate with the most receiving a plurality of the votes
+4 cast is declared the winner of the election elected.
+5 B. If there are more than 2 continuing candidates, the last-place candidate is removed
+6 from consideration eliminated and a new round begins.'
+7 Amend the bill in section 13 in subsection 5 in the last line (page 3, line 20 in L.D.) by
+8 striking out the following: "counting" and inserting the following: 'tabulation'
+9 Amend the bill by relettering or renumbering any nonconsecutive Part letter or section
+10 number to read consecutively.
+11 SUMMARY
+1122 This amendment makes technical adjustments to the bill. It includes statutory
+1133 references to defined terms used in the definition of "ranked-choice voting." It replaces the
+1144 term "count" with the term "tabulate" when referring to the process of determining the
+1155 number of votes cast for a candidate in each round of an election determined by
+1166 ranked-choice voting. It also clarifies that in the definition of "ranking" the preference
+1177 being demonstrated by the voter for a candidate is relative to other candidates for the same
+1188 office on that ballot.
+Page 2 - 132LR1668(02)
+COMMITTEE AMENDMENT
+[DELETED: LD:(RC0t R E M f G a S E t O o1G2A3b i a t f " t f ' t p o t4s516s7A8i9A0i1A2i3A4s5t6A7' 8f920a1r2n3c4E5e]
+[DELETED: AtccBfAsA0n2T a m t a t t b  I i s3r4t5n o v c f a c i e r o a e d b6r7b8o]
+
+
+================================================================================
+
+Raw Text:
+1 L.D. 1666
+2 Date: (Filing No. S- )
+3 VETERANS AND LEGAL AFFAIRS
+4 Reproduced and distributed under the direction of the Secretary of the Senate.
+5 STATE OF MAINE
+6 SENATE
+7 132ND LEGISLATURE
+8 FIRST SPECIAL SESSION
+9 COMMITTEE AMENDMENT “ ” to S.P. 660, L.D. 1666, “An Act to Include in
+10 the Ranked-choice Election Method for General and Special Elections the Offices of
+11 Governor, State Senator and State Representative and to Make Other Related Changes”
+12 Amend the bill in section 2 in subsection 35-A in the last line (page 1, line 12 in L.D.)
+13 by inserting after the following: "elected." the following: 'For the purposes of this
+14 subsection, "continuing candidate" has the same meaning as in section 723-A, subsection
+15 1, paragraph C and "highest continuing ranking" has the same meaning as in section 723-A,
+16 subsection 1, paragraph E.'
+17 Amend the bill in section 10 in paragraph I in the 2nd line (page 2, line 31 in L.D.) by
+18 inserting after the following: "candidates" the following: 'for that office'
+19 Amend the bill in section 10 in paragraph I in the 3rd line (page 2, line 32 in L.D.) by
+20 inserting after the following: "ranking" the following: 'of a candidate for an office'
+21 Amend the bill in section 10 in paragraph I in the 4th line (page 2, line 33 in L.D.) by
+22 inserting after the following: "count" the following: 'in the election for that office'
+23 Amend the bill in section 11 in paragraph J in the first line (page 2, line 37 in L.D.) by
+24 striking out the following: "ballot counting" and inserting the following: 'counting ballot
+25 tabulation'
+26 Amend the bill by striking out all of section 12 and inserting the following:
+27 'Sec. 12. 21-A MRSA §723-A, sub-§2, as amended by PL 2023, c. 628, §2, is
+28 further amended to read:
+29 2. Procedures. Except as provided in subsections 3, 4 and 7, the following procedures
+30 are used to determine the winner of an election determined by ranked-choice voting. The
+31 ranked‑choice voting count ballot tabulation must proceed in rounds. In each round, the
+32 number of votes for each continuing candidate must be counted. Each continuing ballot
+33 counts as one vote is tabulated for its highest-ranked continuing candidate for that round.
+34 Exhausted ballots are not counted tabulated for any continuing candidate. The round then
+35 ends with one of the following 2 potential outcomes.
+Page 1 - 132LR1668(02)
+COMMITTEE AMENDMENT
+
+COMMITTEE AMENDMENT “ ” to S.P. 660, L.D. 1666
+1 A. If there are 2 or fewer continuing candidates, the ranked-choice voting ballot
+2 tabulation is complete and each ballot is tabulated as one vote for its highest-ranked
+3 continuing candidate, and the candidate with the most receiving a plurality of the votes
+4 cast is declared the winner of the election elected.
+5 B. If there are more than 2 continuing candidates, the last-place candidate is removed
+6 from consideration eliminated and a new round begins.'
+7 Amend the bill in section 13 in subsection 5 in the last line (page 3, line 20 in L.D.) by
+8 striking out the following: "counting" and inserting the following: 'tabulation'
+9 Amend the bill by relettering or renumbering any nonconsecutive Part letter or section
+10 number to read consecutively.
+11 SUMMARY
+1122 This amendment makes technical adjustments to the bill. It includes statutory
+1133 references to defined terms used in the definition of "ranked-choice voting." It replaces the
+1144 term "count" with the term "tabulate" when referring to the process of determining the
+1155 number of votes cast for a candidate in each round of an election determined by
+1166 ranked-choice voting. It also clarifies that in the definition of "ranking" the preference
+1177 being demonstrated by the voter for a candidate is relative to other candidates for the same
+1188 office on that ballot.
+Page 2 - 132LR1668(02)
+COMMITTEE AMENDMENT
+
+[DELETED: LD:(RC0t R E M f G a S E t O o1G2A3b i a t f " t f ' t p o t4s516s7A8i9A0i1A2i3A4s5t6A7' 8f920a1r2n3c4E5e]
+[DELETED: AtccBfAsA0n2T a m t a t t b  I i s3r4t5n o v c f a c i e r o a e d b6r7b8o]

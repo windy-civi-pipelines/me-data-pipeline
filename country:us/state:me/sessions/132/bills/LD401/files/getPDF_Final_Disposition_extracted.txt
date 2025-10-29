@@ -1,0 +1,647 @@
+Title: An Act to Support Removal of Overboard Discharge Systems
+Official Title: An Act to Support Removal of Overboard Discharge Systems
+Number of Sections: 9
+Source: versions - Final Disposition
+Media Type: application/pdf
+Strikethrough Detection: 7 sections found
+
+================================================================================
+
+Section 1:
+APPROVED CHAPTER
+APRIL 25, 2025 44
+BY GOVERNOR PUBLIC LAW
+STATE OF MAINE
+_____
+IN THE YEAR OF OUR LORD
+TWO THOUSAND TWENTY-FIVE
+_____
+H.P. 255 - L.D. 401
+Be it enacted by the People of the State of Maine as follows:
+Sec. 1. 38 MRSA §411, first ¶, as amended by PL 2001, c. 232, §9, is further
+amended to read:
+The commissioner may pay an amount not to exceed 80% of the expense of a municipal
+or quasi-municipal pollution abatement construction program or a pollution abatement
+construction program in an unorganized township or plantation authorized by the county
+commissioners. The commissioner may make payments to the Maine Municipal Bond
+Bank to supply the State's share of the revolving loan fund established by Title 30‑A,
+
+Section 2:
+section 6006‑A. The commissioner may pay up to 90% of the expense of a municipal or
+quasi-municipal pollution abatement construction program or a pollution abatement
+construction program in an unorganized township or plantation authorized by the county
+commissioners in which the construction cost of the project does not exceed $100,000 as
+long as not 250% of the median household income in the State. Median household income
+must be based on the most recent data from the State Economist or the United States
+Department of Commerce, Bureau of the Census, whichever is lower. Not more than one
+grant is may be made to any applicant each in a calendar year, except that the. The
+commissioner may pay a percentage of the cost of individual projects serving single-family
+dwellings, or seasonal dwellings or commercial establishments according to the following
+schedule:
+ANNUAL INCOME SINGLE-FAMILY DWELLINGSEASONAL DWELLING
+$0 to $5,000 100% 50%
+$5,001 to $20,000 90% 50%
+$20,001 to $30,000 50% 25%
+$30,001 to $40,000 25% 25%
+$40,001 or more 0% 0%
+GROSS PROFIT COMMERCIAL ESTABLISHMENT
+$0 to $50,000 50%
+$50,001 to $100,000 25%
+Page 1 - 132LR0168(03)
+$100,001 or more 0%
+Sec. 2. 38 MRSA §411, sub-§1 is enacted to read:
+
+Section 3:
+1. Single family dwellings. The grant percentage for single-family dwellings is as
+follows:
+A. When the annual income of an applicant is 0% to 50% of the state median household
+income, the grant percentage is 100%;
+B. When the annual income of an applicant is 51% to 75% of the state median
+household income, the grant percentage is 90%;
+C. When the annual income of an applicant is 76% to 100% of the state median
+household income, the grant percentage is 50%;
+D. When the annual income of an applicant is 101% to 110% of the state median
+household income, the grant percentage is 25%; and
+E. When the annual income of an applicant is greater than 110% of the state median
+household income, the grant percentage is 0%;
+Sec. 3. 38 MRSA §411, sub-§2 is enacted to read:
+
+Section 4:
+2. Seasonal dwellings. The grant percentage for seasonal dwellings is as follows:
+A. When the annual income of an applicant is 0% to 75% of the state median household
+income, the grant percentage is 50%;
+B. When the annual income of an applicant is 76% to 110% of the state median
+household income, the grant percentage is 25%; and
+C. When the annual income of an applicant is greater than 110% of the state median
+household income, the grant percentage is 0%; and
+Sec. 4. 38 MRSA §411, sub-§3 is enacted to read:
+
+Section 5:
+3. Commercial establishments. The grant percentage for commercial establishments
+is as follows:
+A. When the annual income of an applicant is 150% or less of the state median
+household income, the grant percentage is 50%;
+B. When the annual income of an applicant is 151% to 250% of the state median
+household income, the grant percentage is 25%; and
+C. When the annual income of an applicant is greater than 251% of the state median
+household income, the grant percentage is 0%.
+Sec. 5. 38 MRSA §411, 2nd ¶, as amended by PL 1999, c. 375, §2, is repealed and
+the following enacted in its place:
+For purposes of this section, annual income is determined separately for residential
+property owners and commercial establishments. For a residential property owner,
+including a trust, "annual income" means the sum of the taxable incomes of each owner of
+the property if it is jointly owned, or of each beneficiary and grantor if the property owner
+is a trust, for the previous year as listed on the relevant federal income tax returns for the
+previous year. For a commercial establishment, "annual income" means taxable income or
+ordinary business income for the previous year as listed on the relevant federal income tax
+Page 2 - 132LR0168(03)
+return plus any depreciation or other noncash expense that was deducted to compute taxable
+or ordinary business income on that return. A rental property must be considered a
+commercial establishment or as contributing to annual income depending on how it is
+reported on the owner's federal income tax return from the previous year.
+Sec. 6. 38 MRSA §411, as amended by PL 2017, c. 137, Pt. A, §8, is further
+amended by enacting after the 2nd paragraph a new paragraph to read:
+For a pollution abatement system that is used by multiple single-family or seasonal
+dwellings, such as resident-owned mobile home parks or home owners' associations, and
+the property is not owned by a commercial establishment, the average annual income of all
+single-family or seasonal dwellings attached to the pollution abatement system must be
+used to calculate the allowable grant percentage.
+Sec. 7. 38 MRSA §411-A, as amended by PL 2009, c. 654, §§1 and 2, is further
+amended by amending the section headnote to read:
+
+Section 6:
+§411-A. State contribution to residential overboard discharge replacement projects
+Sec. 8. 38 MRSA §411-A, sub-§2-A, as amended by PL 2009, c. 654, §2, is further
+amended to read:
+2-A. Cost-share. The commissioner shall determine the portion of project expenses
+eligible for grants under this section as follows:
+A. For an owner of an a residential or commercial overboard discharge with an annual
+income less than $25,000 of 0% to 100% of state median household income, 100%;
+B. For an owner of an a residential or commercial overboard discharge with an annual
+income from $25,000 to $50,000 of 101% to 150% of state median household income,
+90%;
+C. For an owner of an a residential or commercial overboard discharge with an annual
+income from $50,001 to $75,000 of 151% to 200% of state median household income,
+50%;
+D. For an owner of an overboard discharge with an annual income from $75,001 to
+$100,000, 35%;
+E. For an owner of an a residential or commercial overboard discharge with an annual
+income from $100,001 to $125,000 of 201% to 250% of state median household
+income, 25%;
+E-1. For an owner of an a residential or commercial overboard discharge with an
+annual income over $125,000 250% of state median household income, $0 0%; and
+F. For a publicly owned overboard discharge facility, 50% to a maximum of $150,000
+500% of state median household income.
+For purposes of this subsection, annual income is determined separately for residential
+property owners and commercial establishments. For a residential property owner,
+including a trust, "annual income" means the sum of the taxable incomes of each owner of
+the property if it is jointly owned or of each beneficiary and grantor if the property owner
+is a trust for the previous year as listed on the relevant federal income tax returns for the
+previous year. For a commercial establishment, “annual income” means taxable income or
+ordinary business income for the previous year as listed on the relevant federal income tax
+Page 3 - 132LR0168(03)
+return plus any depreciation or other noncash expense that was deducted to compute taxable
+or ordinary business income on that return. A rental property must be considered a
+commercial establishment or as contributing to annual income depending on how it is
+reported on the overboard discharge owner’s federal income tax return from the previous
+year. Median household income must be based on the most recent data from the State
+Economist or the United States Department of Commerce, Bureau of the Census,
+whichever is lower.
+Sec. 9. 38 MRSA §411-A, sub-§4, as repealed and replaced by PL 2003, c. 246,
+
+Section 7:
+§5, is amended to read:
+
+Section 8:
+4. Reimbursement of actual or incurred costs. The commissioner shall utilize grants
+under this section to reimburse individuals for the actual or incurred cost of removing any
+overboard discharge, subject to the provisions of subsection 2‑A, when:
+A. The removal occurred after September 30, 1989 but was carried out according to
+plans and specifications approved by the commissioner in advance of construction and
+prior to the offering of a grant under this section;
+B. The removal resulted in the elimination of sources of contamination to shellfish
+areas or public nuisance conditions; and
+C. The removal is required under section 413, subsection 3 or section 414‑A,
+subsection 1‑B.; and
+D. The owner of the overboard discharge system and the overboard discharge removal
+contractor have certified that the overboard discharge removal project has been
+completed, including proper abandonment of the overboard discharge system in
+accordance with the rules adopted by the department governing the licensing and
+abandonment of overboard discharge systems and the local plumbing inspector has
+certified that an alternative disposal system has been installed in conformance with the
+rules adopted by the Department of Health and Human Services governing subsurface
+wastewater disposal.
+Sec. 10. 38 MRSA §413, sub-§3-A, as amended by PL 2011, c. 121, §2, is further
+amended to read:
+3-A. Transfer of ownership, significant expansion, division and public sewer
+connection. Beginning September 1, 2010, if property containing an overboard discharge
+is transferred or a significant action is proposed, the following procedures apply. For
+purposes of this subsection, "significant action" means a single construction project
+performed on a primary residence with an overboard discharge when the total material and
+labor cost of the construction project exceeds $50,000 100% of the median household
+income as specified in section 411. "Significant action" does not include construction that
+makes the residence accessible to a person with a disability who resides in or regularly uses
+the residence or reconstruction performed in response to an event beyond the control of the
+owner, such as a hurricane, flood, fire or the unanticipated physical destruction of the
+residence.
+A. Application for transfer of an overboard discharge license must be made no later
+than 2 weeks after the transfer of ownership or interest in the source of the discharge
+is completed. If a person possessing a license issued by the department transfers the
+ownership of the property, facility or structure that is the source of a licensed discharge
+Page 4 - 132LR0168(03)
+without transfer of the license being approved by the department, the license granted
+by the department continues to authorize a discharge within the limits and subject to
+the terms and conditions stated in the license as long as the parties to the transfer are
+jointly and severally liable for any violation thereof until such time as the department
+approves transfer or issuance of a waste discharge license to the new owner. The
+department may in its discretion require the new owner to apply for a new license or
+may approve transfer of the existing license upon a satisfactory showing that the new
+owner can abide by its terms and conditions.
+B. If there is a transfer, or if a significant action is proposed, the owner of an overboard
+discharge must conduct an alternatives analysis, pursuant to section 414-A, subsection
+1-B, and may be required to remove the overboard discharge system as provided in this
+paragraph. For the purposes of this paragraph, a property transfer is limited to a
+monetary sale of the property containing the overboard discharge.
+(1) Except when it has been demonstrated within 5 years prior to a transfer, or
+some other time period acceptable to the department, that there is no
+technologically proven alternative to an overboard discharge, prior to transfer of
+ownership of property containing an overboard discharge, the parties to the transfer
+shall determine the feasibility of technologically proven alternatives to the
+overboard discharge that are consistent with the plumbing standards adopted by
+the Department of Health and Human Services pursuant to Title 22, section 42.
+(2) Except when it has been demonstrated within 5 years prior to the significant
+action, or some other time period acceptable to the department, that there is no
+technologically proven alternative to an overboard discharge, prior to the
+significant action the owner of the overboard discharge shall determine the
+feasibility of a technologically proven alternative to the overboard discharge that
+is consistent with the plumbing standards adopted by the Department of Health and
+Human Services pursuant to Title 22, section 42.
+(3) The determination concerning whether there is a technologically proven
+alternative to an overboard discharge must be based on documentation from a
+licensed site evaluator provided by the applicant and approved by the Department
+of Environmental Protection that the system constitutes a best practicable treatment
+under section 414‑A, subsection 1‑B. If an alternative to the overboard discharge
+is identified, the alternative system must be installed within 180 days of property
+transfer or significant action, except that, if soil conditions are poor due to seasonal
+weather, the alternative may be installed as soon as soil conditions permit. The
+installation of an alternative to the overboard discharge may be eligible for funding
+under section 411‑A. On a property transfer, a commercial establishment may
+request an extension of the 180-day period based on information that an extension
+is necessary due to technical, economic or environmental considerations. The
+department may authorize an extension for a commercial establishment for as short
+an additional period as the department considers reasonable but in no case may an
+extension be authorized to continue beyond the expiration of the current waste
+discharge license or 2 years from the property transfer, whichever is later. Within
+10 business days of receipt of a complete extension request, the department shall
+issue a written decision approving or denying the extension.
+Page 5 - 132LR0168(03)
+(4) When the ownership of a property containing an overboard discharge has been
+transferred, the transferee may request from the department a waiver from the
+requirement in subparagraph (3) to install an alternative system. The department
+shall grant the waiver upon demonstration by the transferee that the transferee's
+annual income as defined in section 411‑A, subsection 2‑A is less than $25,000
+100% of the median household income as specified in section 411. A request for
+a waiver must be submitted with an application for transfer of the overboard
+discharge license in accordance with paragraph A.
+Nothing in this paragraph requires a municipality to withhold a local permit or approval
+associated with a significant action until the provisions of this paragraph have been
+met.
+C. An overboard discharge must be removed without regard to available funding from
+the department where connection to a public sewer is practicable.
+Sec. 11. 38 MRSA §414, sub-§3-A, as repealed and replaced by PL 2003, c. 246,
+
+Section 9:
+§8, is amended to read:
+3-A. Inspection of overboard discharge systems. The department shall inspect all
+licensed overboard discharge systems. The cost of the inspections must be assessed as part
+of the annual license fee. For residential overboard discharges owned by individuals, the
+department shall provide a fee reduction based on the adjusted gross income of the license
+holder on the most recent tax return under the federal Internal Revenue Code of 1986. If
+the license holder's adjusted gross income is less than $15,000 50% of the median
+household income as specified in section 411, the license holder may reduce the total fee
+by $125 50%. Any overboard discharge license owner with a mechanical treatment system
+must provide annual proof of a private maintenance contract for maintenance of that
+system.
+Sec. 12. 38 MRSA §414-A, sub-§1-B, ¶A, as amended by PL 2009, c. 654, §5, is
+further amended by repealing subparagraph (1) and enacting the following in its place:
+(1) The department's finding must be based on documentation from a licensed site
+evaluator provided by the overboard discharge owner and approved by the
+department. The licensed site evaluator shall provide the overboard discharge
+owner with written certification, on a form provided by the department, that all
+potential alternatives for replacement of the overboard discharge on land owned or
+controlled by the overboard discharge owner, with or without a variance, have been
+evaluated by the licensed site evaluator. In performing the evaluation under this
+subparagraph:
+(a) The licensed site evaluator shall determine whether practices to reduce the
+quantity of raw wastewater can be applied that may allow a reduction in the
+subsurface disposal system sizing requirements;
+(b) The licensed site evaluator shall determine whether pretreatment
+techniques or devices authorized for use by the rules adopted by the
+Department of Health and Human Services governing subsurface wastewater
+disposal can be installed to reduce the subsurface disposal system sizing
+requirements;
+Page 6 - 132LR0168(03)
+(c) The licensed site evaluator shall determine whether proprietary systems
+and devices authorized for use by the rules adopted by the Department of
+Health and Human Services governing subsurface wastewater disposal can be
+installed to reduce the subsurface disposal system sizing requirements;
+(d) The licensed site evaluator shall determine whether the subsurface disposal
+system area can be configured to fit within the property dimensions by
+separating the waste streams, such as laundry wastewater and sanitary
+wastewater, between 2 or more leach fields, drip irrigation sites or other
+disposal areas;
+(e) The licensed site evaluator shall evaluate the feasibility of siting a disposal
+system using reduced setback distances as authorized for use by the rules
+adopted by the Department of Health and Human Services governing
+subsurface wastewater disposal;
+(f) The licensed site evaluator shall determine whether adjoining or nearby
+land may be used for wastewater disposal with the permission of the property
+owner and shall document efforts to obtain an easement from the owner of
+adjoining or nearby land when, in the licensed site evaluator's judgment, an
+easement would allow for the installation of a replacement system; and
+(g) The licensed site evaluator shall determine if connection to a public sewer
+is feasible, including the use of an easement across another property or right-
+of-way.
+The department may require the overboard discharge owner to submit an additional
+site evaluation by a different licensed site evaluator if the conditions of this
+subparagraph have not been met.
+Sec. 13. 38 MRSA §414-A, sub-§1-B, ¶A, as amended by PL 2009, c. 654, §5, is
+further amended by amending subparagraph (3) to read:
+(3) If a technologically proven alternative system eligible for grant funding
+according to the cost-share schedule is identified and funding is not available, then
+the owner of the overboard discharge is not required to install the system until grant
+funds are available or as provided in section 413, subsection 3 or 3-A. The
+department may determine that grant funds are not available when there are
+insufficient funds available for all alternative systems and the alternative system is
+not one of the systems identified as a priority for funding from available grant funds
+by the department.
+Sec. 14. 38 MRSA §414-A, sub-§1-B, ¶G is enacted to read:
+G. Notwithstanding paragraph A, the department may request that a person seeking to
+renew or transfer an overboard discharge license evaluate the feasibility of a spray
+irrigation system licensed in accordance with section 413 as an alternative to the
+overboard discharge system.
+Page 7 - 132LR0168(03)
+[DELETED:  p a c p o a p a i m b m t a a e i a c y e t t TAESYDGS$01%5$09%5$05%2$02%2$e0%0GTC$05$02DC]
+[DELETED: $e0 W t a i o a a i 5 t 7 o t s m W t a i o a a i 1 o l o t s m o a c e  F a r p o]
+[DELETED:  o b i o t r A r p m b c a f $ t $ o 2 t 2 o s m h o a c e  F a r p o]
+[DELETED:  o b i o t r  A r p m b c a o t U S D o C B o t C  T r i r u s 4 s 3 o s 4 h c t t o d r p h b i p a o t o d s i w t r a b t d g t l a o t s " a m a s c p]
+[DELETED:  F t p o t p a p t i l t a o t p a t t d t t i n d t f o t p a t t p a t a o d p t t a t o o t o d s d t  T d c w t i a t p]
+[DELETED:  w m b s w a a f t o t o l h a g i i l t $ 5 o t m p a p o a p m c f m o t p b t o d o a a b t T l s e s p t o d  T l s e s d w p o d a f u b t r a b t c b i t r t s d s s]
+[DELETED:  a c b c t f w t p d b t w s s a l w a s b 2 o m l f d i s o o b t D o H a H S g e b a d l s e i t c o t  I a t p a s e f g f a a o a p i s 4 s 3 o 3  T m d t g f a n a w t a s l i a w s 4 a a a t t]
+
+
+================================================================================
+
+Raw Text:
+APPROVED CHAPTER
+APRIL 25, 2025 44
+BY GOVERNOR PUBLIC LAW
+STATE OF MAINE
+_____
+IN THE YEAR OF OUR LORD
+TWO THOUSAND TWENTY-FIVE
+_____
+H.P. 255 - L.D. 401
+An Act to Support Removal of Overboard Discharge Systems
+Be it enacted by the People of the State of Maine as follows:
+Sec. 1. 38 MRSA §411, first ¶, as amended by PL 2001, c. 232, §9, is further
+amended to read:
+The commissioner may pay an amount not to exceed 80% of the expense of a municipal
+or quasi-municipal pollution abatement construction program or a pollution abatement
+construction program in an unorganized township or plantation authorized by the county
+commissioners. The commissioner may make payments to the Maine Municipal Bond
+Bank to supply the State's share of the revolving loan fund established by Title 30‑A,
+section 6006‑A. The commissioner may pay up to 90% of the expense of a municipal or
+quasi-municipal pollution abatement construction program or a pollution abatement
+construction program in an unorganized township or plantation authorized by the county
+commissioners in which the construction cost of the project does not exceed $100,000 as
+long as not 250% of the median household income in the State. Median household income
+must be based on the most recent data from the State Economist or the United States
+Department of Commerce, Bureau of the Census, whichever is lower. Not more than one
+grant is may be made to any applicant each in a calendar year, except that the. The
+commissioner may pay a percentage of the cost of individual projects serving single-family
+dwellings, or seasonal dwellings or commercial establishments according to the following
+schedule:
+ANNUAL INCOME SINGLE-FAMILY DWELLINGSEASONAL DWELLING
+$0 to $5,000 100% 50%
+$5,001 to $20,000 90% 50%
+$20,001 to $30,000 50% 25%
+$30,001 to $40,000 25% 25%
+$40,001 or more 0% 0%
+GROSS PROFIT COMMERCIAL ESTABLISHMENT
+$0 to $50,000 50%
+$50,001 to $100,000 25%
+Page 1 - 132LR0168(03)
+
+$100,001 or more 0%
+Sec. 2. 38 MRSA §411, sub-§1 is enacted to read:
+1. Single family dwellings. The grant percentage for single-family dwellings is as
+follows:
+A. When the annual income of an applicant is 0% to 50% of the state median household
+income, the grant percentage is 100%;
+B. When the annual income of an applicant is 51% to 75% of the state median
+household income, the grant percentage is 90%;
+C. When the annual income of an applicant is 76% to 100% of the state median
+household income, the grant percentage is 50%;
+D. When the annual income of an applicant is 101% to 110% of the state median
+household income, the grant percentage is 25%; and
+E. When the annual income of an applicant is greater than 110% of the state median
+household income, the grant percentage is 0%;
+Sec. 3. 38 MRSA §411, sub-§2 is enacted to read:
+2. Seasonal dwellings. The grant percentage for seasonal dwellings is as follows:
+A. When the annual income of an applicant is 0% to 75% of the state median household
+income, the grant percentage is 50%;
+B. When the annual income of an applicant is 76% to 110% of the state median
+household income, the grant percentage is 25%; and
+C. When the annual income of an applicant is greater than 110% of the state median
+household income, the grant percentage is 0%; and
+Sec. 4. 38 MRSA §411, sub-§3 is enacted to read:
+3. Commercial establishments. The grant percentage for commercial establishments
+is as follows:
+A. When the annual income of an applicant is 150% or less of the state median
+household income, the grant percentage is 50%;
+B. When the annual income of an applicant is 151% to 250% of the state median
+household income, the grant percentage is 25%; and
+C. When the annual income of an applicant is greater than 251% of the state median
+household income, the grant percentage is 0%.
+Sec. 5. 38 MRSA §411, 2nd ¶, as amended by PL 1999, c. 375, §2, is repealed and
+the following enacted in its place:
+For purposes of this section, annual income is determined separately for residential
+property owners and commercial establishments. For a residential property owner,
+including a trust, "annual income" means the sum of the taxable incomes of each owner of
+the property if it is jointly owned, or of each beneficiary and grantor if the property owner
+is a trust, for the previous year as listed on the relevant federal income tax returns for the
+previous year. For a commercial establishment, "annual income" means taxable income or
+ordinary business income for the previous year as listed on the relevant federal income tax
+Page 2 - 132LR0168(03)
+
+return plus any depreciation or other noncash expense that was deducted to compute taxable
+or ordinary business income on that return. A rental property must be considered a
+commercial establishment or as contributing to annual income depending on how it is
+reported on the owner's federal income tax return from the previous year.
+Sec. 6. 38 MRSA §411, as amended by PL 2017, c. 137, Pt. A, §8, is further
+amended by enacting after the 2nd paragraph a new paragraph to read:
+For a pollution abatement system that is used by multiple single-family or seasonal
+dwellings, such as resident-owned mobile home parks or home owners' associations, and
+the property is not owned by a commercial establishment, the average annual income of all
+single-family or seasonal dwellings attached to the pollution abatement system must be
+used to calculate the allowable grant percentage.
+Sec. 7. 38 MRSA §411-A, as amended by PL 2009, c. 654, §§1 and 2, is further
+amended by amending the section headnote to read:
+§411-A. State contribution to residential overboard discharge replacement projects
+Sec. 8. 38 MRSA §411-A, sub-§2-A, as amended by PL 2009, c. 654, §2, is further
+amended to read:
+2-A. Cost-share. The commissioner shall determine the portion of project expenses
+eligible for grants under this section as follows:
+A. For an owner of an a residential or commercial overboard discharge with an annual
+income less than $25,000 of 0% to 100% of state median household income, 100%;
+B. For an owner of an a residential or commercial overboard discharge with an annual
+income from $25,000 to $50,000 of 101% to 150% of state median household income,
+90%;
+C. For an owner of an a residential or commercial overboard discharge with an annual
+income from $50,001 to $75,000 of 151% to 200% of state median household income,
+50%;
+D. For an owner of an overboard discharge with an annual income from $75,001 to
+$100,000, 35%;
+E. For an owner of an a residential or commercial overboard discharge with an annual
+income from $100,001 to $125,000 of 201% to 250% of state median household
+income, 25%;
+E-1. For an owner of an a residential or commercial overboard discharge with an
+annual income over $125,000 250% of state median household income, $0 0%; and
+F. For a publicly owned overboard discharge facility, 50% to a maximum of $150,000
+500% of state median household income.
+For purposes of this subsection, annual income is determined separately for residential
+property owners and commercial establishments. For a residential property owner,
+including a trust, "annual income" means the sum of the taxable incomes of each owner of
+the property if it is jointly owned or of each beneficiary and grantor if the property owner
+is a trust for the previous year as listed on the relevant federal income tax returns for the
+previous year. For a commercial establishment, “annual income” means taxable income or
+ordinary business income for the previous year as listed on the relevant federal income tax
+Page 3 - 132LR0168(03)
+
+return plus any depreciation or other noncash expense that was deducted to compute taxable
+or ordinary business income on that return. A rental property must be considered a
+commercial establishment or as contributing to annual income depending on how it is
+reported on the overboard discharge owner’s federal income tax return from the previous
+year. Median household income must be based on the most recent data from the State
+Economist or the United States Department of Commerce, Bureau of the Census,
+whichever is lower.
+Sec. 9. 38 MRSA §411-A, sub-§4, as repealed and replaced by PL 2003, c. 246,
+§5, is amended to read:
+4. Reimbursement of actual or incurred costs. The commissioner shall utilize grants
+under this section to reimburse individuals for the actual or incurred cost of removing any
+overboard discharge, subject to the provisions of subsection 2‑A, when:
+A. The removal occurred after September 30, 1989 but was carried out according to
+plans and specifications approved by the commissioner in advance of construction and
+prior to the offering of a grant under this section;
+B. The removal resulted in the elimination of sources of contamination to shellfish
+areas or public nuisance conditions; and
+C. The removal is required under section 413, subsection 3 or section 414‑A,
+subsection 1‑B.; and
+D. The owner of the overboard discharge system and the overboard discharge removal
+contractor have certified that the overboard discharge removal project has been
+completed, including proper abandonment of the overboard discharge system in
+accordance with the rules adopted by the department governing the licensing and
+abandonment of overboard discharge systems and the local plumbing inspector has
+certified that an alternative disposal system has been installed in conformance with the
+rules adopted by the Department of Health and Human Services governing subsurface
+wastewater disposal.
+Sec. 10. 38 MRSA §413, sub-§3-A, as amended by PL 2011, c. 121, §2, is further
+amended to read:
+3-A. Transfer of ownership, significant expansion, division and public sewer
+connection. Beginning September 1, 2010, if property containing an overboard discharge
+is transferred or a significant action is proposed, the following procedures apply. For
+purposes of this subsection, "significant action" means a single construction project
+performed on a primary residence with an overboard discharge when the total material and
+labor cost of the construction project exceeds $50,000 100% of the median household
+income as specified in section 411. "Significant action" does not include construction that
+makes the residence accessible to a person with a disability who resides in or regularly uses
+the residence or reconstruction performed in response to an event beyond the control of the
+owner, such as a hurricane, flood, fire or the unanticipated physical destruction of the
+residence.
+A. Application for transfer of an overboard discharge license must be made no later
+than 2 weeks after the transfer of ownership or interest in the source of the discharge
+is completed. If a person possessing a license issued by the department transfers the
+ownership of the property, facility or structure that is the source of a licensed discharge
+Page 4 - 132LR0168(03)
+
+without transfer of the license being approved by the department, the license granted
+by the department continues to authorize a discharge within the limits and subject to
+the terms and conditions stated in the license as long as the parties to the transfer are
+jointly and severally liable for any violation thereof until such time as the department
+approves transfer or issuance of a waste discharge license to the new owner. The
+department may in its discretion require the new owner to apply for a new license or
+may approve transfer of the existing license upon a satisfactory showing that the new
+owner can abide by its terms and conditions.
+B. If there is a transfer, or if a significant action is proposed, the owner of an overboard
+discharge must conduct an alternatives analysis, pursuant to section 414-A, subsection
+1-B, and may be required to remove the overboard discharge system as provided in this
+paragraph. For the purposes of this paragraph, a property transfer is limited to a
+monetary sale of the property containing the overboard discharge.
+(1) Except when it has been demonstrated within 5 years prior to a transfer, or
+some other time period acceptable to the department, that there is no
+technologically proven alternative to an overboard discharge, prior to transfer of
+ownership of property containing an overboard discharge, the parties to the transfer
+shall determine the feasibility of technologically proven alternatives to the
+overboard discharge that are consistent with the plumbing standards adopted by
+the Department of Health and Human Services pursuant to Title 22, section 42.
+(2) Except when it has been demonstrated within 5 years prior to the significant
+action, or some other time period acceptable to the department, that there is no
+technologically proven alternative to an overboard discharge, prior to the
+significant action the owner of the overboard discharge shall determine the
+feasibility of a technologically proven alternative to the overboard discharge that
+is consistent with the plumbing standards adopted by the Department of Health and
+Human Services pursuant to Title 22, section 42.
+(3) The determination concerning whether there is a technologically proven
+alternative to an overboard discharge must be based on documentation from a
+licensed site evaluator provided by the applicant and approved by the Department
+of Environmental Protection that the system constitutes a best practicable treatment
+under section 414‑A, subsection 1‑B. If an alternative to the overboard discharge
+is identified, the alternative system must be installed within 180 days of property
+transfer or significant action, except that, if soil conditions are poor due to seasonal
+weather, the alternative may be installed as soon as soil conditions permit. The
+installation of an alternative to the overboard discharge may be eligible for funding
+under section 411‑A. On a property transfer, a commercial establishment may
+request an extension of the 180-day period based on information that an extension
+is necessary due to technical, economic or environmental considerations. The
+department may authorize an extension for a commercial establishment for as short
+an additional period as the department considers reasonable but in no case may an
+extension be authorized to continue beyond the expiration of the current waste
+discharge license or 2 years from the property transfer, whichever is later. Within
+10 business days of receipt of a complete extension request, the department shall
+issue a written decision approving or denying the extension.
+Page 5 - 132LR0168(03)
+
+(4) When the ownership of a property containing an overboard discharge has been
+transferred, the transferee may request from the department a waiver from the
+requirement in subparagraph (3) to install an alternative system. The department
+shall grant the waiver upon demonstration by the transferee that the transferee's
+annual income as defined in section 411‑A, subsection 2‑A is less than $25,000
+100% of the median household income as specified in section 411. A request for
+a waiver must be submitted with an application for transfer of the overboard
+discharge license in accordance with paragraph A.
+Nothing in this paragraph requires a municipality to withhold a local permit or approval
+associated with a significant action until the provisions of this paragraph have been
+met.
+C. An overboard discharge must be removed without regard to available funding from
+the department where connection to a public sewer is practicable.
+Sec. 11. 38 MRSA §414, sub-§3-A, as repealed and replaced by PL 2003, c. 246,
+§8, is amended to read:
+3-A. Inspection of overboard discharge systems. The department shall inspect all
+licensed overboard discharge systems. The cost of the inspections must be assessed as part
+of the annual license fee. For residential overboard discharges owned by individuals, the
+department shall provide a fee reduction based on the adjusted gross income of the license
+holder on the most recent tax return under the federal Internal Revenue Code of 1986. If
+the license holder's adjusted gross income is less than $15,000 50% of the median
+household income as specified in section 411, the license holder may reduce the total fee
+by $125 50%. Any overboard discharge license owner with a mechanical treatment system
+must provide annual proof of a private maintenance contract for maintenance of that
+system.
+Sec. 12. 38 MRSA §414-A, sub-§1-B, ¶A, as amended by PL 2009, c. 654, §5, is
+further amended by repealing subparagraph (1) and enacting the following in its place:
+(1) The department's finding must be based on documentation from a licensed site
+evaluator provided by the overboard discharge owner and approved by the
+department. The licensed site evaluator shall provide the overboard discharge
+owner with written certification, on a form provided by the department, that all
+potential alternatives for replacement of the overboard discharge on land owned or
+controlled by the overboard discharge owner, with or without a variance, have been
+evaluated by the licensed site evaluator. In performing the evaluation under this
+subparagraph:
+(a) The licensed site evaluator shall determine whether practices to reduce the
+quantity of raw wastewater can be applied that may allow a reduction in the
+subsurface disposal system sizing requirements;
+(b) The licensed site evaluator shall determine whether pretreatment
+techniques or devices authorized for use by the rules adopted by the
+Department of Health and Human Services governing subsurface wastewater
+disposal can be installed to reduce the subsurface disposal system sizing
+requirements;
+Page 6 - 132LR0168(03)
+
+(c) The licensed site evaluator shall determine whether proprietary systems
+and devices authorized for use by the rules adopted by the Department of
+Health and Human Services governing subsurface wastewater disposal can be
+installed to reduce the subsurface disposal system sizing requirements;
+(d) The licensed site evaluator shall determine whether the subsurface disposal
+system area can be configured to fit within the property dimensions by
+separating the waste streams, such as laundry wastewater and sanitary
+wastewater, between 2 or more leach fields, drip irrigation sites or other
+disposal areas;
+(e) The licensed site evaluator shall evaluate the feasibility of siting a disposal
+system using reduced setback distances as authorized for use by the rules
+adopted by the Department of Health and Human Services governing
+subsurface wastewater disposal;
+(f) The licensed site evaluator shall determine whether adjoining or nearby
+land may be used for wastewater disposal with the permission of the property
+owner and shall document efforts to obtain an easement from the owner of
+adjoining or nearby land when, in the licensed site evaluator's judgment, an
+easement would allow for the installation of a replacement system; and
+(g) The licensed site evaluator shall determine if connection to a public sewer
+is feasible, including the use of an easement across another property or right-
+of-way.
+The department may require the overboard discharge owner to submit an additional
+site evaluation by a different licensed site evaluator if the conditions of this
+subparagraph have not been met.
+Sec. 13. 38 MRSA §414-A, sub-§1-B, ¶A, as amended by PL 2009, c. 654, §5, is
+further amended by amending subparagraph (3) to read:
+(3) If a technologically proven alternative system eligible for grant funding
+according to the cost-share schedule is identified and funding is not available, then
+the owner of the overboard discharge is not required to install the system until grant
+funds are available or as provided in section 413, subsection 3 or 3-A. The
+department may determine that grant funds are not available when there are
+insufficient funds available for all alternative systems and the alternative system is
+not one of the systems identified as a priority for funding from available grant funds
+by the department.
+Sec. 14. 38 MRSA §414-A, sub-§1-B, ¶G is enacted to read:
+G. Notwithstanding paragraph A, the department may request that a person seeking to
+renew or transfer an overboard discharge license evaluate the feasibility of a spray
+irrigation system licensed in accordance with section 413 as an alternative to the
+overboard discharge system.
+Page 7 - 132LR0168(03)
+
+[DELETED:  p a c p o a p a i m b m t a a e i a c y e t t TAESYDGS$01%5$09%5$05%2$02%2$e0%0GTC$05$02DC]
+[DELETED: $e0 W t a i o a a i 5 t 7 o t s m W t a i o a a i 1 o l o t s m o a c e  F a r p o]
+[DELETED:  o b i o t r A r p m b c a f $ t $ o 2 t 2 o s m h o a c e  F a r p o]
+[DELETED:  o b i o t r  A r p m b c a o t U S D o C B o t C  T r i r u s 4 s 3 o s 4 h c t t o d r p h b i p a o t o d s i w t r a b t d g t l a o t s " a m a s c p]
+[DELETED:  F t p o t p a p t i l t a o t p a t t d t t i n d t f o t p a t t p a t a o d p t t a t o o t o d s d t  T d c w t i a t p]
+[DELETED:  w m b s w a a f t o t o l h a g i i l t $ 5 o t m p a p o a p m c f m o t p b t o d o a a b t T l s e s p t o d  T l s e s d w p o d a f u b t r a b t c b i t r t s d s s]
+[DELETED:  a c b c t f w t p d b t w s s a l w a s b 2 o m l f d i s o o b t D o H a H S g e b a d l s e i t c o t  I a t p a s e f g f a a o a p i s 4 s 3 o 3  T m d t g f a n a w t a s l i a w s 4 a a a t t]
