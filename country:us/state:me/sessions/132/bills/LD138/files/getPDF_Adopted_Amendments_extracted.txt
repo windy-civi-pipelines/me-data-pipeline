@@ -1,0 +1,168 @@
+Title: 4 Reproduced and distributed under the direction of the Secretary of the Senate.
+Official Title: 4 Reproduced and distributed under the direction of the Secretary of the Senate.
+Number of Sections: 1
+Source: versions - Adopted Amendments
+Media Type: application/pdf
+Strikethrough Detection: 2 sections found
+
+================================================================================
+
+Section 1:
+1 L.D. 138
+2 Date: (Filing No. S- )
+3 ENVIRONMENT AND NATURAL RESOURCES
+5 STATE OF MAINE
+6 SENATE
+7 132ND LEGISLATURE
+8 FIRST SPECIAL SESSION
+9 COMMITTEE AMENDMENT “ ” to S.P. 74, L.D. 138, “An Act to Exempt
+10 Airports from Certain State Endangered and Threatened Species Habitat Protections”
+11 Amend the bill by striking out the title and substituting the following:
+12 'An Act Regarding the Permitting of Projects Affecting Public-use Airports Under
+13 the Natural Resources Protection Act and the Site Location of Development Laws'
+14 Amend the bill by striking out everything after the enacting clause and inserting the
+15 following:
+16 'Sec. 1. 38 MRSA §480-E, sub-§19 is enacted to read:
+17 19. Public-use airports. Notwithstanding any provision of this article to the contrary,
+18 the department may not include in any permit issued pursuant to this article any conditions
+19 that, as determined by the department, would decrease safety within the air operations area
+20 at a public-use airport.
+21 As used in this subsection, the following terms have the following meanings.
+22 A. "Air operations area" has the same meaning as in 14 Code of Federal Regulations,
+23 Section 153.3, except that, for a public-use airport that does not have an airport security
+24 program, "air operations area" means those portions of the public-use airport that, as
+25 determined by the department, are substantially similar to those portions of an airport
+26 described in 14 Code of Federal Regulations, Section 153.3, including aircraft
+27 movement areas, aircraft parking areas, loading ramps and safety areas for use by
+28 aircraft and any adjacent areas not separated by adequate security systems, measures
+29 or procedures.
+30 B. "Airport security program" means a security program approved by the United States
+31 Transportation Services Administration under 49 Code of Federal Regulations, Section
+32 1542.101.
+33 C. "Public-use airport" has the same meaning as in 49 United States Code, Section
+34 47102(22).
+Page 1 - 132LR0370(02)
+COMMITTEE AMENDMENT
+COMMITTEE AMENDMENT “ ” to S.P. 74, L.D. 138
+1 Sec. 2. 38 MRSA §485-A, sub-§1-E is enacted to read:
+2 1-E. Public-use airports. Notwithstanding any provision of this article to the
+3 contrary, the department may not include in any permit issued pursuant to this article any
+4 conditions that, as determined by the department, would decrease safety within the air
+5 operations area at a public-use airport.
+6 As used in this subsection, the following terms have the following meanings.
+7 A. "Air operations area" has the same meaning as in 14 Code of Federal Regulations,
+8 Section 153.3, except that, for a public-use airport that does not have an airport security
+9 program, "air operations area" means those portions of the public-use airport that, as
+10 determined by the department, are substantially similar to those portions of an airport
+11 described in 14 Code of Federal Regulations, Section 153.3, including aircraft
+12 movement areas, aircraft parking areas, loading ramps and safety areas for use by
+13 aircraft and any adjacent areas not separated by adequate security systems, measures
+14 or procedures.
+15 B. "Airport security program" means a security program approved by the United States
+16 Transportation Services Administration under 49 Code of Federal Regulations, Section
+17 1542.101.
+18 C. "Public-use airport" has the same meaning as in 49 United States Code, Section
+19 47102(22).'
+20 Amend the bill by relettering or renumbering any nonconsecutive Part letter or section
+21 number to read consecutively.
+22 SUMMARY
+2233 This amendment replaces the bill and changes the title. It amends the Natural
+2244 Resources Protection Act and the site location of development laws to provide that the
+2255 Department of Environmental Protection may not include in any permit issued pursuant to
+2266 either article any conditions that, as determined by the department, would decrease safety
+2277 within the air operations area at a public-use airport. "Public-use airport" is defined to have
+2288 the same meaning as in 49 United States Code, Section 47102(22), "airport security
+2299 program" means a security program approved by the United States Transportation Services
+3300 Administration under 49 Code of Federal Regulations, Section 1542.101 and "air
+3311 operations area" is defined to have the same meaning as in 14 Code of Federal Regulations,
+3322 Section 153.3, except as otherwise specified for a public-use airport that does not have an
+3333 airport security program.
+3344 FISCAL NOTE REQUIRED
+3355 (See attached)
+Page 2 - 132LR0370(02)
+COMMITTEE AMENDMENT
+[DELETED: LD:(RC A “ t S 7 L 1 “ A t E0A1A2'3t4A5f6' 718t9t0a1A2A3S4p5d6d i 1 C o F R S 1 i a7m8a9o0B1T213C44]
+[DELETED:  1  P a  N a p o t a t tccoAASp0d1d i 1 C o F R S 1 i a2m3a4o5B6T718C940A1n3T a r t b a c t t  I a t N4R5D6e7w8t s m a i 4 U S C S 4 " s9p0A u 4 C o F R S 1 a "1o2S3a4F5(]
+
+
+================================================================================
+
+Raw Text:
+1 L.D. 138
+2 Date: (Filing No. S- )
+3 ENVIRONMENT AND NATURAL RESOURCES
+4 Reproduced and distributed under the direction of the Secretary of the Senate.
+5 STATE OF MAINE
+6 SENATE
+7 132ND LEGISLATURE
+8 FIRST SPECIAL SESSION
+9 COMMITTEE AMENDMENT “ ” to S.P. 74, L.D. 138, “An Act to Exempt
+10 Airports from Certain State Endangered and Threatened Species Habitat Protections”
+11 Amend the bill by striking out the title and substituting the following:
+12 'An Act Regarding the Permitting of Projects Affecting Public-use Airports Under
+13 the Natural Resources Protection Act and the Site Location of Development Laws'
+14 Amend the bill by striking out everything after the enacting clause and inserting the
+15 following:
+16 'Sec. 1. 38 MRSA §480-E, sub-§19 is enacted to read:
+17 19. Public-use airports. Notwithstanding any provision of this article to the contrary,
+18 the department may not include in any permit issued pursuant to this article any conditions
+19 that, as determined by the department, would decrease safety within the air operations area
+20 at a public-use airport.
+21 As used in this subsection, the following terms have the following meanings.
+22 A. "Air operations area" has the same meaning as in 14 Code of Federal Regulations,
+23 Section 153.3, except that, for a public-use airport that does not have an airport security
+24 program, "air operations area" means those portions of the public-use airport that, as
+25 determined by the department, are substantially similar to those portions of an airport
+26 described in 14 Code of Federal Regulations, Section 153.3, including aircraft
+27 movement areas, aircraft parking areas, loading ramps and safety areas for use by
+28 aircraft and any adjacent areas not separated by adequate security systems, measures
+29 or procedures.
+30 B. "Airport security program" means a security program approved by the United States
+31 Transportation Services Administration under 49 Code of Federal Regulations, Section
+32 1542.101.
+33 C. "Public-use airport" has the same meaning as in 49 United States Code, Section
+34 47102(22).
+Page 1 - 132LR0370(02)
+COMMITTEE AMENDMENT
+
+COMMITTEE AMENDMENT “ ” to S.P. 74, L.D. 138
+1 Sec. 2. 38 MRSA §485-A, sub-§1-E is enacted to read:
+2 1-E. Public-use airports. Notwithstanding any provision of this article to the
+3 contrary, the department may not include in any permit issued pursuant to this article any
+4 conditions that, as determined by the department, would decrease safety within the air
+5 operations area at a public-use airport.
+6 As used in this subsection, the following terms have the following meanings.
+7 A. "Air operations area" has the same meaning as in 14 Code of Federal Regulations,
+8 Section 153.3, except that, for a public-use airport that does not have an airport security
+9 program, "air operations area" means those portions of the public-use airport that, as
+10 determined by the department, are substantially similar to those portions of an airport
+11 described in 14 Code of Federal Regulations, Section 153.3, including aircraft
+12 movement areas, aircraft parking areas, loading ramps and safety areas for use by
+13 aircraft and any adjacent areas not separated by adequate security systems, measures
+14 or procedures.
+15 B. "Airport security program" means a security program approved by the United States
+16 Transportation Services Administration under 49 Code of Federal Regulations, Section
+17 1542.101.
+18 C. "Public-use airport" has the same meaning as in 49 United States Code, Section
+19 47102(22).'
+20 Amend the bill by relettering or renumbering any nonconsecutive Part letter or section
+21 number to read consecutively.
+22 SUMMARY
+2233 This amendment replaces the bill and changes the title. It amends the Natural
+2244 Resources Protection Act and the site location of development laws to provide that the
+2255 Department of Environmental Protection may not include in any permit issued pursuant to
+2266 either article any conditions that, as determined by the department, would decrease safety
+2277 within the air operations area at a public-use airport. "Public-use airport" is defined to have
+2288 the same meaning as in 49 United States Code, Section 47102(22), "airport security
+2299 program" means a security program approved by the United States Transportation Services
+3300 Administration under 49 Code of Federal Regulations, Section 1542.101 and "air
+3311 operations area" is defined to have the same meaning as in 14 Code of Federal Regulations,
+3322 Section 153.3, except as otherwise specified for a public-use airport that does not have an
+3333 airport security program.
+3344 FISCAL NOTE REQUIRED
+3355 (See attached)
+Page 2 - 132LR0370(02)
+COMMITTEE AMENDMENT
+
+[DELETED: LD:(RC A “ t S 7 L 1 “ A t E0A1A2'3t4A5f6' 718t9t0a1A2A3S4p5d6d i 1 C o F R S 1 i a7m8a9o0B1T213C44]
+[DELETED:  1  P a  N a p o t a t tccoAASp0d1d i 1 C o F R S 1 i a2m3a4o5B6T718C940A1n3T a r t b a c t t  I a t N4R5D6e7w8t s m a i 4 U S C S 4 " s9p0A u 4 C o F R S 1 a "1o2S3a4F5(]

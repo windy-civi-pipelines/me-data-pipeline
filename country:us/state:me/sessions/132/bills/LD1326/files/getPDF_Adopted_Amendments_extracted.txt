@@ -1,0 +1,223 @@
+Title: 4 Reproduced and distributed under the direction of the Clerk of the House.
+Official Title: 4 Reproduced and distributed under the direction of the Clerk of the House.
+Number of Sections: 1
+Source: versions - Adopted Amendments
+Media Type: application/pdf
+Strikethrough Detection: 3 sections found
+
+================================================================================
+
+Section 1:
+1 L.D. 1326
+2 Date: (Filing No. H- )
+3 HEALTH AND HUMAN SERVICES
+5 STATE OF MAINE
+6 HOUSE OF REPRESENTATIVES
+7 132ND LEGISLATURE
+8 FIRST SPECIAL SESSION
+9 COMMITTEE AMENDMENT “ ” to H.P. 861, L.D. 1326, “An Act to Protect the
+10 Drinking Water for Consumers of Certain Water Systems by Establishing Maximum
+11 Contaminant Levels for Certain Perfluoroalkyl and Polyfluoroalkyl Substances”
+12 Amend the bill by striking out everything after the enacting clause and inserting the
+13 following:
+14 'Sec. 1. 22 MRSA §2650-A is enacted to read:
+15 §2650-A. Drinking water standards, monitoring and treatment for perfluoroalkyl
+16 and polyfluoroalkyl substances
+17 1. Definitions. As used in this section, unless the context otherwise indicates, the
+18 following terms have the following meanings.
+19 A. "Community water system" has the same meaning as in section 2660-B, subsection
+20 2.
+21 B. "Nontransient, noncommunity water system" has the same meaning as described in
+22 section 2660-B, subsection 5, paragraph A.
+23 C. "Perfluoroalkyl and polyfluoroalkyl substances" or "PFAS" has the same meaning
+24 as in section 2660-AA, subsection 3, including a regulated PFAS contaminant under
+25 subsection 2, that is detectable in drinking water using standard analytical methods
+26 established by the United States Environmental Protection Agency.
+27 2. Maximum contaminant levels for regulated PFAS contaminants. The
+28 maximum contaminant levels for regulated PFAS contaminants allowed for a community
+29 water system or nontransient, noncommunity water system must be at or below the
+30 maximum contaminant levels contained in 40 Code of Federal Regulations, Section
+31 141.61(c)(2), as promulgated on April 26, 2024, and not as superseded by subsequent
+32 versions of that federal rule.
+33 By rule, the commissioner may decrease the maximum level of a contaminant included in
+34 this subsection or add a regulated PFAS contaminant other than those specified in this
+Page 1 - 132LR1066(02)
+COMMITTEE AMENDMENT
+COMMITTEE AMENDMENT “ ” to H.P. 861, L.D. 1326
+315 subsection as the commissioner determines necessary to maintain an adequate margin of
+326 safety to protect human health at all stages, including prenatal development.
+3 3. PFAS monitoring. PFAS monitoring of all community water systems and
+4 nontransient, noncommunity water systems must be conducted in accordance with 40 Code
+5 of Federal Regulations, Section 141.902, as promulgated on April 26, 2024, and not as
+6 superseded by subsequent versions of that federal rule. By rule, the commissioner may
+7 adopt more stringent monitoring requirements as the commissioner determines necessary
+8 to maintain an adequate margin of safety to protect human health at all stages, including
+9 prenatal development.
+10 4. Submission of drinking water samples; reporting. Submission of PFAS drinking
+11 water sample results from all community water systems and nontransient, noncommunity
+12 water systems must be conducted in accordance with 40 Code of Federal Regulations,
+13 Section 141.901 and 40 Code of Federal Regulations, Section 141.904, as promulgated on
+14 April 26, 2024, and not as superseded by subsequent versions of that federal rule. By rule,
+15 the commissioner may adopt more stringent analysis and reporting requirements as the
+16 commissioner determines necessary to maintain an adequate margin of safety to protect
+17 human health at all stages, including prenatal development.
+18 5. Treatment; notice. Treatment, or implementation of another remedy to reduce
+19 PFAS levels, and public notice, in the event of an exceedance of the maximum contaminant
+20 level in the drinking water of a community water system or nontransient, noncommunity
+21 water system, must take place in accordance with the provisions contained in 40 Code of
+22 Federal Regulations, Section 141.905, as promulgated on April 26, 2024, and 40 Code of
+23 Federal Regulations, Section 141.201-211 and not as superseded by subsequent versions
+24 of that federal rule. Public notice of an exceedance must include information identifying
+25 each type of PFAS detected in the drinking water, the levels of each type of PFAS detected
+26 and the total level of PFAS detected.
+27 6. Enforcement; appeal. The department may enforce this section pursuant to section
+28 2605, subsection 5. A person may appeal an act or decision of the department under this
+29 section pursuant to section 2620-A.
+30 7. Notification of suspected tampering. A community water system or nontransient,
+31 noncommunity water system shall notify the department and law enforcement officials
+32 immediately of any act of potential or suspected tampering of the community water system
+33 or nontransient, noncommunity water system.
+34 8. Rules. The department may adopt routine technical rules as defined in Title 5,
+35 chapter 375, subchapter 2-A to carry out the purposes of this section.
+36 Sec. 2. 22 MRSA §2660-AA, sub-§4, as enacted by PL 2023, c. 330, §1, is
+37 amended to read:
+38 4. Regulated PFAS contaminants. "Regulated PFAS contaminants" means
+39 perfluorooctanoic acid, perfluorooctane sulfonic acid, perfluorohexane sulfonic acid,
+40 perfluorononanoic acid, perfluoroheptanoic acid and perfluorodecanoic acid those
+41 contaminants regulated under 40 Code of Federal Regulations, Section 141.61(c)(2), as
+42 promulgated on April 26, 2024, and not as superseded by subsequent versions of that
+43 federal rule.'
+Page 2 - 132LR1066(02)
+COMMITTEE AMENDMENT
+COMMITTEE AMENDMENT “ ” to H.P. 861, L.D. 1326
+1 Amend the bill by relettering or renumbering any nonconsecutive Part letter or section
+2 number to read consecutively.
+3 SUMMARY
+44 This amendment replaces language in the bill with language providing that monitoring
+55 and reporting of PFAS compounds and treatment to address maximum contaminant level
+66 exceedances must take place in accordance with the version of 40 Code of Federal
+77 Regulations, Section 141, as promulgated on April 26, 2024. It also adds language requiring
+88 that public notice of an exceedance must include information identifying each type of PFAS
+99 detected in the drinking water, the levels of each type of PFAS detected and the total level
+1100 of PFAS detected. It changes the definition of "regulated PFAS contaminants" to mean
+1111 those contaminants regulated under 40 Code of Federal Regulations, Section 141.61(c)(2),
+1122 as promulgated on April 26, 2024, and not as superseded by subsequent versions of that
+1133 federal rule.
+1144 FISCAL NOTE REQUIRED
+1155 (See attached)
+Page 3 - 132LR1066(02)
+COMMITTEE AMENDMENT
+[DELETED: LD:(RC0D W f C o C W S b E M1C2A3f4' 5§6a718f9A021B2s3C4a5s6e72  M c l f r P c  T8m9w s o n n w s m b a o b t0m c l c i 4 C o F R S112v3B4t]
+[DELETED: 5s6s3  P m  P m o a c w s anosatp041w2w3S4A5t6c7h859P0l1w2F3F4o5e6a76829s071n2i3o485c6 7a84  R P c  " P c m9p a p s a p s a0p a p a a p a t1c2p3f]
+[DELETED: AnTae m t p i a w t v o 4 C o FRtd0o1t2a3f4F5(]
+
+
+================================================================================
+
+Raw Text:
+1 L.D. 1326
+2 Date: (Filing No. H- )
+3 HEALTH AND HUMAN SERVICES
+4 Reproduced and distributed under the direction of the Clerk of the House.
+5 STATE OF MAINE
+6 HOUSE OF REPRESENTATIVES
+7 132ND LEGISLATURE
+8 FIRST SPECIAL SESSION
+9 COMMITTEE AMENDMENT “ ” to H.P. 861, L.D. 1326, “An Act to Protect the
+10 Drinking Water for Consumers of Certain Water Systems by Establishing Maximum
+11 Contaminant Levels for Certain Perfluoroalkyl and Polyfluoroalkyl Substances”
+12 Amend the bill by striking out everything after the enacting clause and inserting the
+13 following:
+14 'Sec. 1. 22 MRSA §2650-A is enacted to read:
+15 §2650-A. Drinking water standards, monitoring and treatment for perfluoroalkyl
+16 and polyfluoroalkyl substances
+17 1. Definitions. As used in this section, unless the context otherwise indicates, the
+18 following terms have the following meanings.
+19 A. "Community water system" has the same meaning as in section 2660-B, subsection
+20 2.
+21 B. "Nontransient, noncommunity water system" has the same meaning as described in
+22 section 2660-B, subsection 5, paragraph A.
+23 C. "Perfluoroalkyl and polyfluoroalkyl substances" or "PFAS" has the same meaning
+24 as in section 2660-AA, subsection 3, including a regulated PFAS contaminant under
+25 subsection 2, that is detectable in drinking water using standard analytical methods
+26 established by the United States Environmental Protection Agency.
+27 2. Maximum contaminant levels for regulated PFAS contaminants. The
+28 maximum contaminant levels for regulated PFAS contaminants allowed for a community
+29 water system or nontransient, noncommunity water system must be at or below the
+30 maximum contaminant levels contained in 40 Code of Federal Regulations, Section
+31 141.61(c)(2), as promulgated on April 26, 2024, and not as superseded by subsequent
+32 versions of that federal rule.
+33 By rule, the commissioner may decrease the maximum level of a contaminant included in
+34 this subsection or add a regulated PFAS contaminant other than those specified in this
+Page 1 - 132LR1066(02)
+COMMITTEE AMENDMENT
+
+COMMITTEE AMENDMENT “ ” to H.P. 861, L.D. 1326
+315 subsection as the commissioner determines necessary to maintain an adequate margin of
+326 safety to protect human health at all stages, including prenatal development.
+3 3. PFAS monitoring. PFAS monitoring of all community water systems and
+4 nontransient, noncommunity water systems must be conducted in accordance with 40 Code
+5 of Federal Regulations, Section 141.902, as promulgated on April 26, 2024, and not as
+6 superseded by subsequent versions of that federal rule. By rule, the commissioner may
+7 adopt more stringent monitoring requirements as the commissioner determines necessary
+8 to maintain an adequate margin of safety to protect human health at all stages, including
+9 prenatal development.
+10 4. Submission of drinking water samples; reporting. Submission of PFAS drinking
+11 water sample results from all community water systems and nontransient, noncommunity
+12 water systems must be conducted in accordance with 40 Code of Federal Regulations,
+13 Section 141.901 and 40 Code of Federal Regulations, Section 141.904, as promulgated on
+14 April 26, 2024, and not as superseded by subsequent versions of that federal rule. By rule,
+15 the commissioner may adopt more stringent analysis and reporting requirements as the
+16 commissioner determines necessary to maintain an adequate margin of safety to protect
+17 human health at all stages, including prenatal development.
+18 5. Treatment; notice. Treatment, or implementation of another remedy to reduce
+19 PFAS levels, and public notice, in the event of an exceedance of the maximum contaminant
+20 level in the drinking water of a community water system or nontransient, noncommunity
+21 water system, must take place in accordance with the provisions contained in 40 Code of
+22 Federal Regulations, Section 141.905, as promulgated on April 26, 2024, and 40 Code of
+23 Federal Regulations, Section 141.201-211 and not as superseded by subsequent versions
+24 of that federal rule. Public notice of an exceedance must include information identifying
+25 each type of PFAS detected in the drinking water, the levels of each type of PFAS detected
+26 and the total level of PFAS detected.
+27 6. Enforcement; appeal. The department may enforce this section pursuant to section
+28 2605, subsection 5. A person may appeal an act or decision of the department under this
+29 section pursuant to section 2620-A.
+30 7. Notification of suspected tampering. A community water system or nontransient,
+31 noncommunity water system shall notify the department and law enforcement officials
+32 immediately of any act of potential or suspected tampering of the community water system
+33 or nontransient, noncommunity water system.
+34 8. Rules. The department may adopt routine technical rules as defined in Title 5,
+35 chapter 375, subchapter 2-A to carry out the purposes of this section.
+36 Sec. 2. 22 MRSA §2660-AA, sub-§4, as enacted by PL 2023, c. 330, §1, is
+37 amended to read:
+38 4. Regulated PFAS contaminants. "Regulated PFAS contaminants" means
+39 perfluorooctanoic acid, perfluorooctane sulfonic acid, perfluorohexane sulfonic acid,
+40 perfluorononanoic acid, perfluoroheptanoic acid and perfluorodecanoic acid those
+41 contaminants regulated under 40 Code of Federal Regulations, Section 141.61(c)(2), as
+42 promulgated on April 26, 2024, and not as superseded by subsequent versions of that
+43 federal rule.'
+Page 2 - 132LR1066(02)
+COMMITTEE AMENDMENT
+
+COMMITTEE AMENDMENT “ ” to H.P. 861, L.D. 1326
+1 Amend the bill by relettering or renumbering any nonconsecutive Part letter or section
+2 number to read consecutively.
+3 SUMMARY
+44 This amendment replaces language in the bill with language providing that monitoring
+55 and reporting of PFAS compounds and treatment to address maximum contaminant level
+66 exceedances must take place in accordance with the version of 40 Code of Federal
+77 Regulations, Section 141, as promulgated on April 26, 2024. It also adds language requiring
+88 that public notice of an exceedance must include information identifying each type of PFAS
+99 detected in the drinking water, the levels of each type of PFAS detected and the total level
+1100 of PFAS detected. It changes the definition of "regulated PFAS contaminants" to mean
+1111 those contaminants regulated under 40 Code of Federal Regulations, Section 141.61(c)(2),
+1122 as promulgated on April 26, 2024, and not as superseded by subsequent versions of that
+1133 federal rule.
+1144 FISCAL NOTE REQUIRED
+1155 (See attached)
+Page 3 - 132LR1066(02)
+COMMITTEE AMENDMENT
+
+[DELETED: LD:(RC0D W f C o C W S b E M1C2A3f4' 5§6a718f9A021B2s3C4a5s6e72  M c l f r P c  T8m9w s o n n w s m b a o b t0m c l c i 4 C o F R S112v3B4t]
+[DELETED: 5s6s3  P m  P m o a c w s anosatp041w2w3S4A5t6c7h859P0l1w2F3F4o5e6a76829s071n2i3o485c6 7a84  R P c  " P c m9p a p s a p s a0p a p a a p a t1c2p3f]
+[DELETED: AnTae m t p i a w t v o 4 C o FRtd0o1t2a3f4F5(]
