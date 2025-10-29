@@ -1,0 +1,197 @@
+Title: 4 Reproduced and distributed under the direction of the Clerk of the House.
+Official Title: 4 Reproduced and distributed under the direction of the Clerk of the House.
+Number of Sections: 1
+Source: versions - Adopted Amendments
+Media Type: application/pdf
+Strikethrough Detection: 3 sections found
+
+================================================================================
+
+Section 1:
+1 L.D. 1041
+2 Date: (Filing No. H- )
+3 HOUSING AND ECONOMIC DEVELOPMENT
+5 STATE OF MAINE
+6 HOUSE OF REPRESENTATIVES
+7 132ND LEGISLATURE
+8 FIRST SPECIAL SESSION
+9 COMMITTEE AMENDMENT “ ” to H.P. 670, L.D. 1041, “An Act to Preserve
+10 Affordability in Publicly Assisted Housing Developments”
+11 Amend the bill by striking out all of section 1 and inserting the following:
+12 'Sec. 1. 30-A MRSA §4972, as repealed and replaced by PL 2023, c. 218, §3, is
+13 repealed.'
+14 Sec. 2. 30-A MRSA §4972-A is enacted to read:
+15 §4972-A. Definitions
+16 As used in this subchapter, unless the context otherwise indicates, the following terms
+17 have the following meanings.
+18 1. Affordability restriction. "Affordability restriction" means, for rental housing:
+19 A. A limitation on the rent amount that is based on the income of the person or family
+20 renting the unit compared to the area median income or to market rates for rental units
+21 in that geographic area; or
+22 B. A limitation on the income of the person or family renting the dwelling unit.
+23 2. Financial assistance. "Financial assistance" means funding in the form of grants,
+24 loans, rental assistance, subsidies, tax credits or other tax incentives provided by a federal,
+25 state or local government entity for which receipt is contingent upon constructing or
+26 maintaining dwelling units subject to an affordability restriction.
+27 3. Holder. "Holder" means the Maine State Housing Authority or a municipal housing
+28 authority that holds the option to purchase a low-income rental housing project.
+29 4. Low-income rental housing. "Low-income rental housing" means rental housing
+30 with 5 or more dwelling units in which any of the dwelling units are:
+31 A. Subject to affordability restrictions;
+Page 1 - 132LR0798(02)
+COMMITTEE AMENDMENT
+COMMITTEE AMENDMENT “ ” to H.P. 670, L.D. 1041
+1 B. Subject to rents that are controlled, regulated or assisted by a federal or state agency
+2 pursuant to a regulatory agreement, rental assistance agreement, restrictive covenant,
+3 mortgage or other documentation; or
+4 C. Subject to requirements as a condition of receiving financial assistance.'
+5 Amend the bill by striking out all of section 3 and inserting the following:
+6 'Sec. 3. 30-A MRSA §4973, sub-§1, as amended by PL 2023, c. 218, §4, is further
+7 amended to read:
+8 1. Notice. The notice required by section 4973-A must be made to the tenants, a
+9 tenants' organization for the property, if any, the Maine State Housing Authority and the
+10 municipal housing authority, if any, at least 90 days prior to the owner entering into a
+11 contract for the sale or transfer or taking any action in regard to the property described in
+12 this section. Failure to provide notice as required by this subsection does not reduce the 90-
+13 day period within which the Maine State Housing Authority or the municipal housing
+14 authority, if any, may submit, in writing, the intention to pursue the option described in
+15 subsection 2.'
+16 Amend the bill in section 4 in subsection 2 in paragraph A in the first line (page 2, line
+17 43 in L.D.) by striking out the following: "may not prevent" and inserting the following: 'is
+18 not intended to prevent'
+19 Amend the bill by striking out all of section 6 and inserting the following:
+20 'Sec. 6. 30-A MRSA §4973-A is enacted to read:
+21 §4973-A. Notification of expiration
+22 Any person, firm or organization that owns or has a controlling interest in any low-
+23 income rental housing shall provide notice of the expiration of any affordability restrictions
+24 or financial assistance to the tenants of that property, a tenants' organization for that
+25 property, if any, the Maine State Housing Authority and, if the property is located in the
+26 area of operation of a municipal housing authority, the municipal housing authority.
+27 1. Notice contents. The notice required by this section must include:
+28 A. The address of the low-income rental housing;
+29 B. The name and address of the owner of the low-income rental housing;
+30 C. Notification of the date on which the affordability restriction or financial assistance
+31 will terminate; and
+32 D. Any other information as required by the Maine State Housing Authority by rule.
+33 2. Notice timing. If the affordability restriction or financial assistance is scheduled to
+34 terminate in 2 or more years after the effective date of this section, the notice must be
+35 mailed at least 2 years before the scheduled termination. If the affordability restriction or
+36 financial assistance is scheduled to terminate less than 2 years after the effective date of
+37 this section, the notice must be mailed by November 30, 2025.
+38 3. Notice delivery. Notice provided to the Maine State Housing Authority, a
+39 municipal housing authority, a tenant and a tenants' organization must be sent by first-class
+40 mail, return receipt requested. Notice to a tenant must also be left in or under the door of
+41 the tenant's dwelling unit.'
+Page 2 - 132LR0798(02)
+COMMITTEE AMENDMENT
+COMMITTEE AMENDMENT “ ” to H.P. 670, L.D. 1041
+1 Amend the bill by relettering or renumbering any nonconsecutive Part letter or section
+2 number to read consecutively.
+3 SUMMARY
+44 This amendment, which is the majority report of the committee, amends the definitions
+55 and the notice requirement in the bill.
+66 FISCAL NOTE REQUIRED
+77 (See attached)
+Page 3 - 132LR0798(02)
+COMMITTEE AMENDMENT
+[DELETED: LD:(RC0A1A2' 3r4 5§6A7h819A0r1i2B324l5s o l g e f w r i c u c o6m738a940w1A]
+[DELETED: BpmCA' a1t0m1c2t3d4a5s6A748n9A0' 1§2A3i4o f a t t t o t p a t o f t5p6a718A9B0C1w2D324t5m6f7t83  N d  N p t t M S H A a9m0m1t]
+[DELETED: AnTaF(]
+
+
+================================================================================
+
+Raw Text:
+1 L.D. 1041
+2 Date: (Filing No. H- )
+3 HOUSING AND ECONOMIC DEVELOPMENT
+4 Reproduced and distributed under the direction of the Clerk of the House.
+5 STATE OF MAINE
+6 HOUSE OF REPRESENTATIVES
+7 132ND LEGISLATURE
+8 FIRST SPECIAL SESSION
+9 COMMITTEE AMENDMENT “ ” to H.P. 670, L.D. 1041, “An Act to Preserve
+10 Affordability in Publicly Assisted Housing Developments”
+11 Amend the bill by striking out all of section 1 and inserting the following:
+12 'Sec. 1. 30-A MRSA §4972, as repealed and replaced by PL 2023, c. 218, §3, is
+13 repealed.'
+14 Sec. 2. 30-A MRSA §4972-A is enacted to read:
+15 §4972-A. Definitions
+16 As used in this subchapter, unless the context otherwise indicates, the following terms
+17 have the following meanings.
+18 1. Affordability restriction. "Affordability restriction" means, for rental housing:
+19 A. A limitation on the rent amount that is based on the income of the person or family
+20 renting the unit compared to the area median income or to market rates for rental units
+21 in that geographic area; or
+22 B. A limitation on the income of the person or family renting the dwelling unit.
+23 2. Financial assistance. "Financial assistance" means funding in the form of grants,
+24 loans, rental assistance, subsidies, tax credits or other tax incentives provided by a federal,
+25 state or local government entity for which receipt is contingent upon constructing or
+26 maintaining dwelling units subject to an affordability restriction.
+27 3. Holder. "Holder" means the Maine State Housing Authority or a municipal housing
+28 authority that holds the option to purchase a low-income rental housing project.
+29 4. Low-income rental housing. "Low-income rental housing" means rental housing
+30 with 5 or more dwelling units in which any of the dwelling units are:
+31 A. Subject to affordability restrictions;
+Page 1 - 132LR0798(02)
+COMMITTEE AMENDMENT
+
+COMMITTEE AMENDMENT “ ” to H.P. 670, L.D. 1041
+1 B. Subject to rents that are controlled, regulated or assisted by a federal or state agency
+2 pursuant to a regulatory agreement, rental assistance agreement, restrictive covenant,
+3 mortgage or other documentation; or
+4 C. Subject to requirements as a condition of receiving financial assistance.'
+5 Amend the bill by striking out all of section 3 and inserting the following:
+6 'Sec. 3. 30-A MRSA §4973, sub-§1, as amended by PL 2023, c. 218, §4, is further
+7 amended to read:
+8 1. Notice. The notice required by section 4973-A must be made to the tenants, a
+9 tenants' organization for the property, if any, the Maine State Housing Authority and the
+10 municipal housing authority, if any, at least 90 days prior to the owner entering into a
+11 contract for the sale or transfer or taking any action in regard to the property described in
+12 this section. Failure to provide notice as required by this subsection does not reduce the 90-
+13 day period within which the Maine State Housing Authority or the municipal housing
+14 authority, if any, may submit, in writing, the intention to pursue the option described in
+15 subsection 2.'
+16 Amend the bill in section 4 in subsection 2 in paragraph A in the first line (page 2, line
+17 43 in L.D.) by striking out the following: "may not prevent" and inserting the following: 'is
+18 not intended to prevent'
+19 Amend the bill by striking out all of section 6 and inserting the following:
+20 'Sec. 6. 30-A MRSA §4973-A is enacted to read:
+21 §4973-A. Notification of expiration
+22 Any person, firm or organization that owns or has a controlling interest in any low-
+23 income rental housing shall provide notice of the expiration of any affordability restrictions
+24 or financial assistance to the tenants of that property, a tenants' organization for that
+25 property, if any, the Maine State Housing Authority and, if the property is located in the
+26 area of operation of a municipal housing authority, the municipal housing authority.
+27 1. Notice contents. The notice required by this section must include:
+28 A. The address of the low-income rental housing;
+29 B. The name and address of the owner of the low-income rental housing;
+30 C. Notification of the date on which the affordability restriction or financial assistance
+31 will terminate; and
+32 D. Any other information as required by the Maine State Housing Authority by rule.
+33 2. Notice timing. If the affordability restriction or financial assistance is scheduled to
+34 terminate in 2 or more years after the effective date of this section, the notice must be
+35 mailed at least 2 years before the scheduled termination. If the affordability restriction or
+36 financial assistance is scheduled to terminate less than 2 years after the effective date of
+37 this section, the notice must be mailed by November 30, 2025.
+38 3. Notice delivery. Notice provided to the Maine State Housing Authority, a
+39 municipal housing authority, a tenant and a tenants' organization must be sent by first-class
+40 mail, return receipt requested. Notice to a tenant must also be left in or under the door of
+41 the tenant's dwelling unit.'
+Page 2 - 132LR0798(02)
+COMMITTEE AMENDMENT
+
+COMMITTEE AMENDMENT “ ” to H.P. 670, L.D. 1041
+1 Amend the bill by relettering or renumbering any nonconsecutive Part letter or section
+2 number to read consecutively.
+3 SUMMARY
+44 This amendment, which is the majority report of the committee, amends the definitions
+55 and the notice requirement in the bill.
+66 FISCAL NOTE REQUIRED
+77 (See attached)
+Page 3 - 132LR0798(02)
+COMMITTEE AMENDMENT
+
+[DELETED: LD:(RC0A1A2' 3r4 5§6A7h819A0r1i2B324l5s o l g e f w r i c u c o6m738a940w1A]
+[DELETED: BpmCA' a1t0m1c2t3d4a5s6A748n9A0' 1§2A3i4o f a t t t o t p a t o f t5p6a718A9B0C1w2D324t5m6f7t83  N d  N p t t M S H A a9m0m1t]
+[DELETED: AnTaF(]

@@ -1,0 +1,158 @@
+Title: 4 Reproduced and distributed under the direction of the Secretary of the Senate.
+Official Title: 4 Reproduced and distributed under the direction of the Secretary of the Senate.
+Number of Sections: 1
+Source: versions - Adopted Amendments
+Media Type: application/pdf
+Strikethrough Detection: 2 sections found
+
+================================================================================
+
+Section 1:
+1 L.D. 1769
+2 Date: (Filing No. S- )
+3 HEALTH AND HUMAN SERVICES
+5 STATE OF MAINE
+6 SENATE
+7 132ND LEGISLATURE
+8 FIRST SPECIAL SESSION
+9 COMMITTEE AMENDMENT “ ” to S.P. 687, L.D. 1769, “An Act to Ensure Data
+10 Reporting for Temporary Nurse Agencies”
+11 Amend the bill by striking out everything after the enacting clause and inserting the
+12 following:
+13 'Sec. 1. 22 MRSA §2131, sub-§1, as amended by PL 2023, c. 434, §1, is further
+14 amended to read:
+15 1. Registration; renewal. A temporary nurse agency shall register with the
+16 department and renew the registration annually. In the event of a change of ownership,
+17 operation or location of the temporary nurse agency, the temporary nurse agency shall
+18 update the registration in accordance with rules adopted by the department. For purposes
+19 of this chapter, unless the context otherwise indicates, "temporary nurse agency" means a
+20 business entity or subdivision of a business entity that primarily provides or procures
+21 nurses, certified nursing assistants and other qualified staff to another organization on a
+22 temporary basis within this State. "Temporary nurse agency" includes an online platform
+23 or marketplace that advertises for and assists or facilitates placement of temporary nurses,
+24 certified nursing assistants or other qualified staffing in an organization within the State.
+25 A temporary "Temporary nurse agency" does not include an agency licensed in this State
+26 as a home health care services provider.
+27 Sec. 2. 22 MRSA §2131, sub-§1-B, as enacted by PL 2023, c. 434, §2, is amended
+28 to read:
+29 1-B. Employee quality assurance. A temporary nurse agency shall ensure that each
+30 employee the agency assigns or refers to a health care facility for a position meets the state
+31 and federal qualification requirements for that position and has the appropriate work
+32 experience for that position. A temporary nurse agency shall use the Background Check
+33 Center, established in section 9052, for direct access workers, as defined in section 9053,
+34 subsection 14. A temporary nurse agency shall maintain a record for each employee that
+35 must include documented evidence of credentials and required immunizations and
+36 documentation of any orientation, in-service education and completion of training or an
+Page 1 - 132LR2400(02)
+COMMITTEE AMENDMENT
+COMMITTEE AMENDMENT “ ” to S.P. 687, L.D. 1769
+317 educational program required by law. On request, a temporary nurse agency shall make
+328 available a record described in this subsection to the department. On request by a health
+339 care facility and with justification according to rules adopted by the department, a
+440 temporary nurse agency shall provide a record described in this subsection for an employee
+451 of that health care facility to that health care facility.
+6 Sec. 3. 22 MRSA §2131, sub-§4, ¶D is enacted to read:
+7 D. The department may enter into a consent agreement with an applicant or registrant
+8 to resolve any matter arising under this chapter, chapter 417-A, chapter 1691 or a rule
+9 adopted by the department without further proceedings. A consent agreement may be
+10 entered into pursuant to this paragraph only with the consent of the applicant or
+11 registrant, the department and the Office of the Attorney General. Any remedy, penalty
+12 or fine that is otherwise available by law, even if only in the jurisdiction of the courts
+13 of this State, may be achieved by a consent agreement entered into pursuant to this
+14 paragraph.'
+15 Amend the bill by relettering or renumbering any nonconsecutive Part letter or section
+16 number to read consecutively.
+17 SUMMARY
+1188 This amendment replaces the bill and adds language to the definition of "temporary
+1199 nurse agency" to include online platforms or marketplaces that advertise for and assist or
+2200 facilitate placement of temporary nurses, certified nursing assistants or other qualified
+2211 staffing in an organization within the State. It requires temporary nurse agencies to use the
+2222 Department of Health and Human Services, Background Check Center for direct access
+2233 workers. It provides that the department may enter into a consent agreement with an
+2244 applicant or registrant to resolve any matter arising under the Maine Revised Statutes, Title
+2255 22, chapter 417, chapter 417-A or chapter 1691 or a rule adopted by the department without
+2266 further proceedings.
+2277 FISCAL NOTE REQUIRED
+2288 (See attached)
+Page 2 - 132LR2400(02)
+COMMITTEE AMENDMENT
+[DELETED: LD:(RC0R1A2f3' 4a51  R r  A t n a s r w t6d7o8u9o0b1n2t3o4c5A6a7 8t910e1a f q r f t p a h t a w2e3C4s5m i d e o c a r i a6d]
+[DELETED: 7e8a9c f a w j a t r a b t d a0t1o Dta0e i p t t p o w t c o t a o1r2o3o4p5A6n8T9n0f1s2D3w4a526f7F8(]
+
+
+================================================================================
+
+Raw Text:
+1 L.D. 1769
+2 Date: (Filing No. S- )
+3 HEALTH AND HUMAN SERVICES
+4 Reproduced and distributed under the direction of the Secretary of the Senate.
+5 STATE OF MAINE
+6 SENATE
+7 132ND LEGISLATURE
+8 FIRST SPECIAL SESSION
+9 COMMITTEE AMENDMENT “ ” to S.P. 687, L.D. 1769, “An Act to Ensure Data
+10 Reporting for Temporary Nurse Agencies”
+11 Amend the bill by striking out everything after the enacting clause and inserting the
+12 following:
+13 'Sec. 1. 22 MRSA §2131, sub-§1, as amended by PL 2023, c. 434, §1, is further
+14 amended to read:
+15 1. Registration; renewal. A temporary nurse agency shall register with the
+16 department and renew the registration annually. In the event of a change of ownership,
+17 operation or location of the temporary nurse agency, the temporary nurse agency shall
+18 update the registration in accordance with rules adopted by the department. For purposes
+19 of this chapter, unless the context otherwise indicates, "temporary nurse agency" means a
+20 business entity or subdivision of a business entity that primarily provides or procures
+21 nurses, certified nursing assistants and other qualified staff to another organization on a
+22 temporary basis within this State. "Temporary nurse agency" includes an online platform
+23 or marketplace that advertises for and assists or facilitates placement of temporary nurses,
+24 certified nursing assistants or other qualified staffing in an organization within the State.
+25 A temporary "Temporary nurse agency" does not include an agency licensed in this State
+26 as a home health care services provider.
+27 Sec. 2. 22 MRSA §2131, sub-§1-B, as enacted by PL 2023, c. 434, §2, is amended
+28 to read:
+29 1-B. Employee quality assurance. A temporary nurse agency shall ensure that each
+30 employee the agency assigns or refers to a health care facility for a position meets the state
+31 and federal qualification requirements for that position and has the appropriate work
+32 experience for that position. A temporary nurse agency shall use the Background Check
+33 Center, established in section 9052, for direct access workers, as defined in section 9053,
+34 subsection 14. A temporary nurse agency shall maintain a record for each employee that
+35 must include documented evidence of credentials and required immunizations and
+36 documentation of any orientation, in-service education and completion of training or an
+Page 1 - 132LR2400(02)
+COMMITTEE AMENDMENT
+
+COMMITTEE AMENDMENT “ ” to S.P. 687, L.D. 1769
+317 educational program required by law. On request, a temporary nurse agency shall make
+328 available a record described in this subsection to the department. On request by a health
+339 care facility and with justification according to rules adopted by the department, a
+440 temporary nurse agency shall provide a record described in this subsection for an employee
+451 of that health care facility to that health care facility.
+6 Sec. 3. 22 MRSA §2131, sub-§4, ¶D is enacted to read:
+7 D. The department may enter into a consent agreement with an applicant or registrant
+8 to resolve any matter arising under this chapter, chapter 417-A, chapter 1691 or a rule
+9 adopted by the department without further proceedings. A consent agreement may be
+10 entered into pursuant to this paragraph only with the consent of the applicant or
+11 registrant, the department and the Office of the Attorney General. Any remedy, penalty
+12 or fine that is otherwise available by law, even if only in the jurisdiction of the courts
+13 of this State, may be achieved by a consent agreement entered into pursuant to this
+14 paragraph.'
+15 Amend the bill by relettering or renumbering any nonconsecutive Part letter or section
+16 number to read consecutively.
+17 SUMMARY
+1188 This amendment replaces the bill and adds language to the definition of "temporary
+1199 nurse agency" to include online platforms or marketplaces that advertise for and assist or
+2200 facilitate placement of temporary nurses, certified nursing assistants or other qualified
+2211 staffing in an organization within the State. It requires temporary nurse agencies to use the
+2222 Department of Health and Human Services, Background Check Center for direct access
+2233 workers. It provides that the department may enter into a consent agreement with an
+2244 applicant or registrant to resolve any matter arising under the Maine Revised Statutes, Title
+2255 22, chapter 417, chapter 417-A or chapter 1691 or a rule adopted by the department without
+2266 further proceedings.
+2277 FISCAL NOTE REQUIRED
+2288 (See attached)
+Page 2 - 132LR2400(02)
+COMMITTEE AMENDMENT
+
+[DELETED: LD:(RC0R1A2f3' 4a51  R r  A t n a s r w t6d7o8u9o0b1n2t3o4c5A6a7 8t910e1a f q r f t p a h t a w2e3C4s5m i d e o c a r i a6d]
+[DELETED: 7e8a9c f a w j a t r a b t d a0t1o Dta0e i p t t p o w t c o t a o1r2o3o4p5A6n8T9n0f1s2D3w4a526f7F8(]

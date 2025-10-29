@@ -1,0 +1,263 @@
+Title: 4 Reproduced and distributed under the direction of the Clerk of the House.
+Official Title: 4 Reproduced and distributed under the direction of the Clerk of the House.
+Number of Sections: 1
+Source: versions - Final Disposition
+Media Type: application/pdf
+Strikethrough Detection: 3 sections found
+
+================================================================================
+
+Section 1:
+1 L.D. 173
+2 Date: (Filing No. H- )
+3 INLAND FISHERIES AND WILDLIFE
+5 STATE OF MAINE
+6 HOUSE OF REPRESENTATIVES
+7 132ND LEGISLATURE
+8 FIRST SPECIAL SESSION
+9 COMMITTEE AMENDMENT “ ” to H.P. 106, L.D. 173, “An Act to Exempt
+10 Certain Watercraft from Registration Requirements”
+11 Amend the bill by striking out the title and substituting the following:
+12 'An Act to Amend the Laws Governing Fees for Operating Watercraft'
+13 Amend the bill by striking out everything after the enacting clause and inserting the
+14 following:
+15 'Sec. 1. 12 MRSA §10206, sub-§3, ¶C, as amended by PL 2023, c. 612, §1, is
+16 further amended by amending the first blocked paragraph to read:
+17 Prior to January 1, 2020, the fees outlined in section 13056, subsection 8, paragraphs
+18 A and B for watercraft operating on inland waters of the State each include a $10 fee
+19 for invasive species prevention and control. Beginning January 1, 2020, the fees
+20 outlined in section 13056, subsection 8, paragraphs A and B for watercraft operating
+21 on inland waters of the State each include a $15 fee for invasive species prevention and
+22 control. Beginning January 1, 2025, the fees outlined in section 13056, subsection 8,
+23 paragraphs A and B for watercraft operating on inland waters of the State each include
+24 a $25 fee for invasive species prevention and control. Beginning January 1, 2026, the
+25 fees outlined in section 13056, subsection 8, paragraph A, subparagraph (1-A) for
+26 watercraft operating on inland waters of the State each include a $10 fee for invasive
+27 species prevention and control. Beginning January 1, 2028, except as provided in
+28 section 13056, subsection 8, paragraph A, subparagraph (1-A), the fees outlined in
+29 section 13056, subsection 8, paragraphs A and B for watercraft operating on inland
+30 waters of the State each include a $35 fee for invasive species prevention and control.
+31 This fee is disposed of as follows:
+32 (1) Prior to January 1, 2025, 80% must be credited to the Invasive Aquatic Plant
+33 and Nuisance Species Fund. Beginning January 1, 2025, 70% must be credited to
+34 the Invasive Aquatic Plant and Nuisance Species Fund; and
+Page 1 - 132LR0502(02)
+COMMITTEE AMENDMENT
+COMMITTEE AMENDMENT “ ” to H.P. 106, L.D. 173
+1 (2) Prior to January 1, 2025, 20% must be credited to the Lake and River Protection
+2 Fund established within the department under section 10257. Beginning January
+3 1, 2025, 30% must be credited to the Lake and River Protection Fund.
+4 Sec. 2. 12 MRSA §13056, sub-§8, ¶A, as amended by PL 2023, c. 612, §2, is
+5 further amended by amending subparagraph (1) to read:
+6 (1) Ten horsepower or less, prior to January 1, 2020 the fee is $25 for operating
+7 on inland waters of the State and $15 for operating only on tidal waters of the State.
+8 Beginning January 1, 2020, the fee under this subparagraph is $30 for operating on
+9 inland waters of the State and $15 for operating only on tidal waters of the State.
+10 Beginning January 1, 2025 and until December 31, 2025, the fee under this
+11 subparagraph is $40 for operating on inland waters of the State and $15 for
+12 operating only on tidal waters of the State. Beginning January 1, 2028, the fee
+13 under this subparagraph is $50 for operating on inland waters of the State and $15
+14 for operating only on tidal waters of the State;
+15 Sec. 3. 12 MRSA §13056, sub-§8, ¶A, as amended by PL 2023, c. 612, §2, is
+16 further amended by enacting a new subparagraph (1-A) to read:
+17 (1-A) Five horsepower or less, beginning January 1, 2026, the fee is $20 for
+18 operating on inland waters of the State and $10 for operating only on tidal waters
+19 of the State;
+20 Sec. 4. 12 MRSA §13056, sub-§8, ¶A, as amended by PL 2023, c. 612, §2, is
+21 further amended by enacting a new subparagraph (1-B) to read:
+22 (1-B) Greater than 5 horsepower but not more than 10 horsepower, beginning
+23 January 1, 2026, the fee is $40 for operating on inland waters of the State and $15
+24 for operating only on tidal waters of the State. Beginning January 1, 2028, the fee
+25 under this subparagraph is $50 for operating on inland waters of the State and $15
+26 for operating only on tidal waters of the State;
+27 Sec. 5. Appropriations and allocations. The following appropriations and
+28 allocations are made.
+29 ENVIRONMENTAL PROTECTION, DEPARTMENT OF
+30 Water Quality 0248
+31 Initiative: Reduces allocation due to revenue reduction.
+32 OTHER SPECIAL REVENUE FUNDS 2025-26 2026-27
+33 All Other ($166,780) ($166,780)
+34 __________ __________
+35 OTHER SPECIAL REVENUE FUNDS TOTAL ($166,780) ($166,780)
+3362
+37 ENVIRONMENTAL PROTECTION,
+38 DEPARTMENT OF
+39 DEPARTMENT TOTALS 2025-26 2026-27
+40
+41 OTHER SPECIAL REVENUE FUNDS ($166,780) ($166,780)
+42 __________ __________
+Page 2 - 132LR0502(02)
+COMMITTEE AMENDMENT
+COMMITTEE AMENDMENT “ ” to H.P. 106, L.D. 173
+1 DEPARTMENT TOTAL - ALL FUNDS ($166,780) ($166,780)
+21 INLAND FISHERIES AND WILDLIFE, DEPARTMENT OF
+3 Enforcement Operations - Inland Fisheries and Wildlife 0537
+4 Initiative: Reduces allocations as a result of revenue reduction.
+5 OTHER SPECIAL REVENUE FUNDS 2025-26 2026-27
+6 All Other ($71,477) ($71,477)
+7 __________ __________
+8 OTHER SPECIAL REVENUE FUNDS TOTAL ($71,477) ($71,477)
+95
+10 INLAND FISHERIES AND WILDLIFE,
+11 DEPARTMENT OF
+12 DEPARTMENT TOTALS 2025-26 2026-27
+13
+14 OTHER SPECIAL REVENUE FUNDS ($71,477) ($71,477)
+15 __________ __________
+16 DEPARTMENT TOTAL - ALL FUNDS ($71,477) ($71,477)
+1170
+18 SECTION TOTALS 2025-26 2026-27
+19
+20 OTHER SPECIAL REVENUE FUNDS ($238,257) ($238,257)
+21 __________ __________
+22 SECTION TOTAL - ALL FUNDS ($238,257) ($238,257)
+2138 '
+24 Amend the bill by relettering or renumbering any nonconsecutive Part letter or section
+25 number to read consecutively.
+26 SUMMARY
+2277 This amendment replaces the bill and changes the title. The amendment provides that,
+2288 beginning January 1, 2026, the fee for boats operating on inland waters of the State with a
+2299 motor that is 5 horsepower or less is $20, $10 of which must be used for invasive species
+3300 prevention and control. The amendment provides that the fee for boats operating only on
+3311 tidal waters with a motor that is 5 horsepower or less is $10. The amendment also provides
+3322 that the fee for operating a watercraft with a motor that has a horsepower rating over 5
+3333 horsepower but no more than 10 horsepower is the same as the fee currently established
+3344 for watercraft with a motor that is 10 horsepower or less.
+3355 FISCAL NOTE REQUIRED
+3366 (See attached)
+Page 3 - 132LR0502(02)
+COMMITTEE AMENDMENT
+[DELETED: LD:(RC0C1A2'3A4f5' 6f7P8A9f0o1o2c3p4a5f6w7s8s9s0w1T2(3a4t]
+[DELETED: (F1 f(oBi0B J 1 2 a u D 3 2 t f u t1s i $ f o o i w o t S a $ f2o3u4f5 6f7(8o9o0 1f2(3J4f5u6f7  T f a a 5  A a a8a9E0W1IS262r()(___L()(2  S262 S()(___]
+[DELETED: S()(IEIS262r()(___L()(  S262 S()(___S()(0S262 S()(___S()(84A5n7T8b9m0p1t2t3h4f5F6(]
+
+
+================================================================================
+
+Raw Text:
+1 L.D. 173
+2 Date: (Filing No. H- )
+3 INLAND FISHERIES AND WILDLIFE
+4 Reproduced and distributed under the direction of the Clerk of the House.
+5 STATE OF MAINE
+6 HOUSE OF REPRESENTATIVES
+7 132ND LEGISLATURE
+8 FIRST SPECIAL SESSION
+9 COMMITTEE AMENDMENT “ ” to H.P. 106, L.D. 173, “An Act to Exempt
+10 Certain Watercraft from Registration Requirements”
+11 Amend the bill by striking out the title and substituting the following:
+12 'An Act to Amend the Laws Governing Fees for Operating Watercraft'
+13 Amend the bill by striking out everything after the enacting clause and inserting the
+14 following:
+15 'Sec. 1. 12 MRSA §10206, sub-§3, ¶C, as amended by PL 2023, c. 612, §1, is
+16 further amended by amending the first blocked paragraph to read:
+17 Prior to January 1, 2020, the fees outlined in section 13056, subsection 8, paragraphs
+18 A and B for watercraft operating on inland waters of the State each include a $10 fee
+19 for invasive species prevention and control. Beginning January 1, 2020, the fees
+20 outlined in section 13056, subsection 8, paragraphs A and B for watercraft operating
+21 on inland waters of the State each include a $15 fee for invasive species prevention and
+22 control. Beginning January 1, 2025, the fees outlined in section 13056, subsection 8,
+23 paragraphs A and B for watercraft operating on inland waters of the State each include
+24 a $25 fee for invasive species prevention and control. Beginning January 1, 2026, the
+25 fees outlined in section 13056, subsection 8, paragraph A, subparagraph (1-A) for
+26 watercraft operating on inland waters of the State each include a $10 fee for invasive
+27 species prevention and control. Beginning January 1, 2028, except as provided in
+28 section 13056, subsection 8, paragraph A, subparagraph (1-A), the fees outlined in
+29 section 13056, subsection 8, paragraphs A and B for watercraft operating on inland
+30 waters of the State each include a $35 fee for invasive species prevention and control.
+31 This fee is disposed of as follows:
+32 (1) Prior to January 1, 2025, 80% must be credited to the Invasive Aquatic Plant
+33 and Nuisance Species Fund. Beginning January 1, 2025, 70% must be credited to
+34 the Invasive Aquatic Plant and Nuisance Species Fund; and
+Page 1 - 132LR0502(02)
+COMMITTEE AMENDMENT
+
+COMMITTEE AMENDMENT “ ” to H.P. 106, L.D. 173
+1 (2) Prior to January 1, 2025, 20% must be credited to the Lake and River Protection
+2 Fund established within the department under section 10257. Beginning January
+3 1, 2025, 30% must be credited to the Lake and River Protection Fund.
+4 Sec. 2. 12 MRSA §13056, sub-§8, ¶A, as amended by PL 2023, c. 612, §2, is
+5 further amended by amending subparagraph (1) to read:
+6 (1) Ten horsepower or less, prior to January 1, 2020 the fee is $25 for operating
+7 on inland waters of the State and $15 for operating only on tidal waters of the State.
+8 Beginning January 1, 2020, the fee under this subparagraph is $30 for operating on
+9 inland waters of the State and $15 for operating only on tidal waters of the State.
+10 Beginning January 1, 2025 and until December 31, 2025, the fee under this
+11 subparagraph is $40 for operating on inland waters of the State and $15 for
+12 operating only on tidal waters of the State. Beginning January 1, 2028, the fee
+13 under this subparagraph is $50 for operating on inland waters of the State and $15
+14 for operating only on tidal waters of the State;
+15 Sec. 3. 12 MRSA §13056, sub-§8, ¶A, as amended by PL 2023, c. 612, §2, is
+16 further amended by enacting a new subparagraph (1-A) to read:
+17 (1-A) Five horsepower or less, beginning January 1, 2026, the fee is $20 for
+18 operating on inland waters of the State and $10 for operating only on tidal waters
+19 of the State;
+20 Sec. 4. 12 MRSA §13056, sub-§8, ¶A, as amended by PL 2023, c. 612, §2, is
+21 further amended by enacting a new subparagraph (1-B) to read:
+22 (1-B) Greater than 5 horsepower but not more than 10 horsepower, beginning
+23 January 1, 2026, the fee is $40 for operating on inland waters of the State and $15
+24 for operating only on tidal waters of the State. Beginning January 1, 2028, the fee
+25 under this subparagraph is $50 for operating on inland waters of the State and $15
+26 for operating only on tidal waters of the State;
+27 Sec. 5. Appropriations and allocations. The following appropriations and
+28 allocations are made.
+29 ENVIRONMENTAL PROTECTION, DEPARTMENT OF
+30 Water Quality 0248
+31 Initiative: Reduces allocation due to revenue reduction.
+32 OTHER SPECIAL REVENUE FUNDS 2025-26 2026-27
+33 All Other ($166,780) ($166,780)
+34 __________ __________
+35 OTHER SPECIAL REVENUE FUNDS TOTAL ($166,780) ($166,780)
+3362
+37 ENVIRONMENTAL PROTECTION,
+38 DEPARTMENT OF
+39 DEPARTMENT TOTALS 2025-26 2026-27
+40
+41 OTHER SPECIAL REVENUE FUNDS ($166,780) ($166,780)
+42 __________ __________
+Page 2 - 132LR0502(02)
+COMMITTEE AMENDMENT
+
+COMMITTEE AMENDMENT “ ” to H.P. 106, L.D. 173
+1 DEPARTMENT TOTAL - ALL FUNDS ($166,780) ($166,780)
+21 INLAND FISHERIES AND WILDLIFE, DEPARTMENT OF
+3 Enforcement Operations - Inland Fisheries and Wildlife 0537
+4 Initiative: Reduces allocations as a result of revenue reduction.
+5 OTHER SPECIAL REVENUE FUNDS 2025-26 2026-27
+6 All Other ($71,477) ($71,477)
+7 __________ __________
+8 OTHER SPECIAL REVENUE FUNDS TOTAL ($71,477) ($71,477)
+95
+10 INLAND FISHERIES AND WILDLIFE,
+11 DEPARTMENT OF
+12 DEPARTMENT TOTALS 2025-26 2026-27
+13
+14 OTHER SPECIAL REVENUE FUNDS ($71,477) ($71,477)
+15 __________ __________
+16 DEPARTMENT TOTAL - ALL FUNDS ($71,477) ($71,477)
+1170
+18 SECTION TOTALS 2025-26 2026-27
+19
+20 OTHER SPECIAL REVENUE FUNDS ($238,257) ($238,257)
+21 __________ __________
+22 SECTION TOTAL - ALL FUNDS ($238,257) ($238,257)
+2138 '
+24 Amend the bill by relettering or renumbering any nonconsecutive Part letter or section
+25 number to read consecutively.
+26 SUMMARY
+2277 This amendment replaces the bill and changes the title. The amendment provides that,
+2288 beginning January 1, 2026, the fee for boats operating on inland waters of the State with a
+2299 motor that is 5 horsepower or less is $20, $10 of which must be used for invasive species
+3300 prevention and control. The amendment provides that the fee for boats operating only on
+3311 tidal waters with a motor that is 5 horsepower or less is $10. The amendment also provides
+3322 that the fee for operating a watercraft with a motor that has a horsepower rating over 5
+3333 horsepower but no more than 10 horsepower is the same as the fee currently established
+3344 for watercraft with a motor that is 10 horsepower or less.
+3355 FISCAL NOTE REQUIRED
+3366 (See attached)
+Page 3 - 132LR0502(02)
+COMMITTEE AMENDMENT
+
+[DELETED: LD:(RC0C1A2'3A4f5' 6f7P8A9f0o1o2c3p4a5f6w7s8s9s0w1T2(3a4t]
+[DELETED: (F1 f(oBi0B J 1 2 a u D 3 2 t f u t1s i $ f o o i w o t S a $ f2o3u4f5 6f7(8o9o0 1f2(3J4f5u6f7  T f a a 5  A a a8a9E0W1IS262r()(___L()(2  S262 S()(___]
+[DELETED: S()(IEIS262r()(___L()(  S262 S()(___S()(0S262 S()(___S()(84A5n7T8b9m0p1t2t3h4f5F6(]

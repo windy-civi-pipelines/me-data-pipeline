@@ -1,0 +1,203 @@
+Title: An Act to Protect Groundwater and Surface Waters from
+Official Title: An Act to Protect Groundwater and Surface Waters from
+Number of Sections: 1
+Source: versions - Documents and Disposition
+Media Type: application/pdf
+Strikethrough Detection: 3 sections found
+
+================================================================================
+
+Section 1:
+132nd MAINE LEGISLATURE
+FIRST SPECIAL SESSION-2025
+Legislative Document No. 1604
+S.P. 641 In Senate, April 10, 2025
+Perfluoroalkyl and Polyfluoroalkyl Substances from Landfill
+Leachate
+Reference to the Committee on Environment and Natural Resources suggested and ordered
+printed.
+DAREK M. GRANT
+Secretary of the Senate
+Presented by Senator TIPPING of Penobscot.
+Printed on recycled paper
+1 Be it enacted by the People of the State of Maine as follows:
+2 Sec. 1. 38 MRSA §413, sub-§13 is enacted to read:
+3 13. Landfill leachate; reporting. Notwithstanding section 414‑A or any other
+4 provision of law to the contrary, a person licensed by the department to discharge
+5 wastewater to groundwater or any waters of the State shall maintain a record of and
+6 annually report to the department in a manner determined by the department regarding the
+7 origin, volume and final disposition of leachate collected from a solid waste landfill
+8 delivered to or otherwise accepted by the licensee for treatment or other management.
+9 Sec. 2. 38 MRSA §413, sub-§14 is enacted to read:
+10 14. Discharge limits for perfluoroalkyl and polyfluoroalkyl substances. The
+11 department shall adopt rules establishing limits on the amount of perfluoroalkyl and
+12 polyfluoroalkyl substances in discharged effluent. Notwithstanding section 414-A or any
+13 other provision of law to the contrary, beginning June 1, 2026, a person licensed by the
+14 department to discharge wastewater to groundwater or any waters of the State may not
+15 discharge any wastewater containing leachate collected from a solid waste landfill unless
+16 the effluent discharged satisfies the limits adopted by the department by rule regarding the
+17 amount of perfluoroalkyl and polyfluoroalkyl substances in discharged effluent. Rules
+18 adopted by the department pursuant to this subsection are routine technical rules as defined
+19 in Title 5, chapter 375, subchapter 2-A.
+20 As used in this subsection, "perfluoroalkyl and polyfluoroalkyl substances" has the same
+21 meaning as in section 1614, subsection 1, paragraph F.
+22 Sec. 3. 38 MRSA §1303-C, sub-§19-F is enacted to read:
+23 19-F. Perfluoroalkyl and polyfluoroalkyl substances. "Perfluoroalkyl and
+24 polyfluoroalkyl substances" or "PFAS" has the same meaning as in section 1614,
+25 subsection 1, paragraph F.
+26 Sec. 4. 38 MRSA §1310-N, sub-§10-A is enacted to read:
+27 10-A. Testing of landfill leachate for perfluoroalkyl and polyfluoroalkyl
+28 substances. Notwithstanding any provision of this chapter to the contrary, a licensed solid
+29 waste landfill that has installed a landfill leachate collection system shall ensure, on a
+30 quarterly basis, that its leachate is tested by an independent 3rd-party entity for
+31 perfluoroalkyl and polyfluoroalkyl substances contamination in a manner directed by the
+32 department. Results from leachate testing conducted pursuant to this subsection must be
+33 provided by a solid waste landfill to the department annually at the time the landfill submits
+34 its annual report pursuant to subsection 6-D, paragraph B. The department shall make
+35 leachate testing results submitted pursuant to this subsection available on its publicly
+36 accessible website in a manner and format that is readable and understandable by the
+37 general public.
+38 Sec. 5. 38 MRSA §1310-N, sub-§10-B is enacted to read:
+39 10-B. Testing of private water supplies for perfluoroalkyl and polyfluoroalkyl
+40 substances. Upon written request to the department from the owner of a property abutting
+41 a licensed solid waste landfill, the department shall require the licensee to conduct sampling
+42 and analysis for perfluoroalkyl and polyfluoroalkyl substances of a private water supply
+Page 1 - 132LR1669(01)
+413 well used by the owner for drinking water purposes. For the purposes of this subsection, a
+424 property is considered to be abutting a solid waste landfill if the property is contiguous to
+435 property on which the landfill is located, including directly across a public or private right-
+446 of-way from the landfill, or is located within one mile of property on which the landfill is
+457 located.
+6 A. Sampling and analysis for PFAS contamination pursuant to this subsection must be
+7 conducted using standard analytical methods for the detectable level of PFAS
+8 established by the United States Environmental Protection Agency.
+9 B. The laboratory performing the sampling and analysis shall provide written copies of
+10 results to the licensee, the property owner and the department. The property owner
+11 may request and the department may require the licensee to conduct additional
+12 sampling and analysis of the owner's private water supply well for PFAS contamination
+13 pursuant to this subsection.
+14 SUMMARY
+1155 This bill requires a person licensed by the Department of Environmental Protection to
+1166 discharge wastewater to groundwater or any waters of the State to maintain a record of and
+1177 annually report to the department, in a manner determined by the department, regarding the
+1188 origin, volume and final disposition of leachate collected from a solid waste landfill
+1199 delivered to or otherwise accepted by the licensee for treatment or other management. It
+2200 also prohibits, beginning June 1, 2026, such licensed wastewater dischargers from
+2211 discharging any wastewater containing leachate collected from a solid waste landfill unless
+2222 the effluent discharged satisfies limits adopted by the department by rule regarding the
+2233 amount of perfluoroalkyl and polyfluoroalkyl substances in effluent discharges.
+24 The bill requires a licensed solid waste landfill that has installed a landfill leachate
+25 collection system to ensure that its leachate is tested on a quarterly basis by an independent
+26 3rd-party entity for perfluoroalkyl and polyfluoroalkyl substances contamination in a
+27 manner directed by the department. The leachate testing results must be made available by
+28 the department on its publicly accessible website in a manner and using a format that is
+29 readable and understandable by the general public. The bill also provides that, upon written
+30 request to the department from the owner of a property abutting a licensed solid waste
+31 landfill, the department must require the landfill licensee to conduct sampling and analysis
+32 for perfluoroalkyl and polyfluoroalkyl substances of a private water supply well used by
+33 the owner for drinking water.
+Page 2 - 132LR1669(01)
+[DELETED: tN1I]
+[DELETED: B 1  L l r  N s 4 o a op o l t t c a p l b t d t dw t g o a w o t S s m a r o aao v a f d o l c f a s w ld 01  D l f p a p s  T1d s a r e l o t a o p a2p3o4d5d6t7a8a9i0A1m2 31  P a p s  " a4p s o " h t s m a i s 15s6 71  T o l l f p a p8s9w0q b t i l i t b a i 3 e f1p2d3p4i5l t r s p t t s a o i p6a7g8 910s1a2a]
+[DELETED: 3w4p5p6o7lAc u s a m f t d l o PeB0r1m r a t d m r t l t c a2s3p5T6d7a8o v a f d o l c f a s w l9d0a p b J 1 2 s l w d f1d2t3a4T5c63 e f p a p s c i a7m8t9r0r1l2f3t]
+
+
+================================================================================
+
+Raw Text:
+132nd MAINE LEGISLATURE
+FIRST SPECIAL SESSION-2025
+Legislative Document No. 1604
+S.P. 641 In Senate, April 10, 2025
+An Act to Protect Groundwater and Surface Waters from
+Perfluoroalkyl and Polyfluoroalkyl Substances from Landfill
+Leachate
+Reference to the Committee on Environment and Natural Resources suggested and ordered
+printed.
+DAREK M. GRANT
+Secretary of the Senate
+Presented by Senator TIPPING of Penobscot.
+Printed on recycled paper
+
+1 Be it enacted by the People of the State of Maine as follows:
+2 Sec. 1. 38 MRSA §413, sub-§13 is enacted to read:
+3 13. Landfill leachate; reporting. Notwithstanding section 414‑A or any other
+4 provision of law to the contrary, a person licensed by the department to discharge
+5 wastewater to groundwater or any waters of the State shall maintain a record of and
+6 annually report to the department in a manner determined by the department regarding the
+7 origin, volume and final disposition of leachate collected from a solid waste landfill
+8 delivered to or otherwise accepted by the licensee for treatment or other management.
+9 Sec. 2. 38 MRSA §413, sub-§14 is enacted to read:
+10 14. Discharge limits for perfluoroalkyl and polyfluoroalkyl substances. The
+11 department shall adopt rules establishing limits on the amount of perfluoroalkyl and
+12 polyfluoroalkyl substances in discharged effluent. Notwithstanding section 414-A or any
+13 other provision of law to the contrary, beginning June 1, 2026, a person licensed by the
+14 department to discharge wastewater to groundwater or any waters of the State may not
+15 discharge any wastewater containing leachate collected from a solid waste landfill unless
+16 the effluent discharged satisfies the limits adopted by the department by rule regarding the
+17 amount of perfluoroalkyl and polyfluoroalkyl substances in discharged effluent. Rules
+18 adopted by the department pursuant to this subsection are routine technical rules as defined
+19 in Title 5, chapter 375, subchapter 2-A.
+20 As used in this subsection, "perfluoroalkyl and polyfluoroalkyl substances" has the same
+21 meaning as in section 1614, subsection 1, paragraph F.
+22 Sec. 3. 38 MRSA §1303-C, sub-§19-F is enacted to read:
+23 19-F. Perfluoroalkyl and polyfluoroalkyl substances. "Perfluoroalkyl and
+24 polyfluoroalkyl substances" or "PFAS" has the same meaning as in section 1614,
+25 subsection 1, paragraph F.
+26 Sec. 4. 38 MRSA §1310-N, sub-§10-A is enacted to read:
+27 10-A. Testing of landfill leachate for perfluoroalkyl and polyfluoroalkyl
+28 substances. Notwithstanding any provision of this chapter to the contrary, a licensed solid
+29 waste landfill that has installed a landfill leachate collection system shall ensure, on a
+30 quarterly basis, that its leachate is tested by an independent 3rd-party entity for
+31 perfluoroalkyl and polyfluoroalkyl substances contamination in a manner directed by the
+32 department. Results from leachate testing conducted pursuant to this subsection must be
+33 provided by a solid waste landfill to the department annually at the time the landfill submits
+34 its annual report pursuant to subsection 6-D, paragraph B. The department shall make
+35 leachate testing results submitted pursuant to this subsection available on its publicly
+36 accessible website in a manner and format that is readable and understandable by the
+37 general public.
+38 Sec. 5. 38 MRSA §1310-N, sub-§10-B is enacted to read:
+39 10-B. Testing of private water supplies for perfluoroalkyl and polyfluoroalkyl
+40 substances. Upon written request to the department from the owner of a property abutting
+41 a licensed solid waste landfill, the department shall require the licensee to conduct sampling
+42 and analysis for perfluoroalkyl and polyfluoroalkyl substances of a private water supply
+Page 1 - 132LR1669(01)
+
+413 well used by the owner for drinking water purposes. For the purposes of this subsection, a
+424 property is considered to be abutting a solid waste landfill if the property is contiguous to
+435 property on which the landfill is located, including directly across a public or private right-
+446 of-way from the landfill, or is located within one mile of property on which the landfill is
+457 located.
+6 A. Sampling and analysis for PFAS contamination pursuant to this subsection must be
+7 conducted using standard analytical methods for the detectable level of PFAS
+8 established by the United States Environmental Protection Agency.
+9 B. The laboratory performing the sampling and analysis shall provide written copies of
+10 results to the licensee, the property owner and the department. The property owner
+11 may request and the department may require the licensee to conduct additional
+12 sampling and analysis of the owner's private water supply well for PFAS contamination
+13 pursuant to this subsection.
+14 SUMMARY
+1155 This bill requires a person licensed by the Department of Environmental Protection to
+1166 discharge wastewater to groundwater or any waters of the State to maintain a record of and
+1177 annually report to the department, in a manner determined by the department, regarding the
+1188 origin, volume and final disposition of leachate collected from a solid waste landfill
+1199 delivered to or otherwise accepted by the licensee for treatment or other management. It
+2200 also prohibits, beginning June 1, 2026, such licensed wastewater dischargers from
+2211 discharging any wastewater containing leachate collected from a solid waste landfill unless
+2222 the effluent discharged satisfies limits adopted by the department by rule regarding the
+2233 amount of perfluoroalkyl and polyfluoroalkyl substances in effluent discharges.
+24 The bill requires a licensed solid waste landfill that has installed a landfill leachate
+25 collection system to ensure that its leachate is tested on a quarterly basis by an independent
+26 3rd-party entity for perfluoroalkyl and polyfluoroalkyl substances contamination in a
+27 manner directed by the department. The leachate testing results must be made available by
+28 the department on its publicly accessible website in a manner and using a format that is
+29 readable and understandable by the general public. The bill also provides that, upon written
+30 request to the department from the owner of a property abutting a licensed solid waste
+31 landfill, the department must require the landfill licensee to conduct sampling and analysis
+32 for perfluoroalkyl and polyfluoroalkyl substances of a private water supply well used by
+33 the owner for drinking water.
+Page 2 - 132LR1669(01)
+
+[DELETED: tN1I]
+[DELETED: B 1  L l r  N s 4 o a op o l t t c a p l b t d t dw t g o a w o t S s m a r o aao v a f d o l c f a s w ld 01  D l f p a p s  T1d s a r e l o t a o p a2p3o4d5d6t7a8a9i0A1m2 31  P a p s  " a4p s o " h t s m a i s 15s6 71  T o l l f p a p8s9w0q b t i l i t b a i 3 e f1p2d3p4i5l t r s p t t s a o i p6a7g8 910s1a2a]
+[DELETED: 3w4p5p6o7lAc u s a m f t d l o PeB0r1m r a t d m r t l t c a2s3p5T6d7a8o v a f d o l c f a s w l9d0a p b J 1 2 s l w d f1d2t3a4T5c63 e f p a p s c i a7m8t9r0r1l2f3t]

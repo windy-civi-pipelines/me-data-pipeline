@@ -1,0 +1,140 @@
+Title: 4 Reproduced and distributed under the direction of the Clerk of the House.
+Official Title: 4 Reproduced and distributed under the direction of the Clerk of the House.
+Number of Sections: 1
+Source: versions - Adopted Amendments
+Media Type: application/pdf
+Strikethrough Detection: 2 sections found
+
+================================================================================
+
+Section 1:
+1 L.D. 427
+2 Date: (Filing No. H- )
+3 HOUSING AND ECONOMIC DEVELOPMENT
+5 STATE OF MAINE
+6 HOUSE OF REPRESENTATIVES
+7 132ND LEGISLATURE
+8 FIRST SPECIAL SESSION
+9 COMMITTEE AMENDMENT “ ” to H.P. 281, L.D. 427, “An Act to Prohibit
+10 Mandatory Parking Space Minimums in State and Municipal Building Codes”
+11 Amend the bill by striking out the title and substituting the following:
+12 'An Act to Regulate Municipal Parking Space Minimums'
+13 Amend the bill by striking out everything after the enacting clause and inserting the
+14 following:
+15 'Sec. 1. 30-A MRSA §4364-D is enacted to read:
+16 §4364-D. Minimum parking space requirements; limitations
+17 1. Definitions. As used in this section, unless the context otherwise indicates, the
+18 following terms have the following meanings.
+19 A. "Parking agreement" means a legally binding agreement between a property
+20 developer and the owner of an off-site parking facility to provide required parking
+21 spaces within 0.25 miles of a development site.
+22 B. "Transit stop" means any fixed route public transportation stop providing bus, rail
+23 or ferry service at least once per hour during peak times on weekdays on a year-round
+24 basis, excepting holidays.
+25 2. Prohibition of minimum parking space requirements near transit stops. A
+26 municipality may not require a property developer to provide off-street parking spaces for
+27 any residential, commercial or mixed-use development located within 0.25 miles of a
+28 transit stop. A municipality may not impose alternative parking requirements, such as
+29 mandatory shared parking arrangements, that effectively create a parking minimum in areas
+30 within 0.25 miles of a transit stop.
+31 3. Limitation of minimum parking space requirements in growth areas. A
+32 municipality may not require more than one off-street parking space per dwelling unit for
+33 a residential development within a designated growth area of a municipality, but a
+34 municipality may impose maximum parking space requirements or require parking demand
+Page 1 - 132LR1088(02)
+COMMITTEE AMENDMENT
+COMMITTEE AMENDMENT “ ” to H.P. 281, L.D. 427
+315 management strategies that do not require more than one off-street parking space per
+326 dwelling unit.
+3 4. Legalization of off-site parking agreements. A municipality must allow a
+4 developer to satisfy municipal parking requirements through off-site parking agreements
+5 with existing parking facilities located within 0.25 miles of a development site. A developer
+6 engaged in an off-site parking agreement shall provide to the municipality documentation
+7 demonstrating the availability of sufficient capacity at the off-site parking facility, as
+8 determined by a professional parking study or similar evidence acceptable to the
+9 municipality. A municipality may not impose additional barriers to the approval of such
+10 parking agreements beyond verifying the adequacy of parking supply.
+11 5. Rulemaking. The Office of Policy Innovation and the Future may adopt rules to
+12 administer and enforce this section. The department may consult with the Maine Office of
+13 Community Affairs in adopting rules pursuant to this subsection. Rules adopted pursuant
+14 to this subsection are routine technical rules as defined in Title 5, chapter 375, subchapter
+15 2-A.'
+16 Amend the bill by relettering or renumbering any nonconsecutive Part letter or section
+17 number to read consecutively.
+18 SUMMARY
+1199 This amendment, which replaces the bill, establishes limits on minimum parking space
+2200 requirements by establishing requirements for parking near transit stops, in growth areas
+2211 and for off-site parking agreements.
+Page 2 - 132LR1088(02)
+COMMITTEE AMENDMENT
+[DELETED: LD:(RC0M1A2'3A4f5' 6§718f9A " a m a l b a b a p0d1s2B3o4b52 P o m p s r n t s A6m7a8t9m0w13 L o m p s r i g a A2m3a r d w a d g a o a m b a4m]
+[DELETED: 5m6d4 L o o p a A m m a adwed t a o s c a t o p f ad b a p p s o s e a t tm0p152a3C4t526A7n9T0r1a]
+
+
+================================================================================
+
+Raw Text:
+1 L.D. 427
+2 Date: (Filing No. H- )
+3 HOUSING AND ECONOMIC DEVELOPMENT
+4 Reproduced and distributed under the direction of the Clerk of the House.
+5 STATE OF MAINE
+6 HOUSE OF REPRESENTATIVES
+7 132ND LEGISLATURE
+8 FIRST SPECIAL SESSION
+9 COMMITTEE AMENDMENT “ ” to H.P. 281, L.D. 427, “An Act to Prohibit
+10 Mandatory Parking Space Minimums in State and Municipal Building Codes”
+11 Amend the bill by striking out the title and substituting the following:
+12 'An Act to Regulate Municipal Parking Space Minimums'
+13 Amend the bill by striking out everything after the enacting clause and inserting the
+14 following:
+15 'Sec. 1. 30-A MRSA §4364-D is enacted to read:
+16 §4364-D. Minimum parking space requirements; limitations
+17 1. Definitions. As used in this section, unless the context otherwise indicates, the
+18 following terms have the following meanings.
+19 A. "Parking agreement" means a legally binding agreement between a property
+20 developer and the owner of an off-site parking facility to provide required parking
+21 spaces within 0.25 miles of a development site.
+22 B. "Transit stop" means any fixed route public transportation stop providing bus, rail
+23 or ferry service at least once per hour during peak times on weekdays on a year-round
+24 basis, excepting holidays.
+25 2. Prohibition of minimum parking space requirements near transit stops. A
+26 municipality may not require a property developer to provide off-street parking spaces for
+27 any residential, commercial or mixed-use development located within 0.25 miles of a
+28 transit stop. A municipality may not impose alternative parking requirements, such as
+29 mandatory shared parking arrangements, that effectively create a parking minimum in areas
+30 within 0.25 miles of a transit stop.
+31 3. Limitation of minimum parking space requirements in growth areas. A
+32 municipality may not require more than one off-street parking space per dwelling unit for
+33 a residential development within a designated growth area of a municipality, but a
+34 municipality may impose maximum parking space requirements or require parking demand
+Page 1 - 132LR1088(02)
+COMMITTEE AMENDMENT
+
+COMMITTEE AMENDMENT “ ” to H.P. 281, L.D. 427
+315 management strategies that do not require more than one off-street parking space per
+326 dwelling unit.
+3 4. Legalization of off-site parking agreements. A municipality must allow a
+4 developer to satisfy municipal parking requirements through off-site parking agreements
+5 with existing parking facilities located within 0.25 miles of a development site. A developer
+6 engaged in an off-site parking agreement shall provide to the municipality documentation
+7 demonstrating the availability of sufficient capacity at the off-site parking facility, as
+8 determined by a professional parking study or similar evidence acceptable to the
+9 municipality. A municipality may not impose additional barriers to the approval of such
+10 parking agreements beyond verifying the adequacy of parking supply.
+11 5. Rulemaking. The Office of Policy Innovation and the Future may adopt rules to
+12 administer and enforce this section. The department may consult with the Maine Office of
+13 Community Affairs in adopting rules pursuant to this subsection. Rules adopted pursuant
+14 to this subsection are routine technical rules as defined in Title 5, chapter 375, subchapter
+15 2-A.'
+16 Amend the bill by relettering or renumbering any nonconsecutive Part letter or section
+17 number to read consecutively.
+18 SUMMARY
+1199 This amendment, which replaces the bill, establishes limits on minimum parking space
+2200 requirements by establishing requirements for parking near transit stops, in growth areas
+2211 and for off-site parking agreements.
+Page 2 - 132LR1088(02)
+COMMITTEE AMENDMENT
+
+[DELETED: LD:(RC0M1A2'3A4f5' 6§718f9A " a m a l b a b a p0d1s2B3o4b52 P o m p s r n t s A6m7a8t9m0w13 L o m p s r i g a A2m3a r d w a d g a o a m b a4m]
+[DELETED: 5m6d4 L o o p a A m m a adwed t a o s c a t o p f ad b a p p s o s e a t tm0p152a3C4t526A7n9T0r1a]

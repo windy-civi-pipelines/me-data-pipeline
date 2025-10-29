@@ -1,0 +1,150 @@
+Title: 4 Reproduced and distributed under the direction of the Secretary of the Senate.
+Official Title: 4 Reproduced and distributed under the direction of the Secretary of the Senate.
+Number of Sections: 1
+Source: versions - Adopted Amendments
+Media Type: application/pdf
+Strikethrough Detection: 2 sections found
+
+================================================================================
+
+Section 1:
+1 L.D. 140
+2 Date: (Filing No. S- )
+3 TAXATION
+5 STATE OF MAINE
+6 SENATE
+7 132ND LEGISLATURE
+8 FIRST SPECIAL SESSION
+9 COMMITTEE AMENDMENT “ ” to S.P. 76, L.D. 140, “An Act to Incrementally
+10 Increase the Homestead Property Tax Exemption”
+11 Amend the bill in section 1 in subsection 1-B by striking out all of paragraph C (page
+12 1, lines 11 to 13 in L.D.) and inserting the following:
+13 'C. For property tax years beginning on or after April 1, 2020, $15,000 of the just value
+14 of the homestead; and'
+15 Amend the bill in section 1 in subsection 1-B in paragraph D in the first line (page 1,
+16 line 14 in L.D.) by striking out the following: "$10,000" and inserting the following:
+17 '$5,000'
+18 Amend the bill in section 1 in subsection 1-B in paragraph D in the last line (page 1,
+19 line 16 in L.D.) by striking out the following: "$85,000" and inserting the following:
+20 '$50,000'
+21 Amend the bill in section 1 in subsection 1-B in the first blocked paragraph in the last
+22 line (page 1, line 22 in L.D.) by striking out the following: "2032" and inserting the
+23 following: '2031'
+24 Amend the bill by inserting after section 1 the following:
+25 'Sec. 2. Appropriations and allocations. The following appropriations and
+26 allocations are made.
+27 ADMINISTRATIVE AND FINANCIAL SERVICES, DEPARTMENT OF
+28 Revenue Services, Bureau of 0002
+29 Initiative: Provides one-time funding for computer programming costs.
+30 GENERAL FUND 2025-26 2026-27
+31 All Other $47,640 $0
+32 __________ __________
+33 GENERAL FUND TOTAL $47,640 $0
+3340 Revenue Services, Bureau of 0002
+Page 1 - 132LR0354(02)
+COMMITTEE AMENDMENT
+COMMITTEE AMENDMENT “ ” to S.P. 76, L.D. 140
+1 Initiative: Provides funding for increased homestead property tax exemption
+2 reimbursement to municipalities starting with the property tax year beginning April 1,
+3 2026.
+4 GENERAL FUND 2025-26 2026-27
+5 All Other $0 $14,025,000
+6 __________ __________
+7 GENERAL FUND TOTAL $0 $14,025,000
+84
+9 ADMINISTRATIVE AND FINANCIAL
+10 SERVICES, DEPARTMENT OF
+11 DEPARTMENT TOTALS 2025-26 2026-27
+12
+13 GENERAL FUND $47,640 $14,025,000
+14 __________ __________
+15 DEPARTMENT TOTAL - ALL FUNDS $47,640 $14,025,000
+169 '
+17 Amend the bill by relettering or renumbering any nonconsecutive Part letter or section
+18 number to read consecutively.
+19 SUMMARY
+2200 This amendment reduces future increases of the homestead property tax exemption to
+2211 $5,000 per year beginning in 2026 and caps the exemption increases at $50,000 of the just
+2222 value of the homestead. The amendment also provides that once the exemption amount
+2233 reaches $50,000 in 2032, the amount of the exemption will be adjusted for inflation
+2244 annually. The amendment also adds an appropriations and allocations section.
+2255 FISCAL NOTE REQUIRED
+2266 (See attached)
+Page 2 - 132LR0354(02)
+COMMITTEE AMENDMENT
+[DELETED: LD:(RC0I1A213'4o5A6l7'8A9l0'1A2l3f4A5'  T f a a 2  A a a6a7A8R9ID262r$0$___L$0$0R]
+[DELETED: I P f f i h p t er2D262r$0$___L$0$  S262 D$0$___S$0$7A8n0T1$2v3r $ i 2 t a o t e w b a f i4a5F6(]
+
+
+================================================================================
+
+Raw Text:
+1 L.D. 140
+2 Date: (Filing No. S- )
+3 TAXATION
+4 Reproduced and distributed under the direction of the Secretary of the Senate.
+5 STATE OF MAINE
+6 SENATE
+7 132ND LEGISLATURE
+8 FIRST SPECIAL SESSION
+9 COMMITTEE AMENDMENT “ ” to S.P. 76, L.D. 140, “An Act to Incrementally
+10 Increase the Homestead Property Tax Exemption”
+11 Amend the bill in section 1 in subsection 1-B by striking out all of paragraph C (page
+12 1, lines 11 to 13 in L.D.) and inserting the following:
+13 'C. For property tax years beginning on or after April 1, 2020, $15,000 of the just value
+14 of the homestead; and'
+15 Amend the bill in section 1 in subsection 1-B in paragraph D in the first line (page 1,
+16 line 14 in L.D.) by striking out the following: "$10,000" and inserting the following:
+17 '$5,000'
+18 Amend the bill in section 1 in subsection 1-B in paragraph D in the last line (page 1,
+19 line 16 in L.D.) by striking out the following: "$85,000" and inserting the following:
+20 '$50,000'
+21 Amend the bill in section 1 in subsection 1-B in the first blocked paragraph in the last
+22 line (page 1, line 22 in L.D.) by striking out the following: "2032" and inserting the
+23 following: '2031'
+24 Amend the bill by inserting after section 1 the following:
+25 'Sec. 2. Appropriations and allocations. The following appropriations and
+26 allocations are made.
+27 ADMINISTRATIVE AND FINANCIAL SERVICES, DEPARTMENT OF
+28 Revenue Services, Bureau of 0002
+29 Initiative: Provides one-time funding for computer programming costs.
+30 GENERAL FUND 2025-26 2026-27
+31 All Other $47,640 $0
+32 __________ __________
+33 GENERAL FUND TOTAL $47,640 $0
+3340 Revenue Services, Bureau of 0002
+Page 1 - 132LR0354(02)
+COMMITTEE AMENDMENT
+
+COMMITTEE AMENDMENT “ ” to S.P. 76, L.D. 140
+1 Initiative: Provides funding for increased homestead property tax exemption
+2 reimbursement to municipalities starting with the property tax year beginning April 1,
+3 2026.
+4 GENERAL FUND 2025-26 2026-27
+5 All Other $0 $14,025,000
+6 __________ __________
+7 GENERAL FUND TOTAL $0 $14,025,000
+84
+9 ADMINISTRATIVE AND FINANCIAL
+10 SERVICES, DEPARTMENT OF
+11 DEPARTMENT TOTALS 2025-26 2026-27
+12
+13 GENERAL FUND $47,640 $14,025,000
+14 __________ __________
+15 DEPARTMENT TOTAL - ALL FUNDS $47,640 $14,025,000
+169 '
+17 Amend the bill by relettering or renumbering any nonconsecutive Part letter or section
+18 number to read consecutively.
+19 SUMMARY
+2200 This amendment reduces future increases of the homestead property tax exemption to
+2211 $5,000 per year beginning in 2026 and caps the exemption increases at $50,000 of the just
+2222 value of the homestead. The amendment also provides that once the exemption amount
+2233 reaches $50,000 in 2032, the amount of the exemption will be adjusted for inflation
+2244 annually. The amendment also adds an appropriations and allocations section.
+2255 FISCAL NOTE REQUIRED
+2266 (See attached)
+Page 2 - 132LR0354(02)
+COMMITTEE AMENDMENT
+
+[DELETED: LD:(RC0I1A213'4o5A6l7'8A9l0'1A2l3f4A5'  T f a a 2  A a a6a7A8R9ID262r$0$___L$0$0R]
+[DELETED: I P f f i h p t er2D262r$0$___L$0$  S262 D$0$___S$0$7A8n0T1$2v3r $ i 2 t a o t e w b a f i4a5F6(]

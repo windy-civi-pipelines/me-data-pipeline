@@ -1,0 +1,89 @@
+Title: 4 Reproduced and distributed under the direction of the Secretary of the Senate.
+Official Title: 4 Reproduced and distributed under the direction of the Secretary of the Senate.
+Number of Sections: 1
+Source: versions - Adopted Amendments
+Media Type: application/pdf
+Strikethrough Detection: 1 sections found
+
+================================================================================
+
+Section 1:
+1 L.D. 386
+2 Date: (Filing No. S- )
+3 JUDICIARY
+5 STATE OF MAINE
+6 SENATE
+7 132ND LEGISLATURE
+8 FIRST SPECIAL SESSION
+9 COMMITTEE AMENDMENT “ ” to S.P. 167, L.D. 386, “An Act Regarding
+10 Information That May Be Shared by Law Enforcement Entities with a School
+11 Superintendent or a Principal”
+12 Amend the bill by inserting after section 1 the following:
+13 'Sec. 2. 20-A MRSA §1055, sub-§11, as amended by PL 2019, c. 525, §35, is
+14 further amended to read:
+15 11. Notification teams. Within 10 days after receiving notice from a district attorney
+16 of an alleged juvenile offense or juvenile offense, pursuant to Title 15, section 3308‑B,
+17 subsection 1 or after receiving notice from a law enforcement officer of credible
+18 information that indicates an imminent danger to regarding the safety of students or school
+19 personnel pursuant to Title 15, section 3301‑A, the superintendent shall convene a
+20 notification team. The notification team must consist of the administrator of the school
+21 building or the administrator's designee, at least one classroom teacher to whom the student
+22 is assigned, a parent or guardian of the student and a guidance counselor. The notification
+23 team is entitled to receive the information described in Title 15, section 3308‑B, subsection
+24 1, paragraphs A to F and in Title 15, section 3301‑A. The notification team shall also
+25 determine on the basis of need which school employees are entitled to receive that
+26 information.
+27 Confidentiality of this criminal justice information regarding juveniles must be ensured at
+28 all times, and the information may be released only under the conditions of this subsection.
+29 The superintendent shall ensure that confidentiality training is provided to all school
+30 employees who have access to the information.'
+31 Amend the bill by relettering or renumbering any nonconsecutive Part letter or section
+32 number to read consecutively.
+33 SUMMARY
+3344 This amendment corrects a cross-reference.
+Page 1 - 132LR1041(02)
+COMMITTEE AMENDMENT
+[DELETED: LD:(RC A “ t S 1 L 3 “ A R0I T M B S b L E E w a S1S2A3' 4f516o7s 1 o a r n f a l e o o c8i9p p t T 1 s 3 t s s c a0n1b2i3t415d o t b o n w s e a e t r t6i7C8a9T s s e t c t i p t a s0e1A2n4T]
+
+
+================================================================================
+
+Raw Text:
+1 L.D. 386
+2 Date: (Filing No. S- )
+3 JUDICIARY
+4 Reproduced and distributed under the direction of the Secretary of the Senate.
+5 STATE OF MAINE
+6 SENATE
+7 132ND LEGISLATURE
+8 FIRST SPECIAL SESSION
+9 COMMITTEE AMENDMENT “ ” to S.P. 167, L.D. 386, “An Act Regarding
+10 Information That May Be Shared by Law Enforcement Entities with a School
+11 Superintendent or a Principal”
+12 Amend the bill by inserting after section 1 the following:
+13 'Sec. 2. 20-A MRSA §1055, sub-§11, as amended by PL 2019, c. 525, §35, is
+14 further amended to read:
+15 11. Notification teams. Within 10 days after receiving notice from a district attorney
+16 of an alleged juvenile offense or juvenile offense, pursuant to Title 15, section 3308‑B,
+17 subsection 1 or after receiving notice from a law enforcement officer of credible
+18 information that indicates an imminent danger to regarding the safety of students or school
+19 personnel pursuant to Title 15, section 3301‑A, the superintendent shall convene a
+20 notification team. The notification team must consist of the administrator of the school
+21 building or the administrator's designee, at least one classroom teacher to whom the student
+22 is assigned, a parent or guardian of the student and a guidance counselor. The notification
+23 team is entitled to receive the information described in Title 15, section 3308‑B, subsection
+24 1, paragraphs A to F and in Title 15, section 3301‑A. The notification team shall also
+25 determine on the basis of need which school employees are entitled to receive that
+26 information.
+27 Confidentiality of this criminal justice information regarding juveniles must be ensured at
+28 all times, and the information may be released only under the conditions of this subsection.
+29 The superintendent shall ensure that confidentiality training is provided to all school
+30 employees who have access to the information.'
+31 Amend the bill by relettering or renumbering any nonconsecutive Part letter or section
+32 number to read consecutively.
+33 SUMMARY
+3344 This amendment corrects a cross-reference.
+Page 1 - 132LR1041(02)
+COMMITTEE AMENDMENT
+
+[DELETED: LD:(RC A “ t S 1 L 3 “ A R0I T M B S b L E E w a S1S2A3' 4f516o7s 1 o a r n f a l e o o c8i9p p t T 1 s 3 t s s c a0n1b2i3t415d o t b o n w s e a e t r t6i7C8a9T s s e t c t i p t a s0e1A2n4T]
