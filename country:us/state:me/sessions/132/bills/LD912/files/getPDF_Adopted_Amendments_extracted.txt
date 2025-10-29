@@ -1,0 +1,146 @@
+Title: 4 Reproduced and distributed under the direction of the Secretary of the Senate.
+Official Title: 4 Reproduced and distributed under the direction of the Secretary of the Senate.
+Number of Sections: 1
+Source: versions - Adopted Amendments
+Media Type: application/pdf
+Strikethrough Detection: 2 sections found
+
+================================================================================
+
+Section 1:
+1 L.D. 912
+2 Date: (Filing No. S- )
+3 ENERGY, UTILITIES AND TECHNOLOGY
+5 STATE OF MAINE
+6 SENATE
+7 132ND LEGISLATURE
+8 FIRST SPECIAL SESSION
+9 COMMITTEE AMENDMENT “ ” to S.P. 402, L.D. 912, “An Act to Address the
+10 Use of Electricity by Data Centers”
+11 Amend the bill by striking out the title and substituting the following:
+12 'An Act to Limit the Amount of Electricity That May Be Provided to Data Centers on
+13 a Certain Commercial or Industrial Site'
+14 Amend the bill by inserting after the title and before the enacting clause the following:
+15 'Emergency preamble. Whereas, acts and resolves of the Legislature do not
+16 become effective until 90 days after adjournment unless enacted as emergencies; and
+17 Whereas, economic development in certain areas of the State requires ensuring that
+18 energy resources are available to a variety of employers and industries; and
+19 Whereas, this legislation is immediately necessary to ensure that local sources of
+20 electricity generation are not monopolized by data centers; and
+21 Whereas, in the judgment of the Legislature, these facts create an emergency within
+22 the meaning of the Constitution of Maine and require the following legislation as
+23 immediately necessary for the preservation of the public peace, health and safety; now,
+24 therefore,'
+25 Amend the bill by striking out everything after the enacting clause and inserting the
+26 following:
+27 'Sec. 1. 35-A MRSA §102, sub-§20-B, ¶B, as enacted by PL 2019, c. 205, §2, is
+28 amended to read:
+29 B. The entity's tenants; or
+30 Sec. 2. 35-A MRSA §102, sub-§20-B, ¶C, as enacted by PL 2019, c. 205, §2, is
+31 repealed and the following enacted in its place:
+32 C. Commercial or industrial consumers located on the property where the entity is
+33 located or on abutting property; or
+Page 1 - 132LR1873(02)
+COMMITTEE AMENDMENT
+COMMITTEE AMENDMENT “ ” to S.P. 402, L.D. 912
+1 Sec. 3. 35-A MRSA §102, sub-§20-B, ¶D is enacted to read:
+2 D. Commercial or industrial consumers located on a commercial or industrial site
+3 within the control area of the New England independent system operator and located
+4 in a municipality north of the Town of Chester that was served by the entity or its
+5 predecessor without using the transmission and distribution plant of a public utility
+6 prior to December 31, 2018. The exception under this paragraph does not apply if
+7 more than 25% of the nameplate capacity of the entity is used to serve data centers
+8 located on the commercial or industrial site. For the purposes of this paragraph, "data
+9 center" means any facility in the State, which may be a freestanding structure or a
+10 facility within a larger structure, that primarily contains electronic equipment used to
+11 process, store and transmit digital information that uses environmental control
+12 equipment to maintain the proper conditions for the operation of electronic equipment.'
+13 Amend the bill by adding before the summary the following:
+14 'Emergency clause. In view of the emergency cited in the preamble, this legislation
+15 takes effect when approved.'
+16 Amend the bill by relettering or renumbering any nonconsecutive Part letter or section
+17 number to read consecutively.
+18 SUMMARY
+1199 This amendment replaces the bill, changes the title and adds an emergency preamble
+2200 and emergency clause. It amends an existing statutory exception to the definition of
+2211 "transmission and distribution utility" for certain entities on commercial or industrial sites
+2222 to provide that an entity that otherwise would qualify for the exception must be located
+2233 within the control area of the New England independent system operator in a municipality
+2244 north of the Town of Chester and may not use more than 25% of its nameplate capacity to
+2255 serve data centers located on the commercial or industrial site.
+Page 2 - 132LR1873(02)
+COMMITTEE AMENDMENT
+[DELETED: LD:(RC0U1A2'3a4A5' 6b7 8e9 0e1 2t m o t C o M a r t f l a3i4t5A6f7' 8a9B0 1r2C3l]
+[DELETED:  Dwippmlc0f1p s a t d i t u e c2e3A4'I5t6A7n9T0a d1"2t3w4n5s]
+
+
+================================================================================
+
+Raw Text:
+1 L.D. 912
+2 Date: (Filing No. S- )
+3 ENERGY, UTILITIES AND TECHNOLOGY
+4 Reproduced and distributed under the direction of the Secretary of the Senate.
+5 STATE OF MAINE
+6 SENATE
+7 132ND LEGISLATURE
+8 FIRST SPECIAL SESSION
+9 COMMITTEE AMENDMENT “ ” to S.P. 402, L.D. 912, “An Act to Address the
+10 Use of Electricity by Data Centers”
+11 Amend the bill by striking out the title and substituting the following:
+12 'An Act to Limit the Amount of Electricity That May Be Provided to Data Centers on
+13 a Certain Commercial or Industrial Site'
+14 Amend the bill by inserting after the title and before the enacting clause the following:
+15 'Emergency preamble. Whereas, acts and resolves of the Legislature do not
+16 become effective until 90 days after adjournment unless enacted as emergencies; and
+17 Whereas, economic development in certain areas of the State requires ensuring that
+18 energy resources are available to a variety of employers and industries; and
+19 Whereas, this legislation is immediately necessary to ensure that local sources of
+20 electricity generation are not monopolized by data centers; and
+21 Whereas, in the judgment of the Legislature, these facts create an emergency within
+22 the meaning of the Constitution of Maine and require the following legislation as
+23 immediately necessary for the preservation of the public peace, health and safety; now,
+24 therefore,'
+25 Amend the bill by striking out everything after the enacting clause and inserting the
+26 following:
+27 'Sec. 1. 35-A MRSA §102, sub-§20-B, ¶B, as enacted by PL 2019, c. 205, §2, is
+28 amended to read:
+29 B. The entity's tenants; or
+30 Sec. 2. 35-A MRSA §102, sub-§20-B, ¶C, as enacted by PL 2019, c. 205, §2, is
+31 repealed and the following enacted in its place:
+32 C. Commercial or industrial consumers located on the property where the entity is
+33 located or on abutting property; or
+Page 1 - 132LR1873(02)
+COMMITTEE AMENDMENT
+
+COMMITTEE AMENDMENT “ ” to S.P. 402, L.D. 912
+1 Sec. 3. 35-A MRSA §102, sub-§20-B, ¶D is enacted to read:
+2 D. Commercial or industrial consumers located on a commercial or industrial site
+3 within the control area of the New England independent system operator and located
+4 in a municipality north of the Town of Chester that was served by the entity or its
+5 predecessor without using the transmission and distribution plant of a public utility
+6 prior to December 31, 2018. The exception under this paragraph does not apply if
+7 more than 25% of the nameplate capacity of the entity is used to serve data centers
+8 located on the commercial or industrial site. For the purposes of this paragraph, "data
+9 center" means any facility in the State, which may be a freestanding structure or a
+10 facility within a larger structure, that primarily contains electronic equipment used to
+11 process, store and transmit digital information that uses environmental control
+12 equipment to maintain the proper conditions for the operation of electronic equipment.'
+13 Amend the bill by adding before the summary the following:
+14 'Emergency clause. In view of the emergency cited in the preamble, this legislation
+15 takes effect when approved.'
+16 Amend the bill by relettering or renumbering any nonconsecutive Part letter or section
+17 number to read consecutively.
+18 SUMMARY
+1199 This amendment replaces the bill, changes the title and adds an emergency preamble
+2200 and emergency clause. It amends an existing statutory exception to the definition of
+2211 "transmission and distribution utility" for certain entities on commercial or industrial sites
+2222 to provide that an entity that otherwise would qualify for the exception must be located
+2233 within the control area of the New England independent system operator in a municipality
+2244 north of the Town of Chester and may not use more than 25% of its nameplate capacity to
+2255 serve data centers located on the commercial or industrial site.
+Page 2 - 132LR1873(02)
+COMMITTEE AMENDMENT
+
+[DELETED: LD:(RC0U1A2'3a4A5' 6b7 8e9 0e1 2t m o t C o M a r t f l a3i4t5A6f7' 8a9B0 1r2C3l]
+[DELETED:  Dwippmlc0f1p s a t d i t u e c2e3A4'I5t6A7n9T0a d1"2t3w4n5s]

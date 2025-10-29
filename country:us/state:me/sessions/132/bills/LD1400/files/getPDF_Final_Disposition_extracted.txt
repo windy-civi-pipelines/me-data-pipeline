@@ -1,0 +1,162 @@
+Title: 4 Reproduced and distributed under the direction of the Clerk of the House.
+Official Title: 4 Reproduced and distributed under the direction of the Clerk of the House.
+Number of Sections: 1
+Source: versions - Final Disposition
+Media Type: application/pdf
+Strikethrough Detection: 2 sections found
+
+================================================================================
+
+Section 1:
+1 L.D. 1400
+2 Date: (Filing No. H- )
+3 LABOR
+5 STATE OF MAINE
+6 HOUSE OF REPRESENTATIVES
+7 132ND LEGISLATURE
+8 FIRST SPECIAL SESSION
+9 COMMITTEE AMENDMENT “ ” to H.P. 922, L.D. 1400, “An Act to Exempt
+10 Certain Public School Districts and Their Employees from the Paid Family and Medical
+11 Leave Benefits Program”
+12 Amend the bill by striking out the title and substituting the following:
+13 'An Act to Exempt Certain Public School Districts and Agricultural Employers and
+14 Employees from the Paid Family and Medical Leave Benefits Program'
+15 Amend the bill by inserting after the enacting clause the following:
+16 'Sec. 1. 26 MRSA §850-A, sub-§13, as enacted by PL 2023, c. 412, Pt. AAA, §7,
+17 is amended to read:
+18 13. Employee. "Employee" means a person who may be permitted, required or
+19 directed by an employer in consideration of direct or indirect gain or profit to engage in
+20 any employment in the State but does not include an independent contractor or any
+21 individual employed in agriculture, as described in the Employment Security Law and the
+22 Federal Unemployment Tax Act, 26 United States Code, Section 3311.
+23 Sec. 2. 26 MRSA §850-A, sub-§14, as enacted by PL 2023, c. 412, Pt. AAA, §7,
+24 is amended by amending the first blocked paragraph to read:
+25 "Employer" does not include the Federal Government or any person, sole proprietorship,
+26 partnership, corporation, association or other business entity that employs individuals in
+27 agriculture, as described in the Employment Security Law and the Federal Unemployment
+28 Tax Act, 26 United States Code, Section 3311, in this State.'
+29 Amend the bill in section 3 in the 2nd line (page 1, line 17 in L.D.) by inserting after
+30 the following: "districts" the following: 'and employers of individuals employed in
+31 agriculture and self-employed individuals employed in agriculture'
+32 Amend the bill in section 3 in the 4th line (page 1, line 19 in L.D.) by striking out the
+33 following: "850-S. A school district employer" and inserting the following: '850-S or by an
+34 employer of individuals employed in agriculture and self-employed individuals employed
+Page 1 - 132LR2088(02)
+COMMITTEE AMENDMENT
+COMMITTEE AMENDMENT “ ” to H.P. 922, L.D. 1400
+315 in agriculture, as described by the Employment Security Law and the Federal
+326 Unemployment Tax Act, pursuant to Title 26, section 850-F. A school district employer
+337 or employer of individuals employed in agriculture, as described in the Employment
+348 Security Law and the Federal Unemployment Tax Act,'
+5 Amend the bill by inserting after section 3 the following:
+6 'Sec. 4. Appropriations and allocations. The following appropriations and
+7 allocations are made.
+8 LABOR, DEPARTMENT OF
+9 Paid Family and Medical Leave Insurance Fund Z383
+10 Initiative: Allocates one-time funds for the cost to calculate and refund contributions paid
+11 by exempted school districts and agricultural employers.
+12 PAID FAMILY AND MEDICAL LEAVE 2025-26 2026-27
+13 INSURANCE FUND
+14 All Other $60,000 $0
+15 __________ __________
+16 PAID FAMILY AND MEDICAL LEAVE $60,000 $0
+17 INSURANCE FUND TOTAL
+1182 '
+19 Amend the bill by relettering or renumbering any nonconsecutive Part letter or section
+20 number to read consecutively.
+21 SUMMARY
+2222 This amendment changes the title of the bill and excludes from the paid family and
+2233 medical leave benefits program any individual employed in agriculture, including an
+2244 individual self-employed in agriculture, as described by the Employment Security Law and
+2255 the Federal Unemployment Tax Act. It requires the Department of Labor to refund
+2266 contributions made by employers of individuals in agriculture pursuant to the paid family
+2277 and medical leave benefits program. It requires an employer that deducted a portion of the
+2288 premium required for an employee from that employee's wage to remit that portion of the
+2299 premium to the employee as part of the employee's wage. It also adds an appropriations
+3300 and allocations section.
+3311 FISCAL NOTE REQUIRED
+3322 (See attached)
+Page 2 - 132LR2088(02)
+COMMITTEE AMENDMENT
+[DELETED: LD:(RC0C1L2A3'4E5A6' 7i819d0a e i t S b d n i a i c o a1i2F3 4i5"6p7a8T9A0t""sa12A3f4e]
+[DELETED: 5i a a d b t E S L a t F6U7o e o i e i a a d i t E8SA'  T f a a 4  A a aaLP0I1b 262r$0$___ $0$29A0n2T3m l b p a i e i a i a4i5t F U T A  I r t D o L t r6c7a8p9p0a1F2(]
+
+
+================================================================================
+
+Raw Text:
+1 L.D. 1400
+2 Date: (Filing No. H- )
+3 LABOR
+4 Reproduced and distributed under the direction of the Clerk of the House.
+5 STATE OF MAINE
+6 HOUSE OF REPRESENTATIVES
+7 132ND LEGISLATURE
+8 FIRST SPECIAL SESSION
+9 COMMITTEE AMENDMENT “ ” to H.P. 922, L.D. 1400, “An Act to Exempt
+10 Certain Public School Districts and Their Employees from the Paid Family and Medical
+11 Leave Benefits Program”
+12 Amend the bill by striking out the title and substituting the following:
+13 'An Act to Exempt Certain Public School Districts and Agricultural Employers and
+14 Employees from the Paid Family and Medical Leave Benefits Program'
+15 Amend the bill by inserting after the enacting clause the following:
+16 'Sec. 1. 26 MRSA §850-A, sub-§13, as enacted by PL 2023, c. 412, Pt. AAA, §7,
+17 is amended to read:
+18 13. Employee. "Employee" means a person who may be permitted, required or
+19 directed by an employer in consideration of direct or indirect gain or profit to engage in
+20 any employment in the State but does not include an independent contractor or any
+21 individual employed in agriculture, as described in the Employment Security Law and the
+22 Federal Unemployment Tax Act, 26 United States Code, Section 3311.
+23 Sec. 2. 26 MRSA §850-A, sub-§14, as enacted by PL 2023, c. 412, Pt. AAA, §7,
+24 is amended by amending the first blocked paragraph to read:
+25 "Employer" does not include the Federal Government or any person, sole proprietorship,
+26 partnership, corporation, association or other business entity that employs individuals in
+27 agriculture, as described in the Employment Security Law and the Federal Unemployment
+28 Tax Act, 26 United States Code, Section 3311, in this State.'
+29 Amend the bill in section 3 in the 2nd line (page 1, line 17 in L.D.) by inserting after
+30 the following: "districts" the following: 'and employers of individuals employed in
+31 agriculture and self-employed individuals employed in agriculture'
+32 Amend the bill in section 3 in the 4th line (page 1, line 19 in L.D.) by striking out the
+33 following: "850-S. A school district employer" and inserting the following: '850-S or by an
+34 employer of individuals employed in agriculture and self-employed individuals employed
+Page 1 - 132LR2088(02)
+COMMITTEE AMENDMENT
+
+COMMITTEE AMENDMENT “ ” to H.P. 922, L.D. 1400
+315 in agriculture, as described by the Employment Security Law and the Federal
+326 Unemployment Tax Act, pursuant to Title 26, section 850-F. A school district employer
+337 or employer of individuals employed in agriculture, as described in the Employment
+348 Security Law and the Federal Unemployment Tax Act,'
+5 Amend the bill by inserting after section 3 the following:
+6 'Sec. 4. Appropriations and allocations. The following appropriations and
+7 allocations are made.
+8 LABOR, DEPARTMENT OF
+9 Paid Family and Medical Leave Insurance Fund Z383
+10 Initiative: Allocates one-time funds for the cost to calculate and refund contributions paid
+11 by exempted school districts and agricultural employers.
+12 PAID FAMILY AND MEDICAL LEAVE 2025-26 2026-27
+13 INSURANCE FUND
+14 All Other $60,000 $0
+15 __________ __________
+16 PAID FAMILY AND MEDICAL LEAVE $60,000 $0
+17 INSURANCE FUND TOTAL
+1182 '
+19 Amend the bill by relettering or renumbering any nonconsecutive Part letter or section
+20 number to read consecutively.
+21 SUMMARY
+2222 This amendment changes the title of the bill and excludes from the paid family and
+2233 medical leave benefits program any individual employed in agriculture, including an
+2244 individual self-employed in agriculture, as described by the Employment Security Law and
+2255 the Federal Unemployment Tax Act. It requires the Department of Labor to refund
+2266 contributions made by employers of individuals in agriculture pursuant to the paid family
+2277 and medical leave benefits program. It requires an employer that deducted a portion of the
+2288 premium required for an employee from that employee's wage to remit that portion of the
+2299 premium to the employee as part of the employee's wage. It also adds an appropriations
+3300 and allocations section.
+3311 FISCAL NOTE REQUIRED
+3322 (See attached)
+Page 2 - 132LR2088(02)
+COMMITTEE AMENDMENT
+
+[DELETED: LD:(RC0C1L2A3'4E5A6' 7i819d0a e i t S b d n i a i c o a1i2F3 4i5"6p7a8T9A0t""sa12A3f4e]
+[DELETED: 5i a a d b t E S L a t F6U7o e o i e i a a d i t E8SA'  T f a a 4  A a aaLP0I1b 262r$0$___ $0$29A0n2T3m l b p a i e i a i a4i5t F U T A  I r t D o L t r6c7a8p9p0a1F2(]

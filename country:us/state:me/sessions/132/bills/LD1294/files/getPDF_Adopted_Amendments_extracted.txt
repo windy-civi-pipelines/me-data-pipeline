@@ -1,0 +1,211 @@
+Title: 4 Reproduced and distributed under the direction of the Secretary of the Senate.
+Official Title: 4 Reproduced and distributed under the direction of the Secretary of the Senate.
+Number of Sections: 1
+Source: versions - Adopted Amendments
+Media Type: application/pdf
+Strikethrough Detection: 3 sections found
+
+================================================================================
+
+Section 1:
+1 L.D. 1294
+2 Date: (Filing No. S- )
+3 TAXATION
+5 STATE OF MAINE
+6 SENATE
+7 132ND LEGISLATURE
+8 FIRST SPECIAL SESSION
+9 COMMITTEE AMENDMENT “ ” to S.P. 524, L.D. 1294, “An Act to Expand the
+10 Dependent Exemption Tax Credit”
+11 Amend the bill by striking out everything after the enacting clause and inserting the
+12 following:
+13 'Sec. 1. 36 MRSA §5219-SS, sub-§4, as amended by PL 2023, c. 412, Pt. ZZZ, §6,
+14 is further amended to read:
+15 4. Refundability; phase-out. For tax years beginning before January 1, 2024, the
+16 credit allowed by this section may not reduce the tax otherwise due under this Part to less
+17 than zero. For tax years beginning on or after January 1, 2024, the credit allowed under
+18 subsections 1, 1‑A, 3 and 3‑A, as increased by subsection 5 for tax years beginning on or
+19 after January 1, 2025, is refundable. The amount of the credit allowed by this section must
+20 be reduced, but not below zero, by $7.50 for each $1,000 or fraction thereof by which the
+21 taxpayer's Maine adjusted gross income exceeds $400,000 in the case of a joint return and
+22 $200,000 in any other case.
+23 For tax years beginning before January 1, 2025, the amount of the credit allowed by this
+24 section must be reduced, but not below zero, by $7.50 for each $1,000 or fraction thereof
+25 by which the taxpayer's Maine adjusted gross income exceeds $400,000 in the case of a
+26 joint return and $200,000 in any other case.
+27 For tax years beginning on or after January 1, 2025, the amount of the credit allowed by
+28 this section, as increased by subsection 5, must be reduced, but not below zero, by $20 for
+29 each $500 or fraction thereof by which the taxpayer's Maine adjusted gross income
+30 exceeds:
+31 A. For a single individual, $100,000;
+32 B. For an individual filing as a head of household, $125,000;
+33 C. For individuals filing married joint returns or surviving spouses, $150,000; and
+34 D. For a married individual filing a separate return, 1/2 of the applicable amount under
+35 paragraph C.
+Page 1 - 132LR1681(02)
+COMMITTEE AMENDMENT
+COMMITTEE AMENDMENT “ ” to S.P. 524, L.D. 1294
+1 Sec. 2. 36 MRSA §5219-SS, sub-§5 is enacted to read:
+2 5. Increased credit for qualifying children and dependents under 6 years of age.
+3 For tax years beginning on or after January 1, 2025, the credit amount allowed in
+4 subsections 1, 1-A, 2, 2-A, 3 and 3-A for each qualifying child and dependent who has not
+5 attained 6 years of age before the end of the taxable year is multiplied by 2.
+6 Sec. 3. 36 MRSA §5403, sub-§8, as amended by PL 2023, c. 412, Pt. ZZZ, §9, is
+7 further amended to read:
+8 8. Personal exemption phase-out. Beginning in 2018 and each year thereafter, by
+9 the dollar amount of the applicable amounts specified in section 5126‑A, subsection 2,
+10 paragraphs A, B and C, except that for the purposes of this subsection, notwithstanding
+11 section 5402, subsection 1‑B, the "cost-of-living adjustment" is the Chained Consumer
+12 Price Index for the 12-month period ending June 30th of the preceding calendar year
+13 divided by the Chained Consumer Price Index for the 12-month period ending June 30,
+14 2017; and
+15 Sec. 4. 36 MRSA §5403, sub-§9, as enacted by PL 2023, c. 412, Pt. ZZZ, §10, is
+16 amended to read:
+17 9. Dependent exemption tax credit amount. Beginning in 2024 and each year
+18 thereafter, by the dollar amount of the dependent exemption tax credit under section
+19 5219‑SS, except that for the purposes of this subsection, notwithstanding section 5402,
+20 subsection 1‑B, the "cost-of-living adjustment" is the Chained Consumer Price Index for
+21 the 12-month period ending June 30th of the preceding calendar year divided by the
+22 Chained Consumer Price Index for the 12-month period ending June 30, 2023. If the credit
+23 amount, adjusted by application of the cost-of-living adjustment, is not a multiple of $5,
+24 any increase must be rounded to the next lowest multiple of $5.; and
+25 Sec. 5. 36 MRSA §5403, sub-§10 is enacted to read:
+26 10. Dependent exemption phase-out. Beginning in 2025 and each year thereafter,
+27 by the dollar amount of the applicable amounts specified in section 5219-SS, subsection 4,
+28 paragraphs A, B and C, except that for the purposes of this subsection, notwithstanding
+29 section 5402, subsection 1‑B, the "cost-of-living adjustment" is the Chained Consumer
+30 Price Index for the 12-month period ending June 30th of the preceding calendar year
+31 divided by the Chained Consumer Price Index for the 12-month period ending June 30,
+32 2024.
+33 Sec. 6. Appropriations and allocations. The following appropriations and
+34 allocations are made.
+35 ADMINISTRATIVE AND FINANCIAL SERVICES, DEPARTMENT OF
+36 Revenue Services, Bureau of 0002
+37 Initiative: Provides one-time funding for computer programming costs.
+38 GENERAL FUND 2025-26 2026-27
+39 All Other $31,800 $0
+40 __________ __________
+41 GENERAL FUND TOTAL $31,800 $0
+4328 '
+Page 2 - 132LR1681(02)
+COMMITTEE AMENDMENT
+COMMITTEE AMENDMENT “ ” to S.P. 524, L.D. 1294
+1 Amend the bill by relettering or renumbering any nonconsecutive Part letter or section
+2 number to read consecutively.
+3 SUMMARY
+44 This amendment replaces the bill. The amendment doubles the dependent exemption
+55 tax credit for a child or dependent who has not attained 6 years of age by the end of the tax
+66 year and phases out the refundability of the tax credit based on income.
+7 The amendment also adds an appropriations and allocations section.
+88 FISCAL NOTE REQUIRED
+99 (See attached)
+Page 3 - 132LR1681(02)
+COMMITTEE AMENDMENT
+[DELETED: LD:(RC0D1A2f3' 4i546c7t8s9a0b1t2$3F4s5b6j7F8t9e $ o f t b w t t M a g i0e1A2B3C4D5p]
+[DELETED:  5F t y b o o a J 1 2 t c a a isa f8t0p1s2P3d425 6a798t b t d a o t d e t c u s950s1t 1 p e J 3 o t p c y d b t2C3a4a5 617b8p9s0P1d223  T f a a 6  A a a4a5A6R7ID262r$0$___L$0$8]
+[DELETED: AnTtyTF(]
+
+
+================================================================================
+
+Raw Text:
+1 L.D. 1294
+2 Date: (Filing No. S- )
+3 TAXATION
+4 Reproduced and distributed under the direction of the Secretary of the Senate.
+5 STATE OF MAINE
+6 SENATE
+7 132ND LEGISLATURE
+8 FIRST SPECIAL SESSION
+9 COMMITTEE AMENDMENT “ ” to S.P. 524, L.D. 1294, “An Act to Expand the
+10 Dependent Exemption Tax Credit”
+11 Amend the bill by striking out everything after the enacting clause and inserting the
+12 following:
+13 'Sec. 1. 36 MRSA §5219-SS, sub-§4, as amended by PL 2023, c. 412, Pt. ZZZ, §6,
+14 is further amended to read:
+15 4. Refundability; phase-out. For tax years beginning before January 1, 2024, the
+16 credit allowed by this section may not reduce the tax otherwise due under this Part to less
+17 than zero. For tax years beginning on or after January 1, 2024, the credit allowed under
+18 subsections 1, 1‑A, 3 and 3‑A, as increased by subsection 5 for tax years beginning on or
+19 after January 1, 2025, is refundable. The amount of the credit allowed by this section must
+20 be reduced, but not below zero, by $7.50 for each $1,000 or fraction thereof by which the
+21 taxpayer's Maine adjusted gross income exceeds $400,000 in the case of a joint return and
+22 $200,000 in any other case.
+23 For tax years beginning before January 1, 2025, the amount of the credit allowed by this
+24 section must be reduced, but not below zero, by $7.50 for each $1,000 or fraction thereof
+25 by which the taxpayer's Maine adjusted gross income exceeds $400,000 in the case of a
+26 joint return and $200,000 in any other case.
+27 For tax years beginning on or after January 1, 2025, the amount of the credit allowed by
+28 this section, as increased by subsection 5, must be reduced, but not below zero, by $20 for
+29 each $500 or fraction thereof by which the taxpayer's Maine adjusted gross income
+30 exceeds:
+31 A. For a single individual, $100,000;
+32 B. For an individual filing as a head of household, $125,000;
+33 C. For individuals filing married joint returns or surviving spouses, $150,000; and
+34 D. For a married individual filing a separate return, 1/2 of the applicable amount under
+35 paragraph C.
+Page 1 - 132LR1681(02)
+COMMITTEE AMENDMENT
+
+COMMITTEE AMENDMENT “ ” to S.P. 524, L.D. 1294
+1 Sec. 2. 36 MRSA §5219-SS, sub-§5 is enacted to read:
+2 5. Increased credit for qualifying children and dependents under 6 years of age.
+3 For tax years beginning on or after January 1, 2025, the credit amount allowed in
+4 subsections 1, 1-A, 2, 2-A, 3 and 3-A for each qualifying child and dependent who has not
+5 attained 6 years of age before the end of the taxable year is multiplied by 2.
+6 Sec. 3. 36 MRSA §5403, sub-§8, as amended by PL 2023, c. 412, Pt. ZZZ, §9, is
+7 further amended to read:
+8 8. Personal exemption phase-out. Beginning in 2018 and each year thereafter, by
+9 the dollar amount of the applicable amounts specified in section 5126‑A, subsection 2,
+10 paragraphs A, B and C, except that for the purposes of this subsection, notwithstanding
+11 section 5402, subsection 1‑B, the "cost-of-living adjustment" is the Chained Consumer
+12 Price Index for the 12-month period ending June 30th of the preceding calendar year
+13 divided by the Chained Consumer Price Index for the 12-month period ending June 30,
+14 2017; and
+15 Sec. 4. 36 MRSA §5403, sub-§9, as enacted by PL 2023, c. 412, Pt. ZZZ, §10, is
+16 amended to read:
+17 9. Dependent exemption tax credit amount. Beginning in 2024 and each year
+18 thereafter, by the dollar amount of the dependent exemption tax credit under section
+19 5219‑SS, except that for the purposes of this subsection, notwithstanding section 5402,
+20 subsection 1‑B, the "cost-of-living adjustment" is the Chained Consumer Price Index for
+21 the 12-month period ending June 30th of the preceding calendar year divided by the
+22 Chained Consumer Price Index for the 12-month period ending June 30, 2023. If the credit
+23 amount, adjusted by application of the cost-of-living adjustment, is not a multiple of $5,
+24 any increase must be rounded to the next lowest multiple of $5.; and
+25 Sec. 5. 36 MRSA §5403, sub-§10 is enacted to read:
+26 10. Dependent exemption phase-out. Beginning in 2025 and each year thereafter,
+27 by the dollar amount of the applicable amounts specified in section 5219-SS, subsection 4,
+28 paragraphs A, B and C, except that for the purposes of this subsection, notwithstanding
+29 section 5402, subsection 1‑B, the "cost-of-living adjustment" is the Chained Consumer
+30 Price Index for the 12-month period ending June 30th of the preceding calendar year
+31 divided by the Chained Consumer Price Index for the 12-month period ending June 30,
+32 2024.
+33 Sec. 6. Appropriations and allocations. The following appropriations and
+34 allocations are made.
+35 ADMINISTRATIVE AND FINANCIAL SERVICES, DEPARTMENT OF
+36 Revenue Services, Bureau of 0002
+37 Initiative: Provides one-time funding for computer programming costs.
+38 GENERAL FUND 2025-26 2026-27
+39 All Other $31,800 $0
+40 __________ __________
+41 GENERAL FUND TOTAL $31,800 $0
+4328 '
+Page 2 - 132LR1681(02)
+COMMITTEE AMENDMENT
+
+COMMITTEE AMENDMENT “ ” to S.P. 524, L.D. 1294
+1 Amend the bill by relettering or renumbering any nonconsecutive Part letter or section
+2 number to read consecutively.
+3 SUMMARY
+44 This amendment replaces the bill. The amendment doubles the dependent exemption
+55 tax credit for a child or dependent who has not attained 6 years of age by the end of the tax
+66 year and phases out the refundability of the tax credit based on income.
+7 The amendment also adds an appropriations and allocations section.
+88 FISCAL NOTE REQUIRED
+99 (See attached)
+Page 3 - 132LR1681(02)
+COMMITTEE AMENDMENT
+
+[DELETED: LD:(RC0D1A2f3' 4i546c7t8s9a0b1t2$3F4s5b6j7F8t9e $ o f t b w t t M a g i0e1A2B3C4D5p]
+[DELETED:  5F t y b o o a J 1 2 t c a a isa f8t0p1s2P3d425 6a798t b t d a o t d e t c u s950s1t 1 p e J 3 o t p c y d b t2C3a4a5 617b8p9s0P1d223  T f a a 6  A a a4a5A6R7ID262r$0$___L$0$8]
+[DELETED: AnTtyTF(]

@@ -1,0 +1,83 @@
+Title: 4 Reproduced and distributed under the direction of the Clerk of the House.
+Official Title: 4 Reproduced and distributed under the direction of the Clerk of the House.
+Number of Sections: 1
+Source: versions - Final Disposition
+Media Type: application/pdf
+Strikethrough Detection: 1 sections found
+
+================================================================================
+
+Section 1:
+1 L.D. 1593
+2 Date: (Filing No. H- )
+3 STATE AND LOCAL GOVERNMENT
+5 STATE OF MAINE
+6 HOUSE OF REPRESENTATIVES
+7 132ND LEGISLATURE
+8 FIRST SPECIAL SESSION
+9 COMMITTEE AMENDMENT “ ” to H.P. 1051, L.D. 1593, “An Act to Require
+10 Certain Public Entities to Define Their Use of the Term "Equity"”
+11 Amend the bill by striking out everything after the enacting clause and inserting the
+12 following:
+13 'Sec. 1. 5 MRSA §4635 is enacted to read:
+14 §4635. Explanation of equity-based decisions
+15 Notwithstanding any provision of law to the contrary, when a public entity states that
+16 it is taking an action, including, without limitation, the adoption of a policy, awarding of a
+17 contract or conducting its hiring practices, to advance equity, that public entity shall specify
+18 and make available on its publicly accessible website the definition of "equity" that the
+19 public entity is using to make that decision and the metrics being used to measure equity.
+20 For the purposes of this section, "public entity" does not include a public school as
+21 defined in Title 20-A, section 1, subsection 24, a municipality or a county.'
+22 Amend the bill by relettering or renumbering any nonconsecutive Part letter or section
+23 number to read consecutively.
+24 SUMMARY
+2255 This amendment, which is the minority report of the committee, changes the bill by
+2266 removing educational institutions from the requirement to provide a definition of "equity"
+2277 and adding a provision to the bill clarifying that "public entity" does not include a public
+2288 school as defined in the Maine Revised Statutes, Title 20-A, section 1, subsection 24, a
+2299 municipality or a county.
+3300 FISCAL NOTE REQUIRED
+3311 (See attached)
+Page 1 - 132LR0313(02)
+COMMITTEE AMENDMENT
+[DELETED: LD:(RC0C1A2f3' 4§5N6i7c8a9p0F1d2A3n5T6r7a8s9m0F1(]
+
+
+================================================================================
+
+Raw Text:
+1 L.D. 1593
+2 Date: (Filing No. H- )
+3 STATE AND LOCAL GOVERNMENT
+4 Reproduced and distributed under the direction of the Clerk of the House.
+5 STATE OF MAINE
+6 HOUSE OF REPRESENTATIVES
+7 132ND LEGISLATURE
+8 FIRST SPECIAL SESSION
+9 COMMITTEE AMENDMENT “ ” to H.P. 1051, L.D. 1593, “An Act to Require
+10 Certain Public Entities to Define Their Use of the Term "Equity"”
+11 Amend the bill by striking out everything after the enacting clause and inserting the
+12 following:
+13 'Sec. 1. 5 MRSA §4635 is enacted to read:
+14 §4635. Explanation of equity-based decisions
+15 Notwithstanding any provision of law to the contrary, when a public entity states that
+16 it is taking an action, including, without limitation, the adoption of a policy, awarding of a
+17 contract or conducting its hiring practices, to advance equity, that public entity shall specify
+18 and make available on its publicly accessible website the definition of "equity" that the
+19 public entity is using to make that decision and the metrics being used to measure equity.
+20 For the purposes of this section, "public entity" does not include a public school as
+21 defined in Title 20-A, section 1, subsection 24, a municipality or a county.'
+22 Amend the bill by relettering or renumbering any nonconsecutive Part letter or section
+23 number to read consecutively.
+24 SUMMARY
+2255 This amendment, which is the minority report of the committee, changes the bill by
+2266 removing educational institutions from the requirement to provide a definition of "equity"
+2277 and adding a provision to the bill clarifying that "public entity" does not include a public
+2288 school as defined in the Maine Revised Statutes, Title 20-A, section 1, subsection 24, a
+2299 municipality or a county.
+3300 FISCAL NOTE REQUIRED
+3311 (See attached)
+Page 1 - 132LR0313(02)
+COMMITTEE AMENDMENT
+
+[DELETED: LD:(RC0C1A2f3' 4§5N6i7c8a9p0F1d2A3n5T6r7a8s9m0F1(]
