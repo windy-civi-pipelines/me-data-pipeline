@@ -1,0 +1,227 @@
+Title: 4 Reproduced and distributed under the direction of the Secretary of the Senate.
+Official Title: 4 Reproduced and distributed under the direction of the Secretary of the Senate.
+Number of Sections: 1
+Source: versions - Adopted Amendments
+Media Type: application/pdf
+Strikethrough Detection: 3 sections found
+
+================================================================================
+
+Section 1:
+1 L.D. 1868
+2 Date: (Filing No. S- )
+3 ENERGY, UTILITIES AND TECHNOLOGY
+5 STATE OF MAINE
+6 SENATE
+7 132ND LEGISLATURE
+8 FIRST SPECIAL SESSION
+9 COMMITTEE AMENDMENT “ ” to S.P. 738, L.D. 1868, “An Act to Advance a
+10 Clean Energy Economy by Updating Renewable and Clean Resource Procurement Laws”
+11 Amend the bill by striking out all of sections 1, 2 and 3.
+12 Amend the bill by striking out all of section 6 and inserting the following:
+13 'Sec. 6. 35-A MRSA §3210, sub-§2, ¶A-4 is enacted to read:
+14 A-4. "Class III resource" or "clean resource" means a source of generation that
+15 generates power that can physically be delivered to the control region in which the New
+16 England Power Pool, or its successor as approved by the Federal Energy Regulatory
+17 Commission, has authority over transmission, or to the Maritimes Control Area and:
+18 (1) Is a Class I resource or a Class IA resource;
+19 (2) Relies on a nuclear power plant or hydroelectric generator that meets all state
+20 and federal fish passage requirements applicable to the generator; or
+21 (3) Generates electric energy in a manner that, as determined by the Department
+22 of Environmental Protection, produces no more than a de minimis level of net
+23 greenhouse gas emissions and co-pollutant emissions at the point of generation and
+24 from the fuel supply chain of the facility and has been certified by the Governor's
+25 Energy Office in accordance with rules adopted by the Department of
+26 Environmental Protection in accordance with this subsection.'
+27 Amend the bill in section 9 in the blocked paragraph in the 2nd line (page 3, line 27 in
+28 L.D.) by striking out the following: "or order"
+29 Amend the bill in section 10 in paragraph A in the blocked paragraph in the last line
+30 (page 4, line 30 in L.D.) by striking out the following: "or" and inserting the following:
+31 'or,'
+32 Amend the bill in section 10 in paragraph A in the blocked paragraph in the last line
+33 (page 4, line 30 in L.D.) by inserting after the following: "3-A" the following: 'or 3-D'
+Page 1 - 132LR2177(02)
+COMMITTEE AMENDMENT
+COMMITTEE AMENDMENT “ ” to S.P. 738, L.D. 1868
+1 Amend the bill in section 11 in subsection 3-D in paragraph A in the first 5 lines (page
+2 4, lines 34 to 38 in L.D.) by striking out the following: "Each competitive electricity
+3 provider must, in addition to meeting the other portfolio requirements of subsections 3,
+4 3-A, 3-B and 3-C, demonstrate in a manner satisfactory to the commission that it has
+5 purchased Class III renewable energy credits in an amount at least equal to the following
+6 percentages of its portfolio of supply sources for retail electricity sales in this State" and
+7 inserting the following: 'As a condition of licensing pursuant to section 3203, each
+8 competitive electricity provider in the State must demonstrate in a manner satisfactory to
+9 the commission that the percentage of its portfolio of supply sources for retail electricity
+10 sales in the State accounted for by Class III resources is as follows'
+11 Amend the bill in section 14 in subsection 9 in paragraph A in the 4th line (page 7, line
+12 7 in L.D.) by inserting after the following: "electricity," the following: 'alignment with other
+13 New England states,'
+14 Amend the bill by striking out all of sections 19 and 20 and inserting the following:
+15 'Sec. 19. 35-A MRSA §3210-C, sub-§3, ¶D, as enacted by PL 2017, c. 134, §2,
+16 is repealed.'
+17 Amend the bill in section 22 in the blocked paragraph in the 3rd line (page 8, line 30
+18 in L.D.) by striking out the following: "credits"
+19 Amend the bill in section 22 in the blocked paragraph in the 15th line (page 8, line 42
+20 in L.D.) by inserting after the following: "credits" the following: ', clean energy credits'
+21 Amend the bill in section 22 in the blocked paragraph in the 19th line (page 9, line 4
+22 in L.D.) by striking out the first occurrence of the following: "credits"
+23 Amend the bill by striking out all of section 23 and inserting the following:
+24 'Sec. 23. 35-A MRSA §3210-C, sub-§3-A is enacted to read:
+25 3-A. Regional coordination. If the commission determines that the likely benefits to
+26 ratepayers in the State will exceed the likely costs, the commission may coordinate with
+27 one or more states to procure, through long-term contracts or other mechanisms,
+28 transmission capacity, capacity resources, renewable energy credits or clean energy
+29 credits.'
+30 Amend the bill in section 24 in subsection 7 in the 2nd line (page 9, line 13 in L.D.) by
+31 striking out the following: "or" and inserting the following: 'or,'
+32 Amend the bill in section 24 in subsection 7 in the 4th line (page 9, line 15 in L.D.) by
+33 striking out the first occurrence of the following: "credits"
+34 Amend the bill in section 25 in subsection 9 in the 2nd line (page 9, line 20 in L.D.) by
+35 striking out the following: "credits"
+36 Amend the bill by striking out all of section 26.
+37 Amend the bill in section 29 in the 3rd and 4th lines (page 11, lines 8 and 9 in L.D.) by
+38 striking out the following: ", subsection 3-A"
+39 Amend the bill by relettering or renumbering any nonconsecutive Part letter or section
+40 number to read consecutively.
+Page 2 - 132LR2177(02)
+COMMITTEE AMENDMENT
+COMMITTEE AMENDMENT “ ” to S.P. 738, L.D. 1868
+1 SUMMARY
+22 This amendment does the following.
+3 1. It removes the sections of the bill directing the Governor’s Energy Office to conduct
+4 procurements of renewable and clean resources and authorizing the office to adopt rules. It
+5 also removes the section of the bill requiring investor-owned transmission and distribution
+6 utilities to be subject to a special assessment for expenditures of the office.
+7 2. It changes the proposed definition of "Class III resource" to include that this resource
+8 type includes sources of generation relying on nuclear power plants and hydroelectric
+9 generators that meet all state and federal fish passage requirements applicable to the
+10 generators. It establishes criteria that allow other sources of electrical generation to qualify
+11 as Class III resources.
+12 3. It clarifies that the Public Utilities Commission may coordinate with one or more
+13 states to procure transmission capacity, capacity resources, renewable energy credits or
+14 clean energy credits if it determines that the likely benefits to ratepayers in the State will
+15 exceed the likely costs.
+16 4. It removes the section of the bill that requires the commission to conduct a
+17 competitive solicitation for energy or renewable energy credits from eligible Class IA
+18 resources as defined in the bill.
+19 5. It makes technical changes to the bill for consistency.
+2200 FISCAL NOTE REQUIRED
+2211 (See attached)
+Page 3 - 132LR2177(02)
+COMMITTEE AMENDMENT
+[DELETED: LD:(RC0C1A2A3' 4A  " I r o " r m a s o g t5g6E7C8(9(0a1(2o3g4f5E O i a w r a b t D o6E7A8L9A0(1'2A3(]
+[DELETED: A4p3ppi t f ' a c o l p t s 3 ect0s1A273N4A5' 6i7A8i9A0i1A2i3A4' 536r7o o m s t p t l c o o m8t c c r r e c o c e9c0A1s2A3s4A5s6A7A8s9A0n]
+[DELETED: T1pau2tg t m a s a f f p r a t t0g1a233s4c5e64 I r t s o t b t r t c t c a7c8r950F1(]
+
+
+================================================================================
+
+Raw Text:
+1 L.D. 1868
+2 Date: (Filing No. S- )
+3 ENERGY, UTILITIES AND TECHNOLOGY
+4 Reproduced and distributed under the direction of the Secretary of the Senate.
+5 STATE OF MAINE
+6 SENATE
+7 132ND LEGISLATURE
+8 FIRST SPECIAL SESSION
+9 COMMITTEE AMENDMENT “ ” to S.P. 738, L.D. 1868, “An Act to Advance a
+10 Clean Energy Economy by Updating Renewable and Clean Resource Procurement Laws”
+11 Amend the bill by striking out all of sections 1, 2 and 3.
+12 Amend the bill by striking out all of section 6 and inserting the following:
+13 'Sec. 6. 35-A MRSA §3210, sub-§2, ¶A-4 is enacted to read:
+14 A-4. "Class III resource" or "clean resource" means a source of generation that
+15 generates power that can physically be delivered to the control region in which the New
+16 England Power Pool, or its successor as approved by the Federal Energy Regulatory
+17 Commission, has authority over transmission, or to the Maritimes Control Area and:
+18 (1) Is a Class I resource or a Class IA resource;
+19 (2) Relies on a nuclear power plant or hydroelectric generator that meets all state
+20 and federal fish passage requirements applicable to the generator; or
+21 (3) Generates electric energy in a manner that, as determined by the Department
+22 of Environmental Protection, produces no more than a de minimis level of net
+23 greenhouse gas emissions and co-pollutant emissions at the point of generation and
+24 from the fuel supply chain of the facility and has been certified by the Governor's
+25 Energy Office in accordance with rules adopted by the Department of
+26 Environmental Protection in accordance with this subsection.'
+27 Amend the bill in section 9 in the blocked paragraph in the 2nd line (page 3, line 27 in
+28 L.D.) by striking out the following: "or order"
+29 Amend the bill in section 10 in paragraph A in the blocked paragraph in the last line
+30 (page 4, line 30 in L.D.) by striking out the following: "or" and inserting the following:
+31 'or,'
+32 Amend the bill in section 10 in paragraph A in the blocked paragraph in the last line
+33 (page 4, line 30 in L.D.) by inserting after the following: "3-A" the following: 'or 3-D'
+Page 1 - 132LR2177(02)
+COMMITTEE AMENDMENT
+
+COMMITTEE AMENDMENT “ ” to S.P. 738, L.D. 1868
+1 Amend the bill in section 11 in subsection 3-D in paragraph A in the first 5 lines (page
+2 4, lines 34 to 38 in L.D.) by striking out the following: "Each competitive electricity
+3 provider must, in addition to meeting the other portfolio requirements of subsections 3,
+4 3-A, 3-B and 3-C, demonstrate in a manner satisfactory to the commission that it has
+5 purchased Class III renewable energy credits in an amount at least equal to the following
+6 percentages of its portfolio of supply sources for retail electricity sales in this State" and
+7 inserting the following: 'As a condition of licensing pursuant to section 3203, each
+8 competitive electricity provider in the State must demonstrate in a manner satisfactory to
+9 the commission that the percentage of its portfolio of supply sources for retail electricity
+10 sales in the State accounted for by Class III resources is as follows'
+11 Amend the bill in section 14 in subsection 9 in paragraph A in the 4th line (page 7, line
+12 7 in L.D.) by inserting after the following: "electricity," the following: 'alignment with other
+13 New England states,'
+14 Amend the bill by striking out all of sections 19 and 20 and inserting the following:
+15 'Sec. 19. 35-A MRSA §3210-C, sub-§3, ¶D, as enacted by PL 2017, c. 134, §2,
+16 is repealed.'
+17 Amend the bill in section 22 in the blocked paragraph in the 3rd line (page 8, line 30
+18 in L.D.) by striking out the following: "credits"
+19 Amend the bill in section 22 in the blocked paragraph in the 15th line (page 8, line 42
+20 in L.D.) by inserting after the following: "credits" the following: ', clean energy credits'
+21 Amend the bill in section 22 in the blocked paragraph in the 19th line (page 9, line 4
+22 in L.D.) by striking out the first occurrence of the following: "credits"
+23 Amend the bill by striking out all of section 23 and inserting the following:
+24 'Sec. 23. 35-A MRSA §3210-C, sub-§3-A is enacted to read:
+25 3-A. Regional coordination. If the commission determines that the likely benefits to
+26 ratepayers in the State will exceed the likely costs, the commission may coordinate with
+27 one or more states to procure, through long-term contracts or other mechanisms,
+28 transmission capacity, capacity resources, renewable energy credits or clean energy
+29 credits.'
+30 Amend the bill in section 24 in subsection 7 in the 2nd line (page 9, line 13 in L.D.) by
+31 striking out the following: "or" and inserting the following: 'or,'
+32 Amend the bill in section 24 in subsection 7 in the 4th line (page 9, line 15 in L.D.) by
+33 striking out the first occurrence of the following: "credits"
+34 Amend the bill in section 25 in subsection 9 in the 2nd line (page 9, line 20 in L.D.) by
+35 striking out the following: "credits"
+36 Amend the bill by striking out all of section 26.
+37 Amend the bill in section 29 in the 3rd and 4th lines (page 11, lines 8 and 9 in L.D.) by
+38 striking out the following: ", subsection 3-A"
+39 Amend the bill by relettering or renumbering any nonconsecutive Part letter or section
+40 number to read consecutively.
+Page 2 - 132LR2177(02)
+COMMITTEE AMENDMENT
+
+COMMITTEE AMENDMENT “ ” to S.P. 738, L.D. 1868
+1 SUMMARY
+22 This amendment does the following.
+3 1. It removes the sections of the bill directing the Governor’s Energy Office to conduct
+4 procurements of renewable and clean resources and authorizing the office to adopt rules. It
+5 also removes the section of the bill requiring investor-owned transmission and distribution
+6 utilities to be subject to a special assessment for expenditures of the office.
+7 2. It changes the proposed definition of "Class III resource" to include that this resource
+8 type includes sources of generation relying on nuclear power plants and hydroelectric
+9 generators that meet all state and federal fish passage requirements applicable to the
+10 generators. It establishes criteria that allow other sources of electrical generation to qualify
+11 as Class III resources.
+12 3. It clarifies that the Public Utilities Commission may coordinate with one or more
+13 states to procure transmission capacity, capacity resources, renewable energy credits or
+14 clean energy credits if it determines that the likely benefits to ratepayers in the State will
+15 exceed the likely costs.
+16 4. It removes the section of the bill that requires the commission to conduct a
+17 competitive solicitation for energy or renewable energy credits from eligible Class IA
+18 resources as defined in the bill.
+19 5. It makes technical changes to the bill for consistency.
+2200 FISCAL NOTE REQUIRED
+2211 (See attached)
+Page 3 - 132LR2177(02)
+COMMITTEE AMENDMENT
+
+[DELETED: LD:(RC0C1A2A3' 4A  " I r o " r m a s o g t5g6E7C8(9(0a1(2o3g4f5E O i a w r a b t D o6E7A8L9A0(1'2A3(]
+[DELETED: A4p3ppi t f ' a c o l p t s 3 ect0s1A273N4A5' 6i7A8i9A0i1A2i3A4' 536r7o o m s t p t l c o o m8t c c r r e c o c e9c0A1s2A3s4A5s6A7A8s9A0n]
+[DELETED: T1pau2tg t m a s a f f p r a t t0g1a233s4c5e64 I r t s o t b t r t c t c a7c8r950F1(]

@@ -1,0 +1,136 @@
+Title: 3 HEALTH COVERAGE, INSURANCE AND FINANCIAL SERVICES
+Official Title: 3 HEALTH COVERAGE, INSURANCE AND FINANCIAL SERVICES
+Number of Sections: 1
+Source: versions - Adopted Amendments
+Media Type: application/pdf
+Strikethrough Detection: 2 sections found
+
+================================================================================
+
+Section 1:
+1 L.D. 1580
+2 Date: (Filing No. H- )
+4 Reproduced and distributed under the direction of the Clerk of the House.
+5 STATE OF MAINE
+6 HOUSE OF REPRESENTATIVES
+7 132ND LEGISLATURE
+8 FIRST SPECIAL SESSION
+9 COMMITTEE AMENDMENT “ ” to H.P. 1038, L.D. 1580, “An Act to Prohibit
+10 Pharmacy Benefits Managers from Imposing Certain Fees and Pricing”
+11 Amend the bill by striking out the title and substituting the following:
+12 'An Act to Prohibit Carriers and Pharmacy Benefits Managers from Using Spread
+13 Pricing'
+14 Amend the bill by striking out everything after the enacting clause and inserting the
+15 following:
+16 'Sec. 1. 24-A MRSA §4350-F is enacted to read:
+17 §4350-F. Spread pricing prohibition
+18 1. Definitions. As used in this section, unless the context otherwise indicates, the
+19 following terms have the following meanings.
+20 A. "Pharmacy benefits management fee" means a fee that covers the cost of providing
+21 one or more pharmacy benefits manager services, as described in section 4347,
+22 subsection 17, and that does not exceed the value of the service or services actually
+23 performed by the pharmacy benefits manager.
+24 B. "Spread pricing" means any amount charged or claimed by a pharmacy benefits
+25 manager in excess of the ingredient cost for a dispensed prescription drug plus the
+26 dispensing fee paid directly or indirectly to any pharmacy or pharmacist on behalf of
+27 the health plan, less any pharmacy benefits management fee.
+28 2. Spread pricing prohibited. A carrier or pharmacy benefits manager may not,
+29 either directly or through an intermediary, agent or affiliate, engage in, facilitate or enter
+30 into a contract with another person involving spread pricing in this State.
+31 3. Annual certification of compliance. Beginning December 31, 2026 and annually
+32 by December 31st thereafter, a carrier, or a pharmacy benefits manager under contract with
+33 a carrier, operating in the State shall certify to the superintendent that it has fully complied
+34 with the requirements of this section throughout the prior calendar year. The certification
+Page 1 - 132LR0984(02)
+COMMITTEE AMENDMENT
+COMMITTEE AMENDMENT “ ” to H.P. 1038, L.D. 1580
+315 must be signed by the chief executive officer or chief financial officer of the carrier or
+326 pharmacy benefits manager.
+3 4. Penalty. A violation of this section is subject to enforcement by the superintendent
+4 pursuant to section 12-A.
+5 5. Exemption. This section does not apply to the MaineCare program.
+6 6. Repeal. This section is repealed January 1, 2031.
+7 Sec. 2. Application. This Act applies to contracts entered into or renewed on or after
+8 January 1, 2026.'
+9 Amend the bill by relettering or renumbering any nonconsecutive Part letter or section
+10 number to read consecutively.
+11 SUMMARY
+1122 This amendment replaces the bill and changes the title. The amendment prohibits so-
+1133 called spread pricing, which means amounts charged by a pharmacy benefits manager in
+1144 excess of the ingredient cost for a dispensed prescription drug and the dispensing fee paid
+1155 to the pharmacy or pharmacist less any pharmacy benefits management fee. The
+1166 amendment provides that this prohibition applies to contracts entered into or renewed on
+1177 or after January 1, 2026 and is repealed January 1, 2031.
+1188 FISCAL NOTE REQUIRED
+1199 (See attached)
+Page 2 - 132LR0984(02)
+COMMITTEE AMENDMENT
+[DELETED: LD:(RC0P1A2'3P4A5f6' 7§819f0A1o o m p b m s a d i s 42s3p4B5m6d7t829e0i132b3a4w]
+[DELETED: 5m6p4p56TJA0n2T3c4e5t t p o p l a p b m f T6a7o8F9(]
+
+
+================================================================================
+
+Raw Text:
+1 L.D. 1580
+2 Date: (Filing No. H- )
+3 HEALTH COVERAGE, INSURANCE AND FINANCIAL SERVICES
+4 Reproduced and distributed under the direction of the Clerk of the House.
+5 STATE OF MAINE
+6 HOUSE OF REPRESENTATIVES
+7 132ND LEGISLATURE
+8 FIRST SPECIAL SESSION
+9 COMMITTEE AMENDMENT “ ” to H.P. 1038, L.D. 1580, “An Act to Prohibit
+10 Pharmacy Benefits Managers from Imposing Certain Fees and Pricing”
+11 Amend the bill by striking out the title and substituting the following:
+12 'An Act to Prohibit Carriers and Pharmacy Benefits Managers from Using Spread
+13 Pricing'
+14 Amend the bill by striking out everything after the enacting clause and inserting the
+15 following:
+16 'Sec. 1. 24-A MRSA §4350-F is enacted to read:
+17 §4350-F. Spread pricing prohibition
+18 1. Definitions. As used in this section, unless the context otherwise indicates, the
+19 following terms have the following meanings.
+20 A. "Pharmacy benefits management fee" means a fee that covers the cost of providing
+21 one or more pharmacy benefits manager services, as described in section 4347,
+22 subsection 17, and that does not exceed the value of the service or services actually
+23 performed by the pharmacy benefits manager.
+24 B. "Spread pricing" means any amount charged or claimed by a pharmacy benefits
+25 manager in excess of the ingredient cost for a dispensed prescription drug plus the
+26 dispensing fee paid directly or indirectly to any pharmacy or pharmacist on behalf of
+27 the health plan, less any pharmacy benefits management fee.
+28 2. Spread pricing prohibited. A carrier or pharmacy benefits manager may not,
+29 either directly or through an intermediary, agent or affiliate, engage in, facilitate or enter
+30 into a contract with another person involving spread pricing in this State.
+31 3. Annual certification of compliance. Beginning December 31, 2026 and annually
+32 by December 31st thereafter, a carrier, or a pharmacy benefits manager under contract with
+33 a carrier, operating in the State shall certify to the superintendent that it has fully complied
+34 with the requirements of this section throughout the prior calendar year. The certification
+Page 1 - 132LR0984(02)
+COMMITTEE AMENDMENT
+
+COMMITTEE AMENDMENT “ ” to H.P. 1038, L.D. 1580
+315 must be signed by the chief executive officer or chief financial officer of the carrier or
+326 pharmacy benefits manager.
+3 4. Penalty. A violation of this section is subject to enforcement by the superintendent
+4 pursuant to section 12-A.
+5 5. Exemption. This section does not apply to the MaineCare program.
+6 6. Repeal. This section is repealed January 1, 2031.
+7 Sec. 2. Application. This Act applies to contracts entered into or renewed on or after
+8 January 1, 2026.'
+9 Amend the bill by relettering or renumbering any nonconsecutive Part letter or section
+10 number to read consecutively.
+11 SUMMARY
+1122 This amendment replaces the bill and changes the title. The amendment prohibits so-
+1133 called spread pricing, which means amounts charged by a pharmacy benefits manager in
+1144 excess of the ingredient cost for a dispensed prescription drug and the dispensing fee paid
+1155 to the pharmacy or pharmacist less any pharmacy benefits management fee. The
+1166 amendment provides that this prohibition applies to contracts entered into or renewed on
+1177 or after January 1, 2026 and is repealed January 1, 2031.
+1188 FISCAL NOTE REQUIRED
+1199 (See attached)
+Page 2 - 132LR0984(02)
+COMMITTEE AMENDMENT
+
+[DELETED: LD:(RC0P1A2'3P4A5f6' 7§819f0A1o o m p b m s a d i s 42s3p4B5m6d7t829e0i132b3a4w]
+[DELETED: 5m6p4p56TJA0n2T3c4e5t t p o p l a p b m f T6a7o8F9(]

@@ -1,0 +1,352 @@
+Title: 4 Reproduced and distributed under the direction of the Clerk of the House.
+Official Title: 4 Reproduced and distributed under the direction of the Clerk of the House.
+Number of Sections: 1
+Source: versions - Status In Committee
+Media Type: application/pdf
+Strikethrough Detection: 4 sections found
+
+================================================================================
+
+Section 1:
+1 L.D. 402
+2 Date: (Filing No. H- )
+3 AGRICULTURE, CONSERVATION AND FORESTRY
+5 STATE OF MAINE
+6 HOUSE OF REPRESENTATIVES
+7 132ND LEGISLATURE
+8 FIRST SPECIAL SESSION
+9 COMMITTEE AMENDMENT “ ” to H.P. 256, L.D. 402, “An Act to Move the
+10 Natural Areas Program from the Department of Agriculture, Conservation and Forestry to
+11 the Department of Inland Fisheries and Wildlife and to Amend the Law Governing
+12 Administration of the Bureau of Resource Management Within the Department of Inland
+13 Fisheries and Wildlife”
+14 Amend the bill in section 16 in subsection 1 in the 3rd line (page 4, line 10 in L.D.) by
+15 striking out the following: "the Department of"
+16 Amend the bill in section 17 in paragraph D in the last line (page 4, line 20 in L.D.) by
+17 striking out the following: "Department of Inland Fisheries and Wildlife" and inserting the
+18 following: 'department'
+19 Amend the bill in section 28 in sub-c. 4 by inserting after §12824 the following:
+20 '§12825. Rulemaking
+21 The commissioner may not adopt rules to protect plants under this subchapter except
+22 when required for the conservation of rare, threatened or endangered fish or wildlife.'
+23 Amend the bill by striking out all of section 36.
+24 Amend the bill by inserting after section 38 the following:
+25 'Sec. 39. Department of Inland Fisheries and Wildlife report. No later than
+26 January 15, 2027, the Department of Inland Fisheries and Wildlife shall provide a report,
+27 including any findings and recommendations, to the joint standing committees of the
+28 Legislature having jurisdiction over inland fisheries and wildlife matters and agriculture,
+29 conservation and forestry matters on the transfer of the Natural Areas Program from the
+30 Department of Agriculture, Conservation and Forestry to the Department of Inland
+31 Fisheries and Wildlife. Each committee may submit legislation related to the subject matter
+32 of the report to the 133rd Legislature in 2027.
+33 Sec. 40. Appropriations and allocations. The following appropriations and
+34 allocations are made.
+Page 1 - 132LR0247(03)
+COMMITTEE AMENDMENT
+COMMITTEE AMENDMENT “ ” to H.P. 256, L.D. 402
+1 AGRICULTURE, CONSERVATION AND FORESTRY, DEPARTMENT OF
+2 Natural Areas Program Z821
+3 Initiative: Transfers one Public Service Manager II position, one Resource Management
+4 Coordinator position and 5 Biologist II positions from the Natural Areas Program within
+5 the Department of Agriculture, Conservation and Forestry to the Resource Management
+6 Services - Inland Fisheries and Wildlife program within the Department of Inland Fisheries
+7 and Wildlife. This initiative also transfers All Other funds from the Natural Areas Program
+8 within the Department of Agriculture, Conservation and Forestry to the Resource
+9 Management Services - Inland Fisheries and Wildlife program within the Department of
+10 Inland Fisheries and Wildlife.
+11 GENERAL FUND 2025-26 2026-27
+12 POSITIONS - LEGISLATIVE COUNT (3.000) (3.000)
+13 Personal Services ($411,728) ($434,598)
+14 All Other ($66,242) ($66,242)
+15 __________ __________
+16 GENERAL FUND TOTAL ($477,970) ($500,840)
+1171
+18 FEDERAL EXPENDITURES FUND 2025-26 2026-27
+19 Personal Services ($166,136) ($179,238)
+20 All Other ($133,082) ($133,082)
+21 __________ __________
+22 FEDERAL EXPENDITURES FUND TOTAL ($299,218) ($312,320)
+2138
+24 OTHER SPECIAL REVENUE FUNDS 2025-26 2026-27
+25 POSITIONS - LEGISLATIVE COUNT (4.000) (4.000)
+26 Personal Services ($280,134) ($302,202)
+27 All Other ($605,699) ($605,699)
+28 __________ __________
+29 OTHER SPECIAL REVENUE FUNDS TOTAL ($885,833) ($907,901)
+3204
+31 AGRICULTURE, CONSERVATION AND
+32 FORESTRY, DEPARTMENT OF
+33 DEPARTMENT TOTALS 2025-26 2026-27
+34
+35 GENERAL FUND ($477,970) ($500,840)
+36 FEDERAL EXPENDITURES FUND ($299,218) ($312,320)
+37 OTHER SPECIAL REVENUE FUNDS ($885,833) ($907,901)
+38 __________ __________
+39 DEPARTMENT TOTAL - ALL FUNDS ($1,663,021) ($1,721,061)
+4301 INLAND FISHERIES AND WILDLIFE, DEPARTMENT OF
+41 Natural Areas Conservation Fund N548
+42 Initiative: Provides baseline allocation to establish the account.
+Page 2 - 132LR0247(03)
+COMMITTEE AMENDMENT
+COMMITTEE AMENDMENT “ ” to H.P. 256, L.D. 402
+1 OTHER SPECIAL REVENUE FUNDS 2025-26 2026-27
+2 All Other $500 $500
+3 __________ __________
+4 OTHER SPECIAL REVENUE FUNDS TOTAL $500 $500
+51 Resource Management Services - Inland Fisheries and Wildlife 0534
+6 Initiative: Transfers one Public Service Manager II position, one Resource Management
+7 Coordinator position and 5 Biologist II positions from the Natural Areas Program within
+8 the Department of Agriculture, Conservation and Forestry to the Resource Management
+9 Services - Inland Fisheries and Wildlife program within the Department of Inland Fisheries
+10 and Wildlife. This initiative also transfers All Other funds from the Natural Areas Program
+11 within the Department of Agriculture, Conservation and Forestry to the Resource
+12 Management Services - Inland Fisheries and Wildlife program within the Department of
+13 Inland Fisheries and Wildlife.
+14 GENERAL FUND 2025-26 2026-27
+15 POSITIONS - LEGISLATIVE COUNT 3.000 3.000
+16 Personal Services $411,325 $433,940
+17 All Other $66,242 $66,242
+18 __________ __________
+19 GENERAL FUND TOTAL $477,567 $500,182
+2104
+21 FEDERAL EXPENDITURES FUND 2025-26 2026-27
+22 POSITIONS - LEGISLATIVE COUNT 2.000 2.000
+23 Personal Services $165,940 $178,911
+24 All Other $110,609 $110,919
+25 __________ __________
+26 FEDERAL EXPENDITURES FUND TOTAL $276,549 $289,830
+2271
+28 OTHER SPECIAL REVENUE FUNDS 2025-26 2026-27
+29 POSITIONS - LEGISLATIVE COUNT 2.000 2.000
+30 Personal Services $279,806 $301,652
+31 All Other $395,612 $396,135
+32 __________ __________
+33 OTHER SPECIAL REVENUE FUNDS TOTAL $675,418 $697,787
+3248
+35 INLAND FISHERIES AND WILDLIFE,
+36 DEPARTMENT OF
+37 DEPARTMENT TOTALS 2025-26 2026-27
+38
+39 GENERAL FUND $477,567 $500,182
+40 FEDERAL EXPENDITURES FUND $276,549 $289,830
+41 OTHER SPECIAL REVENUE FUNDS $675,918 $698,287
+42 __________ __________
+43 DEPARTMENT TOTAL - ALL FUNDS $1,430,034 $1,488,299
+4345
+Page 3 - 132LR0247(03)
+COMMITTEE AMENDMENT
+COMMITTEE AMENDMENT “ ” to H.P. 256, L.D. 402
+1 SECTION TOTALS 2025-26 2026-27
+2
+3 GENERAL FUND ($403) ($658)
+4 FEDERAL EXPENDITURES FUND ($22,669) ($22,490)
+5 OTHER SPECIAL REVENUE FUNDS ($209,915) ($209,614)
+6 __________ __________
+7 SECTION TOTAL - ALL FUNDS ($232,987) ($232,762)
+81 '
+9 Amend the bill by relettering or renumbering any nonconsecutive Part letter or section
+10 number to read consecutively.
+11 SUMMARY
+1122 This amendment, which is the minority report of the committee, makes technical
+1133 corrections to the bill.
+14 The amendment provides that the Commissioner of Inland Fisheries and Wildlife may
+15 not adopt rules to protect plants under the Maine Revised Statutes, Title 12, chapter 925,
+16 subchapter 4, which is enacted in the bill and relates to natural areas, research and
+17 management, except when required for the conservation of rare, threatened or endangered
+18 fish or wildlife.
+19 The amendment strikes from the bill a provision relating to consistency review of
+20 comprehensive plans under the municipal growth management program laws; the proposed
+21 provision creates a duplicative process for the Department of Inland Fisheries and Wildlife.
+22 The amendment also requires the Department of Inland Fisheries and Wildlife to
+23 provide a report, including any findings and recommendations, no later than January 15,
+24 2027, to the joint standing committees of the Legislature having jurisdiction over inland
+25 fisheries and wildlife matters and agriculture, conservation and forestry matters on the
+26 transfer of the Natural Areas Program from the Department of Agriculture, Conservation
+27 and Forestry to the Department of Inland Fisheries and Wildlife. Each committee may
+28 submit legislation related to the subject matter of the report to the 133rd Legislature in
+29 2027.
+30 The amendment also adds an appropriations and allocations section.
+3311 FISCAL NOTE REQUIRED
+3322 (See attached)
+Page 4 - 132LR0247(03)
+COMMITTEE AMENDMENT
+[DELETED: LD:(RC0N1t D o I F a W a t A t L G2A3F4A5s6A7s8f9A0'1T2w3A4A5'  .D6J7i a f a r t t j s c o t8L9c0D o A C a F t t D o I1F2o3  T f a a 4  A a a4a]
+[DELETED: ANICtSaw t D o A C a F t t RM0ID262T()(s()(r()(___L()(1D262s()(r()(___L()(8S262T()(s()(r()(___L()(4  S262 D()(D()(S()(___S()(1I1N2I]
+[DELETED: S262r$0$___L$0$RICtS0a1w t D o A C a F t t R2M3ID262T303s$5$r$2$___L$7$4D262T202s$0$r$9$___L$9$1S262T202s$6$r$2$___L$8$8  S262 D$7$D$9$S$8$___S$4$5]
+[DELETED: S262 D()(D()(S()(___S()(A0n2T a w i t m r o t c m t3c4T5n6s 4 w i e i t b a r t n a r a7m8f9T0c1p2T a a r t D o I F a W t3p425f6t7a8s920T1F2(]
+
+
+================================================================================
+
+Raw Text:
+1 L.D. 402
+2 Date: (Filing No. H- )
+3 AGRICULTURE, CONSERVATION AND FORESTRY
+4 Reproduced and distributed under the direction of the Clerk of the House.
+5 STATE OF MAINE
+6 HOUSE OF REPRESENTATIVES
+7 132ND LEGISLATURE
+8 FIRST SPECIAL SESSION
+9 COMMITTEE AMENDMENT “ ” to H.P. 256, L.D. 402, “An Act to Move the
+10 Natural Areas Program from the Department of Agriculture, Conservation and Forestry to
+11 the Department of Inland Fisheries and Wildlife and to Amend the Law Governing
+12 Administration of the Bureau of Resource Management Within the Department of Inland
+13 Fisheries and Wildlife”
+14 Amend the bill in section 16 in subsection 1 in the 3rd line (page 4, line 10 in L.D.) by
+15 striking out the following: "the Department of"
+16 Amend the bill in section 17 in paragraph D in the last line (page 4, line 20 in L.D.) by
+17 striking out the following: "Department of Inland Fisheries and Wildlife" and inserting the
+18 following: 'department'
+19 Amend the bill in section 28 in sub-c. 4 by inserting after §12824 the following:
+20 '§12825. Rulemaking
+21 The commissioner may not adopt rules to protect plants under this subchapter except
+22 when required for the conservation of rare, threatened or endangered fish or wildlife.'
+23 Amend the bill by striking out all of section 36.
+24 Amend the bill by inserting after section 38 the following:
+25 'Sec. 39. Department of Inland Fisheries and Wildlife report. No later than
+26 January 15, 2027, the Department of Inland Fisheries and Wildlife shall provide a report,
+27 including any findings and recommendations, to the joint standing committees of the
+28 Legislature having jurisdiction over inland fisheries and wildlife matters and agriculture,
+29 conservation and forestry matters on the transfer of the Natural Areas Program from the
+30 Department of Agriculture, Conservation and Forestry to the Department of Inland
+31 Fisheries and Wildlife. Each committee may submit legislation related to the subject matter
+32 of the report to the 133rd Legislature in 2027.
+33 Sec. 40. Appropriations and allocations. The following appropriations and
+34 allocations are made.
+Page 1 - 132LR0247(03)
+COMMITTEE AMENDMENT
+
+COMMITTEE AMENDMENT “ ” to H.P. 256, L.D. 402
+1 AGRICULTURE, CONSERVATION AND FORESTRY, DEPARTMENT OF
+2 Natural Areas Program Z821
+3 Initiative: Transfers one Public Service Manager II position, one Resource Management
+4 Coordinator position and 5 Biologist II positions from the Natural Areas Program within
+5 the Department of Agriculture, Conservation and Forestry to the Resource Management
+6 Services - Inland Fisheries and Wildlife program within the Department of Inland Fisheries
+7 and Wildlife. This initiative also transfers All Other funds from the Natural Areas Program
+8 within the Department of Agriculture, Conservation and Forestry to the Resource
+9 Management Services - Inland Fisheries and Wildlife program within the Department of
+10 Inland Fisheries and Wildlife.
+11 GENERAL FUND 2025-26 2026-27
+12 POSITIONS - LEGISLATIVE COUNT (3.000) (3.000)
+13 Personal Services ($411,728) ($434,598)
+14 All Other ($66,242) ($66,242)
+15 __________ __________
+16 GENERAL FUND TOTAL ($477,970) ($500,840)
+1171
+18 FEDERAL EXPENDITURES FUND 2025-26 2026-27
+19 Personal Services ($166,136) ($179,238)
+20 All Other ($133,082) ($133,082)
+21 __________ __________
+22 FEDERAL EXPENDITURES FUND TOTAL ($299,218) ($312,320)
+2138
+24 OTHER SPECIAL REVENUE FUNDS 2025-26 2026-27
+25 POSITIONS - LEGISLATIVE COUNT (4.000) (4.000)
+26 Personal Services ($280,134) ($302,202)
+27 All Other ($605,699) ($605,699)
+28 __________ __________
+29 OTHER SPECIAL REVENUE FUNDS TOTAL ($885,833) ($907,901)
+3204
+31 AGRICULTURE, CONSERVATION AND
+32 FORESTRY, DEPARTMENT OF
+33 DEPARTMENT TOTALS 2025-26 2026-27
+34
+35 GENERAL FUND ($477,970) ($500,840)
+36 FEDERAL EXPENDITURES FUND ($299,218) ($312,320)
+37 OTHER SPECIAL REVENUE FUNDS ($885,833) ($907,901)
+38 __________ __________
+39 DEPARTMENT TOTAL - ALL FUNDS ($1,663,021) ($1,721,061)
+4301 INLAND FISHERIES AND WILDLIFE, DEPARTMENT OF
+41 Natural Areas Conservation Fund N548
+42 Initiative: Provides baseline allocation to establish the account.
+Page 2 - 132LR0247(03)
+COMMITTEE AMENDMENT
+
+COMMITTEE AMENDMENT “ ” to H.P. 256, L.D. 402
+1 OTHER SPECIAL REVENUE FUNDS 2025-26 2026-27
+2 All Other $500 $500
+3 __________ __________
+4 OTHER SPECIAL REVENUE FUNDS TOTAL $500 $500
+51 Resource Management Services - Inland Fisheries and Wildlife 0534
+6 Initiative: Transfers one Public Service Manager II position, one Resource Management
+7 Coordinator position and 5 Biologist II positions from the Natural Areas Program within
+8 the Department of Agriculture, Conservation and Forestry to the Resource Management
+9 Services - Inland Fisheries and Wildlife program within the Department of Inland Fisheries
+10 and Wildlife. This initiative also transfers All Other funds from the Natural Areas Program
+11 within the Department of Agriculture, Conservation and Forestry to the Resource
+12 Management Services - Inland Fisheries and Wildlife program within the Department of
+13 Inland Fisheries and Wildlife.
+14 GENERAL FUND 2025-26 2026-27
+15 POSITIONS - LEGISLATIVE COUNT 3.000 3.000
+16 Personal Services $411,325 $433,940
+17 All Other $66,242 $66,242
+18 __________ __________
+19 GENERAL FUND TOTAL $477,567 $500,182
+2104
+21 FEDERAL EXPENDITURES FUND 2025-26 2026-27
+22 POSITIONS - LEGISLATIVE COUNT 2.000 2.000
+23 Personal Services $165,940 $178,911
+24 All Other $110,609 $110,919
+25 __________ __________
+26 FEDERAL EXPENDITURES FUND TOTAL $276,549 $289,830
+2271
+28 OTHER SPECIAL REVENUE FUNDS 2025-26 2026-27
+29 POSITIONS - LEGISLATIVE COUNT 2.000 2.000
+30 Personal Services $279,806 $301,652
+31 All Other $395,612 $396,135
+32 __________ __________
+33 OTHER SPECIAL REVENUE FUNDS TOTAL $675,418 $697,787
+3248
+35 INLAND FISHERIES AND WILDLIFE,
+36 DEPARTMENT OF
+37 DEPARTMENT TOTALS 2025-26 2026-27
+38
+39 GENERAL FUND $477,567 $500,182
+40 FEDERAL EXPENDITURES FUND $276,549 $289,830
+41 OTHER SPECIAL REVENUE FUNDS $675,918 $698,287
+42 __________ __________
+43 DEPARTMENT TOTAL - ALL FUNDS $1,430,034 $1,488,299
+4345
+Page 3 - 132LR0247(03)
+COMMITTEE AMENDMENT
+
+COMMITTEE AMENDMENT “ ” to H.P. 256, L.D. 402
+1 SECTION TOTALS 2025-26 2026-27
+2
+3 GENERAL FUND ($403) ($658)
+4 FEDERAL EXPENDITURES FUND ($22,669) ($22,490)
+5 OTHER SPECIAL REVENUE FUNDS ($209,915) ($209,614)
+6 __________ __________
+7 SECTION TOTAL - ALL FUNDS ($232,987) ($232,762)
+81 '
+9 Amend the bill by relettering or renumbering any nonconsecutive Part letter or section
+10 number to read consecutively.
+11 SUMMARY
+1122 This amendment, which is the minority report of the committee, makes technical
+1133 corrections to the bill.
+14 The amendment provides that the Commissioner of Inland Fisheries and Wildlife may
+15 not adopt rules to protect plants under the Maine Revised Statutes, Title 12, chapter 925,
+16 subchapter 4, which is enacted in the bill and relates to natural areas, research and
+17 management, except when required for the conservation of rare, threatened or endangered
+18 fish or wildlife.
+19 The amendment strikes from the bill a provision relating to consistency review of
+20 comprehensive plans under the municipal growth management program laws; the proposed
+21 provision creates a duplicative process for the Department of Inland Fisheries and Wildlife.
+22 The amendment also requires the Department of Inland Fisheries and Wildlife to
+23 provide a report, including any findings and recommendations, no later than January 15,
+24 2027, to the joint standing committees of the Legislature having jurisdiction over inland
+25 fisheries and wildlife matters and agriculture, conservation and forestry matters on the
+26 transfer of the Natural Areas Program from the Department of Agriculture, Conservation
+27 and Forestry to the Department of Inland Fisheries and Wildlife. Each committee may
+28 submit legislation related to the subject matter of the report to the 133rd Legislature in
+29 2027.
+30 The amendment also adds an appropriations and allocations section.
+3311 FISCAL NOTE REQUIRED
+3322 (See attached)
+Page 4 - 132LR0247(03)
+COMMITTEE AMENDMENT
+
+[DELETED: LD:(RC0N1t D o I F a W a t A t L G2A3F4A5s6A7s8f9A0'1T2w3A4A5'  .D6J7i a f a r t t j s c o t8L9c0D o A C a F t t D o I1F2o3  T f a a 4  A a a4a]
+[DELETED: ANICtSaw t D o A C a F t t RM0ID262T()(s()(r()(___L()(1D262s()(r()(___L()(8S262T()(s()(r()(___L()(4  S262 D()(D()(S()(___S()(1I1N2I]
+[DELETED: S262r$0$___L$0$RICtS0a1w t D o A C a F t t R2M3ID262T303s$5$r$2$___L$7$4D262T202s$0$r$9$___L$9$1S262T202s$6$r$2$___L$8$8  S262 D$7$D$9$S$8$___S$4$5]
+[DELETED: S262 D()(D()(S()(___S()(A0n2T a w i t m r o t c m t3c4T5n6s 4 w i e i t b a r t n a r a7m8f9T0c1p2T a a r t D o I F a W t3p425f6t7a8s920T1F2(]

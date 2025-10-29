@@ -1,0 +1,116 @@
+Title: 4 Reproduced and distributed under the direction of the Clerk of the House.
+Official Title: 4 Reproduced and distributed under the direction of the Clerk of the House.
+Number of Sections: 1
+Source: versions - Adopted Amendments
+Media Type: application/pdf
+Strikethrough Detection: 2 sections found
+
+================================================================================
+
+Section 1:
+1 L.D. 54
+2 Date: (Filing No. H- )
+3 LABOR
+5 STATE OF MAINE
+6 HOUSE OF REPRESENTATIVES
+7 132ND LEGISLATURE
+8 FIRST SPECIAL SESSION
+9 COMMITTEE AMENDMENT “ ” to H.P. 18, L.D. 54, “An Act to Require
+10 Employers to Disclose Pay Ranges and Maintain Records of Employees' Pay Histories”
+11 Amend the bill in section 1 in §622-A in subsection 1 in paragraph B by inserting at
+12 the end a new blocked paragraph to read:
+13 '"Range of pay" does not include compensation that is based solely on commission.'
+14 Amend the bill in section 1 in §622-A in subsection 2 in the last line (page 1, line 20
+15 in L.D.) by striking out the following: "applicant." and inserting the following: 'applicant
+16 unless the position that is the subject of the posting is compensated solely on the basis of
+17 commission, in which case the required posted statement must indicate that the
+18 compensation for the position is based solely on commission.'
+19 Amend the bill by inserting after section 1 the following:
+20 'Sec. 2. Appropriations and allocations. The following appropriations and
+21 allocations are made.
+22 LABOR, DEPARTMENT OF
+23 Regulation and Enforcement 0159
+24 Initiative: Provides ongoing funds for one Labor and Safety Inspector position and provides
+25 funding for related All Other costs to enforce the requirement that employers disclose pay
+26 ranges and maintain records of employees' pay histories.
+27 GENERAL FUND 2025-26 2026-27
+28 POSITIONS - LEGISLATIVE COUNT 1.000 1.000
+29 Personal Services $75,336 $103,880
+30 All Other $6,065 $8,087
+31 __________ __________
+32 GENERAL FUND TOTAL $81,401 $111,967
+3237 '
+Page 1 - 132LR0106(02)
+COMMITTEE AMENDMENT
+COMMITTEE AMENDMENT “ ” to H.P. 18, L.D. 54
+1 Amend the bill by relettering or renumbering any nonconsecutive Part letter or section
+2 number to read consecutively.
+3 SUMMARY
+44 This amendment, which is the majority report of the committee, amends the bill to
+55 exempt compensation based solely on commission from the definition of "range of pay"
+66 and authorizes employers to satisfy the required range of pay posting for positions
+77 compensated based solely on commission by providing a statement to applicants that the
+88 position is compensated based solely on commission.
+99 FISCAL NOTE REQUIRED
+1100 (See attached)
+Page 2 - 132LR0106(02)
+COMMITTEE AMENDMENT
+[DELETED: LD:(RC A “ t H 1 L 5 “ A t R0E1A2t3'4A5i6u7c i w c t r p s m i t t8c9A0'  T f a a 2  A a a1a2L3R4I5f6rD262T101s$6$r$5$___L$1$7]
+[DELETED: AnTea a e t s t r r o p p f pcpF0(]
+
+
+================================================================================
+
+Raw Text:
+1 L.D. 54
+2 Date: (Filing No. H- )
+3 LABOR
+4 Reproduced and distributed under the direction of the Clerk of the House.
+5 STATE OF MAINE
+6 HOUSE OF REPRESENTATIVES
+7 132ND LEGISLATURE
+8 FIRST SPECIAL SESSION
+9 COMMITTEE AMENDMENT “ ” to H.P. 18, L.D. 54, “An Act to Require
+10 Employers to Disclose Pay Ranges and Maintain Records of Employees' Pay Histories”
+11 Amend the bill in section 1 in §622-A in subsection 1 in paragraph B by inserting at
+12 the end a new blocked paragraph to read:
+13 '"Range of pay" does not include compensation that is based solely on commission.'
+14 Amend the bill in section 1 in §622-A in subsection 2 in the last line (page 1, line 20
+15 in L.D.) by striking out the following: "applicant." and inserting the following: 'applicant
+16 unless the position that is the subject of the posting is compensated solely on the basis of
+17 commission, in which case the required posted statement must indicate that the
+18 compensation for the position is based solely on commission.'
+19 Amend the bill by inserting after section 1 the following:
+20 'Sec. 2. Appropriations and allocations. The following appropriations and
+21 allocations are made.
+22 LABOR, DEPARTMENT OF
+23 Regulation and Enforcement 0159
+24 Initiative: Provides ongoing funds for one Labor and Safety Inspector position and provides
+25 funding for related All Other costs to enforce the requirement that employers disclose pay
+26 ranges and maintain records of employees' pay histories.
+27 GENERAL FUND 2025-26 2026-27
+28 POSITIONS - LEGISLATIVE COUNT 1.000 1.000
+29 Personal Services $75,336 $103,880
+30 All Other $6,065 $8,087
+31 __________ __________
+32 GENERAL FUND TOTAL $81,401 $111,967
+3237 '
+Page 1 - 132LR0106(02)
+COMMITTEE AMENDMENT
+
+COMMITTEE AMENDMENT “ ” to H.P. 18, L.D. 54
+1 Amend the bill by relettering or renumbering any nonconsecutive Part letter or section
+2 number to read consecutively.
+3 SUMMARY
+44 This amendment, which is the majority report of the committee, amends the bill to
+55 exempt compensation based solely on commission from the definition of "range of pay"
+66 and authorizes employers to satisfy the required range of pay posting for positions
+77 compensated based solely on commission by providing a statement to applicants that the
+88 position is compensated based solely on commission.
+99 FISCAL NOTE REQUIRED
+1100 (See attached)
+Page 2 - 132LR0106(02)
+COMMITTEE AMENDMENT
+
+[DELETED: LD:(RC A “ t H 1 L 5 “ A t R0E1A2t3'4A5i6u7c i w c t r p s m i t t8c9A0'  T f a a 2  A a a1a2L3R4I5f6rD262T101s$6$r$5$___L$1$7]
+[DELETED: AnTea a e t s t r r o p p f pcpF0(]

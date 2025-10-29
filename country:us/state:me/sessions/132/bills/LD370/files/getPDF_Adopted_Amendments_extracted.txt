@@ -1,0 +1,116 @@
+Title: 4 Reproduced and distributed under the direction of the Secretary of the Senate.
+Official Title: 4 Reproduced and distributed under the direction of the Secretary of the Senate.
+Number of Sections: 1
+Source: versions - Adopted Amendments
+Media Type: application/pdf
+Strikethrough Detection: 2 sections found
+
+================================================================================
+
+Section 1:
+1 L.D. 370
+2 Date: (Filing No. S- )
+3 EDUCATION AND CULTURAL AFFAIRS
+5 STATE OF MAINE
+6 SENATE
+7 132ND LEGISLATURE
+8 FIRST SPECIAL SESSION
+9 COMMITTEE AMENDMENT “ ” to S.P. 162, L.D. 370, “An Act to Raise the
+10 Minimum State Standard for Mathematics Education for a High School Diploma”
+11 Amend the bill by striking out the title and substituting the following:
+12 'Resolve, Directing the Department of Education to Collect Data on Secondary School
+13 Mathematics Requirements'
+14 Amend the bill by striking out everything after the title and inserting the following:
+15 'Sec. 1. Secondary school mathematics requirements. Resolved: That the
+16 Department of Education shall, within existing resources, collect data on the number of
+17 mathematics classes required for a high school diploma at secondary schools in the State.
+18 Data collected must include, but is not limited to:
+19 1. The number of secondary schools that require 2 years of mathematics for a high
+20 school diploma;
+21 2. From secondary schools that require 2 years of mathematics for a high school
+22 diploma, estimated costs associated with raising the mathematics requirements from 2 to 3
+23 years;
+24 3. The number of secondary schools that require more than 2 years of mathematics for
+25 a high school diploma; and
+26 4. The number of secondary schools that accept credits from alternative mathematics
+27 classes, such as accelerated 8th-grade mathematics classes and early college classes, toward
+28 fulfillment of the mathematics requirements for a high school diploma.
+29 Sec. 2. Report. Resolved: That, by January 15, 2026, the Department of Education
+30 shall submit a report based on the data collected in section 1 to the Joint Standing
+31 Committee on Education and Cultural Affairs. The committee is authorized to submit
+32 legislation related to the report to the Second Regular Session of the 132nd Legislature.'
+33 Amend the bill by relettering or renumbering any nonconsecutive Part letter or section
+34 number to read consecutively.
+Page 1 - 132LR0972(02)
+COMMITTEE AMENDMENT
+COMMITTEE AMENDMENT “ ” to S.P. 162, L.D. 370
+1 SUMMARY
+22 This amendment replaces the bill with a resolve. The amendment directs the
+33 Department of Education to collect data on the number of mathematics classes required for
+44 a high school diploma in the State, estimated costs associated with raising the minimum
+55 number of mathematics classes for certain schools and the number of schools that accept
+66 credits from alternative mathematics classes toward the requirements for a high school
+77 diploma.
+88 FISCAL NOTE REQUIRED
+99 (See attached)
+Page 2 - 132LR0972(02)
+COMMITTEE AMENDMENT
+[DELETED: LD:(RC0M1A2'3M4A5' 6D7m8D910s12 F s s t r 2 y o m f a h s2d3y435a647c8f9 0s s a r b o t d c i s 1 t t J S1C2l3A4n]
+[DELETED: T a r t b w a r  T a d tDancdF(]
+
+
+================================================================================
+
+Raw Text:
+1 L.D. 370
+2 Date: (Filing No. S- )
+3 EDUCATION AND CULTURAL AFFAIRS
+4 Reproduced and distributed under the direction of the Secretary of the Senate.
+5 STATE OF MAINE
+6 SENATE
+7 132ND LEGISLATURE
+8 FIRST SPECIAL SESSION
+9 COMMITTEE AMENDMENT “ ” to S.P. 162, L.D. 370, “An Act to Raise the
+10 Minimum State Standard for Mathematics Education for a High School Diploma”
+11 Amend the bill by striking out the title and substituting the following:
+12 'Resolve, Directing the Department of Education to Collect Data on Secondary School
+13 Mathematics Requirements'
+14 Amend the bill by striking out everything after the title and inserting the following:
+15 'Sec. 1. Secondary school mathematics requirements. Resolved: That the
+16 Department of Education shall, within existing resources, collect data on the number of
+17 mathematics classes required for a high school diploma at secondary schools in the State.
+18 Data collected must include, but is not limited to:
+19 1. The number of secondary schools that require 2 years of mathematics for a high
+20 school diploma;
+21 2. From secondary schools that require 2 years of mathematics for a high school
+22 diploma, estimated costs associated with raising the mathematics requirements from 2 to 3
+23 years;
+24 3. The number of secondary schools that require more than 2 years of mathematics for
+25 a high school diploma; and
+26 4. The number of secondary schools that accept credits from alternative mathematics
+27 classes, such as accelerated 8th-grade mathematics classes and early college classes, toward
+28 fulfillment of the mathematics requirements for a high school diploma.
+29 Sec. 2. Report. Resolved: That, by January 15, 2026, the Department of Education
+30 shall submit a report based on the data collected in section 1 to the Joint Standing
+31 Committee on Education and Cultural Affairs. The committee is authorized to submit
+32 legislation related to the report to the Second Regular Session of the 132nd Legislature.'
+33 Amend the bill by relettering or renumbering any nonconsecutive Part letter or section
+34 number to read consecutively.
+Page 1 - 132LR0972(02)
+COMMITTEE AMENDMENT
+
+COMMITTEE AMENDMENT “ ” to S.P. 162, L.D. 370
+1 SUMMARY
+22 This amendment replaces the bill with a resolve. The amendment directs the
+33 Department of Education to collect data on the number of mathematics classes required for
+44 a high school diploma in the State, estimated costs associated with raising the minimum
+55 number of mathematics classes for certain schools and the number of schools that accept
+66 credits from alternative mathematics classes toward the requirements for a high school
+77 diploma.
+88 FISCAL NOTE REQUIRED
+99 (See attached)
+Page 2 - 132LR0972(02)
+COMMITTEE AMENDMENT
+
+[DELETED: LD:(RC0M1A2'3M4A5' 6D7m8D910s12 F s s t r 2 y o m f a h s2d3y435a647c8f9 0s s a r b o t d c i s 1 t t J S1C2l3A4n]
+[DELETED: T a r t b w a r  T a d tDancdF(]

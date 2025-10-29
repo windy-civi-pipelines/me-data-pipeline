@@ -1,0 +1,148 @@
+Title: 4 Reproduced and distributed under the direction of the Clerk of the House.
+Official Title: 4 Reproduced and distributed under the direction of the Clerk of the House.
+Number of Sections: 1
+Source: versions - Final Disposition
+Media Type: application/pdf
+Strikethrough Detection: 2 sections found
+
+================================================================================
+
+Section 1:
+1 L.D. 1120
+2 Date: (Filing No. H- )
+3 JUDICIARY
+5 STATE OF MAINE
+6 HOUSE OF REPRESENTATIVES
+7 132ND LEGISLATURE
+8 FIRST SPECIAL SESSION
+9 COMMITTEE AMENDMENT “ ” to H.P. 739, L.D. 1120, “An Act to Promote the
+10 Secure Storage of Firearms”
+11 Amend the bill by striking out all of section 1 and inserting the following:
+12 'Sec. 1. 15 MRSA §455-A, sub-§1-A, as enacted by PL 1991, c. 450, §2, is
+13 amended to read:
+14 1-A. Posting of warnings at gun shows. The warning sign signs as described in
+15 subsection subsections 1 and 3 must be posted at all entrances of an organized gun show.'
+16 Amend the bill by striking out all of sections 6 and 7 and inserting the following:
+17 'Sec. 6. 17-A MRSA §554, sub-§4, as enacted by PL 2021, c. 388, §3, is repealed.
+18 Sec. 7. 17-A MRSA §1060 is enacted to read:
+19 §1060. Negligent firearm storage
+20 1. Definitions. As used in this section, unless the context otherwise indicates, the
+21 following terms have the following meanings.
+22 A. "Authorized user" means a person who is 18 years of age or older who is not a
+23 prohibited person and who has been authorized by the owner to carry or use the firearm.
+24 B. "Locked container" means a box, case, chest, locker, safe or other similar receptacle
+25 equipped with a tamper-resistant lock.
+26 C. "Prohibited person" means a person who is prohibited from possessing a firearm by
+27 state or federal law or by court order.
+28 2. Negligent storage of firearm. A person is guilty of negligently storing a firearm if:
+29 A. That person, acting with criminal negligence, stores or leaves on premises that are
+30 under the person's control a firearm in a manner that allows a minor to gain access to
+31 the firearm without the permission of the minor's parent, foster parent or guardian or
+32 in a manner that allows a prohibited person to gain access to the firearm;
+33 B. A minor or prohibited person in fact gains access to the firearm; and
+Page 1 - 132LR2125(02)
+COMMITTEE AMENDMENT
+COMMITTEE AMENDMENT “ ” to H.P. 739, L.D. 1120
+1 C. The minor or prohibited person under paragraph B uses the firearm during the
+2 commission of a crime or discharges the firearm.
+3 Negligent storage of a firearm is a Class D crime.
+4 3. Affirmative defenses. It is an affirmative defense to prosecution under this section
+5 that:
+6 A. The firearm is carried by or under the control of the owner or an authorized user;
+7 B. The minor or prohibited person gains access to the firearm as a result of an illegal
+8 entry;
+9 C. The minor or prohibited person gains access to and uses the firearm during the
+10 course of a lawful act of self-defense or defense of another person as described in
+11 section 108; or
+12 D. The firearm is stored or kept in a locked container or is equipped with a tamper-
+13 resistant mechanical lock or other safety device.'
+14 Amend the bill by relettering or renumbering any nonconsecutive Part letter or section
+15 number to read consecutively.
+16 SUMMARY
+1177 This amendment repeals certain provisions of an affirmative defense to prosecution for
+1188 endangering the welfare of a child and creates the new Class D crime of negligently storing
+1199 a firearm. A person commits this crime when, acting with criminal negligence, that person
+2200 stores or leaves on premises that are under the person's control a firearm in a manner that
+2211 allows a minor to gain access to the firearm without permission or in a manner that allows
+2222 a prohibited person to gain access to the firearm and a minor or prohibited person in fact
+2233 gains access to the firearm and uses the firearm during the commission of a crime or
+2244 discharges the firearm. The amendment also establishes affirmative defenses to this crime.
+2255 FISCAL NOTE REQUIRED
+2266 (See attached)
+Page 2 - 132LR2125(02)
+COMMITTEE AMENDMENT
+[DELETED: LD:(RC0S1A2' 3a415s6A7' 8 9§011f2A3p4B5e6C7s829A0u1t2i3B]
+[DELETED: CcN3tABeC0c1s2D3r4A5n7T8e9a0s1a2a3g4d5F6(]
+
+
+================================================================================
+
+Raw Text:
+1 L.D. 1120
+2 Date: (Filing No. H- )
+3 JUDICIARY
+4 Reproduced and distributed under the direction of the Clerk of the House.
+5 STATE OF MAINE
+6 HOUSE OF REPRESENTATIVES
+7 132ND LEGISLATURE
+8 FIRST SPECIAL SESSION
+9 COMMITTEE AMENDMENT “ ” to H.P. 739, L.D. 1120, “An Act to Promote the
+10 Secure Storage of Firearms”
+11 Amend the bill by striking out all of section 1 and inserting the following:
+12 'Sec. 1. 15 MRSA §455-A, sub-§1-A, as enacted by PL 1991, c. 450, §2, is
+13 amended to read:
+14 1-A. Posting of warnings at gun shows. The warning sign signs as described in
+15 subsection subsections 1 and 3 must be posted at all entrances of an organized gun show.'
+16 Amend the bill by striking out all of sections 6 and 7 and inserting the following:
+17 'Sec. 6. 17-A MRSA §554, sub-§4, as enacted by PL 2021, c. 388, §3, is repealed.
+18 Sec. 7. 17-A MRSA §1060 is enacted to read:
+19 §1060. Negligent firearm storage
+20 1. Definitions. As used in this section, unless the context otherwise indicates, the
+21 following terms have the following meanings.
+22 A. "Authorized user" means a person who is 18 years of age or older who is not a
+23 prohibited person and who has been authorized by the owner to carry or use the firearm.
+24 B. "Locked container" means a box, case, chest, locker, safe or other similar receptacle
+25 equipped with a tamper-resistant lock.
+26 C. "Prohibited person" means a person who is prohibited from possessing a firearm by
+27 state or federal law or by court order.
+28 2. Negligent storage of firearm. A person is guilty of negligently storing a firearm if:
+29 A. That person, acting with criminal negligence, stores or leaves on premises that are
+30 under the person's control a firearm in a manner that allows a minor to gain access to
+31 the firearm without the permission of the minor's parent, foster parent or guardian or
+32 in a manner that allows a prohibited person to gain access to the firearm;
+33 B. A minor or prohibited person in fact gains access to the firearm; and
+Page 1 - 132LR2125(02)
+COMMITTEE AMENDMENT
+
+COMMITTEE AMENDMENT “ ” to H.P. 739, L.D. 1120
+1 C. The minor or prohibited person under paragraph B uses the firearm during the
+2 commission of a crime or discharges the firearm.
+3 Negligent storage of a firearm is a Class D crime.
+4 3. Affirmative defenses. It is an affirmative defense to prosecution under this section
+5 that:
+6 A. The firearm is carried by or under the control of the owner or an authorized user;
+7 B. The minor or prohibited person gains access to the firearm as a result of an illegal
+8 entry;
+9 C. The minor or prohibited person gains access to and uses the firearm during the
+10 course of a lawful act of self-defense or defense of another person as described in
+11 section 108; or
+12 D. The firearm is stored or kept in a locked container or is equipped with a tamper-
+13 resistant mechanical lock or other safety device.'
+14 Amend the bill by relettering or renumbering any nonconsecutive Part letter or section
+15 number to read consecutively.
+16 SUMMARY
+1177 This amendment repeals certain provisions of an affirmative defense to prosecution for
+1188 endangering the welfare of a child and creates the new Class D crime of negligently storing
+1199 a firearm. A person commits this crime when, acting with criminal negligence, that person
+2200 stores or leaves on premises that are under the person's control a firearm in a manner that
+2211 allows a minor to gain access to the firearm without permission or in a manner that allows
+2222 a prohibited person to gain access to the firearm and a minor or prohibited person in fact
+2233 gains access to the firearm and uses the firearm during the commission of a crime or
+2244 discharges the firearm. The amendment also establishes affirmative defenses to this crime.
+2255 FISCAL NOTE REQUIRED
+2266 (See attached)
+Page 2 - 132LR2125(02)
+COMMITTEE AMENDMENT
+
+[DELETED: LD:(RC0S1A2' 3a415s6A7' 8 9§011f2A3p4B5e6C7s829A0u1t2i3B]
+[DELETED: CcN3tABeC0c1s2D3r4A5n7T8e9a0s1a2a3g4d5F6(]
