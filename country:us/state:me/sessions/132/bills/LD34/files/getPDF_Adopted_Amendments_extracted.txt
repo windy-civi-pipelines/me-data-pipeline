@@ -1,0 +1,172 @@
+Title: 4 Reproduced and distributed under the direction of the Secretary of the Senate.
+Official Title: 4 Reproduced and distributed under the direction of the Secretary of the Senate.
+Number of Sections: 1
+Source: versions - Adopted Amendments
+Media Type: application/pdf
+Strikethrough Detection: 2 sections found
+
+================================================================================
+
+Section 1:
+1 L.D. 34
+2 Date: (Filing No. S- )
+3 EDUCATION AND CULTURAL AFFAIRS
+5 STATE OF MAINE
+6 SENATE
+7 132ND LEGISLATURE
+8 FIRST SPECIAL SESSION
+9 COMMITTEE AMENDMENT “ ” to S.P. 53, L.D. 34, “An Act to Increase the
+10 Minimum Salary for Teachers”
+11 Amend the bill by striking out all of section 3 and inserting the following:
+12 'Sec. 3. 20-A MRSA §13408 is enacted to read:
+13 §13408. Minimum salaries beginning in 2026-2027 school year
+14 Each school administrative unit shall establish a minimum salary for certified teachers
+15 and career and technical education teachers in accordance with this section. The
+16 commissioner shall establish a minimum salary for certified teachers and career and
+17 technical education teachers employed at a school, career and technical education center or
+18 career and technical education region located in the unorganized territory in accordance
+19 with this section:
+20 1. School year 2026-2027. For the school year starting after June 30, 2026, the
+21 minimum salary is $45,000;
+22 2. School year 2027-2028. For the school year starting after June 30, 2027, the
+23 minimum salary is $47,500; and
+24 3. School year 2028-2029. For the school year starting after June 30, 2028, the
+25 minimum salary is $50,000.
+26 A school administrative unit shall provide to the department annually on or before
+27 October 1st the number of certified teachers and career and technical education teachers
+28 eligible for incremental salary increases as defined in section 15689, subsection 7‑A,
+29 paragraph A.'
+30 Amend the bill in section 4 in subsection 7-A in the first blocked paragraph in the first
+31 line (page 2, line 29 in L.D.) by striking out the following: "2028" and inserting the
+32 following: '2030'
+33 Amend the bill by inserting after section 4 the following:
+Page 1 - 132LR0233(02)
+COMMITTEE AMENDMENT
+COMMITTEE AMENDMENT “ ” to S.P. 53, L.D. 34
+1 'Sec. 5. Appropriations and allocations. The following appropriations and
+2 allocations are made.
+3 EDUCATION, DEPARTMENT OF
+4 General Purpose Aid for Local Schools 0308
+5 Initiative: Provides funds to increase the minimum annual salary for certified teachers and
+6 career and technical education teachers from $40,000 in fiscal year 2025-26 to $45,000 in
+7 fiscal year 2026-27, $47,500 in fiscal year 2027-28 and $50,000 in fiscal year 2028-29.
+8 GENERAL FUND 2025-26 2026-27
+9 All Other $0 $5,733,838
+10 __________ __________
+11 GENERAL FUND TOTAL $0 $5,733,838
+128 General Purpose Aid for Local Schools 0308
+13 Initiative: Provides ongoing funds for the increase in employer contributions related to the
+14 normal cost component of the Maine Public Employees Retirement System due to the
+15 increase in salaries for certain certified teachers and career and technical education
+16 teachers.
+17 GENERAL FUND 2025-26 2026-27
+18 All Other $0 $249,995
+19 __________ __________
+20 GENERAL FUND TOTAL $0 $249,995
+2117
+22 EDUCATION, DEPARTMENT OF
+23 DEPARTMENT TOTALS 2025-26 2026-27
+24
+25 GENERAL FUND $0 $5,983,833
+26 __________ __________
+27 DEPARTMENT TOTAL - ALL FUNDS $0 $5,983,833
+2282 '
+29 Amend the bill by relettering or renumbering any nonconsecutive Part letter or section
+30 number to read consecutively.
+31 SUMMARY
+3322 This amendment removes provisions related to minimum teacher salary after school
+3333 year 2028-2029 proposed in the bill. The amendment also clarifies that teachers in the
+3344 unorganized territory are subject to minimum salary requirements and extends the repeal
+3355 date of the provision of law governing the funding adjustments for minimum teacher
+3366 salaries to July 1, 2030.
+3377 FISCAL NOTE REQUIRED
+3388 (See attached)
+Page 2 - 132LR0233(02)
+COMMITTEE AMENDMENT
+[DELETED: LD:(RC0M1A2' 3§4E5a c a t e t i a w t s T6c s e a m s f c t a c a7t8c9w011m223m43 S y 2 F t s y s a J 3 2 t5m6A7O8e f i s i a d i s 1 s 79p0A1l2f3A]
+[DELETED: '  T f a a 5  A a aaEGIcfD262r$0$___L$0$G3I4n5i i s f c c t a c a t e6tD262r$0$___L$0$7F S262 D$0$___S$0$29A0n2T3y4u5d o t p o l g t f a f m t6s7F8(]
+
+
+================================================================================
+
+Raw Text:
+1 L.D. 34
+2 Date: (Filing No. S- )
+3 EDUCATION AND CULTURAL AFFAIRS
+4 Reproduced and distributed under the direction of the Secretary of the Senate.
+5 STATE OF MAINE
+6 SENATE
+7 132ND LEGISLATURE
+8 FIRST SPECIAL SESSION
+9 COMMITTEE AMENDMENT “ ” to S.P. 53, L.D. 34, “An Act to Increase the
+10 Minimum Salary for Teachers”
+11 Amend the bill by striking out all of section 3 and inserting the following:
+12 'Sec. 3. 20-A MRSA §13408 is enacted to read:
+13 §13408. Minimum salaries beginning in 2026-2027 school year
+14 Each school administrative unit shall establish a minimum salary for certified teachers
+15 and career and technical education teachers in accordance with this section. The
+16 commissioner shall establish a minimum salary for certified teachers and career and
+17 technical education teachers employed at a school, career and technical education center or
+18 career and technical education region located in the unorganized territory in accordance
+19 with this section:
+20 1. School year 2026-2027. For the school year starting after June 30, 2026, the
+21 minimum salary is $45,000;
+22 2. School year 2027-2028. For the school year starting after June 30, 2027, the
+23 minimum salary is $47,500; and
+24 3. School year 2028-2029. For the school year starting after June 30, 2028, the
+25 minimum salary is $50,000.
+26 A school administrative unit shall provide to the department annually on or before
+27 October 1st the number of certified teachers and career and technical education teachers
+28 eligible for incremental salary increases as defined in section 15689, subsection 7‑A,
+29 paragraph A.'
+30 Amend the bill in section 4 in subsection 7-A in the first blocked paragraph in the first
+31 line (page 2, line 29 in L.D.) by striking out the following: "2028" and inserting the
+32 following: '2030'
+33 Amend the bill by inserting after section 4 the following:
+Page 1 - 132LR0233(02)
+COMMITTEE AMENDMENT
+
+COMMITTEE AMENDMENT “ ” to S.P. 53, L.D. 34
+1 'Sec. 5. Appropriations and allocations. The following appropriations and
+2 allocations are made.
+3 EDUCATION, DEPARTMENT OF
+4 General Purpose Aid for Local Schools 0308
+5 Initiative: Provides funds to increase the minimum annual salary for certified teachers and
+6 career and technical education teachers from $40,000 in fiscal year 2025-26 to $45,000 in
+7 fiscal year 2026-27, $47,500 in fiscal year 2027-28 and $50,000 in fiscal year 2028-29.
+8 GENERAL FUND 2025-26 2026-27
+9 All Other $0 $5,733,838
+10 __________ __________
+11 GENERAL FUND TOTAL $0 $5,733,838
+128 General Purpose Aid for Local Schools 0308
+13 Initiative: Provides ongoing funds for the increase in employer contributions related to the
+14 normal cost component of the Maine Public Employees Retirement System due to the
+15 increase in salaries for certain certified teachers and career and technical education
+16 teachers.
+17 GENERAL FUND 2025-26 2026-27
+18 All Other $0 $249,995
+19 __________ __________
+20 GENERAL FUND TOTAL $0 $249,995
+2117
+22 EDUCATION, DEPARTMENT OF
+23 DEPARTMENT TOTALS 2025-26 2026-27
+24
+25 GENERAL FUND $0 $5,983,833
+26 __________ __________
+27 DEPARTMENT TOTAL - ALL FUNDS $0 $5,983,833
+2282 '
+29 Amend the bill by relettering or renumbering any nonconsecutive Part letter or section
+30 number to read consecutively.
+31 SUMMARY
+3322 This amendment removes provisions related to minimum teacher salary after school
+3333 year 2028-2029 proposed in the bill. The amendment also clarifies that teachers in the
+3344 unorganized territory are subject to minimum salary requirements and extends the repeal
+3355 date of the provision of law governing the funding adjustments for minimum teacher
+3366 salaries to July 1, 2030.
+3377 FISCAL NOTE REQUIRED
+3388 (See attached)
+Page 2 - 132LR0233(02)
+COMMITTEE AMENDMENT
+
+[DELETED: LD:(RC0M1A2' 3§4E5a c a t e t i a w t s T6c s e a m s f c t a c a7t8c9w011m223m43 S y 2 F t s y s a J 3 2 t5m6A7O8e f i s i a d i s 1 s 79p0A1l2f3A]
+[DELETED: '  T f a a 5  A a aaEGIcfD262r$0$___L$0$G3I4n5i i s f c c t a c a t e6tD262r$0$___L$0$7F S262 D$0$___S$0$29A0n2T3y4u5d o t p o l g t f a f m t6s7F8(]

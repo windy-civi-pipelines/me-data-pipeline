@@ -1,0 +1,1106 @@
+Title: An Act Regarding Campaign Finance Disclosure
+Official Title: An Act Regarding Campaign Finance Disclosure
+Number of Sections: 35
+Source: versions - Final Disposition
+Media Type: application/pdf
+Strikethrough Detection: 11 sections found
+
+================================================================================
+
+Section 1:
+APPROVED CHAPTER
+JUNE 10, 2025 224
+BY GOVERNOR PUBLIC LAW
+STATE OF MAINE
+_____
+IN THE YEAR OF OUR LORD
+TWO THOUSAND TWENTY-FIVE
+_____
+S.P. 22 - L.D. 9
+Be it enacted by the People of the State of Maine as follows:
+Sec. 1. 21-A MRSA §1001, sub-§4 is enacted to read:
+
+Section 2:
+4. Public communication. "Public communication" means a communication to the
+public by means of broadcast, cable or satellite communication; newspapers, direct mail,
+handbills or other printed literature; campaign signs or other outdoor advertising facilities;
+and prerecorded automated telephone calls or other types of general public political
+advertising. For the purposes of this subsection, "general public political advertising" does
+not include communication over the Internet, except for communications placed or
+promoted for a fee on another person's website, digital device, application or advertising
+platform.
+Sec. 2. 21-A MRSA §1004, sub-§4, as amended by PL 2013, c. 334, §1, is further
+amended to read:
+
+Section 3:
+4. Registration; political action committees. A political action committee or ballot
+question committee required to be registered under section 1052‑A or 1056-B may not
+operate in this State unless it is so registered.
+Sec. 3. 21-A MRSA §1004-A, sub-§3, as enacted by PL 2003, c. 628, Pt. A, §1, is
+amended to read:
+
+Section 4:
+3. Contribution in name of another person. A person that makes a contribution in
+the name of another person, that knowingly permits that person's name to be used to effect
+such a contribution or that knowingly accepts a contribution made by one person in the
+name of another person, may be assessed a penalty not to exceed $5,000 500% of the
+amount of the contribution.
+Sec. 4. 21-A MRSA §1005, as enacted by PL 2007, c. 571, §7, is amended to read:
+
+Section 5:
+§1005. Restrictions on commercial use of contributor information
+Information concerning contributors contained in campaign finance reports filed by
+candidates, political action committees and, party committees and reports filed under
+
+Section 6:
+section 1056‑B and ballot question committees may not be used for any commercial
+Page 1 - 132LR0294(03)
+purpose, including, but not limited to, the sales and marketing of products and services, or
+for solicitations of any kind not directly related to activities of a political party, so-called
+"get out the vote" efforts or activities directly related to a campaign as defined in section
+
+Section 7:
+1052. Any person obtaining contributor information from the reports is prohibited from
+selling or distributing it to others to use for commercial purposes and also is prohibited
+from making publicly available the mailing addresses of contributors. This section does not
+prohibit a political party, party committee, candidate committee, political action committee
+or any other organization that has obtained contributor information from the commission
+from providing access to such information to its members for purposes directly related to
+party activities, so-called "get out the vote" efforts or a campaign as defined in section
+
+Section 8:
+1052. A person who violates this section is subject to a fine of up to $5,000. A person who
+knowingly violates this section commits a Class E crime.
+Sec. 5. 21-A MRSA §1007 is enacted to read:
+
+Section 9:
+§1007. Public communication placed or promoted for a fee
+A public communication is considered placed or promoted for a fee when a payment
+is made to a website, digital device, application or advertising platform in order to increase
+the circulation, prominence or availability of the public communication on that website,
+digital device, application or advertising platform.
+Sec. 6. 21-A MRSA §1012, sub-§2, ¶A, as amended by PL 1995, c. 483, §3, is
+further amended by repealing subparagraph (2).
+Sec. 7. 21-A MRSA §1014, as amended by PL 2023, c. 324, §8, is further amended
+to read:
+
+Section 10:
+§1014. Publication or distribution of political public communications
+
+Section 11:
+1. Authorized by candidate. Whenever a person makes an expenditure to finance a
+public communication expressly advocating the election or defeat of a clearly identified
+candidate through broadcasting stations, cable television systems, newspapers, magazines,
+campaign signs or other outdoor advertising facilities, publicly accessible sites on the
+Internet, direct mails or other similar types of general public political advertising or through
+flyers, handbills, bumper stickers and other nonperiodical publications, the public
+communication, if authorized by a candidate, a candidate's authorized political committee
+or their a candidate's or a candidate's authorized political committee's agents, must clearly
+and conspicuously state that the public communication has been so authorized and must
+clearly state the name and address of the person who made or financed the expenditure for
+the public communication. A public communication financed by a candidate or the
+candidate's committee is not required to state the address of the candidate or committee that
+financed the public communication. If a public communication that is financed by someone
+other than the candidate or the candidate's authorized committee is broadcast by radio, only
+the city and state of the address of the person who financed the public communication must
+be stated.
+
+Section 12:
+2. Not authorized by candidate. If the a public communication described in
+subsection 1 is not authorized by a candidate, a candidate's authorized political committee
+or their a candidate's or a candidate's authorized political committee's agents, the public
+communication must clearly and conspicuously state that the public communication is not
+authorized by any candidate and state the name and address of the person who made or
+Page 2 - 132LR0294(03)
+financed the expenditure for the public communication, except that a public
+communication broadcast by radio is only required to state the city and state of the address
+of the person that financed the public communication. If the public communication is in
+written form, the public communication must contain at the bottom of the public
+communication in print that is no smaller in size than 12-point bold print, Times New
+Roman font, the words "NOT PAID FOR OR AUTHORIZED BY ANY CANDIDATE."
+2-A. Other public communications. Whenever a person makes an expenditure to
+finance a public communication that names or depicts a clearly identified candidate and
+that is disseminated during the 28 days, including election day, before a primary election,
+during the 35 days, including election day, before a special election or during the period of
+time from Labor Day to the election day for a general election through the media described
+in subsection 1, the public communication must state the name and address of the person
+who made or financed the public communication and a statement that the public
+communication was or was not authorized by the candidate, except that a public
+communication broadcast by radio is only required to state the city and state of the address
+of the person that financed the public communication. The disclosure is not required if the
+public communication was not made for the purpose of influencing the candidate's
+nomination for election or election.
+2-B. Top 3 funders; independent expenditures. A public communication that is
+funded by an entity making an independent expenditure as defined in section 1019‑B,
+subsection 1 must conspicuously include the following statement:
+"The top 3 funders of (name of entity that made the independent expenditure) are (names
+of top 3 funders)."
+The information required by this subsection may appear simultaneously with any statement
+required by subsection 2 or 2‑A. A public communication that contains a visual aspect
+must include the statement in written text. A public communication that does not contain
+a visual aspect must include an audible statement. This statement is required only for public
+communications made through broadcast or cable television, broadcast radio, broadcast,
+cable or satellite systems; Internet audio and video programming,; direct mail; or
+newspaper or other periodical publications.
+A cable television, broadcast television broadcast, cable or satellite television
+communication or Internet video communication must include both an audible and a
+written statement. For a cable television, broadcast television broadcast, cable or satellite
+television communication or Internet video communication 30 60 seconds or less in
+duration, the audible statement may be modified to include only the single top funder
+omitted.
+The top funders named in the required statement consist of the funders providing the
+highest dollar amount of funding to the entity making the independent expenditure since
+the day following the most recent general election day.
+A. For purposes of this subsection, "funder" includes:
+(1) Any entity that has made a contribution as defined in section 1052, subsection
+3 to the entity making the independent expenditure since the day following the
+most recent general election day; and
+Page 3 - 132LR0294(03)
+(2) Any entity that has given a gift, subscription, loan, advance or deposit of money
+or anything of value, including a promise or agreement to provide money or
+anything of value whether or not legally enforceable, except for transactions in
+which a fair value is given in return, since the day following the most recent general
+election day.
+B. If funders have given equal amounts, creating a tie in the ranking of the top 3
+funders, the tie must be broken by naming the tying funders in chronological order of
+the receipt of funding until 3 funders are included in the statement. If the chronological
+order cannot be discerned, the entity making the independent expenditure may choose
+which of the tying funders to include in the statement. In no case may a A public
+communication may not be required to include the names of more than 3 funders.
+C. The statement required under this subsection is not required to include the name of
+any funder who has provided less than $1,000 to the entity making the independent
+expenditure since the day following the most recent general election day.
+D. If only one or 2 funders must be included pursuant to this subsection, the public
+communication must identify the number of funders as "top funder" or "top 2 funders"
+as appropriate. If there are no funders required to be included under this subsection,
+no statement is required.
+E. When compiling the list of top funders, an entity making an independent
+expenditure may disregard any funds that the entity can show were used for purposes
+unrelated to the candidate mentioned in the public communication on the basis that
+funds were either spent in the order received or were strictly segregated in other
+accounts.
+F. In The statement required under this subsection is not required in any public
+communication consisting of an audio broadcast of 30 60 seconds or less or a print
+communication of 20 square inches or less, the requirements of this subsection are
+satisfied by including the name of the single highest funder only.
+G. If the list of funders changes during the period in which a recurring public
+communication is aired or published, the statement appearing in the public
+communication must be updated at the time that any additional payments are made for
+that public communication.
+H. The commission may establish by routine technical rule, adopted in accordance
+with Title 5, chapter 375, subchapter 2‑A, forms and procedures for ensuring
+compliance with this subsection. Rules adopted pursuant to this paragraph must ensure
+that the information required by this subsection is effectively conveyed for a sufficient
+duration and in a sufficient font size or screen size where when applicable without
+undue burden on the ability of the entity to make the public communication. The rules
+must also provide an exemption for types of public communications for which the
+required statement would be impossible or impose an unusual hardship due to the
+unique format or medium of the public communication.
+
+Section 13:
+3. Broadcasting prohibited without disclosure. No A person operating a
+broadcasting station or cable television broadcast, cable or satellite system within this State
+may not broadcast any public communication, as described in subsections 1 to 2‑A, without
+an oral or written visual announcement of the disclosure required by this section.
+Page 4 - 132LR0294(03)
+3-A. In-kind contributions of printed materials. A candidate, political committee
+or political action committee shall report on the campaign finance report as a contribution
+to the candidate, political committee or political action committee any contributions of in-
+kind printed materials to be used in the support of a candidate or in the support or defeat of
+a ballot question. Any in-kind contributions of printed materials used or distributed by a
+candidate, political committee or political action committee must include the name or title
+of that candidate, political committee or political action committee as the authorizing agent
+for the printing and distribution of the in-kind contribution.
+3-B. Newspapers. A newspaper may not publish a public communication described
+in subsections 1 to 2‑A without including the disclosure required by this section. For
+purposes of this subsection, "newspaper" includes any printed material intended for general
+circulation or to be read by the general public, including a version of the newspaper
+displayed on a website owned or operated by the newspaper. When necessary, a newspaper
+may seek the advice of the commission regarding whether or not the a communication
+requires the disclosure.
+
+Section 14:
+4. Enforcement. A violation of this section may result in a civil penalty of no more
+than 100% of the amount of the expenditure in violation, except that an expenditure for
+yard signs lacking the required information may result in a maximum civil penalty of $200.
+In assessing a civil penalty, the commission shall consider, among other things, how widely
+the public communication was disseminated, whether the violation was intentional,
+whether the violation occurred as the result of an error by a printer or other paid vendor
+and whether the public communication conceals or misrepresents the identity of the person
+who financed it. If the person who financed the public communication or who committed
+the violation corrects the violation within 10 days after receiving notification of the
+violation from the commission by adding the missing information to the public
+communication, the commission may decide to assess no civil penalty.
+
+Section 15:
+5. Telephone calls. Prerecorded automated telephone calls and scripted live telephone
+communications that name a clearly identified candidate during the 28 days, including
+election day, before a primary election, during the 35 days, including election day, before
+a special election or during the period of time from Labor Day to the general election day
+for a general election must clearly state the name of the person who made or financed the
+expenditure for the communication and whether the communication was authorized by a
+candidate, except for prerecorded automated telephone calls paid for by the candidate that
+use the candidate's voice in the telephone call and that are made in support of that candidate.
+Telephone surveys that meet generally accepted standards for polling research and that are
+not conducted for the purpose of influencing the voting position of call recipients are not
+required to include the disclosure.
+5-A. Text messages. Text messages sent with the assistance of mass distribution
+technology that is paid for by a person must clearly and conspicuously state the name of
+the person who made or financed the expenditure if:
+A. The text message expressly advocates the election or defeat of a candidate; or
+B. The text message contains a link to a website that expressly advocates the election
+or defeat of a candidate.
+5-B. Websites of candidate or political committee. A website or other Internet
+application available to the general public that is established by a party committee or a
+Page 5 - 132LR0294(03)
+person that is required to register with the commission as a candidate or political action
+committee and that expressly advocates for the election or defeat of a candidate or that
+names a clearly identified candidate during the 28 days, including election day, before a
+primary election, during the 35 days, including election day, before a special election or
+during the period of time from Labor Day to the election day for a general election must
+state the name and address of the person who made or financed the expenditure for the
+website or other Internet application and state that the website or other Internet application
+was or was not authorized by the candidate.
+
+Section 16:
+6. Exclusions. The requirements of this section do not apply to:
+A. Handbills or other literature produced and distributed at a cost not exceeding $100
+and prepared by one or more individuals who are not required to register or file
+campaign finance reports with the commission and who are acting independently of
+and without authorization by a candidate, candidate's authorized campaign committee,
+party committee, political action committee or ballot question committee or an agent
+of a candidate, candidate's authorized campaign committee, party committee, political
+action committee or ballot question committee;
+B. Campaign signs produced and distributed at a cost not exceeding $100, paid for by
+one or more individuals who are not required to register or file campaign finance
+reports with the commission and who are acting independently of and without
+authorization by a candidate, candidate's authorized campaign committee, party
+committee, political action committee or ballot question committee or an agent of a
+candidate, candidate's authorized campaign committee, party committee, political
+action committee or ballot question committee;
+C. Internet and e-mail activities costing less than $100, as excluded by rule of the
+commission, paid for by one or more individuals who are not required to register or
+file campaign finance reports with the commission and who are acting independently
+of and without authorization by a candidate, candidate's authorized campaign
+committee, party committee, political action committee or ballot question committee
+or an agent of a candidate, candidate's authorized campaign committee, party
+committee, political action committee or ballot question committee;
+D. Communications Public communications in which the name or address of the
+person who made or authorized the expenditure for the public communication would
+be so small as to be illegible or infeasible, including public communications on items
+such as ashtrays, badges and badge holders, balloons, campaign buttons, clothing,
+coasters, combs, emery boards, envelopes, erasers, glasses, key rings, letter openers,
+matchbooks, nail files, noisemakers, paper and plastic cups, pencils, pens, plastic
+tableware, 12-inch or shorter rulers, swizzle sticks, tickets to fund-raisers fundraisers
+and similar items determined by the commission to be too small and unnecessary for
+the disclosures required by this section and in electronic media advertisements where
+compliance with this section would be impractical due to size or character limitations;
+and
+E. Campaign signs that are financed by the candidate or candidate's authorized
+committee and that clearly identify the name of the candidate and are lettered or printed
+individually by hand.;
+Page 6 - 132LR0294(03)
+F. Prerecorded automated telephone calls paid for by the candidate that use the
+candidate's voice in the telephone call and that are made in support of that candidate;
+and
+G. Telephone surveys that meet generally accepted standards for polling research and
+that are not conducted for the purpose of influencing the voting position of call
+recipients.
+Sec. 8. 21-A MRSA §1017, sub-§7-A, ¶A, as amended by PL 2009, c. 138, §1, is
+further amended to read:
+A. A candidate seeking election to a county or municipal office may, at the time the
+candidate registers under section 1013‑A, notify the commission that the candidate and
+the candidate's agents, if any, will not personally accept contributions, make
+expenditures or incur obligations associated with that candidate's candidacy. The
+notification must be sworn and notarized made through an online or written form
+prescribed by the commission. A candidate who provides this notice to the commission
+is not required to appoint a treasurer and is not subject to the filing requirements of this
+subchapter if the statement is true.
+Sec. 9. 21-A MRSA §1017, sub-§7-A, ¶A-1, as enacted by PL 2015, c. 350, §5,
+is amended to read:
+A-1. A legislative candidate seeking the nomination of a party in an uncontested
+primary election may, at the time the candidate registers under section 1013‑A, notify
+the commission that the candidate and the candidate's agents, if any, will not personally
+accept contributions, make expenditures or incur obligations associated with that
+candidate's candidacy through the 35th day after the primary election. The notification
+must be sworn and notarized made through an online or written form prescribed by the
+commission. A candidate who provides this notice to the commission is not required
+to appoint a treasurer or to file the campaign finance reports under subsection 3‑A,
+paragraphs B and D with respect to the primary election.
+Sec. 10. 21-A MRSA §1017, sub-§8, ¶F, as amended by PL 1995, c. 193, §1, is
+further amended to read:
+F. Repaying any loans or retiring any other debts incurred to defray campaign expenses
+of the candidate in the course of the candidate's campaign activity;
+Sec. 11. 21-A MRSA §1019-B, sub-§1, ¶A, as amended by PL 2021, c. 132, §7,
+is further amended to read:
+A. Is made to design, produce or disseminate any public communication that expressly
+advocates the election or defeat of a clearly identified candidate; or
+Sec. 12. 21-A MRSA §1019-B, sub-§1, ¶B, as amended by PL 2023, c. 324, §10,
+is further amended to read:
+B. Unless the person, party committee or political action committee making the
+expenditure demonstrates under subsection 2 that the expenditure did not have a
+purpose or effect of influencing the nomination, election or defeat of the candidate, is
+made to design, produce or disseminate a public communication that names or depicts
+a clearly identified candidate and is disseminated during the 28 days, including election
+Page 7 - 132LR0294(03)
+day, before a primary election; during the 35 days, including election day, before a
+special election; or from Labor Day to a general election day.
+Sec. 13. 21-A MRSA §1020-A, sub-§6, as amended by PL 2013, c. 334, §17, is
+further amended to read:
+
+Section 17:
+6. Request for a commission determination. If the commission staff finds that a
+candidate or political committee has failed to file a report required under this subchapter,
+the commission staff shall mail a notice to the candidate or political committee within 3
+business days following the filing deadline informing the candidate or political committee
+that a report was not received. If a candidate or a political committee files a report required
+under this subchapter late, a notice of preliminary penalty must be sent to the candidate or
+political committee whose registration or campaign finance report was not received by
+11:59 p.m. on the deadline date, informing the candidate or political committee of the staff
+finding of violation and preliminary penalty calculated under subsection 4‑A and providing
+the candidate or political committee with an opportunity to request a determination by the
+commission. Any request for a determination must be made within 14 calendar days of
+receipt of the commission's notice. A candidate or political committee requesting a
+determination may either appear in person or designate a representative to appear on the
+candidate's or political committee's behalf or submit a sworn statement explaining the
+mitigating circumstances for consideration by the commission. A final determination by
+the commission may be appealed to the Superior Court in accordance with Title 5, chapter
+375, subchapter 7 and the Maine Rules of Civil Procedure, Rule 80C.
+Sec. 14. 21-A MRSA §1020-A, sub-§8, as amended by PL 2007, c. 443, Pt. A,
+
+Section 18:
+§25, is repealed and the following enacted in its place:
+
+Section 19:
+8. Penalties for failure to file report. If the commission staff finds that a candidate,
+party committee or other person has failed to file a report required under this subchapter,
+the commission staff shall send by regular mail and e-mail a notice to the candidate, party
+committee or person within 3 business days following the filing deadline informing the
+candidate, party committee or person that the report has not been received. If the report
+remains unfiled after 10 days, the commission staff shall send another notice by regular
+mail and e-mail. If the candidate, party committee or person has not filed the report after
+these 2 notices, the commission staff may refer the violation to the commission, which
+may, after providing notice and an opportunity to be heard, determine whether a violation
+has occurred and, if so, the amount of any penalty. The penalty may not exceed the
+maximum penalties as provided in subsection 5-A. A candidate party committee or other
+person who fails to file a report as required by this subchapter after the commission has
+sent the first 2 notices required by this subsection is guilty of a Class E crime. As an
+alternative to assessing a penalty, the commission may refer the violation to the Office of
+the Attorney General for potential criminal prosecution.
+Sec. 15. 21-A MRSA §1020-A, sub-§8-A, as enacted by PL 2003, c. 628, Pt. A,
+
+Section 20:
+§6, is repealed.
+Sec. 16. 21-A MRSA §1020-A, sub-§9, as enacted by PL 1995, c. 483, §15, is
+repealed.
+Sec. 17. 21-A MRSA §1052, sub-§3, ¶B, as amended by PL 2021, c. 217, §3, is
+repealed.
+Page 8 - 132LR0294(03)
+Sec. 18. 21-A MRSA §1052, sub-§4-B, as enacted by PL 2011, c. 389, §31, is
+amended to read:
+4-B. Initiate. "Initiate" includes the collection of signatures on petitions and related
+activities to qualify a state or local initiative or referendum for the ballot.
+Sec. 19. 21-A MRSA §1053-A, as amended by PL 2023, c. 314, §1, is further
+amended to read:
+
+Section 21:
+§1053-A. Municipal elections
+If an organization qualifies as a committee under section 1052, subsection 2 and that
+organization receives contributions or makes expenditures to influence a municipal
+campaign election in towns or cities with a population of 15,000 or more, that organization
+must shall register and file reports with the municipal clerk as required by Title 30‑A,
+
+Section 22:
+section 2502. If an organization qualifies as a ballot question committee under section
+1052, subsection 2‑A and that organization receives contributions or makes expenditures
+exceeding $5,000 to influence a municipal referendum campaign in a town or city with a
+population of less than 15,000, that organization must shall register and file reports with
+the commission using the electronic filing system pursuant to section 1059, subsection 5.
+The reports must be filed in accordance with the reporting schedule in section 1059 and
+must contain the information listed in section 1060. A committee registered with the
+commission and that receives contributions or makes expenditures relating to a municipal
+election shall file a copy of the report containing such contributions or expenditures with
+the clerk in the subject municipality. The commission retains the sole authority to prescribe
+the content of all reporting forms. The commission does not have responsibility to oversee
+the filing of registrations or campaign finance reports relating to municipal campaigns
+elections in towns or cities with a population of 15,000 or more. If a municipal clerk
+becomes aware of a potential violation of this subchapter that the clerk considers to be
+substantial, the clerk may refer the matter to the commission for enforcement. The
+commission may conduct an investigation if the information referred by the municipal clerk
+shows sufficient grounds for believing that a violation may have occurred. After
+conducting the investigation, if the commission determines that a violation of this
+subchapter has occurred, the commission may assess penalties provided in this subchapter.
+Sec. 20. 21-A MRSA §1055, as amended by PL 2007, c. 443, Pt. A, §31, is further
+amended to read:
+
+Section 23:
+§1055. Publication or distribution of political public communications
+A political action committee that makes an expenditure to finance a public
+communication expressly advocating the election or defeat of a candidate or that names or
+depicts a clearly identified candidate is subject to the requirements of section 1014.
+Sec. 21. 21-A MRSA §1055-A, as amended by PL 2023, c. 324, §15, is further
+amended by amending the section headnote to read:
+
+Section 24:
+§1055-A. Political public communications to influence a ballot question
+Sec. 22. 21-A MRSA §1055-A, sub-§1, as amended by PL 2023, c. 324, §15, is
+further amended to read:
+
+Section 25:
+1. Communications Public communications to influence ballot question elections.
+Whenever a person makes an expenditure exceeding $500 for a public communication
+Page 9 - 132LR0294(03)
+expressly advocating through broadcasting stations, cable television systems, prerecorded
+automated telephone calls or scripted live telephone calls, newspapers, magazines,
+campaign signs or other outdoor advertising facilities, publicly accessible sites on the
+Internet, direct mails or other similar types of general public political advertising or through
+flyers, handbills, bumper stickers and other nonperiodical publications, for or against an
+initiative or referendum that is on the ballot, the public communication must clearly and
+conspicuously state the name and address of the person who made or financed the
+expenditure for the public communication, except that telephone calls must clearly state
+only the name of the person who made or financed the expenditure for the public
+communication. A digital public communication, including the transmission of text
+messages with the assistance of mass distribution technology, costing more than $500 that
+expressly advocates for or against an initiative or referendum or that includes a link to a
+publicly accessible website expressly advocating for or against an initiative or referendum
+that is on the ballot containing express advocacy must clearly and conspicuously state the
+name of the person who made or financed the expenditure, unless the digital
+communication is excluded under subsection 2. A website established by a person required
+to register as a ballot question committee expressly advocating for or against an initiative
+or referendum must clearly and conspicuously state the name and address of the person
+who made or financed the expenditure for the website. Telephone surveys that meet
+generally accepted standards for polling research and that are not conducted for the purpose
+of influencing the voting position of call recipients are not required to include the
+disclosure.
+Sec. 23. 21-A MRSA §1055-A, sub-§2, as enacted by PL 2013, c. 334, §24, is
+amended to read:
+
+Section 26:
+2. Exceptions. The following forms of political public communication do not require
+the name and address of the person who made or financed the expenditure for the public
+communication because the name or address would be so small as to be illegible or
+infeasible: clothing, envelopes and stationery, small promotional items, tickets to
+fundraisers and electronic media advertisements where compliance with this section would
+be impracticable due to size or character limitations and similar items determined by the
+commission to be too small and unnecessary for the disclosures required by this section.
+"Small promotional items" includes but is not limited to ashtrays, badges and badge
+holders, balloons, campaign buttons, coasters, combs, emery boards, erasers, glasses, key
+rings, letter openers, matchbooks, nail files, noisemakers, paper and plastic cups, pencils,
+pens, plastic tableware, 12-inch or shorter rulers and swizzle sticks.
+Sec. 24. 21-A MRSA §1057, sub-§4, as amended by PL 2021, c. 217, §9, is further
+amended to read:
+
+Section 27:
+4. Account statements. The treasurer of a committee shall keep account statements
+relating to the deposit of funds of the committee for the campaign account required by
+
+Section 28:
+section 1054.
+Sec. 25. 21-A MRSA §1062-A, sub-§5, as amended by PL 2019, c. 563, §20, is
+further amended to read:
+
+Section 29:
+5. Request for a commission determination. If the commission staff finds that a
+committee has failed to file a report required under this subchapter, the commission staff
+shall mail a notice to the treasurer of the committee within 3 business days following the
+Page 10 - 132LR0294(03)
+filing deadline informing the treasurer that a report was not received. If a committee files
+a report required under this subchapter late, a notice of preliminary penalty must be
+forwarded to the treasurer of the committee whose report is not received by 11:59 p.m. on
+the deadline date, informing the treasurer of the commission staff finding of violation and
+preliminary penalty calculated under subsection 3 and providing the treasurer with an
+opportunity to request a determination by the commission. A request for determination
+must be made within 14 calendar days of receipt of the commission's notice. A principal
+officer or treasurer requesting a determination may either appear in person or designate a
+representative to appear on the principal officer's or treasurer's behalf or submit a sworn
+statement explaining the mitigating circumstances for consideration by the commission. A
+final determination by the commission may be appealed to the Superior Court in
+accordance with Title 5, chapter 375, subchapter 7 and the Maine Rules of Civil Procedure,
+Rule 80C.
+Sec. 26. 21-A MRSA §1062-A, sub-§7, as amended by PL 2019, c. 563, §22, is
+repealed.
+Sec. 27. 21-A MRSA §1062-A, sub-§8, as amended by PL 2003, c. 628, Pt. A, §8,
+is repealed and the following enacted in its place:
+
+Section 30:
+8. Penalties for failure to file report. If the commission staff finds that a committee
+or other person has failed to file a report required under this subchapter, the commission
+staff shall send by regular mail and e-mail a notice to the committee treasurer or other
+responsible officer within 3 business days following the filing deadline informing the
+committee treasurer or other responsible officer that the report has not been received. If the
+report remains unfiled after 10 days, the commission staff shall send another notice by
+regular mail and e-mail. If the committee or other person has not filed the report after these
+2 notices, commission staff may refer the violation to the commission, which may, after
+providing notice and an opportunity to be heard, determine whether a violation has occurred
+and, if so, the amount of any penalty. The maximum penalty for failure to file a report
+required under section 1059 is $10,000 or the amount of financial activity not reported,
+whichever is greater. A person who fails to file a report as required by this subchapter after
+the commission has sent the first 2 notices required in this subsection is guilty of a Class E
+crime, except that, if a penalty is assessed pursuant to this subsection and collected by the
+commission, the State may not prosecute a violation under this subsection.
+Sec. 28. 21-A MRSA §1062-A, sub-§8-A, as amended by PL 2023, c. 405, Pt. A,
+
+Section 31:
+§49, is repealed.
+Sec. 29. 21-A MRSA §1064, sub-§1, ¶H, as enacted by IB 2023, c. 2, §1, is
+repealed.
+Sec. 30. 30-A MRSA §2502, as amended by PL 2023, c. 314, §2, is further amended
+to read:
+
+Section 32:
+§2502. Campaign reports and registrations in municipal elections
+
+Section 33:
+1. Reports and registrations by candidates. A candidate for municipal office of
+Financial activities by candidates and others to influence elections for municipal office in
+a town or city with a population of 15,000 or more is are governed by Title 21‑A, sections
+1001 to 1020‑A, except that registrations and campaign finance reports must be filed with
+the municipal clerk instead of the Commission on Governmental Ethics and Election
+Page 11 - 132LR0294(03)
+Practices. A town or city with a population of less than 15,000 may choose to be governed
+by Title 21‑A, sections 1001 to 1020‑A by vote of its legislative body at least 90 days
+before an election for office. A town or city that votes to adopt those provisions may revoke
+that decision, but it must do so at least 90 days before an election subject to those sections.
+
+Section 34:
+2. Municipal referenda campaigns. Municipal referenda campaign finance reporting
+is campaigns are governed by Title 21‑A, chapter 13, subchapter 4.
+
+Section 35:
+3. Public access to records. A town or city that receives registrations or reports
+pursuant to this section must keep them for 8 years.
+Page 12 - 132LR0294(03)
+[DELETED:  p a t c o o t o g p p i c o t I e f c p o p a c a p c a r f u 1 a b q c m n b u f a cDC]
+[DELETED:  h b s a o n p t p p c  A p c f b a c o t  N a b c  I t a p c d i]
+[DELETED:  t e f t p c e t a p f t p c m c a t b o t p m o f t p c a a s t t p w o w n a b t c e t a p c w n m f t p o i t c o s s I a a v p d m o c t b t b c o s t o I v c m i b a a a a c o I v c 3 6 s o l i]
+[DELETED:  a o v i a p o a t p m o  W c t l o t f a e m a i w e s i t o r o w s s i o  I T s r u t s i n r i a p  I t l o f c d t p i w a r p i a o p t s a i t p T 5 c 3 s 2 f a p f e  B p w d  N A p o a]
+[DELETED:  o t b r b t g p i a v o t n p c w d w t v w i v c t v w 1 d a r n o t f t c b a t m i t t p]
+[DELETED:  p b o o m i w a n r t r o f w t c a w a a i o a w b a c c a c c p c a c c p c p a w a b a c c a c a a o a c c a c c p n f n p a p c p p p  C s t a f b t c o c a]
+[DELETED:   P a t c p f b t c t u t a n c f t p o i t v p o c c a i a w n p a c m o i o a w t c c  T c m e o i o a w t  U t p p c o p a c m t d u s 2 t t e d n h a]
+[DELETED:  o t c n  A c o p c r a]
+[DELETED:  r c o m e t i a m t c m r t m t t c f e  T s g f b t a v m h o  A t i i t c d t a v o t p a c t m a e t f a p]
+[DELETED:  t c o s l t c n m s t n a a o t p w m o f t t n o t p w m o f t e f t p  A d p c i t t o t o t p w m o f t e u t d i t v p o c r a n r t i t b t n o a w b s s a t b i o c e a s s p i t t p i i b i n l t a b a b]
+[DELETED:  r r u t s l a n o p p m b d b t c m b a t t S C i m c i o t C o G E a E]
+
+
+================================================================================
+
+Raw Text:
+APPROVED CHAPTER
+JUNE 10, 2025 224
+BY GOVERNOR PUBLIC LAW
+STATE OF MAINE
+_____
+IN THE YEAR OF OUR LORD
+TWO THOUSAND TWENTY-FIVE
+_____
+S.P. 22 - L.D. 9
+An Act Regarding Campaign Finance Disclosure
+Be it enacted by the People of the State of Maine as follows:
+Sec. 1. 21-A MRSA §1001, sub-§4 is enacted to read:
+4. Public communication. "Public communication" means a communication to the
+public by means of broadcast, cable or satellite communication; newspapers, direct mail,
+handbills or other printed literature; campaign signs or other outdoor advertising facilities;
+and prerecorded automated telephone calls or other types of general public political
+advertising. For the purposes of this subsection, "general public political advertising" does
+not include communication over the Internet, except for communications placed or
+promoted for a fee on another person's website, digital device, application or advertising
+platform.
+Sec. 2. 21-A MRSA §1004, sub-§4, as amended by PL 2013, c. 334, §1, is further
+amended to read:
+4. Registration; political action committees. A political action committee or ballot
+question committee required to be registered under section 1052‑A or 1056-B may not
+operate in this State unless it is so registered.
+Sec. 3. 21-A MRSA §1004-A, sub-§3, as enacted by PL 2003, c. 628, Pt. A, §1, is
+amended to read:
+3. Contribution in name of another person. A person that makes a contribution in
+the name of another person, that knowingly permits that person's name to be used to effect
+such a contribution or that knowingly accepts a contribution made by one person in the
+name of another person, may be assessed a penalty not to exceed $5,000 500% of the
+amount of the contribution.
+Sec. 4. 21-A MRSA §1005, as enacted by PL 2007, c. 571, §7, is amended to read:
+§1005. Restrictions on commercial use of contributor information
+Information concerning contributors contained in campaign finance reports filed by
+candidates, political action committees and, party committees and reports filed under
+section 1056‑B and ballot question committees may not be used for any commercial
+Page 1 - 132LR0294(03)
+
+purpose, including, but not limited to, the sales and marketing of products and services, or
+for solicitations of any kind not directly related to activities of a political party, so-called
+"get out the vote" efforts or activities directly related to a campaign as defined in section
+1052. Any person obtaining contributor information from the reports is prohibited from
+selling or distributing it to others to use for commercial purposes and also is prohibited
+from making publicly available the mailing addresses of contributors. This section does not
+prohibit a political party, party committee, candidate committee, political action committee
+or any other organization that has obtained contributor information from the commission
+from providing access to such information to its members for purposes directly related to
+party activities, so-called "get out the vote" efforts or a campaign as defined in section
+1052. A person who violates this section is subject to a fine of up to $5,000. A person who
+knowingly violates this section commits a Class E crime.
+Sec. 5. 21-A MRSA §1007 is enacted to read:
+§1007. Public communication placed or promoted for a fee
+A public communication is considered placed or promoted for a fee when a payment
+is made to a website, digital device, application or advertising platform in order to increase
+the circulation, prominence or availability of the public communication on that website,
+digital device, application or advertising platform.
+Sec. 6. 21-A MRSA §1012, sub-§2, ¶A, as amended by PL 1995, c. 483, §3, is
+further amended by repealing subparagraph (2).
+Sec. 7. 21-A MRSA §1014, as amended by PL 2023, c. 324, §8, is further amended
+to read:
+§1014. Publication or distribution of political public communications
+1. Authorized by candidate. Whenever a person makes an expenditure to finance a
+public communication expressly advocating the election or defeat of a clearly identified
+candidate through broadcasting stations, cable television systems, newspapers, magazines,
+campaign signs or other outdoor advertising facilities, publicly accessible sites on the
+Internet, direct mails or other similar types of general public political advertising or through
+flyers, handbills, bumper stickers and other nonperiodical publications, the public
+communication, if authorized by a candidate, a candidate's authorized political committee
+or their a candidate's or a candidate's authorized political committee's agents, must clearly
+and conspicuously state that the public communication has been so authorized and must
+clearly state the name and address of the person who made or financed the expenditure for
+the public communication. A public communication financed by a candidate or the
+candidate's committee is not required to state the address of the candidate or committee that
+financed the public communication. If a public communication that is financed by someone
+other than the candidate or the candidate's authorized committee is broadcast by radio, only
+the city and state of the address of the person who financed the public communication must
+be stated.
+2. Not authorized by candidate. If the a public communication described in
+subsection 1 is not authorized by a candidate, a candidate's authorized political committee
+or their a candidate's or a candidate's authorized political committee's agents, the public
+communication must clearly and conspicuously state that the public communication is not
+authorized by any candidate and state the name and address of the person who made or
+Page 2 - 132LR0294(03)
+
+financed the expenditure for the public communication, except that a public
+communication broadcast by radio is only required to state the city and state of the address
+of the person that financed the public communication. If the public communication is in
+written form, the public communication must contain at the bottom of the public
+communication in print that is no smaller in size than 12-point bold print, Times New
+Roman font, the words "NOT PAID FOR OR AUTHORIZED BY ANY CANDIDATE."
+2-A. Other public communications. Whenever a person makes an expenditure to
+finance a public communication that names or depicts a clearly identified candidate and
+that is disseminated during the 28 days, including election day, before a primary election,
+during the 35 days, including election day, before a special election or during the period of
+time from Labor Day to the election day for a general election through the media described
+in subsection 1, the public communication must state the name and address of the person
+who made or financed the public communication and a statement that the public
+communication was or was not authorized by the candidate, except that a public
+communication broadcast by radio is only required to state the city and state of the address
+of the person that financed the public communication. The disclosure is not required if the
+public communication was not made for the purpose of influencing the candidate's
+nomination for election or election.
+2-B. Top 3 funders; independent expenditures. A public communication that is
+funded by an entity making an independent expenditure as defined in section 1019‑B,
+subsection 1 must conspicuously include the following statement:
+"The top 3 funders of (name of entity that made the independent expenditure) are (names
+of top 3 funders)."
+The information required by this subsection may appear simultaneously with any statement
+required by subsection 2 or 2‑A. A public communication that contains a visual aspect
+must include the statement in written text. A public communication that does not contain
+a visual aspect must include an audible statement. This statement is required only for public
+communications made through broadcast or cable television, broadcast radio, broadcast,
+cable or satellite systems; Internet audio and video programming,; direct mail; or
+newspaper or other periodical publications.
+A cable television, broadcast television broadcast, cable or satellite television
+communication or Internet video communication must include both an audible and a
+written statement. For a cable television, broadcast television broadcast, cable or satellite
+television communication or Internet video communication 30 60 seconds or less in
+duration, the audible statement may be modified to include only the single top funder
+omitted.
+The top funders named in the required statement consist of the funders providing the
+highest dollar amount of funding to the entity making the independent expenditure since
+the day following the most recent general election day.
+A. For purposes of this subsection, "funder" includes:
+(1) Any entity that has made a contribution as defined in section 1052, subsection
+3 to the entity making the independent expenditure since the day following the
+most recent general election day; and
+Page 3 - 132LR0294(03)
+
+(2) Any entity that has given a gift, subscription, loan, advance or deposit of money
+or anything of value, including a promise or agreement to provide money or
+anything of value whether or not legally enforceable, except for transactions in
+which a fair value is given in return, since the day following the most recent general
+election day.
+B. If funders have given equal amounts, creating a tie in the ranking of the top 3
+funders, the tie must be broken by naming the tying funders in chronological order of
+the receipt of funding until 3 funders are included in the statement. If the chronological
+order cannot be discerned, the entity making the independent expenditure may choose
+which of the tying funders to include in the statement. In no case may a A public
+communication may not be required to include the names of more than 3 funders.
+C. The statement required under this subsection is not required to include the name of
+any funder who has provided less than $1,000 to the entity making the independent
+expenditure since the day following the most recent general election day.
+D. If only one or 2 funders must be included pursuant to this subsection, the public
+communication must identify the number of funders as "top funder" or "top 2 funders"
+as appropriate. If there are no funders required to be included under this subsection,
+no statement is required.
+E. When compiling the list of top funders, an entity making an independent
+expenditure may disregard any funds that the entity can show were used for purposes
+unrelated to the candidate mentioned in the public communication on the basis that
+funds were either spent in the order received or were strictly segregated in other
+accounts.
+F. In The statement required under this subsection is not required in any public
+communication consisting of an audio broadcast of 30 60 seconds or less or a print
+communication of 20 square inches or less, the requirements of this subsection are
+satisfied by including the name of the single highest funder only.
+G. If the list of funders changes during the period in which a recurring public
+communication is aired or published, the statement appearing in the public
+communication must be updated at the time that any additional payments are made for
+that public communication.
+H. The commission may establish by routine technical rule, adopted in accordance
+with Title 5, chapter 375, subchapter 2‑A, forms and procedures for ensuring
+compliance with this subsection. Rules adopted pursuant to this paragraph must ensure
+that the information required by this subsection is effectively conveyed for a sufficient
+duration and in a sufficient font size or screen size where when applicable without
+undue burden on the ability of the entity to make the public communication. The rules
+must also provide an exemption for types of public communications for which the
+required statement would be impossible or impose an unusual hardship due to the
+unique format or medium of the public communication.
+3. Broadcasting prohibited without disclosure. No A person operating a
+broadcasting station or cable television broadcast, cable or satellite system within this State
+may not broadcast any public communication, as described in subsections 1 to 2‑A, without
+an oral or written visual announcement of the disclosure required by this section.
+Page 4 - 132LR0294(03)
+
+3-A. In-kind contributions of printed materials. A candidate, political committee
+or political action committee shall report on the campaign finance report as a contribution
+to the candidate, political committee or political action committee any contributions of in-
+kind printed materials to be used in the support of a candidate or in the support or defeat of
+a ballot question. Any in-kind contributions of printed materials used or distributed by a
+candidate, political committee or political action committee must include the name or title
+of that candidate, political committee or political action committee as the authorizing agent
+for the printing and distribution of the in-kind contribution.
+3-B. Newspapers. A newspaper may not publish a public communication described
+in subsections 1 to 2‑A without including the disclosure required by this section. For
+purposes of this subsection, "newspaper" includes any printed material intended for general
+circulation or to be read by the general public, including a version of the newspaper
+displayed on a website owned or operated by the newspaper. When necessary, a newspaper
+may seek the advice of the commission regarding whether or not the a communication
+requires the disclosure.
+4. Enforcement. A violation of this section may result in a civil penalty of no more
+than 100% of the amount of the expenditure in violation, except that an expenditure for
+yard signs lacking the required information may result in a maximum civil penalty of $200.
+In assessing a civil penalty, the commission shall consider, among other things, how widely
+the public communication was disseminated, whether the violation was intentional,
+whether the violation occurred as the result of an error by a printer or other paid vendor
+and whether the public communication conceals or misrepresents the identity of the person
+who financed it. If the person who financed the public communication or who committed
+the violation corrects the violation within 10 days after receiving notification of the
+violation from the commission by adding the missing information to the public
+communication, the commission may decide to assess no civil penalty.
+5. Telephone calls. Prerecorded automated telephone calls and scripted live telephone
+communications that name a clearly identified candidate during the 28 days, including
+election day, before a primary election, during the 35 days, including election day, before
+a special election or during the period of time from Labor Day to the general election day
+for a general election must clearly state the name of the person who made or financed the
+expenditure for the communication and whether the communication was authorized by a
+candidate, except for prerecorded automated telephone calls paid for by the candidate that
+use the candidate's voice in the telephone call and that are made in support of that candidate.
+Telephone surveys that meet generally accepted standards for polling research and that are
+not conducted for the purpose of influencing the voting position of call recipients are not
+required to include the disclosure.
+5-A. Text messages. Text messages sent with the assistance of mass distribution
+technology that is paid for by a person must clearly and conspicuously state the name of
+the person who made or financed the expenditure if:
+A. The text message expressly advocates the election or defeat of a candidate; or
+B. The text message contains a link to a website that expressly advocates the election
+or defeat of a candidate.
+5-B. Websites of candidate or political committee. A website or other Internet
+application available to the general public that is established by a party committee or a
+Page 5 - 132LR0294(03)
+
+person that is required to register with the commission as a candidate or political action
+committee and that expressly advocates for the election or defeat of a candidate or that
+names a clearly identified candidate during the 28 days, including election day, before a
+primary election, during the 35 days, including election day, before a special election or
+during the period of time from Labor Day to the election day for a general election must
+state the name and address of the person who made or financed the expenditure for the
+website or other Internet application and state that the website or other Internet application
+was or was not authorized by the candidate.
+6. Exclusions. The requirements of this section do not apply to:
+A. Handbills or other literature produced and distributed at a cost not exceeding $100
+and prepared by one or more individuals who are not required to register or file
+campaign finance reports with the commission and who are acting independently of
+and without authorization by a candidate, candidate's authorized campaign committee,
+party committee, political action committee or ballot question committee or an agent
+of a candidate, candidate's authorized campaign committee, party committee, political
+action committee or ballot question committee;
+B. Campaign signs produced and distributed at a cost not exceeding $100, paid for by
+one or more individuals who are not required to register or file campaign finance
+reports with the commission and who are acting independently of and without
+authorization by a candidate, candidate's authorized campaign committee, party
+committee, political action committee or ballot question committee or an agent of a
+candidate, candidate's authorized campaign committee, party committee, political
+action committee or ballot question committee;
+C. Internet and e-mail activities costing less than $100, as excluded by rule of the
+commission, paid for by one or more individuals who are not required to register or
+file campaign finance reports with the commission and who are acting independently
+of and without authorization by a candidate, candidate's authorized campaign
+committee, party committee, political action committee or ballot question committee
+or an agent of a candidate, candidate's authorized campaign committee, party
+committee, political action committee or ballot question committee;
+D. Communications Public communications in which the name or address of the
+person who made or authorized the expenditure for the public communication would
+be so small as to be illegible or infeasible, including public communications on items
+such as ashtrays, badges and badge holders, balloons, campaign buttons, clothing,
+coasters, combs, emery boards, envelopes, erasers, glasses, key rings, letter openers,
+matchbooks, nail files, noisemakers, paper and plastic cups, pencils, pens, plastic
+tableware, 12-inch or shorter rulers, swizzle sticks, tickets to fund-raisers fundraisers
+and similar items determined by the commission to be too small and unnecessary for
+the disclosures required by this section and in electronic media advertisements where
+compliance with this section would be impractical due to size or character limitations;
+and
+E. Campaign signs that are financed by the candidate or candidate's authorized
+committee and that clearly identify the name of the candidate and are lettered or printed
+individually by hand.;
+Page 6 - 132LR0294(03)
+
+F. Prerecorded automated telephone calls paid for by the candidate that use the
+candidate's voice in the telephone call and that are made in support of that candidate;
+and
+G. Telephone surveys that meet generally accepted standards for polling research and
+that are not conducted for the purpose of influencing the voting position of call
+recipients.
+Sec. 8. 21-A MRSA §1017, sub-§7-A, ¶A, as amended by PL 2009, c. 138, §1, is
+further amended to read:
+A. A candidate seeking election to a county or municipal office may, at the time the
+candidate registers under section 1013‑A, notify the commission that the candidate and
+the candidate's agents, if any, will not personally accept contributions, make
+expenditures or incur obligations associated with that candidate's candidacy. The
+notification must be sworn and notarized made through an online or written form
+prescribed by the commission. A candidate who provides this notice to the commission
+is not required to appoint a treasurer and is not subject to the filing requirements of this
+subchapter if the statement is true.
+Sec. 9. 21-A MRSA §1017, sub-§7-A, ¶A-1, as enacted by PL 2015, c. 350, §5,
+is amended to read:
+A-1. A legislative candidate seeking the nomination of a party in an uncontested
+primary election may, at the time the candidate registers under section 1013‑A, notify
+the commission that the candidate and the candidate's agents, if any, will not personally
+accept contributions, make expenditures or incur obligations associated with that
+candidate's candidacy through the 35th day after the primary election. The notification
+must be sworn and notarized made through an online or written form prescribed by the
+commission. A candidate who provides this notice to the commission is not required
+to appoint a treasurer or to file the campaign finance reports under subsection 3‑A,
+paragraphs B and D with respect to the primary election.
+Sec. 10. 21-A MRSA §1017, sub-§8, ¶F, as amended by PL 1995, c. 193, §1, is
+further amended to read:
+F. Repaying any loans or retiring any other debts incurred to defray campaign expenses
+of the candidate in the course of the candidate's campaign activity;
+Sec. 11. 21-A MRSA §1019-B, sub-§1, ¶A, as amended by PL 2021, c. 132, §7,
+is further amended to read:
+A. Is made to design, produce or disseminate any public communication that expressly
+advocates the election or defeat of a clearly identified candidate; or
+Sec. 12. 21-A MRSA §1019-B, sub-§1, ¶B, as amended by PL 2023, c. 324, §10,
+is further amended to read:
+B. Unless the person, party committee or political action committee making the
+expenditure demonstrates under subsection 2 that the expenditure did not have a
+purpose or effect of influencing the nomination, election or defeat of the candidate, is
+made to design, produce or disseminate a public communication that names or depicts
+a clearly identified candidate and is disseminated during the 28 days, including election
+Page 7 - 132LR0294(03)
+
+day, before a primary election; during the 35 days, including election day, before a
+special election; or from Labor Day to a general election day.
+Sec. 13. 21-A MRSA §1020-A, sub-§6, as amended by PL 2013, c. 334, §17, is
+further amended to read:
+6. Request for a commission determination. If the commission staff finds that a
+candidate or political committee has failed to file a report required under this subchapter,
+the commission staff shall mail a notice to the candidate or political committee within 3
+business days following the filing deadline informing the candidate or political committee
+that a report was not received. If a candidate or a political committee files a report required
+under this subchapter late, a notice of preliminary penalty must be sent to the candidate or
+political committee whose registration or campaign finance report was not received by
+11:59 p.m. on the deadline date, informing the candidate or political committee of the staff
+finding of violation and preliminary penalty calculated under subsection 4‑A and providing
+the candidate or political committee with an opportunity to request a determination by the
+commission. Any request for a determination must be made within 14 calendar days of
+receipt of the commission's notice. A candidate or political committee requesting a
+determination may either appear in person or designate a representative to appear on the
+candidate's or political committee's behalf or submit a sworn statement explaining the
+mitigating circumstances for consideration by the commission. A final determination by
+the commission may be appealed to the Superior Court in accordance with Title 5, chapter
+375, subchapter 7 and the Maine Rules of Civil Procedure, Rule 80C.
+Sec. 14. 21-A MRSA §1020-A, sub-§8, as amended by PL 2007, c. 443, Pt. A,
+§25, is repealed and the following enacted in its place:
+8. Penalties for failure to file report. If the commission staff finds that a candidate,
+party committee or other person has failed to file a report required under this subchapter,
+the commission staff shall send by regular mail and e-mail a notice to the candidate, party
+committee or person within 3 business days following the filing deadline informing the
+candidate, party committee or person that the report has not been received. If the report
+remains unfiled after 10 days, the commission staff shall send another notice by regular
+mail and e-mail. If the candidate, party committee or person has not filed the report after
+these 2 notices, the commission staff may refer the violation to the commission, which
+may, after providing notice and an opportunity to be heard, determine whether a violation
+has occurred and, if so, the amount of any penalty. The penalty may not exceed the
+maximum penalties as provided in subsection 5-A. A candidate party committee or other
+person who fails to file a report as required by this subchapter after the commission has
+sent the first 2 notices required by this subsection is guilty of a Class E crime. As an
+alternative to assessing a penalty, the commission may refer the violation to the Office of
+the Attorney General for potential criminal prosecution.
+Sec. 15. 21-A MRSA §1020-A, sub-§8-A, as enacted by PL 2003, c. 628, Pt. A,
+§6, is repealed.
+Sec. 16. 21-A MRSA §1020-A, sub-§9, as enacted by PL 1995, c. 483, §15, is
+repealed.
+Sec. 17. 21-A MRSA §1052, sub-§3, ¶B, as amended by PL 2021, c. 217, §3, is
+repealed.
+Page 8 - 132LR0294(03)
+
+Sec. 18. 21-A MRSA §1052, sub-§4-B, as enacted by PL 2011, c. 389, §31, is
+amended to read:
+4-B. Initiate. "Initiate" includes the collection of signatures on petitions and related
+activities to qualify a state or local initiative or referendum for the ballot.
+Sec. 19. 21-A MRSA §1053-A, as amended by PL 2023, c. 314, §1, is further
+amended to read:
+§1053-A. Municipal elections
+If an organization qualifies as a committee under section 1052, subsection 2 and that
+organization receives contributions or makes expenditures to influence a municipal
+campaign election in towns or cities with a population of 15,000 or more, that organization
+must shall register and file reports with the municipal clerk as required by Title 30‑A,
+section 2502. If an organization qualifies as a ballot question committee under section
+1052, subsection 2‑A and that organization receives contributions or makes expenditures
+exceeding $5,000 to influence a municipal referendum campaign in a town or city with a
+population of less than 15,000, that organization must shall register and file reports with
+the commission using the electronic filing system pursuant to section 1059, subsection 5.
+The reports must be filed in accordance with the reporting schedule in section 1059 and
+must contain the information listed in section 1060. A committee registered with the
+commission and that receives contributions or makes expenditures relating to a municipal
+election shall file a copy of the report containing such contributions or expenditures with
+the clerk in the subject municipality. The commission retains the sole authority to prescribe
+the content of all reporting forms. The commission does not have responsibility to oversee
+the filing of registrations or campaign finance reports relating to municipal campaigns
+elections in towns or cities with a population of 15,000 or more. If a municipal clerk
+becomes aware of a potential violation of this subchapter that the clerk considers to be
+substantial, the clerk may refer the matter to the commission for enforcement. The
+commission may conduct an investigation if the information referred by the municipal clerk
+shows sufficient grounds for believing that a violation may have occurred. After
+conducting the investigation, if the commission determines that a violation of this
+subchapter has occurred, the commission may assess penalties provided in this subchapter.
+Sec. 20. 21-A MRSA §1055, as amended by PL 2007, c. 443, Pt. A, §31, is further
+amended to read:
+§1055. Publication or distribution of political public communications
+A political action committee that makes an expenditure to finance a public
+communication expressly advocating the election or defeat of a candidate or that names or
+depicts a clearly identified candidate is subject to the requirements of section 1014.
+Sec. 21. 21-A MRSA §1055-A, as amended by PL 2023, c. 324, §15, is further
+amended by amending the section headnote to read:
+§1055-A. Political public communications to influence a ballot question
+Sec. 22. 21-A MRSA §1055-A, sub-§1, as amended by PL 2023, c. 324, §15, is
+further amended to read:
+1. Communications Public communications to influence ballot question elections.
+Whenever a person makes an expenditure exceeding $500 for a public communication
+Page 9 - 132LR0294(03)
+
+expressly advocating through broadcasting stations, cable television systems, prerecorded
+automated telephone calls or scripted live telephone calls, newspapers, magazines,
+campaign signs or other outdoor advertising facilities, publicly accessible sites on the
+Internet, direct mails or other similar types of general public political advertising or through
+flyers, handbills, bumper stickers and other nonperiodical publications, for or against an
+initiative or referendum that is on the ballot, the public communication must clearly and
+conspicuously state the name and address of the person who made or financed the
+expenditure for the public communication, except that telephone calls must clearly state
+only the name of the person who made or financed the expenditure for the public
+communication. A digital public communication, including the transmission of text
+messages with the assistance of mass distribution technology, costing more than $500 that
+expressly advocates for or against an initiative or referendum or that includes a link to a
+publicly accessible website expressly advocating for or against an initiative or referendum
+that is on the ballot containing express advocacy must clearly and conspicuously state the
+name of the person who made or financed the expenditure, unless the digital
+communication is excluded under subsection 2. A website established by a person required
+to register as a ballot question committee expressly advocating for or against an initiative
+or referendum must clearly and conspicuously state the name and address of the person
+who made or financed the expenditure for the website. Telephone surveys that meet
+generally accepted standards for polling research and that are not conducted for the purpose
+of influencing the voting position of call recipients are not required to include the
+disclosure.
+Sec. 23. 21-A MRSA §1055-A, sub-§2, as enacted by PL 2013, c. 334, §24, is
+amended to read:
+2. Exceptions. The following forms of political public communication do not require
+the name and address of the person who made or financed the expenditure for the public
+communication because the name or address would be so small as to be illegible or
+infeasible: clothing, envelopes and stationery, small promotional items, tickets to
+fundraisers and electronic media advertisements where compliance with this section would
+be impracticable due to size or character limitations and similar items determined by the
+commission to be too small and unnecessary for the disclosures required by this section.
+"Small promotional items" includes but is not limited to ashtrays, badges and badge
+holders, balloons, campaign buttons, coasters, combs, emery boards, erasers, glasses, key
+rings, letter openers, matchbooks, nail files, noisemakers, paper and plastic cups, pencils,
+pens, plastic tableware, 12-inch or shorter rulers and swizzle sticks.
+Sec. 24. 21-A MRSA §1057, sub-§4, as amended by PL 2021, c. 217, §9, is further
+amended to read:
+4. Account statements. The treasurer of a committee shall keep account statements
+relating to the deposit of funds of the committee for the campaign account required by
+section 1054.
+Sec. 25. 21-A MRSA §1062-A, sub-§5, as amended by PL 2019, c. 563, §20, is
+further amended to read:
+5. Request for a commission determination. If the commission staff finds that a
+committee has failed to file a report required under this subchapter, the commission staff
+shall mail a notice to the treasurer of the committee within 3 business days following the
+Page 10 - 132LR0294(03)
+
+filing deadline informing the treasurer that a report was not received. If a committee files
+a report required under this subchapter late, a notice of preliminary penalty must be
+forwarded to the treasurer of the committee whose report is not received by 11:59 p.m. on
+the deadline date, informing the treasurer of the commission staff finding of violation and
+preliminary penalty calculated under subsection 3 and providing the treasurer with an
+opportunity to request a determination by the commission. A request for determination
+must be made within 14 calendar days of receipt of the commission's notice. A principal
+officer or treasurer requesting a determination may either appear in person or designate a
+representative to appear on the principal officer's or treasurer's behalf or submit a sworn
+statement explaining the mitigating circumstances for consideration by the commission. A
+final determination by the commission may be appealed to the Superior Court in
+accordance with Title 5, chapter 375, subchapter 7 and the Maine Rules of Civil Procedure,
+Rule 80C.
+Sec. 26. 21-A MRSA §1062-A, sub-§7, as amended by PL 2019, c. 563, §22, is
+repealed.
+Sec. 27. 21-A MRSA §1062-A, sub-§8, as amended by PL 2003, c. 628, Pt. A, §8,
+is repealed and the following enacted in its place:
+8. Penalties for failure to file report. If the commission staff finds that a committee
+or other person has failed to file a report required under this subchapter, the commission
+staff shall send by regular mail and e-mail a notice to the committee treasurer or other
+responsible officer within 3 business days following the filing deadline informing the
+committee treasurer or other responsible officer that the report has not been received. If the
+report remains unfiled after 10 days, the commission staff shall send another notice by
+regular mail and e-mail. If the committee or other person has not filed the report after these
+2 notices, commission staff may refer the violation to the commission, which may, after
+providing notice and an opportunity to be heard, determine whether a violation has occurred
+and, if so, the amount of any penalty. The maximum penalty for failure to file a report
+required under section 1059 is $10,000 or the amount of financial activity not reported,
+whichever is greater. A person who fails to file a report as required by this subchapter after
+the commission has sent the first 2 notices required in this subsection is guilty of a Class E
+crime, except that, if a penalty is assessed pursuant to this subsection and collected by the
+commission, the State may not prosecute a violation under this subsection.
+Sec. 28. 21-A MRSA §1062-A, sub-§8-A, as amended by PL 2023, c. 405, Pt. A,
+§49, is repealed.
+Sec. 29. 21-A MRSA §1064, sub-§1, ¶H, as enacted by IB 2023, c. 2, §1, is
+repealed.
+Sec. 30. 30-A MRSA §2502, as amended by PL 2023, c. 314, §2, is further amended
+to read:
+§2502. Campaign reports and registrations in municipal elections
+1. Reports and registrations by candidates. A candidate for municipal office of
+Financial activities by candidates and others to influence elections for municipal office in
+a town or city with a population of 15,000 or more is are governed by Title 21‑A, sections
+1001 to 1020‑A, except that registrations and campaign finance reports must be filed with
+the municipal clerk instead of the Commission on Governmental Ethics and Election
+Page 11 - 132LR0294(03)
+
+Practices. A town or city with a population of less than 15,000 may choose to be governed
+by Title 21‑A, sections 1001 to 1020‑A by vote of its legislative body at least 90 days
+before an election for office. A town or city that votes to adopt those provisions may revoke
+that decision, but it must do so at least 90 days before an election subject to those sections.
+2. Municipal referenda campaigns. Municipal referenda campaign finance reporting
+is campaigns are governed by Title 21‑A, chapter 13, subchapter 4.
+3. Public access to records. A town or city that receives registrations or reports
+pursuant to this section must keep them for 8 years.
+Page 12 - 132LR0294(03)
+
+[DELETED:  p a t c o o t o g p p i c o t I e f c p o p a c a p c a r f u 1 a b q c m n b u f a cDC]
+[DELETED:  h b s a o n p t p p c  A p c f b a c o t  N a b c  I t a p c d i]
+[DELETED:  t e f t p c e t a p f t p c m c a t b o t p m o f t p c a a s t t p w o w n a b t c e t a p c w n m f t p o i t c o s s I a a v p d m o c t b t b c o s t o I v c m i b a a a a c o I v c 3 6 s o l i]
+[DELETED:  a o v i a p o a t p m o  W c t l o t f a e m a i w e s i t o r o w s s i o  I T s r u t s i n r i a p  I t l o f c d t p i w a r p i a o p t s a i t p T 5 c 3 s 2 f a p f e  B p w d  N A p o a]
+[DELETED:  o t b r b t g p i a v o t n p c w d w t v w i v c t v w 1 d a r n o t f t c b a t m i t t p]
+[DELETED:  p b o o m i w a n r t r o f w t c a w a a i o a w b a c c a c c p c a c c p c p a w a b a c c a c a a o a c c a c c p n f n p a p c p p p  C s t a f b t c o c a]
+[DELETED:   P a t c p f b t c t u t a n c f t p o i t v p o c c a i a w n p a c m o i o a w t c c  T c m e o i o a w t  U t p p c o p a c m t d u s 2 t t e d n h a]
+[DELETED:  o t c n  A c o p c r a]
+[DELETED:  r c o m e t i a m t c m r t m t t c f e  T s g f b t a v m h o  A t i i t c d t a v o t p a c t m a e t f a p]
+[DELETED:  t c o s l t c n m s t n a a o t p w m o f t t n o t p w m o f t e f t p  A d p c i t t o t o t p w m o f t e u t d i t v p o c r a n r t i t b t n o a w b s s a t b i o c e a s s p i t t p i i b i n l t a b a b]
+[DELETED:  r r u t s l a n o p p m b d b t c m b a t t S C i m c i o t C o G E a E]

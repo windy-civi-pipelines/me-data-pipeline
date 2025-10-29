@@ -1,0 +1,270 @@
+Title: 4 Reproduced and distributed under the direction of the Secretary of the Senate.
+Official Title: 4 Reproduced and distributed under the direction of the Secretary of the Senate.
+Number of Sections: 1
+Source: versions - Adopted Amendments
+Media Type: application/pdf
+Strikethrough Detection: 4 sections found
+
+================================================================================
+
+Section 1:
+1 L.D. 913
+2 Date: (Filing No. S- )
+3 HOUSING AND ECONOMIC DEVELOPMENT
+5 STATE OF MAINE
+6 SENATE
+7 132ND LEGISLATURE
+8 FIRST SPECIAL SESSION
+9 COMMITTEE AMENDMENT “ ” to S.P. 403, L.D. 913, “An Act to Prohibit
+10 Ticket Sellers from Prohibiting the Transfer of Tickets to Third Parties”
+11 Amend the bill by striking out the title and substituting the following:
+12 'An Act to Amend the Law Regulating the Resale of Tickets'
+13 Amend the bill by striking out everything after the enacting clause and inserting the
+14 following:
+15 'Sec. 1. 8 MRSA c. 37, as amended, is amended to read:
+16 CHAPTER 37
+17 SALE AND RESALE OF TICKETS
+18 §1301. Resale Sale and resale of tickets
+19 1. Definitions. As used in this section, unless the context otherwise indicates, the
+20 following terms have the following meanings.
+21 A. "Entertainment event" means an event for which a ticket has been purchased,
+22 including, but not limited to, a performance, concert, exhibit, game or contest.
+23 A-1. "Bot" means any program, device or software designed to circumvent security
+24 measures or access controls on a ticket sales platform to obtain tickets.
+25 B. "Place of entertainment" means a facility used to host an entertainment event
+26 including, but not limited to, a theater, stadium, arena, racetrack, museum or
+27 amusement park.
+28 B-1. "Mandatory fee" means a fee or charge required as part of the advertised price of
+29 a ticket, including, but not limited to, a service fee or convenience fee.
+Page 1 - 132LR1184(02)
+COMMITTEE AMENDMENT
+COMMITTEE AMENDMENT “ ” to S.P. 403, L.D. 913
+1 B-2. "Service fee" means an additional fee added to the total price of a ticket to pay
+2 for administrative costs, including, but not limited to, ticket software, credit card
+3 processing and venue fees.
+4 B-3. "Speculative ticket" means a ticket not in the actual or constructive possession of
+5 the ticket reseller at the time the ticket is listed for resale.
+6 C. "Ticket" means documentation of a right to attend an entertainment event.
+7 C-1. "Ticket issuer" means a person or entity that issues tickets for original sale,
+8 including, but not limited to, musicians or their agents, venues, promoters, theater
+9 companies and marketplaces for initial purchases. "Ticket issuer" does not include a
+10 nonprofit corporation as defined in Title 13-B, section 102, subsection 9.
+11 D. "Ticket reseller" means a business entity whose primary business is the sale or
+12 resale of tickets. "Ticket reseller" does not include any of the following: a nonprofit
+13 corporation as defined in Title 13-B, section 102, subsection 9.
+14 (1) A nonprofit corporation as defined in Title 13‑B, section 102, subsection 9; or
+15 (2) A place of entertainment that engages in the sale or resale of tickets to
+16 entertainment events at the place of entertainment.
+17 E. "Total price" means the maximum total of all fees or charges a consumer must pay
+18 for a ticket, except that shipping charges and government charges may be excluded.
+19 F. "Venue" means a place of entertainment used to host an entertainment event,
+20 including, but not limited to, a theater, stadium, arena, racetrack, museum or
+21 amusement park.
+22 1-A. Required ticket disclosures. A ticket reseller or ticket issuer advertising,
+23 offering for sale, selling or reselling a ticket shall:
+24 A. Clearly and conspicuously disclose the total price of the ticket, including all
+25 mandatory fees, whenever the price is advertised or displayed;
+26 B. Display the total price of the ticket more prominently than other pricing information
+27 in all advertisements, offers or displays;
+28 C. Provide a complete itemization of the total price of the ticket that includes the
+29 nature, purpose and amount of any mandatory fee in a font size smaller than that of the
+30 total price; and
+31 D. Clearly and conspicuously disclose to the consumer at the time of purchase the seat
+32 number or section at the venue associated with the ticket.
+33 2. Refunds required. A ticket reseller that engages in the resale of a ticket in the
+34 State to a place of entertainment venue shall, upon the request of the customer consumer,
+35 refund the amount paid by the customer consumer for the ticket in any of the following
+36 circumstances:
+37 A. The entertainment event is cancelled;
+38 B. The ticket is not accepted by the entity venue holding the entertainment event
+39 because it is counterfeit or does not conform with the requirements established by the
+40 entity venue holding the entertainment event or was never inventoried by the ticket
+41 issuer or recognized at the venue as valid;
+Page 2 - 132LR1184(02)
+COMMITTEE AMENDMENT
+COMMITTEE AMENDMENT “ ” to S.P. 403, L.D. 913
+1 C. The ticket is cancelled by the entity venue holding the entertainment event for any
+2 reason; or
+3 D. The person who purchased the ticket consumer does not receive the ticket in time
+4 to attend the entertainment event.; or
+5 E. The ticket reseller made a material misrepresentation relating to the sale of the
+6 ticket.
+7 A person operating a venue shall provide a person holding a counterfeit, duplicate or
+8 otherwise invalid ticket purchased from a ticket reseller the contact information for the
+9 Office of the Attorney General.
+10 This subsection does not prevent a ticket issuer from setting limits on maximum ticket
+11 purchases or enforcing terms and conditions. For the purposes of this subsection, a ticket
+12 to an entertainment event is deemed a license.
+13 2-A. Prohibited practices. A ticket reseller or ticket issuer may not:
+14 A. Misrepresent any fee or charge associated with a ticket in any advertisement, offer
+15 or display;
+16 B. Exclude a mandatory fee from the advertised price of a ticket without clearly and
+17 conspicuously disclosing the nature, purpose and amount of the mandatory fee prior to
+18 a consumer's consenting to pay for the ticket;
+19 C. Sell or offer to sell or resell more than one copy of the same ticket to an
+20 entertainment event;
+21 D. Sell speculative tickets;
+22 E. Use deceptive website addresses or imply endorsement or ownership of any
+23 intellectual property of the venue or artist without explicit written authorization of the
+24 venue or artist;
+25 F. Circumvent Internet sales limitations using bots or similar tools; or
+26 G. Charge more than 10% of the total price of the original ticket, including taxes and
+27 fees, for the service of providing a marketplace for the resale of a ticket.
+28 2-B. Enforcement. The Attorney General shall enforce this section.
+29 3. Penalty. Violation of this section is an unfair trade practice as prohibited by Title
+30 5, section 207.'
+31 Amend the bill by relettering or renumbering any nonconsecutive Part letter or section
+32 number to read consecutively.
+33 SUMMARY
+3344 This amendment replaces the bill and changes the title. It amends the laws governing
+3355 the resale of tickets to include practices that regulate price disclosures and the refund of
+3366 tickets. The amendment includes consumer protections, including the prohibition of
+3377 speculative ticket sales and the use of deceptive website addresses and bots to circumvent
+Page 3 - 132LR1184(02)
+COMMITTEE AMENDMENT
+COMMITTEE AMENDMENT “ ” to S.P. 403, L.D. 913
+318 online sales limitations. The amendment imposes a price cap on the resale of tickets. The
+329 amendment requires enforcement by the Attorney General.
+430 FISCAL NOTE REQUIRED
+441 (See attached)
+Page 4 - 132LR1184(02)
+COMMITTEE AMENDMENT
+[DELETED: LD:(RC A “ t S 4 L 9 “ A t P0T1A2'3A4f5' 6C7S8§910f1A2i3A4m5B6i b n l t a t s a r m o7a8B9a]
+[DELETED: Bf a c i b n l t t s c cpBtCCic0n1D2r3c4(5(  A p o e t e i t s o r o t t6e7E8f9F  " m a p o e u t h a e e0i b n l t a t s a r m o1a21  R t d  A t r o t i a3o4A  C a c d t t p o t t i a5m6B7i8C9n0t1D2n324S5r6c7A8B9b0e1i]
+[DELETED: CrDtEtAoO0T1p2t324A5o6B7c8a9C  S o o t s o r m t o c o t s t t a0e1D2E  U d w a o i e o o o a3i4v5F6G7f8293051A2n4T5t6t  T a i c p i t p o7s]
+[DELETED: 8o9a0F1(]
+
+
+================================================================================
+
+Raw Text:
+1 L.D. 913
+2 Date: (Filing No. S- )
+3 HOUSING AND ECONOMIC DEVELOPMENT
+4 Reproduced and distributed under the direction of the Secretary of the Senate.
+5 STATE OF MAINE
+6 SENATE
+7 132ND LEGISLATURE
+8 FIRST SPECIAL SESSION
+9 COMMITTEE AMENDMENT “ ” to S.P. 403, L.D. 913, “An Act to Prohibit
+10 Ticket Sellers from Prohibiting the Transfer of Tickets to Third Parties”
+11 Amend the bill by striking out the title and substituting the following:
+12 'An Act to Amend the Law Regulating the Resale of Tickets'
+13 Amend the bill by striking out everything after the enacting clause and inserting the
+14 following:
+15 'Sec. 1. 8 MRSA c. 37, as amended, is amended to read:
+16 CHAPTER 37
+17 SALE AND RESALE OF TICKETS
+18 §1301. Resale Sale and resale of tickets
+19 1. Definitions. As used in this section, unless the context otherwise indicates, the
+20 following terms have the following meanings.
+21 A. "Entertainment event" means an event for which a ticket has been purchased,
+22 including, but not limited to, a performance, concert, exhibit, game or contest.
+23 A-1. "Bot" means any program, device or software designed to circumvent security
+24 measures or access controls on a ticket sales platform to obtain tickets.
+25 B. "Place of entertainment" means a facility used to host an entertainment event
+26 including, but not limited to, a theater, stadium, arena, racetrack, museum or
+27 amusement park.
+28 B-1. "Mandatory fee" means a fee or charge required as part of the advertised price of
+29 a ticket, including, but not limited to, a service fee or convenience fee.
+Page 1 - 132LR1184(02)
+COMMITTEE AMENDMENT
+
+COMMITTEE AMENDMENT “ ” to S.P. 403, L.D. 913
+1 B-2. "Service fee" means an additional fee added to the total price of a ticket to pay
+2 for administrative costs, including, but not limited to, ticket software, credit card
+3 processing and venue fees.
+4 B-3. "Speculative ticket" means a ticket not in the actual or constructive possession of
+5 the ticket reseller at the time the ticket is listed for resale.
+6 C. "Ticket" means documentation of a right to attend an entertainment event.
+7 C-1. "Ticket issuer" means a person or entity that issues tickets for original sale,
+8 including, but not limited to, musicians or their agents, venues, promoters, theater
+9 companies and marketplaces for initial purchases. "Ticket issuer" does not include a
+10 nonprofit corporation as defined in Title 13-B, section 102, subsection 9.
+11 D. "Ticket reseller" means a business entity whose primary business is the sale or
+12 resale of tickets. "Ticket reseller" does not include any of the following: a nonprofit
+13 corporation as defined in Title 13-B, section 102, subsection 9.
+14 (1) A nonprofit corporation as defined in Title 13‑B, section 102, subsection 9; or
+15 (2) A place of entertainment that engages in the sale or resale of tickets to
+16 entertainment events at the place of entertainment.
+17 E. "Total price" means the maximum total of all fees or charges a consumer must pay
+18 for a ticket, except that shipping charges and government charges may be excluded.
+19 F. "Venue" means a place of entertainment used to host an entertainment event,
+20 including, but not limited to, a theater, stadium, arena, racetrack, museum or
+21 amusement park.
+22 1-A. Required ticket disclosures. A ticket reseller or ticket issuer advertising,
+23 offering for sale, selling or reselling a ticket shall:
+24 A. Clearly and conspicuously disclose the total price of the ticket, including all
+25 mandatory fees, whenever the price is advertised or displayed;
+26 B. Display the total price of the ticket more prominently than other pricing information
+27 in all advertisements, offers or displays;
+28 C. Provide a complete itemization of the total price of the ticket that includes the
+29 nature, purpose and amount of any mandatory fee in a font size smaller than that of the
+30 total price; and
+31 D. Clearly and conspicuously disclose to the consumer at the time of purchase the seat
+32 number or section at the venue associated with the ticket.
+33 2. Refunds required. A ticket reseller that engages in the resale of a ticket in the
+34 State to a place of entertainment venue shall, upon the request of the customer consumer,
+35 refund the amount paid by the customer consumer for the ticket in any of the following
+36 circumstances:
+37 A. The entertainment event is cancelled;
+38 B. The ticket is not accepted by the entity venue holding the entertainment event
+39 because it is counterfeit or does not conform with the requirements established by the
+40 entity venue holding the entertainment event or was never inventoried by the ticket
+41 issuer or recognized at the venue as valid;
+Page 2 - 132LR1184(02)
+COMMITTEE AMENDMENT
+
+COMMITTEE AMENDMENT “ ” to S.P. 403, L.D. 913
+1 C. The ticket is cancelled by the entity venue holding the entertainment event for any
+2 reason; or
+3 D. The person who purchased the ticket consumer does not receive the ticket in time
+4 to attend the entertainment event.; or
+5 E. The ticket reseller made a material misrepresentation relating to the sale of the
+6 ticket.
+7 A person operating a venue shall provide a person holding a counterfeit, duplicate or
+8 otherwise invalid ticket purchased from a ticket reseller the contact information for the
+9 Office of the Attorney General.
+10 This subsection does not prevent a ticket issuer from setting limits on maximum ticket
+11 purchases or enforcing terms and conditions. For the purposes of this subsection, a ticket
+12 to an entertainment event is deemed a license.
+13 2-A. Prohibited practices. A ticket reseller or ticket issuer may not:
+14 A. Misrepresent any fee or charge associated with a ticket in any advertisement, offer
+15 or display;
+16 B. Exclude a mandatory fee from the advertised price of a ticket without clearly and
+17 conspicuously disclosing the nature, purpose and amount of the mandatory fee prior to
+18 a consumer's consenting to pay for the ticket;
+19 C. Sell or offer to sell or resell more than one copy of the same ticket to an
+20 entertainment event;
+21 D. Sell speculative tickets;
+22 E. Use deceptive website addresses or imply endorsement or ownership of any
+23 intellectual property of the venue or artist without explicit written authorization of the
+24 venue or artist;
+25 F. Circumvent Internet sales limitations using bots or similar tools; or
+26 G. Charge more than 10% of the total price of the original ticket, including taxes and
+27 fees, for the service of providing a marketplace for the resale of a ticket.
+28 2-B. Enforcement. The Attorney General shall enforce this section.
+29 3. Penalty. Violation of this section is an unfair trade practice as prohibited by Title
+30 5, section 207.'
+31 Amend the bill by relettering or renumbering any nonconsecutive Part letter or section
+32 number to read consecutively.
+33 SUMMARY
+3344 This amendment replaces the bill and changes the title. It amends the laws governing
+3355 the resale of tickets to include practices that regulate price disclosures and the refund of
+3366 tickets. The amendment includes consumer protections, including the prohibition of
+3377 speculative ticket sales and the use of deceptive website addresses and bots to circumvent
+Page 3 - 132LR1184(02)
+COMMITTEE AMENDMENT
+
+COMMITTEE AMENDMENT “ ” to S.P. 403, L.D. 913
+318 online sales limitations. The amendment imposes a price cap on the resale of tickets. The
+329 amendment requires enforcement by the Attorney General.
+430 FISCAL NOTE REQUIRED
+441 (See attached)
+Page 4 - 132LR1184(02)
+COMMITTEE AMENDMENT
+
+[DELETED: LD:(RC A “ t S 4 L 9 “ A t P0T1A2'3A4f5' 6C7S8§910f1A2i3A4m5B6i b n l t a t s a r m o7a8B9a]
+[DELETED: Bf a c i b n l t t s c cpBtCCic0n1D2r3c4(5(  A p o e t e i t s o r o t t6e7E8f9F  " m a p o e u t h a e e0i b n l t a t s a r m o1a21  R t d  A t r o t i a3o4A  C a c d t t p o t t i a5m6B7i8C9n0t1D2n324S5r6c7A8B9b0e1i]
+[DELETED: CrDtEtAoO0T1p2t324A5o6B7c8a9C  S o o t s o r m t o c o t s t t a0e1D2E  U d w a o i e o o o a3i4v5F6G7f8293051A2n4T5t6t  T a i c p i t p o7s]
+[DELETED: 8o9a0F1(]

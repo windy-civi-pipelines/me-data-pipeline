@@ -1,0 +1,172 @@
+Title: 4 Reproduced and distributed under the direction of the Clerk of the House.
+Official Title: 4 Reproduced and distributed under the direction of the Clerk of the House.
+Number of Sections: 1
+Source: versions - Final Disposition
+Media Type: application/pdf
+Strikethrough Detection: 2 sections found
+
+================================================================================
+
+Section 1:
+1 L.D. 656
+2 Date: (Filing No. H- )
+3 VETERANS AND LEGAL AFFAIRS
+5 STATE OF MAINE
+6 HOUSE OF REPRESENTATIVES
+7 132ND LEGISLATURE
+8 FIRST SPECIAL SESSION
+9 COMMITTEE AMENDMENT “ ” to H.P. 424, L.D. 656, “An Act to Save Tax
+10 Dollars in Maine's Elections by Amending the Laws Governing When a Ranked-choice
+11 Voting Count Must Be Conducted”
+12 Amend the bill by striking out everything after the enacting clause and inserting the
+13 following:
+14 'Sec. 1. 21-A MRSA §723-A, sub-§1, ¶A, as repealed by PL 2023, c. 304, Pt. A,
+15 §14, is reenacted to read:
+16 A. "Batch elimination" means the simultaneous defeat of multiple candidates for
+17 whom it is mathematically impossible to be elected.
+18 Sec. 2. 21-A MRSA §723-A, sub-§1, ¶G-1 is enacted to read:
+19 G-1. "Mathematically impossible to be elected" means:
+20 (1) A candidate cannot be elected because the vote total for the candidate in a
+21 round of the ranked-choice voting count plus all votes that could possibly be
+22 transferred to the candidate in future rounds of the ranked-choice voting count is
+23 not enough to surpass the candidate with the next higher vote total in the round; or
+24 (2) The vote total for a candidate is lower than the vote total for a candidate
+25 described in subparagraph (1).
+26 Sec. 3. 21-A MRSA §723-A, sub-§2, as amended by PL 2023, c. 628, §2, is further
+27 amended to read:
+28 2. Procedures. Except as provided in subsections 3, 4 and 7, the following procedures
+29 are used to determine the winner of an election determined by ranked-choice voting. The
+30 ranked‑choice voting count must proceed in rounds. In each round, the number of votes
+31 for each continuing candidate must be counted. Each continuing ballot counts as one vote
+32 for its highest-ranked continuing candidate for that round. If a continuing ballot contains
+33 a skipped ranking in that round, the ballot is not counted in that round in the total number
+34 of votes cast used to determine the winner of the election. Exhausted ballots are not
+Page 1 - 132LR0316(02)
+COMMITTEE AMENDMENT
+COMMITTEE AMENDMENT “ ” to H.P. 424, L.D. 656
+315 counted for any continuing candidate. The round then ends with one of the following 2
+326 potential outcomes.
+3 A. If there are 2 or fewer continuing candidates, the candidate with the most votes is
+4 declared the winner of the election.
+5 B. If there are more than 2 continuing candidates, the last-place candidate is removed
+6 from consideration and a new round begins.
+7 Sec. 4. 21-A MRSA §723-A, sub-§4, ¶C is enacted to read:
+8 C. Two or more candidates may be defeated simultaneously by batch elimination in
+9 any round.
+10 Sec. 5. 21-A MRSA §723-A, sub-§5-B, as amended by PL 2023, c. 304, Pt. A,
+11 §18 and affected by §39, is further amended to read:
+12 5-B. Presidential primary elections; selection of delegates. Notwithstanding any
+13 provision of this section to the contrary, for presidential primary elections, batch
+14 elimination may not be used for any candidate with more than 100 votes, tabulation must
+15 continue until only 2 continuing candidates remain, separate tabulations must be conducted
+16 statewide and for each congressional district and selection and allocation of delegates to a
+17 party's national presidential nominating convention must be in accordance with any
+18 reasonable procedures established at the state party convention, except that unenrolled
+19 voters who participate in the party's primary election must be considered members of the
+20 party for purposes of allocating delegates.'
+21 Amend the bill by relettering or renumbering any nonconsecutive Part letter or section
+22 number to read consecutively.
+23 SUMMARY
+2244 This amendment replaces the bill. The amendment reestablishes batch elimination,
+2255 which is defined as the simultaneous defeat of multiple candidates who cannot be elected
+2266 because a candidate's vote total in a round of the ranked-choice voting count plus all votes
+2277 that could possibly be transferred to the candidate in future rounds from candidates with
+2288 fewer votes or an equal number of votes would not be enough to surpass the candidate with
+2299 the next higher vote total in the round and any candidates with a lower vote total than the
+3300 one described. The ranked-choice voting count is permitted to be modified to allow for
+3311 batch elimination of 2 or more candidates in any round of tabulation, except that in
+3322 presidential primary elections, batch elimination may not be used for any candidates with
+3333 more than 100 votes.
+34 The amendment also amends the procedures for the ranked-choice voting count to
+35 include that if a continuing ballot contains a skipped ranking in that round, the ballot is not
+36 counted in that round in the total number of votes cast used to determine the winner of the
+37 election.
+Page 2 - 132LR0316(02)
+COMMITTEE AMENDMENT
+[DELETED: LD:(RC0D1V2A3f4' 5§6A7w8 9G0(1r o t r v c p a v t c p b2t3n4(5d6 7a829a0r1f2f3a4o]
+[DELETED: 5c6pAdBf Ca0 1§253p o t s t t c f p p e b4e5c6s7p n p n c m b i a w a8r9v0p1A2n4T5w6b7t8f9t0o1b e o 2 o m c i a r o t e t i2p3m4T5i6c7e]
+
+
+================================================================================
+
+Raw Text:
+1 L.D. 656
+2 Date: (Filing No. H- )
+3 VETERANS AND LEGAL AFFAIRS
+4 Reproduced and distributed under the direction of the Clerk of the House.
+5 STATE OF MAINE
+6 HOUSE OF REPRESENTATIVES
+7 132ND LEGISLATURE
+8 FIRST SPECIAL SESSION
+9 COMMITTEE AMENDMENT “ ” to H.P. 424, L.D. 656, “An Act to Save Tax
+10 Dollars in Maine's Elections by Amending the Laws Governing When a Ranked-choice
+11 Voting Count Must Be Conducted”
+12 Amend the bill by striking out everything after the enacting clause and inserting the
+13 following:
+14 'Sec. 1. 21-A MRSA §723-A, sub-§1, ¶A, as repealed by PL 2023, c. 304, Pt. A,
+15 §14, is reenacted to read:
+16 A. "Batch elimination" means the simultaneous defeat of multiple candidates for
+17 whom it is mathematically impossible to be elected.
+18 Sec. 2. 21-A MRSA §723-A, sub-§1, ¶G-1 is enacted to read:
+19 G-1. "Mathematically impossible to be elected" means:
+20 (1) A candidate cannot be elected because the vote total for the candidate in a
+21 round of the ranked-choice voting count plus all votes that could possibly be
+22 transferred to the candidate in future rounds of the ranked-choice voting count is
+23 not enough to surpass the candidate with the next higher vote total in the round; or
+24 (2) The vote total for a candidate is lower than the vote total for a candidate
+25 described in subparagraph (1).
+26 Sec. 3. 21-A MRSA §723-A, sub-§2, as amended by PL 2023, c. 628, §2, is further
+27 amended to read:
+28 2. Procedures. Except as provided in subsections 3, 4 and 7, the following procedures
+29 are used to determine the winner of an election determined by ranked-choice voting. The
+30 ranked‑choice voting count must proceed in rounds. In each round, the number of votes
+31 for each continuing candidate must be counted. Each continuing ballot counts as one vote
+32 for its highest-ranked continuing candidate for that round. If a continuing ballot contains
+33 a skipped ranking in that round, the ballot is not counted in that round in the total number
+34 of votes cast used to determine the winner of the election. Exhausted ballots are not
+Page 1 - 132LR0316(02)
+COMMITTEE AMENDMENT
+
+COMMITTEE AMENDMENT “ ” to H.P. 424, L.D. 656
+315 counted for any continuing candidate. The round then ends with one of the following 2
+326 potential outcomes.
+3 A. If there are 2 or fewer continuing candidates, the candidate with the most votes is
+4 declared the winner of the election.
+5 B. If there are more than 2 continuing candidates, the last-place candidate is removed
+6 from consideration and a new round begins.
+7 Sec. 4. 21-A MRSA §723-A, sub-§4, ¶C is enacted to read:
+8 C. Two or more candidates may be defeated simultaneously by batch elimination in
+9 any round.
+10 Sec. 5. 21-A MRSA §723-A, sub-§5-B, as amended by PL 2023, c. 304, Pt. A,
+11 §18 and affected by §39, is further amended to read:
+12 5-B. Presidential primary elections; selection of delegates. Notwithstanding any
+13 provision of this section to the contrary, for presidential primary elections, batch
+14 elimination may not be used for any candidate with more than 100 votes, tabulation must
+15 continue until only 2 continuing candidates remain, separate tabulations must be conducted
+16 statewide and for each congressional district and selection and allocation of delegates to a
+17 party's national presidential nominating convention must be in accordance with any
+18 reasonable procedures established at the state party convention, except that unenrolled
+19 voters who participate in the party's primary election must be considered members of the
+20 party for purposes of allocating delegates.'
+21 Amend the bill by relettering or renumbering any nonconsecutive Part letter or section
+22 number to read consecutively.
+23 SUMMARY
+2244 This amendment replaces the bill. The amendment reestablishes batch elimination,
+2255 which is defined as the simultaneous defeat of multiple candidates who cannot be elected
+2266 because a candidate's vote total in a round of the ranked-choice voting count plus all votes
+2277 that could possibly be transferred to the candidate in future rounds from candidates with
+2288 fewer votes or an equal number of votes would not be enough to surpass the candidate with
+2299 the next higher vote total in the round and any candidates with a lower vote total than the
+3300 one described. The ranked-choice voting count is permitted to be modified to allow for
+3311 batch elimination of 2 or more candidates in any round of tabulation, except that in
+3322 presidential primary elections, batch elimination may not be used for any candidates with
+3333 more than 100 votes.
+34 The amendment also amends the procedures for the ranked-choice voting count to
+35 include that if a continuing ballot contains a skipped ranking in that round, the ballot is not
+36 counted in that round in the total number of votes cast used to determine the winner of the
+37 election.
+Page 2 - 132LR0316(02)
+COMMITTEE AMENDMENT
+
+[DELETED: LD:(RC0D1V2A3f4' 5§6A7w8 9G0(1r o t r v c p a v t c p b2t3n4(5d6 7a829a0r1f2f3a4o]
+[DELETED: 5c6pAdBf Ca0 1§253p o t s t t c f p p e b4e5c6s7p n p n c m b i a w a8r9v0p1A2n4T5w6b7t8f9t0o1b e o 2 o m c i a r o t e t i2p3m4T5i6c7e]
