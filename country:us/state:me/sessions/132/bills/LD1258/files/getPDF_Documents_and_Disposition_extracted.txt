@@ -1,0 +1,205 @@
+Title: An Act to Include Qualified Out-of-state Electric Vehicle Providers
+Official Title: An Act to Include Qualified Out-of-state Electric Vehicle Providers
+Number of Sections: 1
+Source: versions - Documents and Disposition
+Media Type: application/pdf
+Strikethrough Detection: 3 sections found
+
+================================================================================
+
+Section 1:
+132nd MAINE LEGISLATURE
+FIRST SPECIAL SESSION-2025
+Legislative Document No. 1258
+H.P. 833 House of Representatives, March 25, 2025
+and Clarify Provisions Regarding Electric Bicycles Under the
+Electric Vehicle Fund
+Reference to the Committee on Energy, Utilities and Technology suggested and ordered
+printed.
+ROBERT B. HUNT
+Clerk
+Presented by Representative WARREN of Scarborough.
+Printed on recycled paper
+1 Be it enacted by the People of the State of Maine as follows:
+2 Sec. 1. 35-A MRSA §10126, sub-§1, ¶A-2 is enacted to read:
+3 A-2. "Eligible electric vehicle provider" means:
+4 (1) An authorized licensee of the original equipment manufacturer in the State or
+5 an authorized licensee of the original equipment manufacturer located outside of
+6 the State that meets all of the requirements applicable to in-state authorized
+7 licensees of the original equipment manufacturer as determined by the trust;
+8 (2) A licensed automobile dealer in the State or a licensed automobile dealer
+9 located outside of the State that meets all of the requirements applicable to in-state
+10 licensed automobile dealerships as determined by the trust; and
+11 (3) The original equipment manufacturer, wherever located.
+12 Sec. 2. 35-A MRSA §10126, sub-§3, as corrected by RR 2023, c. 2, Pt. A, §56, is
+13 amended to read:
+14 3. Incentive Electric vehicle incentive program established; eligibility. In
+15 accordance with the provisions of this section, the trust shall establish and administer a
+16 program that provides incentives for the purchase or lease of electric vehicles. A person
+17 may apply for and, as resources within the fund allow, receive an incentive for an electric
+18 vehicle, subject to eligibility requirements established by the trust. Eligibility criteria for
+19 the vehicle must include that the vehicle is a battery electric vehicle or a plug-in hybrid
+20 electric vehicle; the vehicle is purchased, or leased for a term of 36 months or more, from
+21 an authorized licensee of the original equipment manufacturer or a licensed automobile
+22 dealer in the State or from its original equipment manufacturer, wherever located eligible
+23 electric vehicle provider; and, to the extent required by Title 29‑A, chapter 5, the vehicle is
+24 registered in the State. An automobile, as defined in Title 29‑A, section 101, subsection 7,
+25 with a gross vehicle weight rating of 6,000 pounds or less is not eligible for the program if
+26 it has a manufacturer's suggested retail price greater than $55,000. To the extent funds are
+27 available, the trust may extend program eligibility to medium duty vehicles and heavy duty
+28 vehicles that are battery electric vehicles or plug-in hybrid electric vehicles and to electric
+29 bicycles in accordance with subsection 3-A. Eligibility requirements for the recipient of
+30 the incentive must include that the recipient attests to a commitment to maintain a
+31 registration in this State to the extent required by Title 29‑A, chapter 5, whether through
+32 purchase or lease, of the eligible electric vehicle for at least 36 months from the date of
+33 purchase or lease. The trust may require a recipient of an incentive under this section who
+34 does not maintain a registration in this State of the eligible electric vehicle for at least 36
+35 months to repay the trust up to the full amount of the incentive. If the trust extends program
+36 eligibility to electric bicycles, the trust shall limit the electric bicycle incentives to
+37 recipients who are low-income and moderate-income individuals and to entities that serve
+38 those individuals, as determined by the trust. For a recipient to receive an incentive for the
+39 purchase of an electric bicycle under the program, the electric bicycle must serve as the
+40 recipient's principal means of commuting, as determined by the trust.
+41 The trust shall establish the incentive amount for each eligible electric vehicle. The trust
+42 shall establish incentive amounts that it determines most effectively increase the use of
+43 eligible electric vehicles in the State to advance the State's carbon reduction targets and
+44 reduce transportation-related energy costs. For each model of an eligible electric vehicle,
+Page 1 - 132LR1919(01)
+415 the trust may establish different incentive amounts based on the size of the vehicle battery.
+426 The trust may establish different incentive amounts for the purpose of providing reasonable
+437 opportunity for participation in the program across different customer groups and
+448 geographic areas. The trust may establish reasonable limits on the number of incentives
+459 per vehicle or per person.
+6 Sec. 3. 35-A MRSA §10126, sub-§3-A is enacted to read:
+7 3-A. Electric bicycle incentive; eligibility. If the trust extends the electric vehicle
+8 incentive program eligibility under subsection 3 to electric bicycles, the trust shall establish
+9 eligibility criteria that include the following.
+10 A. An electric bicycle incentive recipient must be a low-income or moderate-income
+11 individual or an entity that serves low-income or moderate-income individuals, as
+12 determined by the trust.
+13 B. The electric bicycle for which the recipient is receiving the incentive must serve as
+14 the recipient's principal means of commuting, as determined by the trust.
+15 C. The electric bicycle must be purchased, or leased for a term of 36 months or more,
+16 from:
+17 (1) An authorized licensee of the original equipment manufacturer in the State;
+18 (2) An authorized licensee of the original equipment manufacturer located outside
+19 of the State that meets all the requirements applicable to in-state authorized
+20 licensees of the original equipment manufacturer, as determined by the the trust;
+21 or
+22 (3) The original equipment manufacturer, wherever located.
+23 SUMMARY
+2244 This bill amends the law establishing the Electric Vehicle Fund incentive program to
+2255 include that an electric vehicle may also be purchased or leased from an out-of-state
+2266 authorized licensee of the original equipment manufacturer or an out-of-state licensed
+2277 automobile dealer if the seller or lessor meets all requirements applicable to in-state sellers
+2288 or lessors as determined by the trust. For a vehicle to be eligible for the incentive program
+2299 under current law, a purchase or lease from an authorized licensee of the original equipment
+3300 manufacturer or a licensed automobile dealer must be from licensees or dealers located in
+3311 the State. The bill also clarifies the eligibility requirements applicable to incentives for
+3322 electric bicycles under the incentive program.
+Page 2 - 132LR1919(01)
+[DELETED: tN3H]
+[DELETED: B A(at S t m a o t r a t i al(l0l1(2 3a43  I E v i p e e  I5a6p7m8v9t0e1a2d3e4r5w6i7a8v9b0t i m i t t r a t a c t m a1r2p3p4d5m6e t e b t t s l t e b i t7r8t9p0r1T2s3e4r]
+[DELETED: 5t6T7o f p i t p a d c g a8g9p 3ie0A1i2d3B4t5C6f7(8(9o t S t m a t r a t i a0l1o2(4T5i t a e v m a b p o l f a o6a7a8o9u0m1t2e]
+
+
+================================================================================
+
+Raw Text:
+132nd MAINE LEGISLATURE
+FIRST SPECIAL SESSION-2025
+Legislative Document No. 1258
+H.P. 833 House of Representatives, March 25, 2025
+An Act to Include Qualified Out-of-state Electric Vehicle Providers
+and Clarify Provisions Regarding Electric Bicycles Under the
+Electric Vehicle Fund
+Reference to the Committee on Energy, Utilities and Technology suggested and ordered
+printed.
+ROBERT B. HUNT
+Clerk
+Presented by Representative WARREN of Scarborough.
+Printed on recycled paper
+
+1 Be it enacted by the People of the State of Maine as follows:
+2 Sec. 1. 35-A MRSA §10126, sub-§1, ¶A-2 is enacted to read:
+3 A-2. "Eligible electric vehicle provider" means:
+4 (1) An authorized licensee of the original equipment manufacturer in the State or
+5 an authorized licensee of the original equipment manufacturer located outside of
+6 the State that meets all of the requirements applicable to in-state authorized
+7 licensees of the original equipment manufacturer as determined by the trust;
+8 (2) A licensed automobile dealer in the State or a licensed automobile dealer
+9 located outside of the State that meets all of the requirements applicable to in-state
+10 licensed automobile dealerships as determined by the trust; and
+11 (3) The original equipment manufacturer, wherever located.
+12 Sec. 2. 35-A MRSA §10126, sub-§3, as corrected by RR 2023, c. 2, Pt. A, §56, is
+13 amended to read:
+14 3. Incentive Electric vehicle incentive program established; eligibility. In
+15 accordance with the provisions of this section, the trust shall establish and administer a
+16 program that provides incentives for the purchase or lease of electric vehicles. A person
+17 may apply for and, as resources within the fund allow, receive an incentive for an electric
+18 vehicle, subject to eligibility requirements established by the trust. Eligibility criteria for
+19 the vehicle must include that the vehicle is a battery electric vehicle or a plug-in hybrid
+20 electric vehicle; the vehicle is purchased, or leased for a term of 36 months or more, from
+21 an authorized licensee of the original equipment manufacturer or a licensed automobile
+22 dealer in the State or from its original equipment manufacturer, wherever located eligible
+23 electric vehicle provider; and, to the extent required by Title 29‑A, chapter 5, the vehicle is
+24 registered in the State. An automobile, as defined in Title 29‑A, section 101, subsection 7,
+25 with a gross vehicle weight rating of 6,000 pounds or less is not eligible for the program if
+26 it has a manufacturer's suggested retail price greater than $55,000. To the extent funds are
+27 available, the trust may extend program eligibility to medium duty vehicles and heavy duty
+28 vehicles that are battery electric vehicles or plug-in hybrid electric vehicles and to electric
+29 bicycles in accordance with subsection 3-A. Eligibility requirements for the recipient of
+30 the incentive must include that the recipient attests to a commitment to maintain a
+31 registration in this State to the extent required by Title 29‑A, chapter 5, whether through
+32 purchase or lease, of the eligible electric vehicle for at least 36 months from the date of
+33 purchase or lease. The trust may require a recipient of an incentive under this section who
+34 does not maintain a registration in this State of the eligible electric vehicle for at least 36
+35 months to repay the trust up to the full amount of the incentive. If the trust extends program
+36 eligibility to electric bicycles, the trust shall limit the electric bicycle incentives to
+37 recipients who are low-income and moderate-income individuals and to entities that serve
+38 those individuals, as determined by the trust. For a recipient to receive an incentive for the
+39 purchase of an electric bicycle under the program, the electric bicycle must serve as the
+40 recipient's principal means of commuting, as determined by the trust.
+41 The trust shall establish the incentive amount for each eligible electric vehicle. The trust
+42 shall establish incentive amounts that it determines most effectively increase the use of
+43 eligible electric vehicles in the State to advance the State's carbon reduction targets and
+44 reduce transportation-related energy costs. For each model of an eligible electric vehicle,
+Page 1 - 132LR1919(01)
+
+415 the trust may establish different incentive amounts based on the size of the vehicle battery.
+426 The trust may establish different incentive amounts for the purpose of providing reasonable
+437 opportunity for participation in the program across different customer groups and
+448 geographic areas. The trust may establish reasonable limits on the number of incentives
+459 per vehicle or per person.
+6 Sec. 3. 35-A MRSA §10126, sub-§3-A is enacted to read:
+7 3-A. Electric bicycle incentive; eligibility. If the trust extends the electric vehicle
+8 incentive program eligibility under subsection 3 to electric bicycles, the trust shall establish
+9 eligibility criteria that include the following.
+10 A. An electric bicycle incentive recipient must be a low-income or moderate-income
+11 individual or an entity that serves low-income or moderate-income individuals, as
+12 determined by the trust.
+13 B. The electric bicycle for which the recipient is receiving the incentive must serve as
+14 the recipient's principal means of commuting, as determined by the trust.
+15 C. The electric bicycle must be purchased, or leased for a term of 36 months or more,
+16 from:
+17 (1) An authorized licensee of the original equipment manufacturer in the State;
+18 (2) An authorized licensee of the original equipment manufacturer located outside
+19 of the State that meets all the requirements applicable to in-state authorized
+20 licensees of the original equipment manufacturer, as determined by the the trust;
+21 or
+22 (3) The original equipment manufacturer, wherever located.
+23 SUMMARY
+2244 This bill amends the law establishing the Electric Vehicle Fund incentive program to
+2255 include that an electric vehicle may also be purchased or leased from an out-of-state
+2266 authorized licensee of the original equipment manufacturer or an out-of-state licensed
+2277 automobile dealer if the seller or lessor meets all requirements applicable to in-state sellers
+2288 or lessors as determined by the trust. For a vehicle to be eligible for the incentive program
+2299 under current law, a purchase or lease from an authorized licensee of the original equipment
+3300 manufacturer or a licensed automobile dealer must be from licensees or dealers located in
+3311 the State. The bill also clarifies the eligibility requirements applicable to incentives for
+3322 electric bicycles under the incentive program.
+Page 2 - 132LR1919(01)
+
+[DELETED: tN3H]
+[DELETED: B A(at S t m a o t r a t i al(l0l1(2 3a43  I E v i p e e  I5a6p7m8v9t0e1a2d3e4r5w6i7a8v9b0t i m i t t r a t a c t m a1r2p3p4d5m6e t e b t t s l t e b i t7r8t9p0r1T2s3e4r]
+[DELETED: 5t6T7o f p i t p a d c g a8g9p 3ie0A1i2d3B4t5C6f7(8(9o t S t m a t r a t i a0l1o2(4T5i t a e v m a b p o l f a o6a7a8o9u0m1t2e]

@@ -1,0 +1,415 @@
+Title: 4 Reproduced and distributed under the direction of the Clerk of the House.
+Official Title: 4 Reproduced and distributed under the direction of the Clerk of the House.
+Number of Sections: 1
+Source: versions - Adopted Amendments
+Media Type: application/pdf
+Strikethrough Detection: 5 sections found
+
+================================================================================
+
+Section 1:
+1 L.D. 1228
+2 Date: (Filing No. H- )
+3 HOUSING AND ECONOMIC DEVELOPMENT
+5 STATE OF MAINE
+6 HOUSE OF REPRESENTATIVES
+7 132ND LEGISLATURE
+8 FIRST SPECIAL SESSION
+9 COMMITTEE AMENDMENT “ ” to H.P. 803, L.D. 1228, “An Act to Clarify
+10 Certain Terms in the Automotive Right to Repair Laws”
+11 Amend the bill by striking out the title and substituting the following:
+12 'An Act to Clarify Certain Terms in and to Make Other Changes to the Automotive
+13 Right to Repair Laws'
+14 Amend the bill by inserting before section 1 the following:
+15 'Sec. 1. 5 MRSA §12004-G, sub-§5-B is enacted to read:
+16 5-B.
+17 Commerce Motor Vehicle Right to Repair Not Authorized 29-A MRSA
+18 and Trade Commission §1810, sub-§2-A
+1197 '
+20 Amend the bill in section 2 in subsection 1 in the 2nd and 3rd lines (page 2, lines 32
+21 and 33 in L.D.) by striking out the following: ", including commercial motor vehicles and
+22 heavy duty vehicles having a gross vehicle weight rating of more than 14,000 pounds," and
+23 inserting the following: ', including commercial motor vehicles and heavy duty vehicles
+24 having a gross vehicle weight rating of more than 14,000 pounds,'
+25 Amend the bill in section 2 in subsection 1 in the last 2 lines (page 2, lines 36 and 37
+26 in L.D.) by striking out the following: "and is administered by the independent entity
+27 described in subsection 2" and inserting the following: 'and is administered by the
+28 independent entity described in subsection 2'
+29 Amend the bill in section 3 in subsection 1-A in paragraph C in the first line (page 3,
+30 line 10 in L.D.) by inserting after the following: "self-propelled vehicle" the following:
+31 'designed primarily for on-road use'
+32 Amend the bill by inserting after section 3 the following:
+33 'Sec. 4. 29-A MRSA §1810, sub-§2, as enacted by IB 2023, c. 3, §3, is repealed.
+Page 1 - 132LR1712(02)
+COMMITTEE AMENDMENT
+COMMITTEE AMENDMENT “ ” to H.P. 803, L.D. 1228
+1 Sec. 5. 29-A MRSA §1810, sub-§2-A is enacted to read:
+2 2-A. Motor Vehicle Right to Repair Commission. This subsection governs the
+3 composition, activities and duties of the Motor Vehicle Right to Repair Commission, as
+4 established in Title 5, section 12004-G, subsection 5-B and referred to in this section as
+5 "the commission."
+6 A. The commission consists of the following 12 members, appointed by the Governor:
+7 (1) Three members representing motor vehicle manufacturers, at least one of whom
+8 must represent an organization of motor vehicle manufacturers and at least one of
+9 whom must represent a manufacturer of heavy duty vehicles;
+10 (2) One member representing aftermarket parts manufacturers;
+11 (3) One member representing diagnostic tool manufacturers;
+12 (4) One member representing aftermarket parts distributors and retailers;
+13 (5) Three members representing independent repair facilities in the State, at least
+14 one of whom must be an owner or operator of an independent repair facility
+15 specializing in automobile repair and at least one of whom must be an owner or
+16 operator of an independent repair facility specializing in heavy duty vehicle repair;
+17 (6) One member representing new motor vehicle dealers in the State;
+18 (7) One member with expertise in automotive cybersecurity matters; and
+19 (8) One member representing the public, who must be a resident of the State and
+20 who serves as the chair of the commission.
+21 In making appointments under this paragraph, the Governor may take into
+22 consideration any nominations for appointments that are timely made by industry
+23 stakeholders or trade associations.
+24 B. Members of the commission are appointed to 3-year terms. The commission shall
+25 meet at least quarterly but may meet more frequently at the chair's discretion. The
+26 Attorney General may provide administrative support to the commission, within the
+27 limits of existing resources.
+28 C. The commission:
+29 (1) Shall monitor and assess implementation of and motor vehicle manufacturers'
+30 compliance with the requirements of this section;
+31 (2) Shall attempt to informally resolve any complaints from owners and
+32 independent repair facilities alleging manufacturer noncompliance with the
+33 requirements of this section, and, if a complaint cannot be resolved informally,
+34 consider whether to refer the matter to the Attorney General for potential
+35 enforcement action;
+36 (3) Shall designate one or more technical experts with whom the Attorney General
+37 may consult in assessing enforcement referrals and maintaining enforcement
+38 actions; and
+39 (4) May issue recommendations for best practices for manufacturer use in
+40 providing access to motor vehicle data and may solicit input from stakeholders and
+Page 2 - 132LR1712(02)
+COMMITTEE AMENDMENT
+COMMITTEE AMENDMENT “ ” to H.P. 803, L.D. 1228
+411 other interested parties regarding privacy issues associated with the disclosure of
+422 motor vehicle data.
+3 D. By January 15, 2026, and annually thereafter, the commission shall submit to the
+4 Governor, the Attorney General and the joint standing committee of the Legislature
+5 having jurisdiction over business matters a report outlining the commission's activities
+6 during the preceding year, describing any implementation or compliance issues relating
+7 to this section that the commission identified and recommending any changes to this
+8 section to address implementation, compliance or other identified issues. After
+9 reviewing the report, the joint standing committee may report out legislation relating
+10 to the report.'
+11 Amend the bill in section 4 in subsection 3 in the first line (page 3, line 23 in L.D.) by
+12 striking out the following: "motor vehicles" and inserting the following: 'and later motor
+13 vehicles; diagnostic repair tools, parts, software and components'
+14 Amend the bill in section 4 in subsection 3 in the first line (page 3, line 23 in L.D.) by
+15 inserting after the following: "2002" the following: 'and later'
+16 Amend the bill in section 4 in subsection 3 in the 3rd line (page 3, line 25 in L.D.) by
+17 striking out the following: "each manufacturer of motor vehicles sold in this State" and
+18 inserting the following: 'each manufacturer of motor vehicles sold in this State a
+19 manufacturer'
+20 Amend the bill in section 4 in subsection 3 in paragraph A in the 5th line (page 3, line
+21 34 in L.D.) by striking out the following: "Once a manufacturer" and inserting the
+22 following: 'Once a A manufacturer that'
+23 Amend the bill in section 4 in subsection 3 in paragraph A in the 6th line (page 3, line
+24 35 in L.D.) by striking out the following: ", the manufacturer is considered to have" and
+25 inserting the following: ', the manufacturer is considered to have has'
+26 Amend the bill in section 4 in subsection 3 in the first blocked paragraph in the 2nd
+27 line (page 4, line 5 in L.D.) by striking out the following: "included and" and inserting the
+28 following: 'included and'
+29 Amend the bill by striking out all of section 5 and inserting the following:
+30 'Sec. 5. 29-A MRSA §1810, sub-§4, as enacted by IB 2023, c. 3, §3, is amended
+31 to read:
+32 4. Model year 2002-2017 motor vehicles; access to on-board diagnostic and repair
+33 information system. For model year 2002-2017 motor vehicles, including commercial
+34 motor vehicles and heavy duty vehicles having a gross vehicle weight rating of more than
+35 14,000 pounds, a manufacturer shall provide access to a vehicle's on-board diagnostic and
+36 repair information system must be the same for to an owner or an owner-authorized
+37 independent repair facility to the same extent as that access is provided to a new vehicle
+38 dealer.'
+39 Amend the bill in section 6 in subsection 5 in the first line (page 4, line 16 in L.D.) by
+40 inserting after the following: "vehicles" the following: '; access to on-board diagnostic
+41 and repair information system'
+42 Amend the bill in section 6 in subsection 5 in the 2nd and 3rd lines (page 4, lines 17
+43 and 18 in L.D.) by striking out the following: "including commercial motor vehicles and
+Page 3 - 132LR1712(02)
+COMMITTEE AMENDMENT
+COMMITTEE AMENDMENT “ ” to H.P. 803, L.D. 1228
+414 heavy duty vehicles having a gross vehicle weight rating of more than 14,000 pounds," and
+425 inserting the following: 'including commercial motor vehicles and heavy duty vehicles
+436 having a gross vehicle weight rating of more than 14,000 pounds, a manufacturer shall
+447 provide'
+5 Amend the bill in section 6 in subsection 5 in the 4th line (page 4, line 19 in L.D.) by
+6 striking out the following: "must be available" and inserting the following: 'must be
+7 available'
+8 Amend the bill in section 6 in subsection 5 in the 6th line (page 4, line 21 in L.D.) by
+9 striking out the following: "vehicle" and inserting the following: 'vehicle'
+10 Amend the bill in section 6 in subsection 5 in paragraph B in the last line (page 4, line
+11 30 in L.D.) by striking out the following: "and" and inserting the following: 'and or'
+12 Amend the bill in section 6 in subsection 5 in the first blocked paragraph in the 5th line
+13 (page 4, line 38 in L.D.) by striking out the following: "included and" and inserting the
+14 following: 'included and'
+15 Amend the bill by striking out all of section 7 and inserting the following:
+16 'Sec. 7. 29-A MRSA §1810, sub-§6, as enacted by IB 2023, c. 3, §3, is repealed.
+17 Sec. 8. 29-A MRSA §1810, sub-§6-A is enacted to read:
+18 6-A. Telematics system; diagnostic and repair function. Not later than 24 months
+19 after the effective date of this subsection, a manufacturer that enables its dealers or
+20 designated motor vehicle repair facilities in the State to perform a diagnostic and repair
+21 function on the manufacturer's motor vehicles sold in the State that use a telematics system
+22 shall make available, on fair and reasonable terms, to an owner of the manufacturer's motor
+23 vehicle that uses a telematics system or to an owner-authorized independent repair facility
+24 of the owner's choosing the means to perform the diagnostic and repair function on the
+25 motor vehicle in a manner commensurate to that offered by the manufacturer to its dealers
+26 and designated motor vehicle repair facilities in the State, which must include the capability
+27 to remotely perform the diagnostic and repair function if the manufacturer enables its
+28 dealers and designated motor vehicle repair facilities in the State to remotely perform that
+29 function.
+30 Sec. 9. 29-A MRSA §1810, sub-§8, as enacted by IB 2023, c. 3, §3, is repealed
+31 and the following enacted in its place:
+32 8. Enforcement; civil action. If the commission has reason to believe that a
+33 manufacturer has violated any provision of this section, the commission shall notify the
+34 Attorney General of that potential violation. In response to such a referral from the
+35 commission, or in any other instance in which the Attorney General has reason to believe
+36 that a manufacturer has violated any provision of this section, the Attorney General may
+37 institute an action in the Superior Court of any county of the State to enforce the
+38 requirements of this section. The Attorney General may seek injunctive relief and a civil
+39 penalty of not more than $10,000 for each violation of this section.
+40 An owner or owner-authorized independent repair facility that has been denied access by a
+41 manufacturer to mechanical data in violation of this section may initiate a civil action
+42 seeking any remedies under law. Each denial of access to an owner or owner-authorized
+Page 4 - 132LR1712(02)
+COMMITTEE AMENDMENT
+COMMITTEE AMENDMENT “ ” to H.P. 803, L.D. 1228
+413 independent repair facility is compensable by an award of treble damages or $10,000,
+424 whichever amount is greater.'
+3 Amend the bill by inserting after section 9 the following:
+4 'Sec. 10. Staggered terms. Notwithstanding the Maine Revised Statutes, Title
+5 29-A, section 1810, subsection 2-A, paragraph B, of the members initially appointed to the
+6 Motor Vehicle Right to Repair Commission, 4 members must be appointed to an initial
+7 term of one year, 4 members must be appointed to an initial term of 2 years and 4 members
+8 must be appointed to an initial term of 3 years. '
+9 Amend the bill by relettering or renumbering any nonconsecutive Part letter or section
+10 number to read consecutively.
+11 SUMMARY
+1122 This amendment, which is the majority report of the committee, changes the title of the
+1133 bill. It amends the automotive right to repair law by repealing the provisions of that law
+1144 that established an independent entity and instead establishes the Motor Vehicle Right to
+1155 Repair Commission, which is charged with, among other things, monitoring and assessing
+1166 implementation of and manufacturers' compliance with the requirements of that law. The
+1177 amendment also makes other clarifying changes to the automotive right to repair law,
+1188 including changes regarding the required equipment under that law, access to diagnostic
+1199 and repair functions and enforcement of the law.
+2200 FISCAL NOTE REQUIRED
+2211 (See attached)
+Page 5 - 132LR1712(02)
+COMMITTEE AMENDMENT
+[DELETED: LD:(RC0C1A2'3R4A5' 65 M Nd2eCn§70A1a2h3i4h5A6i7d i s 2 a i t f ' i a b t8i9A0l1'2A3' ]
+[DELETED:  2ce"A(mw0(1(2(3(4o o w m b a o o o o a i r f5s6o7(8(9(0w1I m a u t p t G m t i2c a n f a t a t m b i3s4B5m6A7l8C9(0c1( S a t i r a c f o a2i r f a m n w t3r4c w t r t m t t A G f p5e6(7m c i a e r a m e8a9( M i r f b p f m u i0p]
+[DELETED: 1o2mDGhdts t a i c o o i i  Ar0t1A2s3v4A5i6A7s8i t f ' m o m v s i t S a9m0A13 i L b s o t f " a m a i t2f3A435i6A7l8f9A0' 1t243i4m516r i s m b t s f t a o o a o7i8d9A0i1a2A3a]
+[DELETED: 4h5i6h7pAs o t f " b a a i t f ' baAs0A132A3(4f5A6' 7 869a t e d o t s a m t e i d o0d1f2s3v4o5m6a7t8d9f0 1a28  E c a  I t c h r t b t a3m4A G o t p v  I r t s a r f t5c6t7i a a i t S C o a c o t S t e t8r9p0A1m2s]
+[DELETED: 3i4wA' 2MtmA0n2T3b4t5R6i7a8i9a0F1(]
+
+
+================================================================================
+
+Raw Text:
+1 L.D. 1228
+2 Date: (Filing No. H- )
+3 HOUSING AND ECONOMIC DEVELOPMENT
+4 Reproduced and distributed under the direction of the Clerk of the House.
+5 STATE OF MAINE
+6 HOUSE OF REPRESENTATIVES
+7 132ND LEGISLATURE
+8 FIRST SPECIAL SESSION
+9 COMMITTEE AMENDMENT “ ” to H.P. 803, L.D. 1228, “An Act to Clarify
+10 Certain Terms in the Automotive Right to Repair Laws”
+11 Amend the bill by striking out the title and substituting the following:
+12 'An Act to Clarify Certain Terms in and to Make Other Changes to the Automotive
+13 Right to Repair Laws'
+14 Amend the bill by inserting before section 1 the following:
+15 'Sec. 1. 5 MRSA §12004-G, sub-§5-B is enacted to read:
+16 5-B.
+17 Commerce Motor Vehicle Right to Repair Not Authorized 29-A MRSA
+18 and Trade Commission §1810, sub-§2-A
+1197 '
+20 Amend the bill in section 2 in subsection 1 in the 2nd and 3rd lines (page 2, lines 32
+21 and 33 in L.D.) by striking out the following: ", including commercial motor vehicles and
+22 heavy duty vehicles having a gross vehicle weight rating of more than 14,000 pounds," and
+23 inserting the following: ', including commercial motor vehicles and heavy duty vehicles
+24 having a gross vehicle weight rating of more than 14,000 pounds,'
+25 Amend the bill in section 2 in subsection 1 in the last 2 lines (page 2, lines 36 and 37
+26 in L.D.) by striking out the following: "and is administered by the independent entity
+27 described in subsection 2" and inserting the following: 'and is administered by the
+28 independent entity described in subsection 2'
+29 Amend the bill in section 3 in subsection 1-A in paragraph C in the first line (page 3,
+30 line 10 in L.D.) by inserting after the following: "self-propelled vehicle" the following:
+31 'designed primarily for on-road use'
+32 Amend the bill by inserting after section 3 the following:
+33 'Sec. 4. 29-A MRSA §1810, sub-§2, as enacted by IB 2023, c. 3, §3, is repealed.
+Page 1 - 132LR1712(02)
+COMMITTEE AMENDMENT
+
+COMMITTEE AMENDMENT “ ” to H.P. 803, L.D. 1228
+1 Sec. 5. 29-A MRSA §1810, sub-§2-A is enacted to read:
+2 2-A. Motor Vehicle Right to Repair Commission. This subsection governs the
+3 composition, activities and duties of the Motor Vehicle Right to Repair Commission, as
+4 established in Title 5, section 12004-G, subsection 5-B and referred to in this section as
+5 "the commission."
+6 A. The commission consists of the following 12 members, appointed by the Governor:
+7 (1) Three members representing motor vehicle manufacturers, at least one of whom
+8 must represent an organization of motor vehicle manufacturers and at least one of
+9 whom must represent a manufacturer of heavy duty vehicles;
+10 (2) One member representing aftermarket parts manufacturers;
+11 (3) One member representing diagnostic tool manufacturers;
+12 (4) One member representing aftermarket parts distributors and retailers;
+13 (5) Three members representing independent repair facilities in the State, at least
+14 one of whom must be an owner or operator of an independent repair facility
+15 specializing in automobile repair and at least one of whom must be an owner or
+16 operator of an independent repair facility specializing in heavy duty vehicle repair;
+17 (6) One member representing new motor vehicle dealers in the State;
+18 (7) One member with expertise in automotive cybersecurity matters; and
+19 (8) One member representing the public, who must be a resident of the State and
+20 who serves as the chair of the commission.
+21 In making appointments under this paragraph, the Governor may take into
+22 consideration any nominations for appointments that are timely made by industry
+23 stakeholders or trade associations.
+24 B. Members of the commission are appointed to 3-year terms. The commission shall
+25 meet at least quarterly but may meet more frequently at the chair's discretion. The
+26 Attorney General may provide administrative support to the commission, within the
+27 limits of existing resources.
+28 C. The commission:
+29 (1) Shall monitor and assess implementation of and motor vehicle manufacturers'
+30 compliance with the requirements of this section;
+31 (2) Shall attempt to informally resolve any complaints from owners and
+32 independent repair facilities alleging manufacturer noncompliance with the
+33 requirements of this section, and, if a complaint cannot be resolved informally,
+34 consider whether to refer the matter to the Attorney General for potential
+35 enforcement action;
+36 (3) Shall designate one or more technical experts with whom the Attorney General
+37 may consult in assessing enforcement referrals and maintaining enforcement
+38 actions; and
+39 (4) May issue recommendations for best practices for manufacturer use in
+40 providing access to motor vehicle data and may solicit input from stakeholders and
+Page 2 - 132LR1712(02)
+COMMITTEE AMENDMENT
+
+COMMITTEE AMENDMENT “ ” to H.P. 803, L.D. 1228
+411 other interested parties regarding privacy issues associated with the disclosure of
+422 motor vehicle data.
+3 D. By January 15, 2026, and annually thereafter, the commission shall submit to the
+4 Governor, the Attorney General and the joint standing committee of the Legislature
+5 having jurisdiction over business matters a report outlining the commission's activities
+6 during the preceding year, describing any implementation or compliance issues relating
+7 to this section that the commission identified and recommending any changes to this
+8 section to address implementation, compliance or other identified issues. After
+9 reviewing the report, the joint standing committee may report out legislation relating
+10 to the report.'
+11 Amend the bill in section 4 in subsection 3 in the first line (page 3, line 23 in L.D.) by
+12 striking out the following: "motor vehicles" and inserting the following: 'and later motor
+13 vehicles; diagnostic repair tools, parts, software and components'
+14 Amend the bill in section 4 in subsection 3 in the first line (page 3, line 23 in L.D.) by
+15 inserting after the following: "2002" the following: 'and later'
+16 Amend the bill in section 4 in subsection 3 in the 3rd line (page 3, line 25 in L.D.) by
+17 striking out the following: "each manufacturer of motor vehicles sold in this State" and
+18 inserting the following: 'each manufacturer of motor vehicles sold in this State a
+19 manufacturer'
+20 Amend the bill in section 4 in subsection 3 in paragraph A in the 5th line (page 3, line
+21 34 in L.D.) by striking out the following: "Once a manufacturer" and inserting the
+22 following: 'Once a A manufacturer that'
+23 Amend the bill in section 4 in subsection 3 in paragraph A in the 6th line (page 3, line
+24 35 in L.D.) by striking out the following: ", the manufacturer is considered to have" and
+25 inserting the following: ', the manufacturer is considered to have has'
+26 Amend the bill in section 4 in subsection 3 in the first blocked paragraph in the 2nd
+27 line (page 4, line 5 in L.D.) by striking out the following: "included and" and inserting the
+28 following: 'included and'
+29 Amend the bill by striking out all of section 5 and inserting the following:
+30 'Sec. 5. 29-A MRSA §1810, sub-§4, as enacted by IB 2023, c. 3, §3, is amended
+31 to read:
+32 4. Model year 2002-2017 motor vehicles; access to on-board diagnostic and repair
+33 information system. For model year 2002-2017 motor vehicles, including commercial
+34 motor vehicles and heavy duty vehicles having a gross vehicle weight rating of more than
+35 14,000 pounds, a manufacturer shall provide access to a vehicle's on-board diagnostic and
+36 repair information system must be the same for to an owner or an owner-authorized
+37 independent repair facility to the same extent as that access is provided to a new vehicle
+38 dealer.'
+39 Amend the bill in section 6 in subsection 5 in the first line (page 4, line 16 in L.D.) by
+40 inserting after the following: "vehicles" the following: '; access to on-board diagnostic
+41 and repair information system'
+42 Amend the bill in section 6 in subsection 5 in the 2nd and 3rd lines (page 4, lines 17
+43 and 18 in L.D.) by striking out the following: "including commercial motor vehicles and
+Page 3 - 132LR1712(02)
+COMMITTEE AMENDMENT
+
+COMMITTEE AMENDMENT “ ” to H.P. 803, L.D. 1228
+414 heavy duty vehicles having a gross vehicle weight rating of more than 14,000 pounds," and
+425 inserting the following: 'including commercial motor vehicles and heavy duty vehicles
+436 having a gross vehicle weight rating of more than 14,000 pounds, a manufacturer shall
+447 provide'
+5 Amend the bill in section 6 in subsection 5 in the 4th line (page 4, line 19 in L.D.) by
+6 striking out the following: "must be available" and inserting the following: 'must be
+7 available'
+8 Amend the bill in section 6 in subsection 5 in the 6th line (page 4, line 21 in L.D.) by
+9 striking out the following: "vehicle" and inserting the following: 'vehicle'
+10 Amend the bill in section 6 in subsection 5 in paragraph B in the last line (page 4, line
+11 30 in L.D.) by striking out the following: "and" and inserting the following: 'and or'
+12 Amend the bill in section 6 in subsection 5 in the first blocked paragraph in the 5th line
+13 (page 4, line 38 in L.D.) by striking out the following: "included and" and inserting the
+14 following: 'included and'
+15 Amend the bill by striking out all of section 7 and inserting the following:
+16 'Sec. 7. 29-A MRSA §1810, sub-§6, as enacted by IB 2023, c. 3, §3, is repealed.
+17 Sec. 8. 29-A MRSA §1810, sub-§6-A is enacted to read:
+18 6-A. Telematics system; diagnostic and repair function. Not later than 24 months
+19 after the effective date of this subsection, a manufacturer that enables its dealers or
+20 designated motor vehicle repair facilities in the State to perform a diagnostic and repair
+21 function on the manufacturer's motor vehicles sold in the State that use a telematics system
+22 shall make available, on fair and reasonable terms, to an owner of the manufacturer's motor
+23 vehicle that uses a telematics system or to an owner-authorized independent repair facility
+24 of the owner's choosing the means to perform the diagnostic and repair function on the
+25 motor vehicle in a manner commensurate to that offered by the manufacturer to its dealers
+26 and designated motor vehicle repair facilities in the State, which must include the capability
+27 to remotely perform the diagnostic and repair function if the manufacturer enables its
+28 dealers and designated motor vehicle repair facilities in the State to remotely perform that
+29 function.
+30 Sec. 9. 29-A MRSA §1810, sub-§8, as enacted by IB 2023, c. 3, §3, is repealed
+31 and the following enacted in its place:
+32 8. Enforcement; civil action. If the commission has reason to believe that a
+33 manufacturer has violated any provision of this section, the commission shall notify the
+34 Attorney General of that potential violation. In response to such a referral from the
+35 commission, or in any other instance in which the Attorney General has reason to believe
+36 that a manufacturer has violated any provision of this section, the Attorney General may
+37 institute an action in the Superior Court of any county of the State to enforce the
+38 requirements of this section. The Attorney General may seek injunctive relief and a civil
+39 penalty of not more than $10,000 for each violation of this section.
+40 An owner or owner-authorized independent repair facility that has been denied access by a
+41 manufacturer to mechanical data in violation of this section may initiate a civil action
+42 seeking any remedies under law. Each denial of access to an owner or owner-authorized
+Page 4 - 132LR1712(02)
+COMMITTEE AMENDMENT
+
+COMMITTEE AMENDMENT “ ” to H.P. 803, L.D. 1228
+413 independent repair facility is compensable by an award of treble damages or $10,000,
+424 whichever amount is greater.'
+3 Amend the bill by inserting after section 9 the following:
+4 'Sec. 10. Staggered terms. Notwithstanding the Maine Revised Statutes, Title
+5 29-A, section 1810, subsection 2-A, paragraph B, of the members initially appointed to the
+6 Motor Vehicle Right to Repair Commission, 4 members must be appointed to an initial
+7 term of one year, 4 members must be appointed to an initial term of 2 years and 4 members
+8 must be appointed to an initial term of 3 years. '
+9 Amend the bill by relettering or renumbering any nonconsecutive Part letter or section
+10 number to read consecutively.
+11 SUMMARY
+1122 This amendment, which is the majority report of the committee, changes the title of the
+1133 bill. It amends the automotive right to repair law by repealing the provisions of that law
+1144 that established an independent entity and instead establishes the Motor Vehicle Right to
+1155 Repair Commission, which is charged with, among other things, monitoring and assessing
+1166 implementation of and manufacturers' compliance with the requirements of that law. The
+1177 amendment also makes other clarifying changes to the automotive right to repair law,
+1188 including changes regarding the required equipment under that law, access to diagnostic
+1199 and repair functions and enforcement of the law.
+2200 FISCAL NOTE REQUIRED
+2211 (See attached)
+Page 5 - 132LR1712(02)
+COMMITTEE AMENDMENT
+
+[DELETED: LD:(RC0C1A2'3R4A5' 65 M Nd2eCn§70A1a2h3i4h5A6i7d i s 2 a i t f ' i a b t8i9A0l1'2A3' ]
+[DELETED:  2ce"A(mw0(1(2(3(4o o w m b a o o o o a i r f5s6o7(8(9(0w1I m a u t p t G m t i2c a n f a t a t m b i3s4B5m6A7l8C9(0c1( S a t i r a c f o a2i r f a m n w t3r4c w t r t m t t A G f p5e6(7m c i a e r a m e8a9( M i r f b p f m u i0p]
+[DELETED: 1o2mDGhdts t a i c o o i i  Ar0t1A2s3v4A5i6A7s8i t f ' m o m v s i t S a9m0A13 i L b s o t f " a m a i t2f3A435i6A7l8f9A0' 1t243i4m516r i s m b t s f t a o o a o7i8d9A0i1a2A3a]
+[DELETED: 4h5i6h7pAs o t f " b a a i t f ' baAs0A132A3(4f5A6' 7 869a t e d o t s a m t e i d o0d1f2s3v4o5m6a7t8d9f0 1a28  E c a  I t c h r t b t a3m4A G o t p v  I r t s a r f t5c6t7i a a i t S C o a c o t S t e t8r9p0A1m2s]
+[DELETED: 3i4wA' 2MtmA0n2T3b4t5R6i7a8i9a0F1(]

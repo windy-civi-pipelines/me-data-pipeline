@@ -1,0 +1,478 @@
+Title: An Act to Update Waste Discharge License Fees
+Official Title: An Act to Update Waste Discharge License Fees
+Number of Sections: 1
+Source: versions - Documents and Disposition
+Media Type: application/pdf
+Strikethrough Detection: 6 sections found
+
+================================================================================
+
+Section 1:
+132nd MAINE LEGISLATURE
+FIRST REGULAR SESSION-2025
+Legislative Document No. 465
+S.P. 200 In Senate, February 11, 2025
+Submitted by the Department of Environmental Protection pursuant to Joint Rule 204.
+Received by the Secretary of the Senate on February 5, 2025. Referred to the Committee
+on Environment and Natural Resources pursuant to Joint Rule 308.2 and ordered printed.
+DAREK M. GRANT
+Secretary of the Senate
+Presented by Senator GROHOSKI of Hancock.
+Printed on recycled paper
+1 Be it enacted by the People of the State of Maine as follows:
+2 Sec. 1. 38 MRSA §353-B, sub-§2, ¶A, as amended by PL 2019, c. 631, §1, is
+3 further amended to read:
+4 A. The fees for waste discharge license groups are the 2019 bill amounts increased by
+5 a factor of 1.4, unless otherwise indicated, as follows.
+6 Discharge group Basis for Median fee for Water quality
+7 annual fee discharge group improvement
+8 surcharge
+9
+10 Publicly owned annual fee 2019 bill $543
+11 treatment amount
+12 facilities, 10,000
+13 gallons per day
+14 or less
+15
+16 Publicly owned annual fee 2019 bill $689
+17 treatment amount
+18 facilities, more
+19 than 10,000
+20 gallons per day
+21 to 0.1 million
+22 gallons per day
+23
+24 Publicly owned annual fee 2019 bill $1,063
+25 treatment amount
+26 facilities, more
+27 than 0.1 million
+28 gallons per day
+29 to 1.0 million
+30 gallons per day
+31
+32 Publicly owned annual fee 2019 bill $2,241
+33 treatment amount
+34 facilities, more
+35 than 1.0 million
+36 gallons per day
+37 to 5.0 million
+38 gallons per day
+39
+Page 1 - 132LR0165(01)
+1 Publicly owned annual fee 2019 bill $7,850
+2 treatment amount
+3 facilities, greater
+4 than 5 million
+5 gallons per day
+6 or with
+7 significant
+8 industrial waste
+9
+10 Major industrial annual fee 2019 bill $33,919
+11 facility, process amount
+12 wastewater
+13 (based on EPA
+14 list of major
+15 source
+16 discharges)
+17
+18 Other industrial annual fee 2019 bill $2,093
+19 facility, process amount
+20 wastewater
+21
+22 Food handling or annual fee 2019 bill $1,135
+23 packaging amount
+24 wastewater
+25
+26 Fish-rearing annual fee 2019 bill $538
+27 Terrestrial fish- amount
+28 rearing facility
+29 0.1 million
+30 gallons per day
+31 or less
+32
+33 Fish-rearing annual fee 2019 bill $1,368
+34 Terrestrial fish- amount
+35 rearing facility
+36 over 0.1 million
+37 gallons per day
+38
+39 Marine annual fee 2019 bill $529
+40 aquaculture amount
+41 facility
+42
+43 Marine finfish annual fee $1,682 $1,682
+44 aquaculture
+45 facility
+46
+47 Noncontact annual fee 2019 bill $330
+48 cooling water amount
+Page 2 - 132LR0165(01)
+1
+2 Industrial or annual fee 2019 bill $626
+3 commercial amount
+4 sources,
+5 miscellaneous or
+6 incidental
+7 nonprocess
+8 wastewater
+9
+10 Municipal annual fee 2019 bill $711
+11 combined sewer amount
+12 overflow
+13
+14 Sanitary annual fee 2019 bill $1,268
+15 wastewater, amount
+16 excluding
+17 overboard
+18 discharge
+19
+20 Sanitary annual fee 2011 bill $446 $75
+21 overboard amount
+22 discharge,
+23 commercial
+24 sources
+25
+26 Sanitary annual fee 2011 bill $231 $75
+27 overboard amount
+28 discharge,
+29 residential
+30 sources 600
+31 gallons per day
+32 or less
+33
+34 Sanitary annual fee 2011 bill $313 $75
+35 overboard amount
+36 discharge,
+37 residential
+38 sources more
+39 than 600 gallons
+40 per day
+41
+42 Sanitary annual fee 2011 bill $315 $75
+43 overboard amount
+44 discharge, public
+45 sources
+46
+Page 3 - 132LR0165(01)
+1 Aquatic annual fee 2019 bill $1,110
+2 pesticide amount
+3 application
+4
+5 Snow dumps annual fee 2019 bill $550
+6 amount
+7
+8 Salt and sand annual fee 2019 bill $738
+9 storage pile amount
+10
+11 Log storage annual fee 2019 bill $727
+12 permit amount
+13
+14 General permit annual fee 2019 bill $588
+15 coverage for amount
+16 industrial storm
+17 water discharges
+18 (except
+19 construction)
+20
+21 General permit annual fee 2019 bill $230 $1,682
+22 coverage for amount
+23 marine $1,682
+24 aquaculture
+25 facility
+26
+27 General permit annual fee $1,306 $1,306
+28 coverage for
+29 municipal
+30 separate storm
+31 sewer system
+32
+33 General permit annual fee 2019 bill $283
+34 coverage (other) amount
+35
+36 Experimental license fee 2019 bill $1,550
+37 discharge license amount
+38
+39 New or amended flat fee $9,254 ---
+40 mixing zone, in
+41 addition to other
+42 applicable fees
+43
+44 Formation of flat fee $693 ---
+45 sanitary district
+46
+Page 4 - 132LR0165(01)
+1 Transfer of flat fee $140 ---
+2 license for
+3 residential or
+4 commercial
+5 sanitary
+6 wastewater
+71 On an annual basis, municipalities and publicly owned treatment works whose
+82 combined sewer overflows have the potential to affect shellfish harvesting areas as
+93 determined by the department by virtue of their locations within estuarine or marine
+104 waters of the State must be assessed a surcharge on their wastewater discharge licenses
+115 in a total amount of $12,000. This amount must be allocated among the municipalities
+126 and publicly owned treatment works according to their prior 3-year average annual
+137 flows as reported to the department.
+14 On an annual basis, publicly owned treatment works whose outfalls licensed for the
+15 discharge of treated effluent cause adjacent shellfish growing areas to be closed for the
+16 purposes of harvesting shellfish must be assessed a license surcharge in a total amount
+17 of $25,000. This amount must be allocated among the publicly owned treatment works
+18 according to the acreage that each licensed outfall closes. This acreage must be
+19 determined by the Department of Marine Resources in consultation with the
+20 department.
+21 SUMMARY
+2222 This bill adds marine finfish aquaculture facilities and general permit coverage for
+2233 municipal separate storm sewer systems as waste discharge license groups and establishes
+2244 the basis for the annual fees for those license groups. It changes the basis for the annual
+2255 fee for the general permit coverage for the marine aquaculture facilities waste discharge
+2266 license group and increases the median fee for that license group. It also clarifies that the
+2277 fish-rearing facility waste discharge license group covers terrestrial fish-rearing facilities.
+Page 5 - 132LR0165(01)
+[DELETED: tN0I]
+[DELETED: B fAap  B M Wedpi      ae2  3 a      ae2  9 a      ae2  3 a      ae2  1 a    ]
+[DELETED:   ae2  0 a      ae2  9 a      ae2  3 a     ae2  5 a      ae2  8-a      ae2  8-a      ae2  9 a      ae$2$2      ae2  0ra]
+[DELETED:       ae2  6 a      ae2  1 a      ae2  8 a      ae2  6  a      ae2  1  a      ae2  3  a      ae2  5  a    ]
+[DELETED:   ae2  0 a    s ae2  0      ae2  8ea      ae2  7ta      ae2  8 a      ae2  2 a $      ae$6$6      ae2  3)a      le2  0ea     fe$4 -      fe 3 -    ]
+[DELETED:   fe 0 -O a a b m a p o t w wcdwiaf4O5d6p7o8a t t a t e l o c T a m b9d b t D o M R i c w t0d2T3m4t5f6l7f]
+
+
+================================================================================
+
+Raw Text:
+132nd MAINE LEGISLATURE
+FIRST REGULAR SESSION-2025
+Legislative Document No. 465
+S.P. 200 In Senate, February 11, 2025
+An Act to Update Waste Discharge License Fees
+Submitted by the Department of Environmental Protection pursuant to Joint Rule 204.
+Received by the Secretary of the Senate on February 5, 2025. Referred to the Committee
+on Environment and Natural Resources pursuant to Joint Rule 308.2 and ordered printed.
+DAREK M. GRANT
+Secretary of the Senate
+Presented by Senator GROHOSKI of Hancock.
+Printed on recycled paper
+
+1 Be it enacted by the People of the State of Maine as follows:
+2 Sec. 1. 38 MRSA §353-B, sub-§2, ¶A, as amended by PL 2019, c. 631, §1, is
+3 further amended to read:
+4 A. The fees for waste discharge license groups are the 2019 bill amounts increased by
+5 a factor of 1.4, unless otherwise indicated, as follows.
+6 Discharge group Basis for Median fee for Water quality
+7 annual fee discharge group improvement
+8 surcharge
+9
+10 Publicly owned annual fee 2019 bill $543
+11 treatment amount
+12 facilities, 10,000
+13 gallons per day
+14 or less
+15
+16 Publicly owned annual fee 2019 bill $689
+17 treatment amount
+18 facilities, more
+19 than 10,000
+20 gallons per day
+21 to 0.1 million
+22 gallons per day
+23
+24 Publicly owned annual fee 2019 bill $1,063
+25 treatment amount
+26 facilities, more
+27 than 0.1 million
+28 gallons per day
+29 to 1.0 million
+30 gallons per day
+31
+32 Publicly owned annual fee 2019 bill $2,241
+33 treatment amount
+34 facilities, more
+35 than 1.0 million
+36 gallons per day
+37 to 5.0 million
+38 gallons per day
+39
+Page 1 - 132LR0165(01)
+
+1 Publicly owned annual fee 2019 bill $7,850
+2 treatment amount
+3 facilities, greater
+4 than 5 million
+5 gallons per day
+6 or with
+7 significant
+8 industrial waste
+9
+10 Major industrial annual fee 2019 bill $33,919
+11 facility, process amount
+12 wastewater
+13 (based on EPA
+14 list of major
+15 source
+16 discharges)
+17
+18 Other industrial annual fee 2019 bill $2,093
+19 facility, process amount
+20 wastewater
+21
+22 Food handling or annual fee 2019 bill $1,135
+23 packaging amount
+24 wastewater
+25
+26 Fish-rearing annual fee 2019 bill $538
+27 Terrestrial fish- amount
+28 rearing facility
+29 0.1 million
+30 gallons per day
+31 or less
+32
+33 Fish-rearing annual fee 2019 bill $1,368
+34 Terrestrial fish- amount
+35 rearing facility
+36 over 0.1 million
+37 gallons per day
+38
+39 Marine annual fee 2019 bill $529
+40 aquaculture amount
+41 facility
+42
+43 Marine finfish annual fee $1,682 $1,682
+44 aquaculture
+45 facility
+46
+47 Noncontact annual fee 2019 bill $330
+48 cooling water amount
+Page 2 - 132LR0165(01)
+
+1
+2 Industrial or annual fee 2019 bill $626
+3 commercial amount
+4 sources,
+5 miscellaneous or
+6 incidental
+7 nonprocess
+8 wastewater
+9
+10 Municipal annual fee 2019 bill $711
+11 combined sewer amount
+12 overflow
+13
+14 Sanitary annual fee 2019 bill $1,268
+15 wastewater, amount
+16 excluding
+17 overboard
+18 discharge
+19
+20 Sanitary annual fee 2011 bill $446 $75
+21 overboard amount
+22 discharge,
+23 commercial
+24 sources
+25
+26 Sanitary annual fee 2011 bill $231 $75
+27 overboard amount
+28 discharge,
+29 residential
+30 sources 600
+31 gallons per day
+32 or less
+33
+34 Sanitary annual fee 2011 bill $313 $75
+35 overboard amount
+36 discharge,
+37 residential
+38 sources more
+39 than 600 gallons
+40 per day
+41
+42 Sanitary annual fee 2011 bill $315 $75
+43 overboard amount
+44 discharge, public
+45 sources
+46
+Page 3 - 132LR0165(01)
+
+1 Aquatic annual fee 2019 bill $1,110
+2 pesticide amount
+3 application
+4
+5 Snow dumps annual fee 2019 bill $550
+6 amount
+7
+8 Salt and sand annual fee 2019 bill $738
+9 storage pile amount
+10
+11 Log storage annual fee 2019 bill $727
+12 permit amount
+13
+14 General permit annual fee 2019 bill $588
+15 coverage for amount
+16 industrial storm
+17 water discharges
+18 (except
+19 construction)
+20
+21 General permit annual fee 2019 bill $230 $1,682
+22 coverage for amount
+23 marine $1,682
+24 aquaculture
+25 facility
+26
+27 General permit annual fee $1,306 $1,306
+28 coverage for
+29 municipal
+30 separate storm
+31 sewer system
+32
+33 General permit annual fee 2019 bill $283
+34 coverage (other) amount
+35
+36 Experimental license fee 2019 bill $1,550
+37 discharge license amount
+38
+39 New or amended flat fee $9,254 ---
+40 mixing zone, in
+41 addition to other
+42 applicable fees
+43
+44 Formation of flat fee $693 ---
+45 sanitary district
+46
+Page 4 - 132LR0165(01)
+
+1 Transfer of flat fee $140 ---
+2 license for
+3 residential or
+4 commercial
+5 sanitary
+6 wastewater
+71 On an annual basis, municipalities and publicly owned treatment works whose
+82 combined sewer overflows have the potential to affect shellfish harvesting areas as
+93 determined by the department by virtue of their locations within estuarine or marine
+104 waters of the State must be assessed a surcharge on their wastewater discharge licenses
+115 in a total amount of $12,000. This amount must be allocated among the municipalities
+126 and publicly owned treatment works according to their prior 3-year average annual
+137 flows as reported to the department.
+14 On an annual basis, publicly owned treatment works whose outfalls licensed for the
+15 discharge of treated effluent cause adjacent shellfish growing areas to be closed for the
+16 purposes of harvesting shellfish must be assessed a license surcharge in a total amount
+17 of $25,000. This amount must be allocated among the publicly owned treatment works
+18 according to the acreage that each licensed outfall closes. This acreage must be
+19 determined by the Department of Marine Resources in consultation with the
+20 department.
+21 SUMMARY
+2222 This bill adds marine finfish aquaculture facilities and general permit coverage for
+2233 municipal separate storm sewer systems as waste discharge license groups and establishes
+2244 the basis for the annual fees for those license groups. It changes the basis for the annual
+2255 fee for the general permit coverage for the marine aquaculture facilities waste discharge
+2266 license group and increases the median fee for that license group. It also clarifies that the
+2277 fish-rearing facility waste discharge license group covers terrestrial fish-rearing facilities.
+Page 5 - 132LR0165(01)
+
+[DELETED: tN0I]
+[DELETED: B fAap  B M Wedpi      ae2  3 a      ae2  9 a      ae2  3 a      ae2  1 a    ]
+[DELETED:   ae2  0 a      ae2  9 a      ae2  3 a     ae2  5 a      ae2  8-a      ae2  8-a      ae2  9 a      ae$2$2      ae2  0ra]
+[DELETED:       ae2  6 a      ae2  1 a      ae2  8 a      ae2  6  a      ae2  1  a      ae2  3  a      ae2  5  a    ]
+[DELETED:   ae2  0 a    s ae2  0      ae2  8ea      ae2  7ta      ae2  8 a      ae2  2 a $      ae$6$6      ae2  3)a      le2  0ea     fe$4 -      fe 3 -    ]
+[DELETED:   fe 0 -O a a b m a p o t w wcdwiaf4O5d6p7o8a t t a t e l o c T a m b9d b t D o M R i c w t0d2T3m4t5f6l7f]

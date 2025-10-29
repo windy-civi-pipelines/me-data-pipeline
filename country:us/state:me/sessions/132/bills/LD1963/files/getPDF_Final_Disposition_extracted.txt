@@ -1,0 +1,342 @@
+Title: 4 Reproduced and distributed under the direction of the Secretary of the Senate.
+Official Title: 4 Reproduced and distributed under the direction of the Secretary of the Senate.
+Number of Sections: 1
+Source: versions - Final Disposition
+Media Type: application/pdf
+Strikethrough Detection: 4 sections found
+
+================================================================================
+
+Section 1:
+1 L.D. 1963
+2 Date: (Filing No. S- )
+3 ENERGY, UTILITIES AND TECHNOLOGY
+5 STATE OF MAINE
+6 SENATE
+7 132ND LEGISLATURE
+8 FIRST SPECIAL SESSION
+9 COMMITTEE AMENDMENT “ ” to S.P. 770, L.D. 1963, “An Act to Protect and
+10 Compensate Public Utility Whistleblowers”
+11 Amend the bill by striking out all of the emergency preamble.
+12 Amend the bill by striking out everything after the enacting clause and inserting the
+13 following:
+14 'Sec. 1. 35-A MRSA §1316, sub-§3, as repealed and replaced by PL 2023, c. 405,
+15 Pt. A, §124, is repealed and the following enacted in its place:
+16 3. Discharge of, threats to or discrimination against employees for testimony
+17 presented to legislative committees, commission or Public Advocate. A supervisor may
+18 not discharge, threaten or otherwise discriminate against an employee regarding the
+19 employee's compensation, terms, conditions, location or privileges of employment because
+20 the employee, in compliance with this section, in good faith testifies before or provides
+21 information to a legislative committee, the commission or the Public Advocate regarding
+22 the operation of the business of a public utility or competitive electricity provider or
+23 because the employee brings the subject matter of the testimony or information to the
+24 attention of a person having supervisory authority.
+25 A. Except as provided in paragraph B, this subsection does not apply to an employee
+26 who has testified before or provided information to a legislative committee, the
+27 commission or the Public Advocate unless the employee has first brought the subject
+28 matter of the testimony or information in writing to the attention of a person having
+29 supervisory authority with the employer and has allowed the employer a reasonable
+30 time to address the subject matter of the testimony or information. If appropriate, the
+31 employer shall respond in writing.
+32 B. An employee providing testimony or information to the commission as an
+33 informational report pursuant to section 1316-B is not required to first bring the subject
+34 matter of the testimony or information to the attention of a supervisory authority with
+35 the employer.
+Page 1 - 132LR2099(02)
+COMMITTEE AMENDMENT
+COMMITTEE AMENDMENT “ ” to S.P. 770, L.D. 1963
+1 Sec. 2. 35-A MRSA §1316-B is enacted to read:
+2 §1316-B. Whistleblower award
+3 1. Definitions. As used in this section, unless the context otherwise indicates, the
+4 following terms have the following meanings.
+5 A. "Covered sanction" means, with respect to a public utility:
+6 (1) An administrative penalty of $100,000 or more imposed by the commission on
+7 the public utility pursuant to section 1508-A, or pursuant to any other provision of
+8 this Title, that, as determined by the commission, is substantially related to an
+9 informational report; or
+10 (2) A negative revenue adjustment for that public utility of at least $250,000 over
+11 a period of not more than 5 years that, as determined by the commission, is
+12 substantially related to an informational report received by the commission in the
+13 5 years prior to the imposition of the negative revenue adjustment.
+14 B. "Covered sanction proceeding" means any proceeding conducted by the commission
+15 involving a public utility that results in a covered sanction against that utility.
+16 C. "Informational report" means information, including testimony or information
+17 provided to the commission in accordance with section 1316, provided by a
+18 whistleblower to the commission regarding the conduct of a public utility in the State
+19 in accordance with the process established by the commission under subsection 2.
+20 D. "Whistleblower" means an individual who provides an informational report to the
+21 commission.
+22 2. Commission process. The commission shall establish by rule a process to receive
+23 informational reports in accordance with the following requirements.
+24 A. The process must allow a whistleblower to provide an informational report to the
+25 commission's consumer assistance and safety division by e-mail or telephone.
+26 B. Except as provided in paragraph C, the commission shall provide for the confidential
+27 treatment of the identity of a whistleblower and the contents of an informational report
+28 pursuant to section 1316-A if the whistleblower requests such confidential treatment.
+29 C. The process must allow for the commission's consumer assistance and safety
+30 division to provide to the Public Advocate a summary of an informational report,
+31 including the name and contact information of the whistleblower that provided the
+32 report. The commission shall issue a protective order for the summary of the
+33 informational report provided to the Public Advocate under this paragraph.
+34 3. Summary investigations. The commission may conduct a summary investigation
+35 based on an informational report received in accordance with this section.
+36 4. Notice requirements. The commission shall provide on the commission's publicly
+37 accessible website:
+38 A. A description of the process established under subsection 2 and a statement that this
+39 process is established to assist the commission in ensuring cost-effective performance
+40 and compliance of public utilities in the State; and
+Page 2 - 132LR2099(02)
+COMMITTEE AMENDMENT
+COMMITTEE AMENDMENT “ ” to S.P. 770, L.D. 1963
+1 B. Within 15 days of imposing a covered sanction on a public utility, a notice of the
+2 amount of the covered sanction and a summary of the basis for the imposition of the
+3 covered sanction.
+4 5. Whistleblower award; process; eligibility. Within 180 days of the provision of a
+5 notice of imposition of a covered sanction under subsection 4, paragraph B, a whistleblower
+6 may apply to the commission for an award of a portion of the covered sanction. In
+7 accordance with this subsection, the commission shall establish a process by rule by which
+8 a whistleblower may apply to and receive from the commission an award of a portion of a
+9 covered sanction.
+10 A. Except as provided in paragraph B, if the commission determines that a
+11 whistleblower's informational report was material to the commission's investigation
+12 that led to the imposition of a covered sanction, the commission shall award the
+13 whistleblower an amount between 10% and 30% of the covered sanction. The
+14 commission, by rule, shall establish criteria to determine the circumstances in which
+15 an informational report is considered material to the commission's investigation. The
+16 circumstances may include, but are not limited to, that the information provided in the
+17 informational report by the whistleblower is:
+18 (1) Derived from independent knowledge or analysis of the whistleblower;
+19 (2) Not known to the commission from any other source; and
+20 (3) Not exclusively derived from an allegation made in a judicial or administrative
+21 hearing, in a governmental report, hearing, audit or investigation or from the news
+22 media, unless the whistleblower is a source of the information.
+23 B. The commission may not make an award to a whistleblower pursuant to this
+24 subsection if:
+25 (1) The whistleblower is or, at the time the whistleblower acquired the information
+26 or provided the informational report, was a member, officer or employee of the
+27 commission, the Office of the Public Advocate or a law enforcement agency;
+28 (2) The commission determines that the whistleblower has been convicted of a
+29 criminal violation related to the public utility's violation of this Title for which the
+30 whistleblower otherwise could receive an award under this section; or
+31 (3) The whistleblower fails to submit information to the commission in such form
+32 as the commission may, by rule, require.
+33 6. Whistleblower award; amount. In determining the amount of the covered sanction
+34 under subsection 5, paragraph A to award to a whistleblower that meets the requirements
+35 of subsection 5, the commission shall consider:
+36 A. The significance of the informational report to the success of the covered sanction
+37 proceeding;
+38 B. The degree of assistance provided by the whistleblower and any legal representative
+39 of the whistleblower in the covered sanction proceeding;
+40 C. The programmatic interest of the commission in deterring violations of this Title by
+41 making awards to whistleblowers who provide information that leads to the successful
+42 enforcement of such laws; and
+Page 3 - 132LR2099(02)
+COMMITTEE AMENDMENT
+COMMITTEE AMENDMENT “ ” to S.P. 770, L.D. 1963
+1 D. Additional relevant factors as determined by the commission.
+2 The commission may not base the determination of an award amount under this subsection
+3 on the availability of funds in the sources of funding described in subsection 7.
+4 7. Sources of award funding. The commission may, by order, direct a public utility
+5 to pay an award determined under subsection 6 to a whistleblower directly or to the
+6 commission on behalf of the whistleblower, in which case the commission shall timely
+7 provide such payment to the whistleblower. Notwithstanding section 116, subsection 4,
+8 the commission may pay the award using funds in the Public Utilities Commission
+9 Reimbursement Fund under section 117.
+10 8. Rules. The commission shall adopt rules to implement this section. Rules adopted
+11 pursuant to this subsection are routine technical rules as defined in Title 5, chapter 375,
+12 subchapter 2-A.'
+13 Amend the bill by relettering or renumbering any nonconsecutive Part letter or section
+14 number to read consecutively.
+15 SUMMARY
+1166 This amendment replaces the bill and removes the emergency preamble and emergency
+1177 clause. It requires the Public Utilities Commission to establish a process by rule by which
+1188 a whistleblower may provide information to the commission regarding the conduct of a
+1199 public utility in the State. If the commission determines that the whistleblower's
+2200 information was material to a commission investigation leading to the imposition of certain
+2211 covered sanctions, the commission may award the whistleblower a percentage of the
+2222 covered sanction amount. The amendment establishes criteria for the determination of the
+2233 amount of the award that a whistleblower may receive and limitations on the types of
+2244 individuals who may receive an award. It also allows an employee making an
+2255 informational report to be protected from discharge, threats or discrimination against the
+2266 employee regarding the employee's compensation, terms, conditions, location or privileges
+2277 of employment without first bringing the subject matter of the informational report in
+2288 writing to the attention of a person having supervisory authority with the employer.
+2299 FISCAL NOTE REQUIRED
+3300 (See attached)
+Page 4 - 132LR2099(02)
+COMMITTEE AMENDMENT
+[DELETED: LD:(RC0C1A2A3f4' 5P637p8n d t o o d a a e r t9e0t1i2t o o t b o a p u o c e p o3b4a5A6w h t b o p i t a l c t7c8m9s0t1e2B  A e p t o i t t c a a3i4m5t]
+[DELETED:  §1fA(tti0(1a p o n m t 5 y t a d b t c i2s354B5i6C " r m i i t o i7p t t c i a w s 1 p b a8w9i0D1c223i4A5c6B7t8p9C T p m a f t c c a a s0d1i2r  T c s i a p o f t s o t3i435b647a8A9p0a]
+[DELETED: Bac5nm a t t c f a a o a p o t c s  Iaac0A E a p i p B i t c d t a1w2t l t t i o a c s t c s a t3w a a b 1 a 3 o t c s  T4c5a6c7i8(9(0(1h2m3B T c m n m a a t a w p t t4s5(6o7c8(9c0w1(2a364u5o6A7p8B9o0C1m2e]
+[DELETED: DTo7t p a a d u s 6 t a w d o t tcpt c m p t a u f i t P U CR081p2s3A4n6T7c8a9p u i t S  I t c d t t w0i1c s t c m a t w a p o t2c3a4i w m r a a  I a a a e m a5i6e7o8w9F0(]
+
+
+================================================================================
+
+Raw Text:
+1 L.D. 1963
+2 Date: (Filing No. S- )
+3 ENERGY, UTILITIES AND TECHNOLOGY
+4 Reproduced and distributed under the direction of the Secretary of the Senate.
+5 STATE OF MAINE
+6 SENATE
+7 132ND LEGISLATURE
+8 FIRST SPECIAL SESSION
+9 COMMITTEE AMENDMENT “ ” to S.P. 770, L.D. 1963, “An Act to Protect and
+10 Compensate Public Utility Whistleblowers”
+11 Amend the bill by striking out all of the emergency preamble.
+12 Amend the bill by striking out everything after the enacting clause and inserting the
+13 following:
+14 'Sec. 1. 35-A MRSA §1316, sub-§3, as repealed and replaced by PL 2023, c. 405,
+15 Pt. A, §124, is repealed and the following enacted in its place:
+16 3. Discharge of, threats to or discrimination against employees for testimony
+17 presented to legislative committees, commission or Public Advocate. A supervisor may
+18 not discharge, threaten or otherwise discriminate against an employee regarding the
+19 employee's compensation, terms, conditions, location or privileges of employment because
+20 the employee, in compliance with this section, in good faith testifies before or provides
+21 information to a legislative committee, the commission or the Public Advocate regarding
+22 the operation of the business of a public utility or competitive electricity provider or
+23 because the employee brings the subject matter of the testimony or information to the
+24 attention of a person having supervisory authority.
+25 A. Except as provided in paragraph B, this subsection does not apply to an employee
+26 who has testified before or provided information to a legislative committee, the
+27 commission or the Public Advocate unless the employee has first brought the subject
+28 matter of the testimony or information in writing to the attention of a person having
+29 supervisory authority with the employer and has allowed the employer a reasonable
+30 time to address the subject matter of the testimony or information. If appropriate, the
+31 employer shall respond in writing.
+32 B. An employee providing testimony or information to the commission as an
+33 informational report pursuant to section 1316-B is not required to first bring the subject
+34 matter of the testimony or information to the attention of a supervisory authority with
+35 the employer.
+Page 1 - 132LR2099(02)
+COMMITTEE AMENDMENT
+
+COMMITTEE AMENDMENT “ ” to S.P. 770, L.D. 1963
+1 Sec. 2. 35-A MRSA §1316-B is enacted to read:
+2 §1316-B. Whistleblower award
+3 1. Definitions. As used in this section, unless the context otherwise indicates, the
+4 following terms have the following meanings.
+5 A. "Covered sanction" means, with respect to a public utility:
+6 (1) An administrative penalty of $100,000 or more imposed by the commission on
+7 the public utility pursuant to section 1508-A, or pursuant to any other provision of
+8 this Title, that, as determined by the commission, is substantially related to an
+9 informational report; or
+10 (2) A negative revenue adjustment for that public utility of at least $250,000 over
+11 a period of not more than 5 years that, as determined by the commission, is
+12 substantially related to an informational report received by the commission in the
+13 5 years prior to the imposition of the negative revenue adjustment.
+14 B. "Covered sanction proceeding" means any proceeding conducted by the commission
+15 involving a public utility that results in a covered sanction against that utility.
+16 C. "Informational report" means information, including testimony or information
+17 provided to the commission in accordance with section 1316, provided by a
+18 whistleblower to the commission regarding the conduct of a public utility in the State
+19 in accordance with the process established by the commission under subsection 2.
+20 D. "Whistleblower" means an individual who provides an informational report to the
+21 commission.
+22 2. Commission process. The commission shall establish by rule a process to receive
+23 informational reports in accordance with the following requirements.
+24 A. The process must allow a whistleblower to provide an informational report to the
+25 commission's consumer assistance and safety division by e-mail or telephone.
+26 B. Except as provided in paragraph C, the commission shall provide for the confidential
+27 treatment of the identity of a whistleblower and the contents of an informational report
+28 pursuant to section 1316-A if the whistleblower requests such confidential treatment.
+29 C. The process must allow for the commission's consumer assistance and safety
+30 division to provide to the Public Advocate a summary of an informational report,
+31 including the name and contact information of the whistleblower that provided the
+32 report. The commission shall issue a protective order for the summary of the
+33 informational report provided to the Public Advocate under this paragraph.
+34 3. Summary investigations. The commission may conduct a summary investigation
+35 based on an informational report received in accordance with this section.
+36 4. Notice requirements. The commission shall provide on the commission's publicly
+37 accessible website:
+38 A. A description of the process established under subsection 2 and a statement that this
+39 process is established to assist the commission in ensuring cost-effective performance
+40 and compliance of public utilities in the State; and
+Page 2 - 132LR2099(02)
+COMMITTEE AMENDMENT
+
+COMMITTEE AMENDMENT “ ” to S.P. 770, L.D. 1963
+1 B. Within 15 days of imposing a covered sanction on a public utility, a notice of the
+2 amount of the covered sanction and a summary of the basis for the imposition of the
+3 covered sanction.
+4 5. Whistleblower award; process; eligibility. Within 180 days of the provision of a
+5 notice of imposition of a covered sanction under subsection 4, paragraph B, a whistleblower
+6 may apply to the commission for an award of a portion of the covered sanction. In
+7 accordance with this subsection, the commission shall establish a process by rule by which
+8 a whistleblower may apply to and receive from the commission an award of a portion of a
+9 covered sanction.
+10 A. Except as provided in paragraph B, if the commission determines that a
+11 whistleblower's informational report was material to the commission's investigation
+12 that led to the imposition of a covered sanction, the commission shall award the
+13 whistleblower an amount between 10% and 30% of the covered sanction. The
+14 commission, by rule, shall establish criteria to determine the circumstances in which
+15 an informational report is considered material to the commission's investigation. The
+16 circumstances may include, but are not limited to, that the information provided in the
+17 informational report by the whistleblower is:
+18 (1) Derived from independent knowledge or analysis of the whistleblower;
+19 (2) Not known to the commission from any other source; and
+20 (3) Not exclusively derived from an allegation made in a judicial or administrative
+21 hearing, in a governmental report, hearing, audit or investigation or from the news
+22 media, unless the whistleblower is a source of the information.
+23 B. The commission may not make an award to a whistleblower pursuant to this
+24 subsection if:
+25 (1) The whistleblower is or, at the time the whistleblower acquired the information
+26 or provided the informational report, was a member, officer or employee of the
+27 commission, the Office of the Public Advocate or a law enforcement agency;
+28 (2) The commission determines that the whistleblower has been convicted of a
+29 criminal violation related to the public utility's violation of this Title for which the
+30 whistleblower otherwise could receive an award under this section; or
+31 (3) The whistleblower fails to submit information to the commission in such form
+32 as the commission may, by rule, require.
+33 6. Whistleblower award; amount. In determining the amount of the covered sanction
+34 under subsection 5, paragraph A to award to a whistleblower that meets the requirements
+35 of subsection 5, the commission shall consider:
+36 A. The significance of the informational report to the success of the covered sanction
+37 proceeding;
+38 B. The degree of assistance provided by the whistleblower and any legal representative
+39 of the whistleblower in the covered sanction proceeding;
+40 C. The programmatic interest of the commission in deterring violations of this Title by
+41 making awards to whistleblowers who provide information that leads to the successful
+42 enforcement of such laws; and
+Page 3 - 132LR2099(02)
+COMMITTEE AMENDMENT
+
+COMMITTEE AMENDMENT “ ” to S.P. 770, L.D. 1963
+1 D. Additional relevant factors as determined by the commission.
+2 The commission may not base the determination of an award amount under this subsection
+3 on the availability of funds in the sources of funding described in subsection 7.
+4 7. Sources of award funding. The commission may, by order, direct a public utility
+5 to pay an award determined under subsection 6 to a whistleblower directly or to the
+6 commission on behalf of the whistleblower, in which case the commission shall timely
+7 provide such payment to the whistleblower. Notwithstanding section 116, subsection 4,
+8 the commission may pay the award using funds in the Public Utilities Commission
+9 Reimbursement Fund under section 117.
+10 8. Rules. The commission shall adopt rules to implement this section. Rules adopted
+11 pursuant to this subsection are routine technical rules as defined in Title 5, chapter 375,
+12 subchapter 2-A.'
+13 Amend the bill by relettering or renumbering any nonconsecutive Part letter or section
+14 number to read consecutively.
+15 SUMMARY
+1166 This amendment replaces the bill and removes the emergency preamble and emergency
+1177 clause. It requires the Public Utilities Commission to establish a process by rule by which
+1188 a whistleblower may provide information to the commission regarding the conduct of a
+1199 public utility in the State. If the commission determines that the whistleblower's
+2200 information was material to a commission investigation leading to the imposition of certain
+2211 covered sanctions, the commission may award the whistleblower a percentage of the
+2222 covered sanction amount. The amendment establishes criteria for the determination of the
+2233 amount of the award that a whistleblower may receive and limitations on the types of
+2244 individuals who may receive an award. It also allows an employee making an
+2255 informational report to be protected from discharge, threats or discrimination against the
+2266 employee regarding the employee's compensation, terms, conditions, location or privileges
+2277 of employment without first bringing the subject matter of the informational report in
+2288 writing to the attention of a person having supervisory authority with the employer.
+2299 FISCAL NOTE REQUIRED
+3300 (See attached)
+Page 4 - 132LR2099(02)
+COMMITTEE AMENDMENT
+
+[DELETED: LD:(RC0C1A2A3f4' 5P637p8n d t o o d a a e r t9e0t1i2t o o t b o a p u o c e p o3b4a5A6w h t b o p i t a l c t7c8m9s0t1e2B  A e p t o i t t c a a3i4m5t]
+[DELETED:  §1fA(tti0(1a p o n m t 5 y t a d b t c i2s354B5i6C " r m i i t o i7p t t c i a w s 1 p b a8w9i0D1c223i4A5c6B7t8p9C T p m a f t c c a a s0d1i2r  T c s i a p o f t s o t3i435b647a8A9p0a]
+[DELETED: Bac5nm a t t c f a a o a p o t c s  Iaac0A E a p i p B i t c d t a1w2t l t t i o a c s t c s a t3w a a b 1 a 3 o t c s  T4c5a6c7i8(9(0(1h2m3B T c m n m a a t a w p t t4s5(6o7c8(9c0w1(2a364u5o6A7p8B9o0C1m2e]
+[DELETED: DTo7t p a a d u s 6 t a w d o t tcpt c m p t a u f i t P U CR081p2s3A4n6T7c8a9p u i t S  I t c d t t w0i1c s t c m a t w a p o t2c3a4i w m r a a  I a a a e m a5i6e7o8w9F0(]
