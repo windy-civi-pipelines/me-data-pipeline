@@ -1,0 +1,160 @@
+Title: 4 Reproduced and distributed under the direction of the Clerk of the House.
+Official Title: 4 Reproduced and distributed under the direction of the Clerk of the House.
+Number of Sections: 1
+Source: versions - Adopted Amendments
+Media Type: application/pdf
+Strikethrough Detection: 2 sections found
+
+================================================================================
+
+Section 1:
+1 L.D. 1189
+2 Date: (Filing No. H- )
+3 JUDICIARY
+5 STATE OF MAINE
+6 HOUSE OF REPRESENTATIVES
+7 132ND LEGISLATURE
+8 FIRST SPECIAL SESSION
+9 COMMITTEE AMENDMENT “ ” to H.P. 794, L.D. 1189, “An Act to Prohibit
+10 Arrest and Detention for Civil Violations and Require an Attorney for the State to
+11 Determine Whether to Charge a Class E Offense as a Civil Violation”
+12 Amend the bill by striking out the title and substituting the following:
+13 'An Act to Allow an Attorney for the State to Determine Whether to Charge Certain
+14 Class E Crimes as Civil Violations'
+15 Amend the bill by striking out everything after the enacting clause and inserting the
+16 following:
+17 'Sec. 1. 17-A MRSA §19-A is enacted to read:
+18 §19-A. Election to charge Class E crime as civil violation
+19 1. For purposes of this section, "eligible Class E crime" means any Class E crime,
+20 except a Class E crime:
+21 A. In Title 21-A; or
+22 B. For which the defendant, if convicted, would be eligible for probation or subject to
+23 a mandatory driver's license suspension.
+24 2. The attorney for the State may elect to charge a defendant alleged to have committed
+25 an eligible Class E crime with a civil violation instead of the eligible Class E crime unless
+26 the defendant was arrested and objects to the substitution of a civil violation charge. In
+27 deciding whether to make this election, the attorney for the State shall consider the severity
+28 of the defendant's conduct, the impact of the conduct on the victim, any prior convictions
+29 or adjudications entered against the defendant and any other factor relevant to whether a
+30 criminal or civil sanction will best accomplish the purposes of the general sentencing
+31 provisions in that particular case.
+32 3. The determination by the attorney for the State under this section is not subject to
+33 judicial review. For a person who is charged with and adjudicated as having committed a
+34 civil violation under this section, a penalty of not more than $1,000 may be adjudged. The
+Page 1 - 132LR2074(02)
+COMMITTEE AMENDMENT
+COMMITTEE AMENDMENT “ ” to H.P. 794, L.D. 1189
+315 court shall inform the Secretary of State of any Class E crime under Title 29-A, including
+326 the relevant statutory section, that was reduced to a civil violation when a person is
+337 adjudicated of a civil violation under this section.
+4 4. If the attorney for the State elects to charge a defendant with a civil violation instead
+5 of a Class E crime under Title 29-A and the defendant is adjudicated as having committed
+6 the civil violation, the court shall include in the abstract transmitted pursuant to Title 29-A,
+7 section 2607 information on the Class E crime, including the statutory citation, that the
+8 attorney for the State elected not to charge.
+9 Sec. 2. Appropriations and allocations. The following appropriations and
+10 allocations are made.
+11 JUDICIAL DEPARTMENT
+12 Courts - Supreme, Superior and District 0063
+13 Initiative: Provides one-time funding associated with programming costs.
+14 GENERAL FUND 2025-26 2026-27
+15 All Other $3,900 $0
+16 __________ __________
+17 GENERAL FUND TOTAL $3,900 $0
+1184 Sec. 3. Effective date. This Act takes effect January 1, 2026.'
+19 Amend the bill by relettering or renumbering any nonconsecutive Part letter or section
+20 number to read consecutively.
+21 SUMMARY
+2222 This amendment strikes the provision of the bill prohibiting a person from being
+2233 arrested or detained for a civil violation. The amendment also adds exceptions to Class E
+2244 crimes that the attorney for the State may charge as a civil violation. Finally, this
+2255 amendment requires the court to inform the Secretary of State of any Class E crime
+2266 involving motor vehicles that the attorney for the State elected to charge as a civil violation
+2277 if the defendant is adjudicated as having committed the civil violation.
+28 The amendment adds an appropriations and allocations section and an effective date of
+29 January 1, 2026.
+3300 FISCAL NOTE REQUIRED
+3311 (See attached)
+Page 2 - 132LR2074(02)
+COMMITTEE AMENDMENT
+[DELETED: LD:(RC0A a D f C V a R a A f t S t1D2A3'4C5A6f7' 8§910e1A2B3a425a6t7d8o9o0c1p233j4c]
+[DELETED: 5c6t r s s t w r t a c v w a p i7a4otsa  T f a a 2  A a a0a1J2C3ID262r$0$___L$0$4T9A0n2T a s t p o t b p a p f b3a4c t t a f t S m c a a c v F t5a r t c t i t S o S o a C E c6i7i8T9J0F1(]
+
+
+================================================================================
+
+Raw Text:
+1 L.D. 1189
+2 Date: (Filing No. H- )
+3 JUDICIARY
+4 Reproduced and distributed under the direction of the Clerk of the House.
+5 STATE OF MAINE
+6 HOUSE OF REPRESENTATIVES
+7 132ND LEGISLATURE
+8 FIRST SPECIAL SESSION
+9 COMMITTEE AMENDMENT “ ” to H.P. 794, L.D. 1189, “An Act to Prohibit
+10 Arrest and Detention for Civil Violations and Require an Attorney for the State to
+11 Determine Whether to Charge a Class E Offense as a Civil Violation”
+12 Amend the bill by striking out the title and substituting the following:
+13 'An Act to Allow an Attorney for the State to Determine Whether to Charge Certain
+14 Class E Crimes as Civil Violations'
+15 Amend the bill by striking out everything after the enacting clause and inserting the
+16 following:
+17 'Sec. 1. 17-A MRSA §19-A is enacted to read:
+18 §19-A. Election to charge Class E crime as civil violation
+19 1. For purposes of this section, "eligible Class E crime" means any Class E crime,
+20 except a Class E crime:
+21 A. In Title 21-A; or
+22 B. For which the defendant, if convicted, would be eligible for probation or subject to
+23 a mandatory driver's license suspension.
+24 2. The attorney for the State may elect to charge a defendant alleged to have committed
+25 an eligible Class E crime with a civil violation instead of the eligible Class E crime unless
+26 the defendant was arrested and objects to the substitution of a civil violation charge. In
+27 deciding whether to make this election, the attorney for the State shall consider the severity
+28 of the defendant's conduct, the impact of the conduct on the victim, any prior convictions
+29 or adjudications entered against the defendant and any other factor relevant to whether a
+30 criminal or civil sanction will best accomplish the purposes of the general sentencing
+31 provisions in that particular case.
+32 3. The determination by the attorney for the State under this section is not subject to
+33 judicial review. For a person who is charged with and adjudicated as having committed a
+34 civil violation under this section, a penalty of not more than $1,000 may be adjudged. The
+Page 1 - 132LR2074(02)
+COMMITTEE AMENDMENT
+
+COMMITTEE AMENDMENT “ ” to H.P. 794, L.D. 1189
+315 court shall inform the Secretary of State of any Class E crime under Title 29-A, including
+326 the relevant statutory section, that was reduced to a civil violation when a person is
+337 adjudicated of a civil violation under this section.
+4 4. If the attorney for the State elects to charge a defendant with a civil violation instead
+5 of a Class E crime under Title 29-A and the defendant is adjudicated as having committed
+6 the civil violation, the court shall include in the abstract transmitted pursuant to Title 29-A,
+7 section 2607 information on the Class E crime, including the statutory citation, that the
+8 attorney for the State elected not to charge.
+9 Sec. 2. Appropriations and allocations. The following appropriations and
+10 allocations are made.
+11 JUDICIAL DEPARTMENT
+12 Courts - Supreme, Superior and District 0063
+13 Initiative: Provides one-time funding associated with programming costs.
+14 GENERAL FUND 2025-26 2026-27
+15 All Other $3,900 $0
+16 __________ __________
+17 GENERAL FUND TOTAL $3,900 $0
+1184 Sec. 3. Effective date. This Act takes effect January 1, 2026.'
+19 Amend the bill by relettering or renumbering any nonconsecutive Part letter or section
+20 number to read consecutively.
+21 SUMMARY
+2222 This amendment strikes the provision of the bill prohibiting a person from being
+2233 arrested or detained for a civil violation. The amendment also adds exceptions to Class E
+2244 crimes that the attorney for the State may charge as a civil violation. Finally, this
+2255 amendment requires the court to inform the Secretary of State of any Class E crime
+2266 involving motor vehicles that the attorney for the State elected to charge as a civil violation
+2277 if the defendant is adjudicated as having committed the civil violation.
+28 The amendment adds an appropriations and allocations section and an effective date of
+29 January 1, 2026.
+3300 FISCAL NOTE REQUIRED
+3311 (See attached)
+Page 2 - 132LR2074(02)
+COMMITTEE AMENDMENT
+
+[DELETED: LD:(RC0A a D f C V a R a A f t S t1D2A3'4C5A6f7' 8§910e1A2B3a425a6t7d8o9o0c1p233j4c]
+[DELETED: 5c6t r s s t w r t a c v w a p i7a4otsa  T f a a 2  A a a0a1J2C3ID262r$0$___L$0$4T9A0n2T a s t p o t b p a p f b3a4c t t a f t S m c a a c v F t5a r t c t i t S o S o a C E c6i7i8T9J0F1(]

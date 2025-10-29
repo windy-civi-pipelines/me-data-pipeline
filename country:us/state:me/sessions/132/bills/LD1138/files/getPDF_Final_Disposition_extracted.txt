@@ -1,0 +1,577 @@
+Title: 4 Reproduced and distributed under the direction of the Secretary of the Senate.
+Official Title: 4 Reproduced and distributed under the direction of the Secretary of the Senate.
+Number of Sections: 1
+Source: versions - Final Disposition
+Media Type: application/pdf
+Strikethrough Detection: 7 sections found
+
+================================================================================
+
+Section 1:
+1 L.D. 1138
+2 Date: (Filing No. S- )
+3 TRANSPORTATION
+5 STATE OF MAINE
+6 SENATE
+7 132ND LEGISLATURE
+8 FIRST SPECIAL SESSION
+9 COMMITTEE AMENDMENT “ ” to S.P. 469, L.D. 1138, “An Act to Reduce
+10 Pollution Associated with Transportation in Alignment with the State's Climate Action
+11 Plan”
+12 Amend the bill by striking out everything after the enacting clause and inserting the
+13 following:
+14 'Sec. 1. 23 MRSA §710 is enacted to read:
+15 §710. Greenhouse gas emissions assessment and mitigation for capacity expansion
+16 projects
+17 1. Definitions. As used in this section, unless the context otherwise indicates, the
+18 following terms have the following meanings.
+19 A. "Authority" has the same meaning as in section 1964, subsection 2.
+20 B. "Capacity expansion project" or "project" means a transportation project under the
+21 jurisdiction of the department or the authority that expands roadway capacity,
+22 including, but not limited to, the construction of a new roadway, a roadway widening
+23 project or a project that establishes grade separation at an intersection, excluding
+24 auxiliary lanes with a length of less than 2,500 feet.
+25 C. "Department" means the Department of Transportation.
+26 D. "Greenhouse gas" has the same meaning as in Title 38, section 574, subsection 1.
+27 E. "Induced demand" means an increase in demand for vehicle travel demonstrated by
+28 an increase in vehicle miles traveled due to an increase in roadway supply, including,
+29 but not limited to, new or expanded roads, additional vehicle capacity or additional
+30 lane miles.
+31 2. Impact assessment. Beginning July 1, 2026, prior to inclusion of a capacity
+32 expansion project in a transportation improvement program, work plan or long-range
+33 transportation plan of the department or the authority, the department or the authority, as
+Page 1 - 132LR1886(02)
+COMMITTEE AMENDMENT
+COMMITTEE AMENDMENT “ ” to S.P. 469, L.D. 1138
+314 applicable, shall complete an impact assessment of the project in accordance with this
+325 subsection.
+3 A. The department and the authority shall each establish a process for completing
+4 impact assessments required by this subsection, which must be designed to allow a
+5 determination as to whether the capacity expansion project is consistent with the
+6 transportation-related targets in the climate action plan under Title 38, section 577 and
+7 results in a neutral impact or net reduction impact or net reduction in annual greenhouse
+8 gas emissions and per capita vehicle miles traveled. The impact assessment must, at a
+9 minimum, include projections for:
+10 (1) Greenhouse gas emissions associated with the capacity expansion project over
+11 a 20-year period;
+12 (2) Net change in vehicle miles traveled for the affected transportation network as
+13 a result of the capacity expansion project, informed by travel demand modeling,
+14 induced demand modeling and, consistent with the United States Environmental
+15 Protection Agency's motor vehicle emission simulator, air quality monitoring; and
+16 (3) The direct impacts and induced demand impacts of the capacity expansion
+17 project on vehicle miles traveled for the affected transportation network as a result
+18 of the project.
+19 In establishing an impact assessment process under this paragraph, the department and
+20 the authority shall each solicit input from stakeholders. Every 2 years following the
+21 initial establishment of an impact assessment process, the department and the authority
+22 shall each review its established process and, following solicitation of stakeholder
+23 input, implement necessary changes.
+24 B. Following completion of an impact assessment for a capacity expansion project in
+25 accordance with the process established pursuant to paragraph A, the department or the
+26 authority, as applicable, shall:
+27 (1) Proceed with the project as proposed if, through the impact assessment, the
+28 department or the authority determines that the project does not increase annual
+29 greenhouse gas emissions or per capita vehicle miles traveled; or
+30 (2) If, through the impact assessment, the department or authority determines that
+31 the project increases annual greenhouse gas emissions or per capita vehicle miles
+32 traveled:
+33 (a) Alter the scope or design of the project to ensure a neutral impact or net
+34 decrease in annual greenhouse gas emissions and per capita vehicle miles
+35 traveled and complete a new impact assessment for the modified project;
+36 (b) Incorporate sufficient mitigation measures into the project in accordance
+37 with subsection 3; or
+38 (c) Halt project development and ensure that the project is not included in a
+39 transportation improvement program, work plan or long-range transportation
+40 plan of the department or the authority, as applicable.
+41 3. Mitigation measures. If the department or the authority completes an impact
+42 assessment for a capacity expansion project in accordance with subsection 2 and, through
+43 that assessment, determines that the project increases annual greenhouse gas emissions or
+Page 2 - 132LR1886(02)
+COMMITTEE AMENDMENT
+COMMITTEE AMENDMENT “ ” to S.P. 469, L.D. 1138
+414 per capita vehicle miles traveled as identified in subsection 2, paragraph A, the department
+425 or the authority may proceed with the project through incorporation of sufficient mitigation
+436 measures in accordance with this subsection.
+4 A. For the purposes of this section, "mitigation measure" or "measure" means a project,
+5 program or operations modification that involves one or more of the following
+6 measures:
+7 (1) Transit expansion, including, but not limited to, expansion of regular route bus
+8 transit, arterial or highway bus rapid transit, rail transit or intercity passenger rail
+9 transit;
+10 (2) Transit service improvements, including, but not limited to, increased service
+11 level, transit fare reduction or transit priority treatment;
+12 (3) Expansion of active transportation infrastructure;
+13 (4) Expansion of micromobility infrastructure and service, including, but not
+14 limited to, shared vehicle services;
+15 (5) Expansion of transportation demand management measures, including, but not
+16 limited to, vanpool or shared vehicle programs;
+17 (6) Parking management measures, including, but not limited to, parking cost
+18 adjustments or reduction or elimination of parking requirements;
+19 (7) Land use measures, including, but not limited to, increases in residential
+20 housing or other housing density, mixed use development or transit-oriented
+21 development;
+22 (8) Infrastructure improvements relating to traffic operations, including, but not
+23 limited to, roundabouts or reduced-conflict intersections; and
+24 (9) Congestion pricing or tolling measures.
+25 B. A mitigation measure implemented with respect to a capacity expansion project by
+26 the department or the authority, as applicable, is sufficient for the purposes of this
+27 subsection if:
+28 (1) The measure is specifically incorporated into the capacity expansion project
+29 and the funding sources necessary for the implementation of the measure are
+30 specifically identified in and committed to the project;
+31 (2) The total greenhouse gas emissions associated with the project and net change
+32 in vehicle miles traveled for the affected transportation network as a result of the
+33 project, after accounting for emissions and vehicle miles traveled reductions
+34 achieved through the incorporated mitigation measures, as determined by the
+35 department or the authority, as applicable, result in a neutral impact or a net
+36 reduction in total greenhouse gas emissions and per capita vehicle miles traveled;
+37 (3) The incorporated measure is localized in accordance with paragraph C; and
+38 (4) The project includes provisions to ensure that the measures are implemented
+39 in substantially the same form as incorporated or in a revised form that still allows
+40 the project to satisfy the requirements of subparagraph (2).
+Page 3 - 132LR1886(02)
+COMMITTEE AMENDMENT
+COMMITTEE AMENDMENT “ ” to S.P. 469, L.D. 1138
+1 C. A mitigation measure to be incorporated into a capacity expansion project is
+2 considered localized if implemented based on the following order of priority:
+3 (1) The measure must be implemented within or associated with at least one
+4 community affected by the project;
+5 (2) If there is no location that satisfies subparagraph (1), the measure must be
+6 implemented within or associated with an underserved community in the State, as
+7 determined by the department or the authority, as applicable, based on available
+8 federal or state data;
+9 (3) If there is no location that satisfies subparagraph (1) or (2), the measure must
+10 be implemented within or associated with the metropolitan planning organization
+11 region in which the project is located; and
+12 (4) If there is no location that satisfies subparagraph (1), (2) or (3), the measure
+13 may be implemented at any location in the State or on a statewide basis, as
+14 determined by the department or the authority, as applicable. If the department or
+15 the authority localizes a mitigation measure pursuant to this subparagraph, it shall
+16 publish on its publicly accessible website an explanation regarding the feasibility
+17 of and rationale for not incorporating a different mitigation measure described in
+18 paragraph A.
+19 4. Publication of information. The department and the authority shall publish on
+20 their respective publicly accessible websites all information regarding impact assessments
+21 and mitigation measures conducted by each entity pursuant to this section, including, but
+22 not limited to, information regarding the capacity expansion projects subject to the
+23 requirements of this section, the impact assessments under subsection 2 conducted for those
+24 projects, the mitigation measures under subsection 3 implemented for those projects and
+25 the final disposition of those projects.
+26 5. Applicability. The requirements of this section do not apply to a capacity expansion
+27 project:
+28 A. That, prior to July 1, 2026, was included in a transportation improvement program
+29 or work plan of the department or the authority; or
+30 B. For which the geometric layout was submitted to the department or the authority
+31 for approval prior to July 1, 2026.
+32 The requirements of this section are in addition to and do not affect the application of any
+33 safety requirements or goals established by the department and the authority that must be
+34 satisfied by the capacity expansion project pursuant to law or rule.
+35 6. Report. The department and the authority shall jointly report on their deliberations
+36 and any recommendations, including proposed legislation, by January 15, 2027, and
+37 biennially thereafter, to the Governor and to the joint standing committees of the
+38 Legislature having jurisdiction over transportation matters and over environment and
+39 natural resources matters. The report must include, but is not limited to:
+40 A. An assessment of the current levels of transportation-related greenhouse gas
+41 emissions and statewide vehicle miles traveled, research and recommendations
+42 regarding strategies to reduce those emissions and vehicle miles traveled consistent
+43 with the climate action plan under Title 38, section 577;
+Page 4 - 132LR1886(02)
+COMMITTEE AMENDMENT
+COMMITTEE AMENDMENT “ ” to S.P. 469, L.D. 1138
+1 B. All impact assessment and mitigation measures implemented since the last report
+2 and an outline of the travel demand modeling and induced demand modeling used for
+3 the purpose of projecting net change in vehicle miles traveled; and
+4 C. A calibration and validation report for the model used, documentation of model
+5 components and key parameters and description of how the models account for induced
+6 travel demand associated with transportation system changes.
+7 At least 2 public meetings must be held on the report and the opportunity for public
+8 comment must be made available. The report must be made available on the department's
+9 publicly accessible website. After reviewing the report, each committee may report out
+10 legislation relating to the report.
+11 Sec. 2. 38 MRSA §576-A, sub-§4, as enacted by PL 2019, c. 476, §7, is amended
+12 by amending the 2nd blocked paragraph to read:
+13 The Department of Transportation, after consultation with the department, may shall adopt
+14 rules as necessary to ensure compliance with the levels established by subsections 1 to 3.
+15 Sec. 3. Appropriations and allocations. The following appropriations and
+16 allocations are made.
+17 TRANSPORTATION, DEPARTMENT OF
+18 Highway and Bridge Capital 0406
+19 Initiative: Provides funding for 2 Public Service Coordinator II positions and related costs
+20 to develop rules to ensure compliance with statutory requirements and to assist with
+21 completing the impact statements.
+22 HIGHWAY FUND 2025-26 2026-27
+23 POSITIONS - LEGISLATIVE COUNT 2.000 2.000
+24 Personal Services $339,476 $342,372
+25 All Other $20,000 $20,000
+26 __________ __________
+27 HIGHWAY FUND TOTAL $359,476 $362,372
+2282 Highway and Bridge Capital 0406
+29 Initiative: Provides funding for consultants to develop and implement the plan for
+30 achieving reductions to emissions and to assist with completing the impact assessments.
+31 HIGHWAY FUND 2025-26 2026-27
+32 All Other $750,000 $0
+33 __________ __________
+34 HIGHWAY FUND TOTAL $750,000 $0
+3351
+36
+37 TRANSPORTATION, DEPARTMENT OF
+38 DEPARTMENT TOTALS 2025-26 2026-27
+39
+40 HIGHWAY FUND $1,109,476 $362,372
+41 __________ __________
+Page 5 - 132LR1886(02)
+COMMITTEE AMENDMENT
+COMMITTEE AMENDMENT “ ” to S.P. 469, L.D. 1138
+1 DEPARTMENT TOTAL - ALL FUNDS $1,109,476 $362,372
+21 '
+3 Amend the bill by relettering or renumbering any nonconsecutive Part letter or section
+4 number to read consecutively.
+5 SUMMARY
+66 This amendment, which is the majority report of the committee, replaces the bill and
+77 does the following:
+8 1. It changes the definition of "capacity expansion project" to mean a transportation
+9 project under the jurisdiction of the Department of Transportation or the Maine Turnpike
+10 Authority that expands roadway capacity, including, but not limited to, the construction of
+11 a new roadway, a roadway widening project or a project that establishes grade separation
+12 at an intersection, excluding auxiliary lanes with a length of less than 2,500 feet;
+13 2. It removes references to the transportation greenhouse gas emissions reductions
+14 plan under the Maine Revised Statutes, Title 23, section 4209-C and in Title 38, section
+15 576-A, subsection 4-A throughout the bill in the impact assessment requirement;
+16 3. It adds that the impact assessment must determine whether a capacity project results
+17 in a neutral impact or net reduction in annual greenhouse gas emissions and per capita
+18 vehicle miles traveled;
+19 4. It removes some requirements in accordance with the climate action plan and target
+20 requirements to be used in determining if a project may proceed and specifies that the
+21 project may proceed if the Department of Transportation or the Maine Turnpike Authority
+22 determines that the project does not increase annual greenhouse gas emissions or per capita
+23 vehicle miles traveled;
+24 5. It specifies that, if the Department of Transportation and the Maine Turnpike
+25 Authority determine that a project increases annual greenhouse gas emissions or per capita
+26 vehicle miles traveled, the Department of Transportation or the Maine Turnpike Authority
+27 is required to alter the scope or design of the project to ensure a neutral impact or net
+28 decrease in annual greenhouse gas emissions and per capita vehicle miles traveled;
+29 6. It specifies that the determination of the Department of Transportation or the Maine
+30 Turnpike Authority on whether to complete a new capacity project is based on whether the
+31 project increases annual greenhouse gas emissions or per capita vehicle miles traveled,
+32 rather than whether the project is consistent with the climate action plan's targets and limits;
+33 7. It specifies that a sufficient mitigation measure is one in which the total greenhouse
+34 gas emissions associated with the project result in a neutral impact or net reduction;
+35 8. It removes the Transportation Climate Technical Committee and instead requires
+36 the Department of Transportation and the Maine Turnpike Authority, by January 15, 2027
+37 and biennially thereafter, to report to the joint standing committee of the Legislature having
+38 jurisdiction over transportation matters and the joint standing committee of the Legislature
+39 having jurisdiction over environment and natural resources matters. The amendment also
+40 requires at least 2 public meetings to be held on the report;
+41 9. It removes the section that requires the Department of Transportation to develop
+42 and, by July 1, 2026, publish a plan that, at a minimum, sets forth strategies for reduction
+Page 6 - 132LR1886(02)
+COMMITTEE AMENDMENT
+COMMITTEE AMENDMENT “ ” to S.P. 469, L.D. 1138
+413 of greenhouse gas emissions from the transportation sector necessary to achieve the
+424 greenhouse gas emissions reductions and limits under Title 38, section 576-A and strategies
+435 for reduction of statewide per capita vehicle miles traveled in accordance with the targets
+446 identified in the climate action plan; and
+5 10. It removes the section that requires the Department of Environmental Protection,
+6 by December 31, 2025, to adopt rules establishing limits on greenhouse gas emissions from
+7 the transportation sector.
+88 FISCAL NOTE REQUIRED
+99 (See attached)
+Page 7 - 132LR1886(02)
+COMMITTEE AMENDMENT
+[DELETED: LD:(RC0P1P2A3f4' 5§6p718f9A0B1j o t d o t a t e r c2i3p o a p t e g s a a i e4a5C6D7E8a9b0l122e p i a t i p w p o l3t]
+[DELETED: 4a5sAid a t w t c e p i c w ttrgm0(1a2(3a4i5P6(7p8o9I0t1i2s3i4B5a6a7(8d9g0(1t2t3(4d5t6(7w8(9t0p132a3t]
+[DELETED: 4p5o6mAp o o m t i o o m o t fm(tt0(1l2(3(  E o m i a s i b n4l5(6l7(8a9(  L u m i b n l t i i r0h o o h d m u d o t1d2(3l4(5B6t7s8(9a t f s n f t i o t m a0s1(2i3p a a f e a v m t r4a t t i m m a d b t5d o t a a a r i a n i o a n6r7(8(9i0t]
+[DELETED: C  A m m t b i i a c e p ic(c(idf(0b1r2(3m b i a a l i t S o o a s b a4d5t6p7o8p940t1a2n l t i r t c e p s t t3r4p5t657p8A9o0B1f2T3s4s566a a r i p l b J 1 2 a7b t t t G a t t j s c o t8L h j o t m a o e a9n0A A a o t c l o t g g1e a s v m t r a r2r3w]
+[DELETED: BatCctAcp0l1 2b3T4r5  T f a a 3  A a a6a7T8H9I0t d r t e c w s r a t a w1cD262T202s$6$r$0$___L$6$2H9I P f f c t d a i t p f0aD262r$0$___L$0$16F S262 D$6$___]
+[DELETED: S$6$AnTd1p0A1a2a324p55637i8v940r1p2d3v45  I s t i t D o T a t M T5A6v7i8d960T1p2r374g586t7a8j9h0r192a]
+[DELETED: 3o g g e f t t s n t a t4g5f6i1btF(]
+
+
+================================================================================
+
+Raw Text:
+1 L.D. 1138
+2 Date: (Filing No. S- )
+3 TRANSPORTATION
+4 Reproduced and distributed under the direction of the Secretary of the Senate.
+5 STATE OF MAINE
+6 SENATE
+7 132ND LEGISLATURE
+8 FIRST SPECIAL SESSION
+9 COMMITTEE AMENDMENT “ ” to S.P. 469, L.D. 1138, “An Act to Reduce
+10 Pollution Associated with Transportation in Alignment with the State's Climate Action
+11 Plan”
+12 Amend the bill by striking out everything after the enacting clause and inserting the
+13 following:
+14 'Sec. 1. 23 MRSA §710 is enacted to read:
+15 §710. Greenhouse gas emissions assessment and mitigation for capacity expansion
+16 projects
+17 1. Definitions. As used in this section, unless the context otherwise indicates, the
+18 following terms have the following meanings.
+19 A. "Authority" has the same meaning as in section 1964, subsection 2.
+20 B. "Capacity expansion project" or "project" means a transportation project under the
+21 jurisdiction of the department or the authority that expands roadway capacity,
+22 including, but not limited to, the construction of a new roadway, a roadway widening
+23 project or a project that establishes grade separation at an intersection, excluding
+24 auxiliary lanes with a length of less than 2,500 feet.
+25 C. "Department" means the Department of Transportation.
+26 D. "Greenhouse gas" has the same meaning as in Title 38, section 574, subsection 1.
+27 E. "Induced demand" means an increase in demand for vehicle travel demonstrated by
+28 an increase in vehicle miles traveled due to an increase in roadway supply, including,
+29 but not limited to, new or expanded roads, additional vehicle capacity or additional
+30 lane miles.
+31 2. Impact assessment. Beginning July 1, 2026, prior to inclusion of a capacity
+32 expansion project in a transportation improvement program, work plan or long-range
+33 transportation plan of the department or the authority, the department or the authority, as
+Page 1 - 132LR1886(02)
+COMMITTEE AMENDMENT
+
+COMMITTEE AMENDMENT “ ” to S.P. 469, L.D. 1138
+314 applicable, shall complete an impact assessment of the project in accordance with this
+325 subsection.
+3 A. The department and the authority shall each establish a process for completing
+4 impact assessments required by this subsection, which must be designed to allow a
+5 determination as to whether the capacity expansion project is consistent with the
+6 transportation-related targets in the climate action plan under Title 38, section 577 and
+7 results in a neutral impact or net reduction impact or net reduction in annual greenhouse
+8 gas emissions and per capita vehicle miles traveled. The impact assessment must, at a
+9 minimum, include projections for:
+10 (1) Greenhouse gas emissions associated with the capacity expansion project over
+11 a 20-year period;
+12 (2) Net change in vehicle miles traveled for the affected transportation network as
+13 a result of the capacity expansion project, informed by travel demand modeling,
+14 induced demand modeling and, consistent with the United States Environmental
+15 Protection Agency's motor vehicle emission simulator, air quality monitoring; and
+16 (3) The direct impacts and induced demand impacts of the capacity expansion
+17 project on vehicle miles traveled for the affected transportation network as a result
+18 of the project.
+19 In establishing an impact assessment process under this paragraph, the department and
+20 the authority shall each solicit input from stakeholders. Every 2 years following the
+21 initial establishment of an impact assessment process, the department and the authority
+22 shall each review its established process and, following solicitation of stakeholder
+23 input, implement necessary changes.
+24 B. Following completion of an impact assessment for a capacity expansion project in
+25 accordance with the process established pursuant to paragraph A, the department or the
+26 authority, as applicable, shall:
+27 (1) Proceed with the project as proposed if, through the impact assessment, the
+28 department or the authority determines that the project does not increase annual
+29 greenhouse gas emissions or per capita vehicle miles traveled; or
+30 (2) If, through the impact assessment, the department or authority determines that
+31 the project increases annual greenhouse gas emissions or per capita vehicle miles
+32 traveled:
+33 (a) Alter the scope or design of the project to ensure a neutral impact or net
+34 decrease in annual greenhouse gas emissions and per capita vehicle miles
+35 traveled and complete a new impact assessment for the modified project;
+36 (b) Incorporate sufficient mitigation measures into the project in accordance
+37 with subsection 3; or
+38 (c) Halt project development and ensure that the project is not included in a
+39 transportation improvement program, work plan or long-range transportation
+40 plan of the department or the authority, as applicable.
+41 3. Mitigation measures. If the department or the authority completes an impact
+42 assessment for a capacity expansion project in accordance with subsection 2 and, through
+43 that assessment, determines that the project increases annual greenhouse gas emissions or
+Page 2 - 132LR1886(02)
+COMMITTEE AMENDMENT
+
+COMMITTEE AMENDMENT “ ” to S.P. 469, L.D. 1138
+414 per capita vehicle miles traveled as identified in subsection 2, paragraph A, the department
+425 or the authority may proceed with the project through incorporation of sufficient mitigation
+436 measures in accordance with this subsection.
+4 A. For the purposes of this section, "mitigation measure" or "measure" means a project,
+5 program or operations modification that involves one or more of the following
+6 measures:
+7 (1) Transit expansion, including, but not limited to, expansion of regular route bus
+8 transit, arterial or highway bus rapid transit, rail transit or intercity passenger rail
+9 transit;
+10 (2) Transit service improvements, including, but not limited to, increased service
+11 level, transit fare reduction or transit priority treatment;
+12 (3) Expansion of active transportation infrastructure;
+13 (4) Expansion of micromobility infrastructure and service, including, but not
+14 limited to, shared vehicle services;
+15 (5) Expansion of transportation demand management measures, including, but not
+16 limited to, vanpool or shared vehicle programs;
+17 (6) Parking management measures, including, but not limited to, parking cost
+18 adjustments or reduction or elimination of parking requirements;
+19 (7) Land use measures, including, but not limited to, increases in residential
+20 housing or other housing density, mixed use development or transit-oriented
+21 development;
+22 (8) Infrastructure improvements relating to traffic operations, including, but not
+23 limited to, roundabouts or reduced-conflict intersections; and
+24 (9) Congestion pricing or tolling measures.
+25 B. A mitigation measure implemented with respect to a capacity expansion project by
+26 the department or the authority, as applicable, is sufficient for the purposes of this
+27 subsection if:
+28 (1) The measure is specifically incorporated into the capacity expansion project
+29 and the funding sources necessary for the implementation of the measure are
+30 specifically identified in and committed to the project;
+31 (2) The total greenhouse gas emissions associated with the project and net change
+32 in vehicle miles traveled for the affected transportation network as a result of the
+33 project, after accounting for emissions and vehicle miles traveled reductions
+34 achieved through the incorporated mitigation measures, as determined by the
+35 department or the authority, as applicable, result in a neutral impact or a net
+36 reduction in total greenhouse gas emissions and per capita vehicle miles traveled;
+37 (3) The incorporated measure is localized in accordance with paragraph C; and
+38 (4) The project includes provisions to ensure that the measures are implemented
+39 in substantially the same form as incorporated or in a revised form that still allows
+40 the project to satisfy the requirements of subparagraph (2).
+Page 3 - 132LR1886(02)
+COMMITTEE AMENDMENT
+
+COMMITTEE AMENDMENT “ ” to S.P. 469, L.D. 1138
+1 C. A mitigation measure to be incorporated into a capacity expansion project is
+2 considered localized if implemented based on the following order of priority:
+3 (1) The measure must be implemented within or associated with at least one
+4 community affected by the project;
+5 (2) If there is no location that satisfies subparagraph (1), the measure must be
+6 implemented within or associated with an underserved community in the State, as
+7 determined by the department or the authority, as applicable, based on available
+8 federal or state data;
+9 (3) If there is no location that satisfies subparagraph (1) or (2), the measure must
+10 be implemented within or associated with the metropolitan planning organization
+11 region in which the project is located; and
+12 (4) If there is no location that satisfies subparagraph (1), (2) or (3), the measure
+13 may be implemented at any location in the State or on a statewide basis, as
+14 determined by the department or the authority, as applicable. If the department or
+15 the authority localizes a mitigation measure pursuant to this subparagraph, it shall
+16 publish on its publicly accessible website an explanation regarding the feasibility
+17 of and rationale for not incorporating a different mitigation measure described in
+18 paragraph A.
+19 4. Publication of information. The department and the authority shall publish on
+20 their respective publicly accessible websites all information regarding impact assessments
+21 and mitigation measures conducted by each entity pursuant to this section, including, but
+22 not limited to, information regarding the capacity expansion projects subject to the
+23 requirements of this section, the impact assessments under subsection 2 conducted for those
+24 projects, the mitigation measures under subsection 3 implemented for those projects and
+25 the final disposition of those projects.
+26 5. Applicability. The requirements of this section do not apply to a capacity expansion
+27 project:
+28 A. That, prior to July 1, 2026, was included in a transportation improvement program
+29 or work plan of the department or the authority; or
+30 B. For which the geometric layout was submitted to the department or the authority
+31 for approval prior to July 1, 2026.
+32 The requirements of this section are in addition to and do not affect the application of any
+33 safety requirements or goals established by the department and the authority that must be
+34 satisfied by the capacity expansion project pursuant to law or rule.
+35 6. Report. The department and the authority shall jointly report on their deliberations
+36 and any recommendations, including proposed legislation, by January 15, 2027, and
+37 biennially thereafter, to the Governor and to the joint standing committees of the
+38 Legislature having jurisdiction over transportation matters and over environment and
+39 natural resources matters. The report must include, but is not limited to:
+40 A. An assessment of the current levels of transportation-related greenhouse gas
+41 emissions and statewide vehicle miles traveled, research and recommendations
+42 regarding strategies to reduce those emissions and vehicle miles traveled consistent
+43 with the climate action plan under Title 38, section 577;
+Page 4 - 132LR1886(02)
+COMMITTEE AMENDMENT
+
+COMMITTEE AMENDMENT “ ” to S.P. 469, L.D. 1138
+1 B. All impact assessment and mitigation measures implemented since the last report
+2 and an outline of the travel demand modeling and induced demand modeling used for
+3 the purpose of projecting net change in vehicle miles traveled; and
+4 C. A calibration and validation report for the model used, documentation of model
+5 components and key parameters and description of how the models account for induced
+6 travel demand associated with transportation system changes.
+7 At least 2 public meetings must be held on the report and the opportunity for public
+8 comment must be made available. The report must be made available on the department's
+9 publicly accessible website. After reviewing the report, each committee may report out
+10 legislation relating to the report.
+11 Sec. 2. 38 MRSA §576-A, sub-§4, as enacted by PL 2019, c. 476, §7, is amended
+12 by amending the 2nd blocked paragraph to read:
+13 The Department of Transportation, after consultation with the department, may shall adopt
+14 rules as necessary to ensure compliance with the levels established by subsections 1 to 3.
+15 Sec. 3. Appropriations and allocations. The following appropriations and
+16 allocations are made.
+17 TRANSPORTATION, DEPARTMENT OF
+18 Highway and Bridge Capital 0406
+19 Initiative: Provides funding for 2 Public Service Coordinator II positions and related costs
+20 to develop rules to ensure compliance with statutory requirements and to assist with
+21 completing the impact statements.
+22 HIGHWAY FUND 2025-26 2026-27
+23 POSITIONS - LEGISLATIVE COUNT 2.000 2.000
+24 Personal Services $339,476 $342,372
+25 All Other $20,000 $20,000
+26 __________ __________
+27 HIGHWAY FUND TOTAL $359,476 $362,372
+2282 Highway and Bridge Capital 0406
+29 Initiative: Provides funding for consultants to develop and implement the plan for
+30 achieving reductions to emissions and to assist with completing the impact assessments.
+31 HIGHWAY FUND 2025-26 2026-27
+32 All Other $750,000 $0
+33 __________ __________
+34 HIGHWAY FUND TOTAL $750,000 $0
+3351
+36
+37 TRANSPORTATION, DEPARTMENT OF
+38 DEPARTMENT TOTALS 2025-26 2026-27
+39
+40 HIGHWAY FUND $1,109,476 $362,372
+41 __________ __________
+Page 5 - 132LR1886(02)
+COMMITTEE AMENDMENT
+
+COMMITTEE AMENDMENT “ ” to S.P. 469, L.D. 1138
+1 DEPARTMENT TOTAL - ALL FUNDS $1,109,476 $362,372
+21 '
+3 Amend the bill by relettering or renumbering any nonconsecutive Part letter or section
+4 number to read consecutively.
+5 SUMMARY
+66 This amendment, which is the majority report of the committee, replaces the bill and
+77 does the following:
+8 1. It changes the definition of "capacity expansion project" to mean a transportation
+9 project under the jurisdiction of the Department of Transportation or the Maine Turnpike
+10 Authority that expands roadway capacity, including, but not limited to, the construction of
+11 a new roadway, a roadway widening project or a project that establishes grade separation
+12 at an intersection, excluding auxiliary lanes with a length of less than 2,500 feet;
+13 2. It removes references to the transportation greenhouse gas emissions reductions
+14 plan under the Maine Revised Statutes, Title 23, section 4209-C and in Title 38, section
+15 576-A, subsection 4-A throughout the bill in the impact assessment requirement;
+16 3. It adds that the impact assessment must determine whether a capacity project results
+17 in a neutral impact or net reduction in annual greenhouse gas emissions and per capita
+18 vehicle miles traveled;
+19 4. It removes some requirements in accordance with the climate action plan and target
+20 requirements to be used in determining if a project may proceed and specifies that the
+21 project may proceed if the Department of Transportation or the Maine Turnpike Authority
+22 determines that the project does not increase annual greenhouse gas emissions or per capita
+23 vehicle miles traveled;
+24 5. It specifies that, if the Department of Transportation and the Maine Turnpike
+25 Authority determine that a project increases annual greenhouse gas emissions or per capita
+26 vehicle miles traveled, the Department of Transportation or the Maine Turnpike Authority
+27 is required to alter the scope or design of the project to ensure a neutral impact or net
+28 decrease in annual greenhouse gas emissions and per capita vehicle miles traveled;
+29 6. It specifies that the determination of the Department of Transportation or the Maine
+30 Turnpike Authority on whether to complete a new capacity project is based on whether the
+31 project increases annual greenhouse gas emissions or per capita vehicle miles traveled,
+32 rather than whether the project is consistent with the climate action plan's targets and limits;
+33 7. It specifies that a sufficient mitigation measure is one in which the total greenhouse
+34 gas emissions associated with the project result in a neutral impact or net reduction;
+35 8. It removes the Transportation Climate Technical Committee and instead requires
+36 the Department of Transportation and the Maine Turnpike Authority, by January 15, 2027
+37 and biennially thereafter, to report to the joint standing committee of the Legislature having
+38 jurisdiction over transportation matters and the joint standing committee of the Legislature
+39 having jurisdiction over environment and natural resources matters. The amendment also
+40 requires at least 2 public meetings to be held on the report;
+41 9. It removes the section that requires the Department of Transportation to develop
+42 and, by July 1, 2026, publish a plan that, at a minimum, sets forth strategies for reduction
+Page 6 - 132LR1886(02)
+COMMITTEE AMENDMENT
+
+COMMITTEE AMENDMENT “ ” to S.P. 469, L.D. 1138
+413 of greenhouse gas emissions from the transportation sector necessary to achieve the
+424 greenhouse gas emissions reductions and limits under Title 38, section 576-A and strategies
+435 for reduction of statewide per capita vehicle miles traveled in accordance with the targets
+446 identified in the climate action plan; and
+5 10. It removes the section that requires the Department of Environmental Protection,
+6 by December 31, 2025, to adopt rules establishing limits on greenhouse gas emissions from
+7 the transportation sector.
+88 FISCAL NOTE REQUIRED
+99 (See attached)
+Page 7 - 132LR1886(02)
+COMMITTEE AMENDMENT
+
+[DELETED: LD:(RC0P1P2A3f4' 5§6p718f9A0B1j o t d o t a t e r c2i3p o a p t e g s a a i e4a5C6D7E8a9b0l122e p i a t i p w p o l3t]
+[DELETED: 4a5sAid a t w t c e p i c w ttrgm0(1a2(3a4i5P6(7p8o9I0t1i2s3i4B5a6a7(8d9g0(1t2t3(4d5t6(7w8(9t0p132a3t]
+[DELETED: 4p5o6mAp o o m t i o o m o t fm(tt0(1l2(3(  E o m i a s i b n4l5(6l7(8a9(  L u m i b n l t i i r0h o o h d m u d o t1d2(3l4(5B6t7s8(9a t f s n f t i o t m a0s1(2i3p a a f e a v m t r4a t t i m m a d b t5d o t a a a r i a n i o a n6r7(8(9i0t]
+[DELETED: C  A m m t b i i a c e p ic(c(idf(0b1r2(3m b i a a l i t S o o a s b a4d5t6p7o8p940t1a2n l t i r t c e p s t t3r4p5t657p8A9o0B1f2T3s4s566a a r i p l b J 1 2 a7b t t t G a t t j s c o t8L h j o t m a o e a9n0A A a o t c l o t g g1e a s v m t r a r2r3w]
+[DELETED: BatCctAcp0l1 2b3T4r5  T f a a 3  A a a6a7T8H9I0t d r t e c w s r a t a w1cD262T202s$6$r$0$___L$6$2H9I P f f c t d a i t p f0aD262r$0$___L$0$16F S262 D$6$___]
+[DELETED: S$6$AnTd1p0A1a2a324p55637i8v940r1p2d3v45  I s t i t D o T a t M T5A6v7i8d960T1p2r374g586t7a8j9h0r192a]
+[DELETED: 3o g g e f t t s n t a t4g5f6i1btF(]

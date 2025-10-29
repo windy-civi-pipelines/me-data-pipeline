@@ -1,0 +1,168 @@
+Title: 4 Reproduced and distributed under the direction of the Clerk of the House.
+Official Title: 4 Reproduced and distributed under the direction of the Clerk of the House.
+Number of Sections: 1
+Source: versions - Adopted Amendments
+Media Type: application/pdf
+Strikethrough Detection: 2 sections found
+
+================================================================================
+
+Section 1:
+1 L.D. 1236
+2 Date: (Filing No. H- )
+3 LABOR
+5 STATE OF MAINE
+6 HOUSE OF REPRESENTATIVES
+7 132ND LEGISLATURE
+8 FIRST SPECIAL SESSION
+9 COMMITTEE AMENDMENT “ ” to H.P. 811, L.D. 1236, “An Act to Address
+10 Employee Retention of State Employees Who Are Firefighters at Bangor International
+11 Airport”
+12 Amend the bill by inserting after section 2 the following:
+13 'Sec. 3. Appropriations and allocations. The following appropriations and
+14 allocations are made.
+15 DEFENSE, VETERANS AND EMERGENCY MANAGEMENT, DEPARTMENT
+16 OF
+17 Military Training and Operations 0108
+18 Initiative: Allocates ongoing funds for the prospective costs of certain employees within
+19 the Department of Defense, Veterans and Emergency Management who are firefighters at
+20 Bangor International Airport being allowed to participate in a special retirement plan that
+21 allows for those employees to retire after 25 years of service regardless of age effective
+22 October 1, 2025.
+23 FEDERAL EXPENDITURES FUND 2025-26 2026-27
+24 Personal Services $1,759 $2,510
+25 __________ __________
+26 FEDERAL EXPENDITURES FUND TOTAL $1,759 $2,510
+2273
+28 DEFENSE, VETERANS AND EMERGENCY
+29 MANAGEMENT, DEPARTMENT OF
+30 DEPARTMENT TOTALS 2025-26 2026-27
+31
+32 FEDERAL EXPENDITURES FUND $1,759 $2,510
+33 __________ __________
+34 DEPARTMENT TOTAL - ALL FUNDS $1,759 $2,510
+3258 RETIREMENT SYSTEM, MAINE PUBLIC EMPLOYEES
+Page 1 - 132LR2257(02)
+COMMITTEE AMENDMENT
+COMMITTEE AMENDMENT “ ” to H.P. 811, L.D. 1236
+1 Retirement System - Retirement Allowance Fund 0085
+2 Initiative: Provides one-time funds for the increase in the unfunded actuarial liability as a
+3 result of allowing the service retirement benefits for certain employees within the
+4 Department of Defense, Veterans and Emergency Management who are firefighters at
+5 Bangor International Airport earned under the 1998 Special Plan to be calculated under a
+6 special retirement plan that allows for those employees to retire after 25 years of service
+7 regardless of age.
+8 GENERAL FUND 2025-26 2026-27
+9 All Other $522,078 $0
+10 __________ __________
+11 GENERAL FUND TOTAL $522,078 $0
+128
+13 RETIREMENT SYSTEM, MAINE PUBLIC
+14 EMPLOYEES
+15 DEPARTMENT TOTALS 2025-26 2026-27
+16
+17 GENERAL FUND $522,078 $0
+18 __________ __________
+19 DEPARTMENT TOTAL - ALL FUNDS $522,078 $0
+2103
+21 SECTION TOTALS 2025-26 2026-27
+22
+23 GENERAL FUND $522,078 $0
+24 FEDERAL EXPENDITURES FUND $1,759 $2,510
+25 __________ __________
+26 SECTION TOTAL - ALL FUNDS $523,837 $2,510
+2271 '
+28 Amend the bill by relettering or renumbering any nonconsecutive Part letter or section
+29 number to read consecutively.
+30 SUMMARY
+3311 This amendment, which is the majority report of the committee, adds an appropriations
+3322 and allocations section.
+3333 FISCAL NOTE REQUIRED
+3344 (See attached)
+Page 2 - 132LR2257(02)
+COMMITTEE AMENDMENT
+[DELETED: LD:(RC0E1A2A3'  T f a a 3  A a a4a5D6O7M8I9t0B1a2OD262s$9$___L$9$3  S262 D$9$___S$9$8R]
+[DELETED: RIr o a t s r b f c e w tDBsrD262r$8$___L$8$  S262 D$8$___S$8$3S262 D$8$D$9$___S$7$18A9n1T2a3F4(]
+
+
+================================================================================
+
+Raw Text:
+1 L.D. 1236
+2 Date: (Filing No. H- )
+3 LABOR
+4 Reproduced and distributed under the direction of the Clerk of the House.
+5 STATE OF MAINE
+6 HOUSE OF REPRESENTATIVES
+7 132ND LEGISLATURE
+8 FIRST SPECIAL SESSION
+9 COMMITTEE AMENDMENT “ ” to H.P. 811, L.D. 1236, “An Act to Address
+10 Employee Retention of State Employees Who Are Firefighters at Bangor International
+11 Airport”
+12 Amend the bill by inserting after section 2 the following:
+13 'Sec. 3. Appropriations and allocations. The following appropriations and
+14 allocations are made.
+15 DEFENSE, VETERANS AND EMERGENCY MANAGEMENT, DEPARTMENT
+16 OF
+17 Military Training and Operations 0108
+18 Initiative: Allocates ongoing funds for the prospective costs of certain employees within
+19 the Department of Defense, Veterans and Emergency Management who are firefighters at
+20 Bangor International Airport being allowed to participate in a special retirement plan that
+21 allows for those employees to retire after 25 years of service regardless of age effective
+22 October 1, 2025.
+23 FEDERAL EXPENDITURES FUND 2025-26 2026-27
+24 Personal Services $1,759 $2,510
+25 __________ __________
+26 FEDERAL EXPENDITURES FUND TOTAL $1,759 $2,510
+2273
+28 DEFENSE, VETERANS AND EMERGENCY
+29 MANAGEMENT, DEPARTMENT OF
+30 DEPARTMENT TOTALS 2025-26 2026-27
+31
+32 FEDERAL EXPENDITURES FUND $1,759 $2,510
+33 __________ __________
+34 DEPARTMENT TOTAL - ALL FUNDS $1,759 $2,510
+3258 RETIREMENT SYSTEM, MAINE PUBLIC EMPLOYEES
+Page 1 - 132LR2257(02)
+COMMITTEE AMENDMENT
+
+COMMITTEE AMENDMENT “ ” to H.P. 811, L.D. 1236
+1 Retirement System - Retirement Allowance Fund 0085
+2 Initiative: Provides one-time funds for the increase in the unfunded actuarial liability as a
+3 result of allowing the service retirement benefits for certain employees within the
+4 Department of Defense, Veterans and Emergency Management who are firefighters at
+5 Bangor International Airport earned under the 1998 Special Plan to be calculated under a
+6 special retirement plan that allows for those employees to retire after 25 years of service
+7 regardless of age.
+8 GENERAL FUND 2025-26 2026-27
+9 All Other $522,078 $0
+10 __________ __________
+11 GENERAL FUND TOTAL $522,078 $0
+128
+13 RETIREMENT SYSTEM, MAINE PUBLIC
+14 EMPLOYEES
+15 DEPARTMENT TOTALS 2025-26 2026-27
+16
+17 GENERAL FUND $522,078 $0
+18 __________ __________
+19 DEPARTMENT TOTAL - ALL FUNDS $522,078 $0
+2103
+21 SECTION TOTALS 2025-26 2026-27
+22
+23 GENERAL FUND $522,078 $0
+24 FEDERAL EXPENDITURES FUND $1,759 $2,510
+25 __________ __________
+26 SECTION TOTAL - ALL FUNDS $523,837 $2,510
+2271 '
+28 Amend the bill by relettering or renumbering any nonconsecutive Part letter or section
+29 number to read consecutively.
+30 SUMMARY
+3311 This amendment, which is the majority report of the committee, adds an appropriations
+3322 and allocations section.
+3333 FISCAL NOTE REQUIRED
+3344 (See attached)
+Page 2 - 132LR2257(02)
+COMMITTEE AMENDMENT
+
+[DELETED: LD:(RC0E1A2A3'  T f a a 3  A a a4a5D6O7M8I9t0B1a2OD262s$9$___L$9$3  S262 D$9$___S$9$8R]
+[DELETED: RIr o a t s r b f c e w tDBsrD262r$8$___L$8$  S262 D$8$___S$8$3S262 D$8$D$9$___S$7$18A9n1T2a3F4(]

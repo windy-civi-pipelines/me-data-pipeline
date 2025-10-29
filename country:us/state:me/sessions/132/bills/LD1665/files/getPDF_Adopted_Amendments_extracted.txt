@@ -1,0 +1,126 @@
+Title: 4 Reproduced and distributed under the direction of the Secretary of the Senate.
+Official Title: 4 Reproduced and distributed under the direction of the Secretary of the Senate.
+Number of Sections: 1
+Source: versions - Adopted Amendments
+Media Type: application/pdf
+Strikethrough Detection: 2 sections found
+
+================================================================================
+
+Section 1:
+1 L.D. 1665
+2 Date: (Filing No. S- )
+3 TAXATION
+5 STATE OF MAINE
+6 SENATE
+7 132ND LEGISLATURE
+8 FIRST SPECIAL SESSION
+9 COMMITTEE AMENDMENT “ ” to S.P. 659, L.D. 1665, “An Act to Provide
+10 Property Tax Relief to Maine Families”
+11 Amend the bill in section 2 in paragraph A-2 in subparagraph (1) in the first line (page
+12 1, line 27 in L.D.) by striking out the following: "$2,450" and inserting the following:
+13 '$2,550'
+14 Amend the bill in section 2 in paragraph A-2 in subparagraph (2) in the first line (page
+15 1, line 28 in L.D.) by striking out the following: "$3,200" and inserting the following:
+16 '$3,300'
+17 Amend the bill in section 2 in paragraph A-2 in subparagraph (3) in the last line (page
+18 1, line 31 in L.D.) by striking out the following: "$3,250" and inserting the following:
+19 '$4,050'
+20 Amend the bill by inserting after section 3 the following:
+21 'Sec. 4. 36 MRSA §5403, sub-§6, as repealed and replaced by PL 2023, c. 412, Pt.
+22 S, §5, is amended to read:
+23 6. Property tax fairness credit. For the property tax fairness credit:
+24 A. Beginning in 2018 and each year thereafter ending in 2024, by the benefit base
+25 amounts in section 5219‑KK, subsection 1, paragraph A‑1, subparagraphs (1) to (3),
+26 except that for the purposes of this subsection, notwithstanding section 5402,
+27 subsection 1‑B, the "cost-of-living adjustment" is the Chained Consumer Price Index
+28 for the 12-month period ending June 30th of the preceding calendar year divided by
+29 the Chained Consumer Price Index for the 12-month period ending June 30, 2017; and
+30 B. Beginning in 2024 and each year thereafter ending in 2024, by the benefit base
+31 amount in section 5219‑KK, subsection 1, paragraph A‑1, subparagraph (4), except
+32 that for the purposes of this subsection, notwithstanding section 5402, subsection 1‑B,
+33 the "cost-of-living adjustment" is the Chained Consumer Price Index for the 12-month
+34 period ending June 30th of the preceding calendar year divided by the Chained
+35 Consumer Price Index for the 12-month period ending June 30, 2023; and
+Page 1 - 132LR1107(02)
+COMMITTEE AMENDMENT
+COMMITTEE AMENDMENT “ ” to S.P. 659, L.D. 1665
+1 C. Beginning in 2025 and each year thereafter, by the benefit base amounts in section
+2 5219-KK, subsection 1, paragraph A-2, except that for the purposes of this subsection,
+3 notwithstanding section 5402, subsection 1-B, the "cost-of-living adjustment" is the
+4 Chained Consumer Price Index for the 12-month period ending June 30th of the
+5 preceding calendar year divided by the Chained Consumer Price Index for the 12-
+6 month period ending June 30, 2024.'
+7 Amend the bill by relettering or renumbering any nonconsecutive Part letter or section
+8 number to read consecutively.
+9 SUMMARY
+1100 This amendment makes technical corrections to the benefit base amounts in the bill and
+1111 the calculation of the annual adjustment for inflation for the tax credit.
+1122 FISCAL NOTE REQUIRED
+1133 (See attached)
+Page 2 - 132LR1107(02)
+COMMITTEE AMENDMENT
+[DELETED: LD:(RC0P1A213'4A516'7A819'0A1' 2S364A5a6e t f t p o t s n s 57s8f9t0B1a2t3t4p e J 3 o t p c y d b t C5C]
+[DELETED: C5nC C P I f t 1 p e J 3 o tpmAn0T1t2F3(]
+
+
+================================================================================
+
+Raw Text:
+1 L.D. 1665
+2 Date: (Filing No. S- )
+3 TAXATION
+4 Reproduced and distributed under the direction of the Secretary of the Senate.
+5 STATE OF MAINE
+6 SENATE
+7 132ND LEGISLATURE
+8 FIRST SPECIAL SESSION
+9 COMMITTEE AMENDMENT “ ” to S.P. 659, L.D. 1665, “An Act to Provide
+10 Property Tax Relief to Maine Families”
+11 Amend the bill in section 2 in paragraph A-2 in subparagraph (1) in the first line (page
+12 1, line 27 in L.D.) by striking out the following: "$2,450" and inserting the following:
+13 '$2,550'
+14 Amend the bill in section 2 in paragraph A-2 in subparagraph (2) in the first line (page
+15 1, line 28 in L.D.) by striking out the following: "$3,200" and inserting the following:
+16 '$3,300'
+17 Amend the bill in section 2 in paragraph A-2 in subparagraph (3) in the last line (page
+18 1, line 31 in L.D.) by striking out the following: "$3,250" and inserting the following:
+19 '$4,050'
+20 Amend the bill by inserting after section 3 the following:
+21 'Sec. 4. 36 MRSA §5403, sub-§6, as repealed and replaced by PL 2023, c. 412, Pt.
+22 S, §5, is amended to read:
+23 6. Property tax fairness credit. For the property tax fairness credit:
+24 A. Beginning in 2018 and each year thereafter ending in 2024, by the benefit base
+25 amounts in section 5219‑KK, subsection 1, paragraph A‑1, subparagraphs (1) to (3),
+26 except that for the purposes of this subsection, notwithstanding section 5402,
+27 subsection 1‑B, the "cost-of-living adjustment" is the Chained Consumer Price Index
+28 for the 12-month period ending June 30th of the preceding calendar year divided by
+29 the Chained Consumer Price Index for the 12-month period ending June 30, 2017; and
+30 B. Beginning in 2024 and each year thereafter ending in 2024, by the benefit base
+31 amount in section 5219‑KK, subsection 1, paragraph A‑1, subparagraph (4), except
+32 that for the purposes of this subsection, notwithstanding section 5402, subsection 1‑B,
+33 the "cost-of-living adjustment" is the Chained Consumer Price Index for the 12-month
+34 period ending June 30th of the preceding calendar year divided by the Chained
+35 Consumer Price Index for the 12-month period ending June 30, 2023; and
+Page 1 - 132LR1107(02)
+COMMITTEE AMENDMENT
+
+COMMITTEE AMENDMENT “ ” to S.P. 659, L.D. 1665
+1 C. Beginning in 2025 and each year thereafter, by the benefit base amounts in section
+2 5219-KK, subsection 1, paragraph A-2, except that for the purposes of this subsection,
+3 notwithstanding section 5402, subsection 1-B, the "cost-of-living adjustment" is the
+4 Chained Consumer Price Index for the 12-month period ending June 30th of the
+5 preceding calendar year divided by the Chained Consumer Price Index for the 12-
+6 month period ending June 30, 2024.'
+7 Amend the bill by relettering or renumbering any nonconsecutive Part letter or section
+8 number to read consecutively.
+9 SUMMARY
+1100 This amendment makes technical corrections to the benefit base amounts in the bill and
+1111 the calculation of the annual adjustment for inflation for the tax credit.
+1122 FISCAL NOTE REQUIRED
+1133 (See attached)
+Page 2 - 132LR1107(02)
+COMMITTEE AMENDMENT
+
+[DELETED: LD:(RC0P1A213'4A516'7A819'0A1' 2S364A5a6e t f t p o t s n s 57s8f9t0B1a2t3t4p e J 3 o t p c y d b t C5C]
+[DELETED: C5nC C P I f t 1 p e J 3 o tpmAn0T1t2F3(]

@@ -1,0 +1,158 @@
+Title: 4 Reproduced and distributed under the direction of the Clerk of the House.
+Official Title: 4 Reproduced and distributed under the direction of the Clerk of the House.
+Number of Sections: 1
+Source: versions - Adopted Amendments
+Media Type: application/pdf
+Strikethrough Detection: 2 sections found
+
+================================================================================
+
+Section 1:
+1 L.D. 1581
+2 Date: (Filing No. H- )
+3 TRANSPORTATION
+5 STATE OF MAINE
+6 HOUSE OF REPRESENTATIVES
+7 132ND LEGISLATURE
+8 FIRST SPECIAL SESSION
+9 COMMITTEE AMENDMENT “ ” to H.P. 1039, L.D. 1581, “An Act Regarding
+10 the Motor Vehicle Excise Tax Exemption for Certain Veterans”
+11 Amend the bill by striking out the title and substituting the following:
+12 'An Act Regarding the Motor Vehicle Excise Tax and Registration Fees Exemption
+13 for Certain Veterans'
+14 Amend the bill by inserting after the title and before the enacting clause the following:
+15 'Emergency preamble. Whereas, acts and resolves of the Legislature do not
+16 become effective until 90 days after adjournment unless enacted as emergencies; and
+17 Whereas, certain veterans are exempt from motor vehicle registration fees and excise
+18 tax, and 100% disabled veterans may be issued, at no cost, a motor vehicle registration
+19 certificate and special designating license plate and to ensure certain veterans benefit from
+20 the excise tax exemption and free motor vehicle registration; and
+21 Whereas, in the judgment of the Legislature, these facts create an emergency within
+22 the meaning of the Constitution of Maine and require the following legislation as
+23 immediately necessary for the preservation of the public peace, health and safety; now,
+24 therefore,'
+25 Amend the bill by striking out everything after the enacting clause and inserting the
+26 following:
+27 'Sec. 1. 29-A MRSA §523, sub-§2, as amended by PL 2023, c. 634, §8, is further
+28 amended to read:
+29 2. Disabled veterans; special free license plates. The Secretary of State, on
+30 application and upon evidence of payment of the excise tax required by Title 36, section
+31 1482 or upon evidence of exemption from excise tax under Title 36, section 1483,
+32 subsection 12, shall issue, with no annual registration fee, a registration certificate and upon
+33 request special designating plates to be used in lieu of regular registration plates for a
+34 vehicle with a registered gross weight of not more than 26,000 pounds to any 100%
+Page 1 - 132LR0814(02)
+COMMITTEE AMENDMENT
+COMMITTEE AMENDMENT “ ” to H.P. 1039, L.D. 1581
+315 disabled veteran when that application is accompanied by certification from the United
+326 States Department of Veterans Affairs or any branch of the United States Armed Forces as
+337 to the veteran's permanent disability and receipt of 100% service-connected benefits. Upon
+348 request a disability placard may be issued at no fee. The Secretary of State may issue a
+359 registration certificate and special designating plates for no more than one vehicle 3
+460 vehicles owned by a veteran eligible under this subsection.
+7 These special designating plates must bear the words "Disabled Veteran," which indicate
+8 that the vehicle is owned by a disabled veteran.
+9 Sec. 2. 36 MRSA §1483, sub-§12, as amended by PL 2021, c. 240, §1, is further
+10 amended to read:
+11 12. Certain veterans. Automobiles owned by veterans who are granted free
+12 registration of those vehicles by the Secretary of State under Title 29‑A, section 523,
+13 subsection 1 or 2 or who are disabled by injury or disease incurred or aggravated during
+14 active military service in the line of duty and are receiving any form of pension or
+15 compensation from the United States Government for total, service-connected disability.
+16 A maximum of 3 automobiles owned by a veteran are exempt from the excise tax. In order
+17 for an automobile to qualify for an exemption from the excise tax under this subsection,
+18 the name of the qualifying veteran must appear on the automobile's certificate of title. If
+19 there are multiple owners of an automobile, at least one of the owners whose name appears
+20 on the certificate of title must meet the requirements of this subsection in order for the
+21 automobile to qualify for the exemption;'
+22 Amend the bill by adding before the summary the following:
+23 'Emergency clause. In view of the emergency cited in the preamble, this legislation
+24 takes effect when approved.'
+25 Amend the bill by relettering or renumbering any nonconsecutive Part letter or section
+26 number to read consecutively.
+27 SUMMARY
+2288 This amendment specifies that a maximum of 3 automobiles owned by a veteran are
+2299 eligible for exemption from registration fees and the excise tax.
+30 The amendment also adds an emergency preamble and emergency clause to the bill.
+Page 2 - 132LR0814(02)
+COMMITTEE AMENDMENT
+[DELETED: LD:(RC0t1A2'3f4A5' 6b7 8t9c0t1 2t m o t C o M a r t f l a3i4t5A6f7' 8a92  D v s f l p  T S o S o0a11 o u e o e f e t u T 3 s 12s3r4v w a r g w o n m t 2 p t a 1]
+[DELETED: 5d6S7t8r9r c a s d p f n m t o v 30vTt 0a11  C v  A o b v w a g f2r3s4a m s i t l o d a a r a f o p o5c6A7f8t9t0o1a2A3'I4t5A6n8T9e0T]
+
+
+================================================================================
+
+Raw Text:
+1 L.D. 1581
+2 Date: (Filing No. H- )
+3 TRANSPORTATION
+4 Reproduced and distributed under the direction of the Clerk of the House.
+5 STATE OF MAINE
+6 HOUSE OF REPRESENTATIVES
+7 132ND LEGISLATURE
+8 FIRST SPECIAL SESSION
+9 COMMITTEE AMENDMENT “ ” to H.P. 1039, L.D. 1581, “An Act Regarding
+10 the Motor Vehicle Excise Tax Exemption for Certain Veterans”
+11 Amend the bill by striking out the title and substituting the following:
+12 'An Act Regarding the Motor Vehicle Excise Tax and Registration Fees Exemption
+13 for Certain Veterans'
+14 Amend the bill by inserting after the title and before the enacting clause the following:
+15 'Emergency preamble. Whereas, acts and resolves of the Legislature do not
+16 become effective until 90 days after adjournment unless enacted as emergencies; and
+17 Whereas, certain veterans are exempt from motor vehicle registration fees and excise
+18 tax, and 100% disabled veterans may be issued, at no cost, a motor vehicle registration
+19 certificate and special designating license plate and to ensure certain veterans benefit from
+20 the excise tax exemption and free motor vehicle registration; and
+21 Whereas, in the judgment of the Legislature, these facts create an emergency within
+22 the meaning of the Constitution of Maine and require the following legislation as
+23 immediately necessary for the preservation of the public peace, health and safety; now,
+24 therefore,'
+25 Amend the bill by striking out everything after the enacting clause and inserting the
+26 following:
+27 'Sec. 1. 29-A MRSA §523, sub-§2, as amended by PL 2023, c. 634, §8, is further
+28 amended to read:
+29 2. Disabled veterans; special free license plates. The Secretary of State, on
+30 application and upon evidence of payment of the excise tax required by Title 36, section
+31 1482 or upon evidence of exemption from excise tax under Title 36, section 1483,
+32 subsection 12, shall issue, with no annual registration fee, a registration certificate and upon
+33 request special designating plates to be used in lieu of regular registration plates for a
+34 vehicle with a registered gross weight of not more than 26,000 pounds to any 100%
+Page 1 - 132LR0814(02)
+COMMITTEE AMENDMENT
+
+COMMITTEE AMENDMENT “ ” to H.P. 1039, L.D. 1581
+315 disabled veteran when that application is accompanied by certification from the United
+326 States Department of Veterans Affairs or any branch of the United States Armed Forces as
+337 to the veteran's permanent disability and receipt of 100% service-connected benefits. Upon
+348 request a disability placard may be issued at no fee. The Secretary of State may issue a
+359 registration certificate and special designating plates for no more than one vehicle 3
+460 vehicles owned by a veteran eligible under this subsection.
+7 These special designating plates must bear the words "Disabled Veteran," which indicate
+8 that the vehicle is owned by a disabled veteran.
+9 Sec. 2. 36 MRSA §1483, sub-§12, as amended by PL 2021, c. 240, §1, is further
+10 amended to read:
+11 12. Certain veterans. Automobiles owned by veterans who are granted free
+12 registration of those vehicles by the Secretary of State under Title 29‑A, section 523,
+13 subsection 1 or 2 or who are disabled by injury or disease incurred or aggravated during
+14 active military service in the line of duty and are receiving any form of pension or
+15 compensation from the United States Government for total, service-connected disability.
+16 A maximum of 3 automobiles owned by a veteran are exempt from the excise tax. In order
+17 for an automobile to qualify for an exemption from the excise tax under this subsection,
+18 the name of the qualifying veteran must appear on the automobile's certificate of title. If
+19 there are multiple owners of an automobile, at least one of the owners whose name appears
+20 on the certificate of title must meet the requirements of this subsection in order for the
+21 automobile to qualify for the exemption;'
+22 Amend the bill by adding before the summary the following:
+23 'Emergency clause. In view of the emergency cited in the preamble, this legislation
+24 takes effect when approved.'
+25 Amend the bill by relettering or renumbering any nonconsecutive Part letter or section
+26 number to read consecutively.
+27 SUMMARY
+2288 This amendment specifies that a maximum of 3 automobiles owned by a veteran are
+2299 eligible for exemption from registration fees and the excise tax.
+30 The amendment also adds an emergency preamble and emergency clause to the bill.
+Page 2 - 132LR0814(02)
+COMMITTEE AMENDMENT
+
+[DELETED: LD:(RC0t1A2'3f4A5' 6b7 8t9c0t1 2t m o t C o M a r t f l a3i4t5A6f7' 8a92  D v s f l p  T S o S o0a11 o u e o e f e t u T 3 s 12s3r4v w a r g w o n m t 2 p t a 1]
+[DELETED: 5d6S7t8r9r c a s d p f n m t o v 30vTt 0a11  C v  A o b v w a g f2r3s4a m s i t l o d a a r a f o p o5c6A7f8t9t0o1a2A3'I4t5A6n8T9e0T]

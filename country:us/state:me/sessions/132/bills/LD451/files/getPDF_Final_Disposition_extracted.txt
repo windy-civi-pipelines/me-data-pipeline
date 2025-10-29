@@ -1,0 +1,108 @@
+Title: 4 Reproduced and distributed under the direction of the Clerk of the House.
+Official Title: 4 Reproduced and distributed under the direction of the Clerk of the House.
+Number of Sections: 1
+Source: versions - Final Disposition
+Media Type: application/pdf
+Strikethrough Detection: 2 sections found
+
+================================================================================
+
+Section 1:
+1 L.D. 451
+2 Date: (Filing No. H- )
+3 ENERGY, UTILITIES AND TECHNOLOGY
+5 STATE OF MAINE
+6 HOUSE OF REPRESENTATIVES
+7 132ND LEGISLATURE
+8 FIRST SPECIAL SESSION
+9 COMMITTEE AMENDMENT “ ” to H.P. 305, L.D. 451, “An Act to Require
+10 Testing of Solar and Wind Energy Developments for Perfluoroalkyl and Polyfluoroalkyl
+11 Substances Contamination”
+12 Amend the bill in section 1 in c. 44-A in §4421 in subsection 4 in the 3rd line (page 1,
+13 line 17 in L.D.) by inserting after the following: "generator" the following: ', except that
+14 "solar energy development" does not include a solar energy system with a nameplate
+15 capacity of 100 kilowatts or less that is collocated with a residential customer'
+16 Amend the bill by inserting after section 1 the following:
+17 'Sec. 2. Appropriations and allocations. The following appropriations and
+18 allocations are made.
+19 ENVIRONMENTAL PROTECTION, DEPARTMENT OF
+20 Remediation and Waste Management 0247
+21 Initiative: Provides funding for 4 Hydrogeologist positions, 4 Environmental Specialist II
+22 positions and one Senior Environmental Hydrogeologist position and associated All Other
+23 costs.
+24 GENERAL FUND 2025-26 2026-27
+25 POSITIONS - LEGISLATIVE COUNT 9.000 9.000
+26 Personal Services $998,304 $1,076,003
+27 All Other $45,000 $45,000
+28 __________ __________
+29 GENERAL FUND TOTAL $1,043,304 $1,121,003
+3204 '
+31 Amend the bill by relettering or renumbering any nonconsecutive Part letter or section
+32 number to read consecutively.
+Page 1 - 132LR0444(02)
+COMMITTEE AMENDMENT
+COMMITTEE AMENDMENT “ ” to H.P. 305, L.D. 451
+1 SUMMARY
+22 This amendment changes the definition of "solar energy development" to except from
+33 the requirements of the bill solar energy systems with a nameplate capacity of 100 kilowatts
+44 or less that are collocated with a residential customer. The amendment also adds an
+55 appropriations and allocations section.
+66 FISCAL NOTE REQUIRED
+77 (See attached)
+Page 2 - 132LR0444(02)
+COMMITTEE AMENDMENT
+[DELETED: LD:(RC0T1S2A3l4"5c6A7'  T f a a 2  A a a8a9E0R1I2p3cD262T909s$4$r$0$___L$4$41A2n]
+[DELETED: TtoaF(]
+
+
+================================================================================
+
+Raw Text:
+1 L.D. 451
+2 Date: (Filing No. H- )
+3 ENERGY, UTILITIES AND TECHNOLOGY
+4 Reproduced and distributed under the direction of the Clerk of the House.
+5 STATE OF MAINE
+6 HOUSE OF REPRESENTATIVES
+7 132ND LEGISLATURE
+8 FIRST SPECIAL SESSION
+9 COMMITTEE AMENDMENT “ ” to H.P. 305, L.D. 451, “An Act to Require
+10 Testing of Solar and Wind Energy Developments for Perfluoroalkyl and Polyfluoroalkyl
+11 Substances Contamination”
+12 Amend the bill in section 1 in c. 44-A in §4421 in subsection 4 in the 3rd line (page 1,
+13 line 17 in L.D.) by inserting after the following: "generator" the following: ', except that
+14 "solar energy development" does not include a solar energy system with a nameplate
+15 capacity of 100 kilowatts or less that is collocated with a residential customer'
+16 Amend the bill by inserting after section 1 the following:
+17 'Sec. 2. Appropriations and allocations. The following appropriations and
+18 allocations are made.
+19 ENVIRONMENTAL PROTECTION, DEPARTMENT OF
+20 Remediation and Waste Management 0247
+21 Initiative: Provides funding for 4 Hydrogeologist positions, 4 Environmental Specialist II
+22 positions and one Senior Environmental Hydrogeologist position and associated All Other
+23 costs.
+24 GENERAL FUND 2025-26 2026-27
+25 POSITIONS - LEGISLATIVE COUNT 9.000 9.000
+26 Personal Services $998,304 $1,076,003
+27 All Other $45,000 $45,000
+28 __________ __________
+29 GENERAL FUND TOTAL $1,043,304 $1,121,003
+3204 '
+31 Amend the bill by relettering or renumbering any nonconsecutive Part letter or section
+32 number to read consecutively.
+Page 1 - 132LR0444(02)
+COMMITTEE AMENDMENT
+
+COMMITTEE AMENDMENT “ ” to H.P. 305, L.D. 451
+1 SUMMARY
+22 This amendment changes the definition of "solar energy development" to except from
+33 the requirements of the bill solar energy systems with a nameplate capacity of 100 kilowatts
+44 or less that are collocated with a residential customer. The amendment also adds an
+55 appropriations and allocations section.
+66 FISCAL NOTE REQUIRED
+77 (See attached)
+Page 2 - 132LR0444(02)
+COMMITTEE AMENDMENT
+
+[DELETED: LD:(RC0T1S2A3l4"5c6A7'  T f a a 2  A a a8a9E0R1I2p3cD262T909s$4$r$0$___L$4$41A2n]
+[DELETED: TtoaF(]
