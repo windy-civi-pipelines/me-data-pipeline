@@ -1,0 +1,298 @@
+Title: 4 Reproduced and distributed under the direction of the Secretary of the Senate.
+Official Title: 4 Reproduced and distributed under the direction of the Secretary of the Senate.
+Number of Sections: 1
+Source: versions - Adopted Amendments
+Media Type: application/pdf
+Strikethrough Detection: 4 sections found
+
+================================================================================
+
+Section 1:
+1 L.D. 981
+2 Date: (Filing No. S- )
+3 CRIMINAL JUSTICE AND PUBLIC SAFETY
+5 STATE OF MAINE
+6 SENATE
+7 132ND LEGISLATURE
+8 FIRST SPECIAL SESSION
+9 COMMITTEE AMENDMENT “ ” to S.P. 408, L.D. 981, “An Act to Provide
+10 Electronic Notification to Victims of Crimes”
+11 Amend the bill by striking out the title and substituting the following:
+12 'An Act to Facilitate the Establishment of an Automated Crime Victim Notification
+13 System'
+14 Amend the bill by striking out everything after the enacting clause and inserting the
+15 following:
+16 'Sec. 1. 17-A MRSA §2107-A is enacted to read:
+17 §2107-A. Automated crime victim notification system; minimum requirements
+18 A facility that is required by section 2106 to provide notification to a victim of a
+19 defendant's release or escape or that is required by section 2107 to provide notification to
+20 a victim of a defendant's release on preconviction bail and that provides such notification
+21 using an automated crime victim notification system shall ensure that:
+22 1. Optional use of automated system. A victim is not required to receive the
+23 notifications under section 2106 or 2107 using the automated crime victim notification
+24 system and may elect to receive the notification through other methods specified in section
+25 2106 or 2107;
+26 2. Disclosure of protected information. The automated crime victim notification
+27 system is designed to protect from disclosure the name, contact information and any other
+28 personally identifying information about a victim who registers to use the system except
+29 disclosure:
+30 A. To a sexual assault counselor, as defined in Title 16, section 53-A, subsection 1,
+31 paragraph B;
+32 B. To a domestic violence advocate, as defined in Title 16, section 53-B, subsection
+33 1, paragraph A-4;
+Page 1 - 132LR0739(02)
+COMMITTEE AMENDMENT
+COMMITTEE AMENDMENT “ ” to S.P. 408, L.D. 981
+1 C. To a victim witness advocate, as defined in Title 16, section 53-C, subsection 1,
+2 paragraph C; or
+3 D. Pursuant to law, court rule, court decision or court order specifically providing for
+4 the disclosure of such information.
+5 The facility shall ensure that any vendor or entity it contracts with to develop, implement
+6 or administer the system has implemented necessary policies or protocols to ensure that the
+7 vendor or entity protects from disclosure the victim information described in this
+8 subsection, except as specified in paragraphs A to C;
+9 3. Policies and protocols required. The facility establishes and makes publicly
+10 available written policies or protocols regarding the implementation and use of the
+11 automated crime victim notification system within the facility, which must include, but are
+12 not limited to, a plan for responding to any planned or unplanned system outages or
+13 inaccurate notifications and the process by which the facility will address complaints
+14 received from victims regarding the system; and
+15 4. Staffing. Appropriate staffing is available to respond to communications from
+16 victims regarding notifications received using the automated crime victim notification
+17 system.
+18 Sec. 2. Establishment of automated crime victim notification system.
+19 County sheriffs, collectively through a statewide association of sheriffs, shall establish an
+20 automated crime victim notification system for use in jails, county correctional facilities
+21 and regional correctional facilities. The system under this section must be designed to
+22 provide victims and other registrants the option of receiving automated notices of
+23 information available to victims pursuant to the Maine Revised Statutes, Title 17-A,
+24 sections 2106 and 2107. In developing, maintaining and administering the system under
+25 this section, the sheriffs, collectively through a statewide association of sheriffs, may
+26 contract with an entity that develops or offers commercial, real-time automated crime
+27 victim notification systems.
+28 Sec. 3. Automated crime victim notification system advisory committee;
+29 report. County sheriffs, collectively through a statewide association of sheriffs, shall
+30 convene an automated crime victim notification system advisory committee to support,
+31 coordinate and monitor the implementation of the automated crime victim notification
+32 system required by section 2. The advisory committee under this section must include
+33 representatives from a statewide association of sheriffs, a statewide coalition of domestic
+34 violence prevention projects, a statewide coalition of sexual assault support centers and the
+35 Office of Victim Services within the Department of Corrections; may invite the
+36 participation of other members as appropriate; may consult with other individuals, agencies
+37 or organizations as necessary to support its work; shall meet at least monthly; and shall, at
+38 a minimum, review and develop findings and recommendations regarding the following
+39 matters:
+40 1. The resources included or proposed for inclusion in the directory of community-
+41 based support services;
+42 2. The gaps or challenges experienced by crime victims who may elect to register or
+43 are registered to use the automated crime victim notification system required by section 2
+44 as that system is implemented and refined; and
+Page 2 - 132LR0739(02)
+COMMITTEE AMENDMENT
+COMMITTEE AMENDMENT “ ” to S.P. 408, L.D. 981
+1 3. Any other recommendations regarding the implementation and maintenance of that
+2 system.
+3 On or before November 4, 2026, the sheriffs, collectively through a statewide
+4 association of sheriffs, shall submit a report outlining the findings and recommendations
+5 of the advisory committee to the joint standing committee of the Legislature having
+6 jurisdiction over criminal justice and public safety matters. The report must, at a minimum,
+7 include an overview of the implementation of the automated crime victim notification
+8 system required by section 2, the recommendations regarding implementation of that
+9 system made by the advisory committee, the status of the implementation of any such
+10 recommendations and any other recommendations for further implementation and
+11 sustainability of the system, including recommendations for addressing ongoing costs
+12 associated with the system. After reviewing the report, the committee may report out
+13 legislation relating to the report to the 133rd Legislature in 2027.
+14 Sec. 4. Appropriations and allocations. The following appropriations and
+15 allocations are made.
+16 CORRECTIONS, DEPARTMENT OF
+17 Administration - Corrections 0141
+18 Initiative: Provides one-time funding to support activities by county sheriffs, collectively
+19 through a statewide association of sheriffs, to develop, support and maintain an automated
+20 crime victim notification system to be used in jails, county correctional facilities and
+21 regional correctional facilities.
+22 GENERAL FUND 2025-26 2026-27
+23 All Other $244,000 $124,000
+24 __________ __________
+25 GENERAL FUND TOTAL $244,000 $124,000
+2262 '
+27 Amend the bill by relettering or renumbering any nonconsecutive Part letter or section
+28 number to read consecutively.
+29 SUMMARY
+3300 This amendment replaces the bill and changes the title. It establishes minimum
+3311 standards to be implemented by any facility that is required by the Maine Revised Statutes,
+3322 Title 17-A, section 2106 to provide notification to a victim of a defendant's release or
+3333 escape or that is required by Title 17-A, section 2107 to provide notification to a victim of
+3344 a defendant's release on preconviction bail and that provides such notification using an
+3355 automated crime victim notification system. It directs county sheriffs, collectively through
+3366 a statewide association of sheriffs, to establish an automated crime victim notification
+3377 system for use in jails, county correctional facilities and regional correctional facilities,
+3388 which must be designed to provide victims and other registrants the option of receiving
+3399 automated notices of information available to victims pursuant to Title 17-A, sections 2106
+4400 and 2107. It directs the sheriffs, collectively through a statewide association of sheriffs, to
+4411 convene an advisory committee to support, coordinate and monitor the implementation of
+4422 that automated crime victim notification system. On or before November 4, 2026, the
+4433 sheriffs, collectively through a statewide association of sheriffs, are required to submit a
+Page 3 - 132LR0739(02)
+COMMITTEE AMENDMENT
+COMMITTEE AMENDMENT “ ” to S.P. 408, L.D. 981
+414 report outlining the findings and recommendations of that advisory committee to the joint
+425 standing committee of the Legislature having jurisdiction over criminal justice and public
+436 safety matters, which may report out legislation related to the report.
+447 FISCAL NOTE REQUIRED
+458 (See attached)
+Page 4 - 132LR0739(02)
+COMMITTEE AMENDMENT
+[DELETED: LD:(RC A “ t S 4 L 9 “ A t P0E1A2'3S4A5f6' 7§8A9d0a1u21  O u o a s  A v i n r t r t3n4s52627s8p9d0A1p2B31]
+[DELETED: CpDtTov o e p f d t v i d i ts30a w p o p r t i a u o t1a2n l t a p f r t a p o u s o o3i n a t p b w t f w a c4r546v r n r u t a c v n7s8  2  E o a c v n s9C0a1a2p v a o r t o o r a n o3i a t v p t t M R S T 14s5t s t s c t a s a o s m6c7v9 0c1c2s3r4v5O o V S w t D o C m i t6p7o8a9m011b223a4a]
+[DELETED: 3sO o b N 4 2 t s c t a sao t a c t t j s c o t L hjis r b s 2 t r r i o ts0r a a o r f f i a1s o t s i r f a o c2a3l4  T f a a 4  A a a5a6C7A8I9t0c v n s t b u i j c c f a1rD262r$0$___L$0$27A8n0T a r t b a c t t  I e m1s2T3e4a5a6a7s8w9a0a1c2t3s]
+[DELETED: 4r5s6s7F8(]
+
+
+================================================================================
+
+Raw Text:
+1 L.D. 981
+2 Date: (Filing No. S- )
+3 CRIMINAL JUSTICE AND PUBLIC SAFETY
+4 Reproduced and distributed under the direction of the Secretary of the Senate.
+5 STATE OF MAINE
+6 SENATE
+7 132ND LEGISLATURE
+8 FIRST SPECIAL SESSION
+9 COMMITTEE AMENDMENT “ ” to S.P. 408, L.D. 981, “An Act to Provide
+10 Electronic Notification to Victims of Crimes”
+11 Amend the bill by striking out the title and substituting the following:
+12 'An Act to Facilitate the Establishment of an Automated Crime Victim Notification
+13 System'
+14 Amend the bill by striking out everything after the enacting clause and inserting the
+15 following:
+16 'Sec. 1. 17-A MRSA §2107-A is enacted to read:
+17 §2107-A. Automated crime victim notification system; minimum requirements
+18 A facility that is required by section 2106 to provide notification to a victim of a
+19 defendant's release or escape or that is required by section 2107 to provide notification to
+20 a victim of a defendant's release on preconviction bail and that provides such notification
+21 using an automated crime victim notification system shall ensure that:
+22 1. Optional use of automated system. A victim is not required to receive the
+23 notifications under section 2106 or 2107 using the automated crime victim notification
+24 system and may elect to receive the notification through other methods specified in section
+25 2106 or 2107;
+26 2. Disclosure of protected information. The automated crime victim notification
+27 system is designed to protect from disclosure the name, contact information and any other
+28 personally identifying information about a victim who registers to use the system except
+29 disclosure:
+30 A. To a sexual assault counselor, as defined in Title 16, section 53-A, subsection 1,
+31 paragraph B;
+32 B. To a domestic violence advocate, as defined in Title 16, section 53-B, subsection
+33 1, paragraph A-4;
+Page 1 - 132LR0739(02)
+COMMITTEE AMENDMENT
+
+COMMITTEE AMENDMENT “ ” to S.P. 408, L.D. 981
+1 C. To a victim witness advocate, as defined in Title 16, section 53-C, subsection 1,
+2 paragraph C; or
+3 D. Pursuant to law, court rule, court decision or court order specifically providing for
+4 the disclosure of such information.
+5 The facility shall ensure that any vendor or entity it contracts with to develop, implement
+6 or administer the system has implemented necessary policies or protocols to ensure that the
+7 vendor or entity protects from disclosure the victim information described in this
+8 subsection, except as specified in paragraphs A to C;
+9 3. Policies and protocols required. The facility establishes and makes publicly
+10 available written policies or protocols regarding the implementation and use of the
+11 automated crime victim notification system within the facility, which must include, but are
+12 not limited to, a plan for responding to any planned or unplanned system outages or
+13 inaccurate notifications and the process by which the facility will address complaints
+14 received from victims regarding the system; and
+15 4. Staffing. Appropriate staffing is available to respond to communications from
+16 victims regarding notifications received using the automated crime victim notification
+17 system.
+18 Sec. 2. Establishment of automated crime victim notification system.
+19 County sheriffs, collectively through a statewide association of sheriffs, shall establish an
+20 automated crime victim notification system for use in jails, county correctional facilities
+21 and regional correctional facilities. The system under this section must be designed to
+22 provide victims and other registrants the option of receiving automated notices of
+23 information available to victims pursuant to the Maine Revised Statutes, Title 17-A,
+24 sections 2106 and 2107. In developing, maintaining and administering the system under
+25 this section, the sheriffs, collectively through a statewide association of sheriffs, may
+26 contract with an entity that develops or offers commercial, real-time automated crime
+27 victim notification systems.
+28 Sec. 3. Automated crime victim notification system advisory committee;
+29 report. County sheriffs, collectively through a statewide association of sheriffs, shall
+30 convene an automated crime victim notification system advisory committee to support,
+31 coordinate and monitor the implementation of the automated crime victim notification
+32 system required by section 2. The advisory committee under this section must include
+33 representatives from a statewide association of sheriffs, a statewide coalition of domestic
+34 violence prevention projects, a statewide coalition of sexual assault support centers and the
+35 Office of Victim Services within the Department of Corrections; may invite the
+36 participation of other members as appropriate; may consult with other individuals, agencies
+37 or organizations as necessary to support its work; shall meet at least monthly; and shall, at
+38 a minimum, review and develop findings and recommendations regarding the following
+39 matters:
+40 1. The resources included or proposed for inclusion in the directory of community-
+41 based support services;
+42 2. The gaps or challenges experienced by crime victims who may elect to register or
+43 are registered to use the automated crime victim notification system required by section 2
+44 as that system is implemented and refined; and
+Page 2 - 132LR0739(02)
+COMMITTEE AMENDMENT
+
+COMMITTEE AMENDMENT “ ” to S.P. 408, L.D. 981
+1 3. Any other recommendations regarding the implementation and maintenance of that
+2 system.
+3 On or before November 4, 2026, the sheriffs, collectively through a statewide
+4 association of sheriffs, shall submit a report outlining the findings and recommendations
+5 of the advisory committee to the joint standing committee of the Legislature having
+6 jurisdiction over criminal justice and public safety matters. The report must, at a minimum,
+7 include an overview of the implementation of the automated crime victim notification
+8 system required by section 2, the recommendations regarding implementation of that
+9 system made by the advisory committee, the status of the implementation of any such
+10 recommendations and any other recommendations for further implementation and
+11 sustainability of the system, including recommendations for addressing ongoing costs
+12 associated with the system. After reviewing the report, the committee may report out
+13 legislation relating to the report to the 133rd Legislature in 2027.
+14 Sec. 4. Appropriations and allocations. The following appropriations and
+15 allocations are made.
+16 CORRECTIONS, DEPARTMENT OF
+17 Administration - Corrections 0141
+18 Initiative: Provides one-time funding to support activities by county sheriffs, collectively
+19 through a statewide association of sheriffs, to develop, support and maintain an automated
+20 crime victim notification system to be used in jails, county correctional facilities and
+21 regional correctional facilities.
+22 GENERAL FUND 2025-26 2026-27
+23 All Other $244,000 $124,000
+24 __________ __________
+25 GENERAL FUND TOTAL $244,000 $124,000
+2262 '
+27 Amend the bill by relettering or renumbering any nonconsecutive Part letter or section
+28 number to read consecutively.
+29 SUMMARY
+3300 This amendment replaces the bill and changes the title. It establishes minimum
+3311 standards to be implemented by any facility that is required by the Maine Revised Statutes,
+3322 Title 17-A, section 2106 to provide notification to a victim of a defendant's release or
+3333 escape or that is required by Title 17-A, section 2107 to provide notification to a victim of
+3344 a defendant's release on preconviction bail and that provides such notification using an
+3355 automated crime victim notification system. It directs county sheriffs, collectively through
+3366 a statewide association of sheriffs, to establish an automated crime victim notification
+3377 system for use in jails, county correctional facilities and regional correctional facilities,
+3388 which must be designed to provide victims and other registrants the option of receiving
+3399 automated notices of information available to victims pursuant to Title 17-A, sections 2106
+4400 and 2107. It directs the sheriffs, collectively through a statewide association of sheriffs, to
+4411 convene an advisory committee to support, coordinate and monitor the implementation of
+4422 that automated crime victim notification system. On or before November 4, 2026, the
+4433 sheriffs, collectively through a statewide association of sheriffs, are required to submit a
+Page 3 - 132LR0739(02)
+COMMITTEE AMENDMENT
+
+COMMITTEE AMENDMENT “ ” to S.P. 408, L.D. 981
+414 report outlining the findings and recommendations of that advisory committee to the joint
+425 standing committee of the Legislature having jurisdiction over criminal justice and public
+436 safety matters, which may report out legislation related to the report.
+447 FISCAL NOTE REQUIRED
+458 (See attached)
+Page 4 - 132LR0739(02)
+COMMITTEE AMENDMENT
+
+[DELETED: LD:(RC A “ t S 4 L 9 “ A t P0E1A2'3S4A5f6' 7§8A9d0a1u21  O u o a s  A v i n r t r t3n4s52627s8p9d0A1p2B31]
+[DELETED: CpDtTov o e p f d t v i d i ts30a w p o p r t i a u o t1a2n l t a p f r t a p o u s o o3i n a t p b w t f w a c4r546v r n r u t a c v n7s8  2  E o a c v n s9C0a1a2p v a o r t o o r a n o3i a t v p t t M R S T 14s5t s t s c t a s a o s m6c7v9 0c1c2s3r4v5O o V S w t D o C m i t6p7o8a9m011b223a4a]
+[DELETED: 3sO o b N 4 2 t s c t a sao t a c t t j s c o t L hjis r b s 2 t r r i o ts0r a a o r f f i a1s o t s i r f a o c2a3l4  T f a a 4  A a a5a6C7A8I9t0c v n s t b u i j c c f a1rD262r$0$___L$0$27A8n0T a r t b a c t t  I e m1s2T3e4a5a6a7s8w9a0a1c2t3s]
+[DELETED: 4r5s6s7F8(]

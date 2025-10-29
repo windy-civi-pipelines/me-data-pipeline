@@ -1,0 +1,87 @@
+Title: 4 Reproduced and distributed under the direction of the Secretary of the Senate.
+Official Title: 4 Reproduced and distributed under the direction of the Secretary of the Senate.
+Number of Sections: 1
+Source: versions - Adopted Amendments
+Media Type: application/pdf
+Strikethrough Detection: 1 sections found
+
+================================================================================
+
+Section 1:
+1 L.D. 1642
+2 Date: (Filing No. S- )
+3 HOUSING AND ECONOMIC DEVELOPMENT
+5 STATE OF MAINE
+6 SENATE
+7 132ND LEGISLATURE
+8 FIRST SPECIAL SESSION
+9 COMMITTEE AMENDMENT “ ” to S.P. 650, L.D. 1642, “An Act to Protect
+10 Maine Consumers by Simplifying Subscription Cancellations”
+11 Amend the bill in section 4 in subsection 3 in the 6th line (page 2, line 6 in L.D.) by
+12 striking out the following: "fewer" and inserting the following: 'more'
+13 Amend the bill in section 4 in subsection 3 in the 6th and 7th lines (page 2, lines 6 and
+14 7 in L.D.) by striking out the following: "and no more than 60 days before the cancellation
+15 deadline" and inserting the following: 'and no more than 60 days before the cancellation
+16 deadline'
+17 Amend the bill in section 4 in subsection 3 in the 9th line (page 2, line 9 in L.D.) by
+18 inserting after the following: "notice" the following: 'before the renewal date'
+19 Amend the bill in section 4 in subsection 3 in the 10th line (page 2, line 10 in L.D.) by
+20 striking out the following: "must" and inserting the following: 'shall'
+21 Amend the bill in section 5 in subsection 1 in the first line (page 2, line 17 in L.D.) by
+22 striking out the following: "section" and inserting the following: 'section chapter'
+23 Amend the bill in section 5 in subsection 1 in the 2nd and 3rd lines (page 2, lines 18
+24 and 19 in L.D.) by striking out the following: "damages or penalties" and inserting the
+25 following: 'remedies'
+26 Amend the bill by relettering or renumbering any nonconsecutive Part letter or section
+27 number to read consecutively.
+28 SUMMARY
+2299 This amendment, which is the majority report of the committee, requires a seller to
+3300 provide notice of an extended automatic subscription renewal to a consumer no more than
+3311 30 days before the renewal date. The amendment also makes technical changes.
+3322 FISCAL NOTE REQUIRED
+3333 (See attached)
+Page 1 - 132LR1505(02)
+COMMITTEE AMENDMENT
+[DELETED: LD:(RC0M1A2s3A475d6d7A8i9A0s1A2s3A4a5f6A7n9T0p132F3(]
+
+
+================================================================================
+
+Raw Text:
+1 L.D. 1642
+2 Date: (Filing No. S- )
+3 HOUSING AND ECONOMIC DEVELOPMENT
+4 Reproduced and distributed under the direction of the Secretary of the Senate.
+5 STATE OF MAINE
+6 SENATE
+7 132ND LEGISLATURE
+8 FIRST SPECIAL SESSION
+9 COMMITTEE AMENDMENT “ ” to S.P. 650, L.D. 1642, “An Act to Protect
+10 Maine Consumers by Simplifying Subscription Cancellations”
+11 Amend the bill in section 4 in subsection 3 in the 6th line (page 2, line 6 in L.D.) by
+12 striking out the following: "fewer" and inserting the following: 'more'
+13 Amend the bill in section 4 in subsection 3 in the 6th and 7th lines (page 2, lines 6 and
+14 7 in L.D.) by striking out the following: "and no more than 60 days before the cancellation
+15 deadline" and inserting the following: 'and no more than 60 days before the cancellation
+16 deadline'
+17 Amend the bill in section 4 in subsection 3 in the 9th line (page 2, line 9 in L.D.) by
+18 inserting after the following: "notice" the following: 'before the renewal date'
+19 Amend the bill in section 4 in subsection 3 in the 10th line (page 2, line 10 in L.D.) by
+20 striking out the following: "must" and inserting the following: 'shall'
+21 Amend the bill in section 5 in subsection 1 in the first line (page 2, line 17 in L.D.) by
+22 striking out the following: "section" and inserting the following: 'section chapter'
+23 Amend the bill in section 5 in subsection 1 in the 2nd and 3rd lines (page 2, lines 18
+24 and 19 in L.D.) by striking out the following: "damages or penalties" and inserting the
+25 following: 'remedies'
+26 Amend the bill by relettering or renumbering any nonconsecutive Part letter or section
+27 number to read consecutively.
+28 SUMMARY
+2299 This amendment, which is the majority report of the committee, requires a seller to
+3300 provide notice of an extended automatic subscription renewal to a consumer no more than
+3311 30 days before the renewal date. The amendment also makes technical changes.
+3322 FISCAL NOTE REQUIRED
+3333 (See attached)
+Page 1 - 132LR1505(02)
+COMMITTEE AMENDMENT
+
+[DELETED: LD:(RC0M1A2s3A475d6d7A8i9A0s1A2s3A4a5f6A7n9T0p132F3(]

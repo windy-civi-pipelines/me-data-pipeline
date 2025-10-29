@@ -1,0 +1,87 @@
+Title: 4 Reproduced and distributed under the direction of the Clerk of the House.
+Official Title: 4 Reproduced and distributed under the direction of the Clerk of the House.
+Number of Sections: 1
+Source: versions - Adopted Amendments
+Media Type: application/pdf
+Strikethrough Detection: 1 sections found
+
+================================================================================
+
+Section 1:
+1 L.D. 1074
+2 Date: (Filing No. H- )
+3 CRIMINAL JUSTICE AND PUBLIC SAFETY
+5 STATE OF MAINE
+6 HOUSE OF REPRESENTATIVES
+7 132ND LEGISLATURE
+8 FIRST SPECIAL SESSION
+9 COMMITTEE AMENDMENT “ ” to H.P. 696, L.D. 1074, “An Act to Remove the
+10 Limit on the Length of Probation That May Be Served for Aggravated Attempted Murder”
+11 Amend the bill by inserting before section 1 the following:
+12 'Sec. 1. 17-A MRSA §152-A, sub-§2, as amended by PL 2019, c. 113, Pt. C, §58,
+13 is further amended to read:
+14 2. Aggravated attempted murder is a Class A crime except that, notwithstanding
+15 section 1604, subsection 1, paragraph A, the sentence for aggravated attempted murder is
+16 imprisonment for life or a definite period of imprisonment for any term of years. The
+17 existence of an aggravating circumstance serves only as a precondition for the court to
+18 consider a life sentence. The court also may impose as part of the sentence a period of
+19 probation of any term of years pursuant to section 1804, subsection 4-A.'
+20 Amend the bill by inserting after section 1 the following:
+21 'Sec. 2. 17-A MRSA §1804, sub-§4, as enacted by PL 2019, c. 113, Pt. A, §2, is
+22 amended to read:
+23 4. Exception to limits when person sentenced as repeat sexual assault offender.
+24 The period of probation for a person sentenced as a repeat sexual assault offender pursuant
+25 to section 253‑A, subsection 1 is may be any term of years.'
+26 Amend the bill in section 2 in subsection 4-A in the last line (page 1, line 13 in L.D.)
+27 by striking out the following: "is" and inserting the following: 'may be'
+28 Amend the bill by relettering or renumbering any nonconsecutive Part letter or section
+29 number to read consecutively.
+30 SUMMARY
+3311 This amendment clarifies that the period of probation for a sentence for aggravated
+3322 attempted murder is a maximum of any term of years, not a mandatory sentence. This
+3333 amendment also makes other technical changes to make similar language consistent.
+Page 1 - 132LR1350(02)
+COMMITTEE AMENDMENT
+[DELETED: LD:(RC0L1A2' 3i425s6i7e8c9p0A1' 2a344T5t6A7b8A9n1T2a3a]
+
+
+================================================================================
+
+Raw Text:
+1 L.D. 1074
+2 Date: (Filing No. H- )
+3 CRIMINAL JUSTICE AND PUBLIC SAFETY
+4 Reproduced and distributed under the direction of the Clerk of the House.
+5 STATE OF MAINE
+6 HOUSE OF REPRESENTATIVES
+7 132ND LEGISLATURE
+8 FIRST SPECIAL SESSION
+9 COMMITTEE AMENDMENT “ ” to H.P. 696, L.D. 1074, “An Act to Remove the
+10 Limit on the Length of Probation That May Be Served for Aggravated Attempted Murder”
+11 Amend the bill by inserting before section 1 the following:
+12 'Sec. 1. 17-A MRSA §152-A, sub-§2, as amended by PL 2019, c. 113, Pt. C, §58,
+13 is further amended to read:
+14 2. Aggravated attempted murder is a Class A crime except that, notwithstanding
+15 section 1604, subsection 1, paragraph A, the sentence for aggravated attempted murder is
+16 imprisonment for life or a definite period of imprisonment for any term of years. The
+17 existence of an aggravating circumstance serves only as a precondition for the court to
+18 consider a life sentence. The court also may impose as part of the sentence a period of
+19 probation of any term of years pursuant to section 1804, subsection 4-A.'
+20 Amend the bill by inserting after section 1 the following:
+21 'Sec. 2. 17-A MRSA §1804, sub-§4, as enacted by PL 2019, c. 113, Pt. A, §2, is
+22 amended to read:
+23 4. Exception to limits when person sentenced as repeat sexual assault offender.
+24 The period of probation for a person sentenced as a repeat sexual assault offender pursuant
+25 to section 253‑A, subsection 1 is may be any term of years.'
+26 Amend the bill in section 2 in subsection 4-A in the last line (page 1, line 13 in L.D.)
+27 by striking out the following: "is" and inserting the following: 'may be'
+28 Amend the bill by relettering or renumbering any nonconsecutive Part letter or section
+29 number to read consecutively.
+30 SUMMARY
+3311 This amendment clarifies that the period of probation for a sentence for aggravated
+3322 attempted murder is a maximum of any term of years, not a mandatory sentence. This
+3333 amendment also makes other technical changes to make similar language consistent.
+Page 1 - 132LR1350(02)
+COMMITTEE AMENDMENT
+
+[DELETED: LD:(RC0L1A2' 3i425s6i7e8c9p0A1' 2a344T5t6A7b8A9n1T2a3a]
