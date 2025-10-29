@@ -1,0 +1,189 @@
+Title: 3 HEALTH COVERAGE, INSURANCE AND FINANCIAL SERVICES
+Official Title: 3 HEALTH COVERAGE, INSURANCE AND FINANCIAL SERVICES
+Number of Sections: 1
+Source: versions - Adopted Amendments
+Media Type: application/pdf
+Strikethrough Detection: 3 sections found
+
+================================================================================
+
+Section 1:
+1 L.D. 1339
+2 Date: (Filing No. S- )
+4 Reproduced and distributed under the direction of the Secretary of the Senate.
+5 STATE OF MAINE
+6 SENATE
+7 132ND LEGISLATURE
+8 FIRST SPECIAL SESSION
+9 COMMITTEE AMENDMENT “ ” to S.P. 553, L.D. 1339, “An Act to Regulate
+10 Virtual Currency Kiosks”
+11 Amend the bill by inserting after the title and before the enacting clause the following:
+12 'Emergency preamble. Whereas, acts and resolves of the Legislature do not
+13 become effective until 90 days after adjournment unless enacted as emergencies; and
+14 Whereas, a recent report from the Federal Bureau of Investigation states, in 2024, that
+15 there were 2,137 complaints related to cryptocurrency fraud in Maine resulting in more
+16 than $31 million in losses; and
+17 Whereas, this legislation regulates virtual currency kiosks, which have been
+18 identified by state regulators as a tool used to perpetrate scams against Maine consumers,
+19 especially Maine's senior residents; and
+20 Whereas, this legislation must take effect immediately to protect Maine consumers
+21 from cryptocurrency fraud; and
+22 Whereas, in the judgment of the Legislature, these facts create an emergency within
+23 the meaning of the Constitution of Maine and require the following legislation as
+24 immediately necessary for the preservation of the public peace, health and safety; now,
+25 therefore,'
+26 Amend the bill in section 2 in sub-c. 4 in §6164 in subsection 3 in the last 2 lines (page
+27 1, lines 24 and 25 in L.D.) by striking out the following: "allows users to engage in money
+28 transmission, including any machine that is capable of accepting or dispensing cash in
+29 exchange for virtual currency" and inserting the following: 'is capable of facilitating the
+30 transfer of value to a public key that is recorded on a blockchain as directed by the sender
+31 at the virtual currency kiosk or at a later time by other means facilitated by the virtual
+32 currency kiosk operator'
+33 Amend the bill in section 2 in sub-c. 4 in §6169 in subsection 3 in the first line (page
+34 2, line 30 in L.D.) by striking out the following: "A" and inserting the following: 'At the
+35 option of a customer, a'
+Page 1 - 132LR0621(02)
+COMMITTEE AMENDMENT
+COMMITTEE AMENDMENT “ ” to S.P. 553, L.D. 1339
+1 Amend the bill in section 2 in sub-c. 4 in §6169 in subsection 3 in the first 2 lines (page
+2 2, lines 30 and 31 in L.D.) by striking out the following: "a customer with a" and inserting
+3 the following: 'the customer with a paper or electronic'
+4 Amend the bill in section 2 in sub-c. 4 in §6169 in subsection 3 in paragraph E in the
+5 first line (page 2, line 38 in L.D.) by inserting after the following: "hash" the following:
+6 'and the public destination address for the virtual currency'
+7 Amend the bill in section 2 in sub-c. 4 in §6169 in subsection 4 in the 3rd line (page 3,
+8 line 3 in L.D.) by inserting after the following: "operator" the following: 'including any
+9 transaction charges collected under subsection 2'
+10 Amend the bill in section 2 in sub-c. 4 in §6171 in the first line (page 3, line 15 in L.D.)
+11 by striking out the following: "§6171." and inserting the following: '§6170-A.'
+12 Amend the bill in section 2 in sub-c. 4 by inserting after §6171 the following:
+13 '§6170-B. Waiver
+14 Any waiver of rights under this subchapter by a customer is void.'
+15 Amend the bill by inserting after section 2 the following:
+16 'Sec. 3. Report. No later than February 1, 2026, the Superintendent of Consumer
+17 Credit Protection within the Department of Professional and Financial Regulation shall
+18 submit a report to the Joint Standing Committee on Health Coverage, Insurance and
+19 Financial Services that includes findings and recommendations regarding the protection of
+20 customers of virtual currency kiosks as defined in the Maine Revised Statutes, Title 32,
+21 section 6164, subsection 3 from fraudulent activity. The committee may submit legislation
+22 related to the report to the Second Regular Session of the 132nd Legislature.'
+23 Amend the bill by adding before the summary the following:
+24 'Emergency clause. In view of the emergency cited in the preamble, this legislation
+25 takes effect when approved.'
+26 Amend the bill by relettering or renumbering any nonconsecutive Part letter or section
+27 number to read consecutively.
+28 SUMMARY
+2299 This amendment makes the following changes to the bill.
+30 1. It makes changes to the definition of "virtual currency kiosk."
+31 2. It adds language to require that customers be provided the option of a paper or
+32 electronic receipt.
+33 3. It clarifies that a refund issued by a virtual currency kiosk operator to an eligible
+34 customer must include the full amount of the transaction and any transaction charges.
+35 4. It adds language to prohibit the waiver of any customer rights granted in the bill.
+36 5. It adds a reporting requirement for the Superintendent of Consumer Credit Protection
+37 within the Department of Professional and Financial Regulation.
+Page 2 - 132LR0621(02)
+COMMITTEE AMENDMENT
+COMMITTEE AMENDMENT “ ” to S.P. 553, L.D. 1339
+1 6. It adds an emergency preamble and emergency clause to the bill.
+22 FISCAL NOTE REQUIRED
+33 (See attached)
+Page 3 - 132LR0621(02)
+COMMITTEE AMENDMENT
+[DELETED: LD:(RC0V1A2' 3b4 5t6t7 t l r v c k w h b8i9e0 1f2 3t m o t C o M a r t f l a4i5t6A718t9e0t1a2c3A425o]
+[DELETED: A2tAf'Alt0A1b2A3'4A5A6'  .R7C8s a r t t J S C o H C I a9F0c1s2r3A4'I5t6A7n9T01122e334c54657w]
+[DELETED: 6F(]
+
+
+================================================================================
+
+Raw Text:
+1 L.D. 1339
+2 Date: (Filing No. S- )
+3 HEALTH COVERAGE, INSURANCE AND FINANCIAL SERVICES
+4 Reproduced and distributed under the direction of the Secretary of the Senate.
+5 STATE OF MAINE
+6 SENATE
+7 132ND LEGISLATURE
+8 FIRST SPECIAL SESSION
+9 COMMITTEE AMENDMENT “ ” to S.P. 553, L.D. 1339, “An Act to Regulate
+10 Virtual Currency Kiosks”
+11 Amend the bill by inserting after the title and before the enacting clause the following:
+12 'Emergency preamble. Whereas, acts and resolves of the Legislature do not
+13 become effective until 90 days after adjournment unless enacted as emergencies; and
+14 Whereas, a recent report from the Federal Bureau of Investigation states, in 2024, that
+15 there were 2,137 complaints related to cryptocurrency fraud in Maine resulting in more
+16 than $31 million in losses; and
+17 Whereas, this legislation regulates virtual currency kiosks, which have been
+18 identified by state regulators as a tool used to perpetrate scams against Maine consumers,
+19 especially Maine's senior residents; and
+20 Whereas, this legislation must take effect immediately to protect Maine consumers
+21 from cryptocurrency fraud; and
+22 Whereas, in the judgment of the Legislature, these facts create an emergency within
+23 the meaning of the Constitution of Maine and require the following legislation as
+24 immediately necessary for the preservation of the public peace, health and safety; now,
+25 therefore,'
+26 Amend the bill in section 2 in sub-c. 4 in §6164 in subsection 3 in the last 2 lines (page
+27 1, lines 24 and 25 in L.D.) by striking out the following: "allows users to engage in money
+28 transmission, including any machine that is capable of accepting or dispensing cash in
+29 exchange for virtual currency" and inserting the following: 'is capable of facilitating the
+30 transfer of value to a public key that is recorded on a blockchain as directed by the sender
+31 at the virtual currency kiosk or at a later time by other means facilitated by the virtual
+32 currency kiosk operator'
+33 Amend the bill in section 2 in sub-c. 4 in §6169 in subsection 3 in the first line (page
+34 2, line 30 in L.D.) by striking out the following: "A" and inserting the following: 'At the
+35 option of a customer, a'
+Page 1 - 132LR0621(02)
+COMMITTEE AMENDMENT
+
+COMMITTEE AMENDMENT “ ” to S.P. 553, L.D. 1339
+1 Amend the bill in section 2 in sub-c. 4 in §6169 in subsection 3 in the first 2 lines (page
+2 2, lines 30 and 31 in L.D.) by striking out the following: "a customer with a" and inserting
+3 the following: 'the customer with a paper or electronic'
+4 Amend the bill in section 2 in sub-c. 4 in §6169 in subsection 3 in paragraph E in the
+5 first line (page 2, line 38 in L.D.) by inserting after the following: "hash" the following:
+6 'and the public destination address for the virtual currency'
+7 Amend the bill in section 2 in sub-c. 4 in §6169 in subsection 4 in the 3rd line (page 3,
+8 line 3 in L.D.) by inserting after the following: "operator" the following: 'including any
+9 transaction charges collected under subsection 2'
+10 Amend the bill in section 2 in sub-c. 4 in §6171 in the first line (page 3, line 15 in L.D.)
+11 by striking out the following: "§6171." and inserting the following: '§6170-A.'
+12 Amend the bill in section 2 in sub-c. 4 by inserting after §6171 the following:
+13 '§6170-B. Waiver
+14 Any waiver of rights under this subchapter by a customer is void.'
+15 Amend the bill by inserting after section 2 the following:
+16 'Sec. 3. Report. No later than February 1, 2026, the Superintendent of Consumer
+17 Credit Protection within the Department of Professional and Financial Regulation shall
+18 submit a report to the Joint Standing Committee on Health Coverage, Insurance and
+19 Financial Services that includes findings and recommendations regarding the protection of
+20 customers of virtual currency kiosks as defined in the Maine Revised Statutes, Title 32,
+21 section 6164, subsection 3 from fraudulent activity. The committee may submit legislation
+22 related to the report to the Second Regular Session of the 132nd Legislature.'
+23 Amend the bill by adding before the summary the following:
+24 'Emergency clause. In view of the emergency cited in the preamble, this legislation
+25 takes effect when approved.'
+26 Amend the bill by relettering or renumbering any nonconsecutive Part letter or section
+27 number to read consecutively.
+28 SUMMARY
+2299 This amendment makes the following changes to the bill.
+30 1. It makes changes to the definition of "virtual currency kiosk."
+31 2. It adds language to require that customers be provided the option of a paper or
+32 electronic receipt.
+33 3. It clarifies that a refund issued by a virtual currency kiosk operator to an eligible
+34 customer must include the full amount of the transaction and any transaction charges.
+35 4. It adds language to prohibit the waiver of any customer rights granted in the bill.
+36 5. It adds a reporting requirement for the Superintendent of Consumer Credit Protection
+37 within the Department of Professional and Financial Regulation.
+Page 2 - 132LR0621(02)
+COMMITTEE AMENDMENT
+
+COMMITTEE AMENDMENT “ ” to S.P. 553, L.D. 1339
+1 6. It adds an emergency preamble and emergency clause to the bill.
+22 FISCAL NOTE REQUIRED
+33 (See attached)
+Page 3 - 132LR0621(02)
+COMMITTEE AMENDMENT
+
+[DELETED: LD:(RC0V1A2' 3b4 5t6t7 t l r v c k w h b8i9e0 1f2 3t m o t C o M a r t f l a4i5t6A718t9e0t1a2c3A425o]
+[DELETED: A2tAf'Alt0A1b2A3'4A5A6'  .R7C8s a r t t J S C o H C I a9F0c1s2r3A4'I5t6A7n9T01122e334c54657w]
+[DELETED: 6F(]

@@ -1,0 +1,587 @@
+Title: 4 Reproduced and distributed under the direction of the Clerk of the House.
+Official Title: 4 Reproduced and distributed under the direction of the Clerk of the House.
+Number of Sections: 1
+Source: versions - Adopted Amendments
+Media Type: application/pdf
+Strikethrough Detection: 7 sections found
+
+================================================================================
+
+Section 1:
+1 L.D. 1498
+2 Date: (Filing No. H- )
+3 HOUSING AND ECONOMIC DEVELOPMENT
+5 STATE OF MAINE
+6 HOUSE OF REPRESENTATIVES
+7 132ND LEGISLATURE
+8 FIRST SPECIAL SESSION
+9 COMMITTEE AMENDMENT “ ” to H.P. 982, L.D. 1498, “An Act to Limit
+10 Municipal Impact Fees on Housing Development”
+11 Amend the bill by striking out the title and substituting the following:
+12 'An Act to Address Maine’s Housing Crisis by Limiting Municipal Impact Fees on
+13 Housing Development and Transferring Oversight of the Housing Opportunity
+14 Program to the Maine Office of Community Affairs'
+15 Amend the bill by inserting after the title and before the enacting clause the following:
+16 'Emergency preamble. Whereas, acts and resolves of the Legislature do not
+17 become effective until 90 days after adjournment unless enacted as emergencies; and
+18 Whereas, the State is facing a severe housing crisis, and to meet the goal of building
+19 an additional 84,000 homes in the next 5 years to alleviate this crisis, housing production
+20 in the State would need to roughly double its annual rate; and
+21 Whereas, an array of changes needs to occur to address this crisis, starting with the
+22 consolidation of efforts by the executive branch in this area; and
+23 Whereas, transferring oversight of the Housing Opportunity Program from the
+24 Department of Economic and Community Development is one critical component in
+25 focusing the State's efforts addressing this crisis; and
+26 Whereas, delaying consolidation of efforts will further delay implementation of new
+27 and ongoing legislative initiatives enacted in this Legislature and in the 131st Legislature;
+28 and
+29 Whereas, in the judgment of the Legislature, these facts create an emergency within
+30 the meaning of the Constitution of Maine and require the following legislation as
+31 immediately necessary for the preservation of the public peace, health and safety; now,
+32 therefore,'
+33 Amend the bill by inserting after the enacting clause and before section 1 the following:
+Page 1 - 132LR2143(02)
+COMMITTEE AMENDMENT
+COMMITTEE AMENDMENT “ ” to H.P. 982, L.D. 1498
+1 'Sec. 1. 5 MRSA §3205, as enacted by PL 2023, c. 643, Pt. DD, §2, is amended to
+2 read:
+3 §3205. Acceptance and administration of funds
+4 The office may accept, administer and expend funds, including but not limited to funds
+5 from the Federal Government or from private sources, for purposes consistent with this
+6 chapter. The director shall provide a report of the amount of any outside funding received
+7 from private sources and its designated purpose to the Governor, the joint standing
+8 committee of the Legislature having jurisdiction over housing matters and the joint
+9 standing committee of the Legislature having jurisdiction over municipal matters on an
+10 annual basis.
+11 Sec. 2. 5 MRSA c. 310-C is enacted to read:
+12 CHAPTER 310-C
+13 HOUSING PLANNING
+14 §3217. Housing Opportunity Program
+15 1. Program established; administration. The Housing Opportunity Program,
+16 referred to in this section as "the program," is established within the Maine Office of
+17 Community Affairs, established in section 3202 and referred to in this section as "the
+18 office." The program must encourage and support the development of additional housing
+19 units in the State, including housing units that are affordable for low-income and moderate-
+20 income individuals and housing units targeted to community workforce housing needs. The
+21 office shall administer the program and provide technical and financial assistance to
+22 support communities implementing zoning and land use-related policies necessary to
+23 support increased housing development. The program must support regional approaches
+24 and municipal model ordinance development and encourage policies that support increased
+25 housing density, where feasible, to protect working lands and natural lands.
+26 2. Housing Opportunity Fund. The Housing Opportunity Fund, referred to in this
+27 section as "the fund," is established as a fund within the office for the purpose of providing
+28 funds for the program. The fund consists of money appropriated to the fund by the
+29 Legislature and any funds received by the office for the purposes of the program.
+30 A. The office shall solicit applications for grants from the fund through a competitive
+31 application process. Grants may be awarded to experienced service providers and
+32 municipalities to:
+33 (1) Support municipal ordinance development, provide technical assistance and
+34 encourage public participation and community engagement in the process of
+35 increasing housing opportunities;
+36 (2) Provide community housing planning services to municipalities to support the
+37 creation of housing development plans, including municipal ordinances, and policy
+38 amendments to support those plans; and
+39 (3) Provide community housing implementation services.
+Page 2 - 132LR2143(02)
+COMMITTEE AMENDMENT
+COMMITTEE AMENDMENT “ ” to H.P. 982, L.D. 1498
+1 Programs receiving grants under subparagraph (1) may encourage regional
+2 coordination between municipalities.
+3 Grants awarded must be for a period of up to 3 years, with required progress reports
+4 each year.
+5 B. The office shall provide technical assistance, housing policy development and
+6 guidance directly to regional groups, municipalities and other housing stakeholders, to
+7 the extent feasible with available resources. This may include, but is not limited to,
+8 assisting municipalities with information about available grant opportunities, sharing
+9 best practices from jurisdictions inside and outside of the State, providing model
+10 language for municipal ordinances and policies and providing information to the
+11 general public, which may support local and statewide policy changes meant to
+12 increase the supply of housing.
+13 3. Program evaluation. A recipient of grant funds through the program shall
+14 cooperate with the office in performing evaluations and specific reporting requirements.
+15 4. Rulemaking. The office may establish by rule the criteria for eligibility for grants
+16 from the program and the process for applying to the program. Rules adopted pursuant to
+17 this subsection are routine technical rules as defined in Title 5, chapter 375, subchapter 2-
+18 A.
+19 Sec. 3. 5 MRSA §13056-J, as enacted by PL 2021, c. 635, Pt. U, §1, is repealed.'
+20 Amend the bill by striking out all of section 2 and inserting the following:
+21 'Sec. 2. 30-A MRSA §4354, sub-§1, as amended by PL 1999, c. 776, §11, is further
+22 amended to read:
+23 1. Construction or fees may be required. The requirements may include
+24 construction of capital infrastructure improvements or impact fees instead of capital
+25 infrastructure improvements including the expansion or replacement of existing
+26 infrastructure facilities and the construction of new infrastructure facilities. A municipality
+27 shall demonstrate that a required infrastructure improvement is necessary to accommodate
+28 the development and that the impact fee is based on the cost of the infrastructure
+29 improvement and proportionate to the development's use of the infrastructure
+30 improvement.
+31 A. For the purposes of this subsection, infrastructure facilities include, but are not
+32 limited to:
+33 (1) Waste water collection and treatment facilities;
+34 (2) Municipal water facilities;
+35 (3) Solid waste facilities;
+36 (4) Public safety equipment and facilities;
+37 (5) Roads and traffic control devices;
+38 (6) Parks and other open space or recreational areas; and
+39 (7) School facilities.'
+40 Amend the bill in section 3 in paragraph C in the 2nd line (page 1, line 26 in L.D.) by
+41 striking out the following: "use" and inserting the following: 'use encumber'
+Page 3 - 132LR2143(02)
+COMMITTEE AMENDMENT
+COMMITTEE AMENDMENT “ ” to H.P. 982, L.D. 1498
+1 Amend the bill in section 3 in paragraph C in the 2nd line (page 1, line 26 in L.D.) by
+2 striking out the following: "180" and inserting the following: '360'
+3 Amend the bill by inserting after section 3 the following:
+4 'Sec. 4. Transition provisions; Housing Opportunity Program. The following
+5 provisions govern the transition of the Housing Opportunity Program from the Department
+6 of Economic and Community Development to the Maine Office of Community Affairs
+7 established in the Maine Revised Statutes, Title 5, section 3202.
+8 1. The Maine Office of Community Affairs is the successor in every way to the powers,
+9 duties and functions of the Department of Economic and Community Development
+10 regarding the Housing Opportunity Program.
+11 2. All existing rules, regulations and procedures in effect, in operation or adopted in or
+12 by the Department of Economic and Community Development regarding the Housing
+13 Opportunity Program or any of its administrative units or officers are in effect and continue
+14 in effect until rescinded, revised or amended by the Maine Office of Community Affairs.
+15 3. All existing contracts, agreements and compacts currently in effect in the
+16 Department of Economic and Community Development regarding the Housing
+17 Opportunity Program continue in effect.
+18 4. All records, property and equipment previously belonging to or allocated for the use
+19 of the Housing Opportunity Program in the Department of Economic and Community
+20 Development become, on the effective date of this Act, part of the property of the Maine
+21 Office of Community Affairs.
+22 5. All existing forms, licenses, letterheads and similar items bearing the name of or
+23 referring to the Housing Opportunity Program may be used by the Maine Office of
+24 Community Affairs until existing supplies of those items are exhausted.
+25 Sec. 5. Appropriations and allocations. The following appropriations and
+26 allocations are made.
+27 ECONOMIC AND COMMUNITY DEVELOPMENT, DEPARTMENT OF
+28 Housing Opportunity Program Z336
+29 Initiative: Continues and makes permanent 2 Public Service Coordinator II positions
+30 previously continued by Public Law 2023, chapter 412 and previously established by
+31 Public Law 2021, chapter 635 and reduces All Other to fund the positions.
+32 GENERAL FUND 2025-26 2026-27
+33 POSITIONS - LEGISLATIVE COUNT 2.000 2.000
+34 Personal Services $327,236 $340,694
+35 All Other ($327,236) ($340,694)
+36 __________ __________
+37 GENERAL FUND TOTAL $0 $0
+3382 Housing Opportunity Program Z336
+39 Initiative: Transfers All Other funding from the Housing Opportunity Program within the
+40 Department of Economic and Community Development to the Housing Opportunity
+41 Program within the Maine Office of Community Affairs within the same fund to provide
+Page 4 - 132LR2143(02)
+COMMITTEE AMENDMENT
+COMMITTEE AMENDMENT “ ” to H.P. 982, L.D. 1498
+412 coordinated and efficient technical assistance and funding in partnership with communities
+423 across the State.
+3 GENERAL FUND 2025-26 2026-27
+4 All Other ($2,060,118) ($2,046,660)
+5 __________ __________
+6 GENERAL FUND TOTAL ($2,060,118) ($2,046,660)
+73 Housing Opportunity Program Z336
+8 Initiative: Transfers 2 Public Service Coordinator II positions from the Housing
+9 Opportunity Program within the Department of Economic and Community Development
+10 to the Housing Opportunity Program within the Maine Office of Community Affairs within
+11 the same fund to provide coordinated and efficient technical assistance and funding in
+12 partnership with communities across the State. Two authorized positions and any
+13 incumbent personnel as of July 1, 2025 in the Department of Economic and Community
+14 Development are transferred to the Maine Office of Community Affairs. All transferred
+15 positions, including those currently unclassified, are classified positions at the Maine
+16 Office of Community Affairs. The designation of each position as either confidential or
+17 bargaining unit is based on the classification of the position. Those employees retain their
+18 accrued vacation and sick leave balances.
+19 GENERAL FUND 2025-26 2026-27
+20 POSITIONS - LEGISLATIVE COUNT (2.000) (2.000)
+21 Personal Services ($327,236) ($340,694)
+22 __________ __________
+23 GENERAL FUND TOTAL ($327,236) ($340,694)
+2149
+25 ECONOMIC AND COMMUNITY
+26 DEVELOPMENT, DEPARTMENT OF
+27 DEPARTMENT TOTALS 2025-26 2026-27
+28
+29 GENERAL FUND ($2,387,354) ($2,387,354)
+30 __________ __________
+31 DEPARTMENT TOTAL - ALL FUNDS ($2,387,354) ($2,387,354)
+3225 MAINE OFFICE OF COMMUNITY AFFAIRS
+33 Housing Opportunity Program Z336
+34 Initiative: Transfers All Other funding from the Housing Opportunity Program within the
+35 Department of Economic and Community Development to the Housing Opportunity
+36 Program within the Maine Office of Community Affairs within the same fund to provide
+37 coordinated and efficient technical assistance and funding in partnership with communities
+38 across the State.
+39 GENERAL FUND 2025-26 2026-27
+40 All Other $2,060,174 $2,046,718
+41 __________ __________
+42 GENERAL FUND TOTAL $2,060,174 $2,046,718
+4339 Housing Opportunity Program Z336
+Page 5 - 132LR2143(02)
+COMMITTEE AMENDMENT
+COMMITTEE AMENDMENT “ ” to H.P. 982, L.D. 1498
+1 Initiative: Transfers 2 Public Service Coordinator II positions from the Housing
+2 Opportunity Program within the Department of Economic and Community Development
+3 to the Housing Opportunity Program within the Maine Office of Community Affairs within
+4 the same fund to provide coordinated and efficient technical assistance and funding in
+5 partnership with communities across the State. Two authorized positions and any
+6 incumbent personnel as of July 1, 2025 in the Department of Economic and Community
+7 Development are transferred to the Maine Office of Community Affairs. All transferred
+8 positions, including those currently unclassified, are classified positions at the Maine
+9 Office of Community Affairs. The designation of each position as either confidential or
+10 bargaining unit is based on the classification of the position. Those employees retain their
+11 accrued vacation and sick leave balances.
+12 GENERAL FUND 2025-26 2026-27
+13 POSITIONS - LEGISLATIVE COUNT 2.000 2.000
+14 Personal Services $327,180 $340,636
+15 __________ __________
+16 GENERAL FUND TOTAL $327,180 $340,636
+1172 Maine Office of Community Affairs Z396
+18 Initiative: Establishes one Secretary Specialist position and one Public Service Coordinator
+19 I position to provide administrative support for the Maine Office of Community Affairs
+20 and provides funding for related All Other costs.
+21 GENERAL FUND 2025-26 2026-27
+22 POSITIONS - LEGISLATIVE COUNT 2.000 2.000
+23 Personal Services $214,376 $231,076
+24 All Other $17,826 $17,826
+25 __________ __________
+26 GENERAL FUND TOTAL $232,202 $248,902
+2271
+28 MAINE OFFICE OF COMMUNITY AFFAIRS
+29 DEPARTMENT TOTALS 2025-26 2026-27
+30
+31 GENERAL FUND $2,619,556 $2,636,256
+32 __________ __________
+33 DEPARTMENT TOTAL - ALL FUNDS $2,619,556 $2,636,256
+3248
+35 SECTION TOTALS 2025-26 2026-27
+36
+37 GENERAL FUND $232,202 $248,902
+38 __________ __________
+39 SECTION TOTAL - ALL FUNDS $232,202 $248,902
+4305 '
+41 Amend the bill by adding before the summary the following:
+42 'Emergency clause. In view of the emergency cited in the preamble, this legislation
+43 takes effect when approved.'
+Page 6 - 132LR2143(02)
+COMMITTEE AMENDMENT
+COMMITTEE AMENDMENT “ ” to H.P. 982, L.D. 1498
+1 Amend the bill by relettering or renumbering any nonconsecutive Part letter or section
+2 number to read consecutively.
+3 SUMMARY
+44 This amendment changes the title of the bill and adds an emergency preamble and
+55 emergency clause. The amendment amends the time within which a municipality must
+66 encumber an impact fee from 180 days, as proposed in the bill, to 360 days after receipt.
+77 The amendment changes "capital improvements" to "infrastructure improvements"
+88 throughout the provisions of law amended in the bill to provide consistency. The
+99 amendment removes the limitation proposed in the bill that impact fees must be related to
+1100 infrastructure improvements on land or property that directly abuts the development. The
+1111 amendment repeals the provisions of law that established the Housing Opportunity
+1122 Program within the Department of Economic and Community Development and
+1133 establishes the program in the Maine Office of Community Affairs. The amendment
+1144 includes an appropriations and allocations section to accomplish this transfer.
+1155 FISCAL NOTE REQUIRED
+1166 (See attached)
+Page 7 - 132LR2143(02)
+COMMITTEE AMENDMENT
+[DELETED: LD:(RC A “ t H 9 L 1 “ A t L0M1A2'3H D a T O o t H O4P5A6' 7b8 9a0i1 2c3 t o o t H O P f t4D o E a C D i o c c i5f6 7a8a9 0t m o t C o M a r t f l a1i2t3A]
+[DELETED: ' r§Tfcf p s a i d p t t G t j sc o t L h j o h m a t js0a1 2C3H4§51 P e a  T H O P6r7C8o9u0i1o s a t p a p t a f a t2s c i z a l u p n t3s4a5h627s8f f t p T f c o m a t t f b t9L0A1a p G m b a t e s p a2m3(4e p p a c e i t p o5i6(7c8a9(]
+[DELETED: P r g u s ( m e rcGeB T o s p t a h p d agtab p f j i a o o t S p m0l f m o a p a p i t t1g p w m s l a s p c m t2i33 P e  A r o g f t t p s4c546f7t8A9 0A1' 2a31  C o f m b r  T r m i4c o c i i o i f i o c5i i i t e o r o e6i7s8t d a t t i f i b o t c o t i9i a p t t d u o t i0i1A2l3(4(5(6(7(8(9(0A1s]
+[DELETED: AsA' poe1d a f o t D o E a C D0r122b3O4i53 A e c a a c c i e i t6D o E a C D r t H7O849o0D1O253r t t H O P m b u b t M O o4C5  T f a a 5  A a a6a7E8H9I C a m p 2 P S C I p0p c b P L 2 c 4 a p e b1PD262T202s$6$r()(___L$0$2H9I0D o E a C D t t H O1P]
+[DELETED: 2c3aD262r()(___L()(HI T 2 P S C I p f t HO0t1t2p w c a t S  T a p a a3i4D5p i t c u a c p a t M6O7b8aD262T()(s()(___L()(9  S262 D()(___S()(5M3H4I5D o E a C D t t H O6P7c8aD262r$4$___L$4$9H]
+[DELETED: I T 2 P S C I p f t HOttp w c a t S  T a p a aiDp i t c u a c p a t MO0b1aD262T202s$0$___L$0$2M8I9I0aD262T202s$6$r$6$___L$2$1S S262 D$6$___S$6$8S262 D$2$___S$2$51A2'I3t]
+[DELETED: AnTeeT a c " i t " it t p o l a i t b t p c Ta0i1a r t p o l t e t H O2P w t D o E a C D a3e4i5F6(]
+
+
+================================================================================
+
+Raw Text:
+1 L.D. 1498
+2 Date: (Filing No. H- )
+3 HOUSING AND ECONOMIC DEVELOPMENT
+4 Reproduced and distributed under the direction of the Clerk of the House.
+5 STATE OF MAINE
+6 HOUSE OF REPRESENTATIVES
+7 132ND LEGISLATURE
+8 FIRST SPECIAL SESSION
+9 COMMITTEE AMENDMENT “ ” to H.P. 982, L.D. 1498, “An Act to Limit
+10 Municipal Impact Fees on Housing Development”
+11 Amend the bill by striking out the title and substituting the following:
+12 'An Act to Address Maine’s Housing Crisis by Limiting Municipal Impact Fees on
+13 Housing Development and Transferring Oversight of the Housing Opportunity
+14 Program to the Maine Office of Community Affairs'
+15 Amend the bill by inserting after the title and before the enacting clause the following:
+16 'Emergency preamble. Whereas, acts and resolves of the Legislature do not
+17 become effective until 90 days after adjournment unless enacted as emergencies; and
+18 Whereas, the State is facing a severe housing crisis, and to meet the goal of building
+19 an additional 84,000 homes in the next 5 years to alleviate this crisis, housing production
+20 in the State would need to roughly double its annual rate; and
+21 Whereas, an array of changes needs to occur to address this crisis, starting with the
+22 consolidation of efforts by the executive branch in this area; and
+23 Whereas, transferring oversight of the Housing Opportunity Program from the
+24 Department of Economic and Community Development is one critical component in
+25 focusing the State's efforts addressing this crisis; and
+26 Whereas, delaying consolidation of efforts will further delay implementation of new
+27 and ongoing legislative initiatives enacted in this Legislature and in the 131st Legislature;
+28 and
+29 Whereas, in the judgment of the Legislature, these facts create an emergency within
+30 the meaning of the Constitution of Maine and require the following legislation as
+31 immediately necessary for the preservation of the public peace, health and safety; now,
+32 therefore,'
+33 Amend the bill by inserting after the enacting clause and before section 1 the following:
+Page 1 - 132LR2143(02)
+COMMITTEE AMENDMENT
+
+COMMITTEE AMENDMENT “ ” to H.P. 982, L.D. 1498
+1 'Sec. 1. 5 MRSA §3205, as enacted by PL 2023, c. 643, Pt. DD, §2, is amended to
+2 read:
+3 §3205. Acceptance and administration of funds
+4 The office may accept, administer and expend funds, including but not limited to funds
+5 from the Federal Government or from private sources, for purposes consistent with this
+6 chapter. The director shall provide a report of the amount of any outside funding received
+7 from private sources and its designated purpose to the Governor, the joint standing
+8 committee of the Legislature having jurisdiction over housing matters and the joint
+9 standing committee of the Legislature having jurisdiction over municipal matters on an
+10 annual basis.
+11 Sec. 2. 5 MRSA c. 310-C is enacted to read:
+12 CHAPTER 310-C
+13 HOUSING PLANNING
+14 §3217. Housing Opportunity Program
+15 1. Program established; administration. The Housing Opportunity Program,
+16 referred to in this section as "the program," is established within the Maine Office of
+17 Community Affairs, established in section 3202 and referred to in this section as "the
+18 office." The program must encourage and support the development of additional housing
+19 units in the State, including housing units that are affordable for low-income and moderate-
+20 income individuals and housing units targeted to community workforce housing needs. The
+21 office shall administer the program and provide technical and financial assistance to
+22 support communities implementing zoning and land use-related policies necessary to
+23 support increased housing development. The program must support regional approaches
+24 and municipal model ordinance development and encourage policies that support increased
+25 housing density, where feasible, to protect working lands and natural lands.
+26 2. Housing Opportunity Fund. The Housing Opportunity Fund, referred to in this
+27 section as "the fund," is established as a fund within the office for the purpose of providing
+28 funds for the program. The fund consists of money appropriated to the fund by the
+29 Legislature and any funds received by the office for the purposes of the program.
+30 A. The office shall solicit applications for grants from the fund through a competitive
+31 application process. Grants may be awarded to experienced service providers and
+32 municipalities to:
+33 (1) Support municipal ordinance development, provide technical assistance and
+34 encourage public participation and community engagement in the process of
+35 increasing housing opportunities;
+36 (2) Provide community housing planning services to municipalities to support the
+37 creation of housing development plans, including municipal ordinances, and policy
+38 amendments to support those plans; and
+39 (3) Provide community housing implementation services.
+Page 2 - 132LR2143(02)
+COMMITTEE AMENDMENT
+
+COMMITTEE AMENDMENT “ ” to H.P. 982, L.D. 1498
+1 Programs receiving grants under subparagraph (1) may encourage regional
+2 coordination between municipalities.
+3 Grants awarded must be for a period of up to 3 years, with required progress reports
+4 each year.
+5 B. The office shall provide technical assistance, housing policy development and
+6 guidance directly to regional groups, municipalities and other housing stakeholders, to
+7 the extent feasible with available resources. This may include, but is not limited to,
+8 assisting municipalities with information about available grant opportunities, sharing
+9 best practices from jurisdictions inside and outside of the State, providing model
+10 language for municipal ordinances and policies and providing information to the
+11 general public, which may support local and statewide policy changes meant to
+12 increase the supply of housing.
+13 3. Program evaluation. A recipient of grant funds through the program shall
+14 cooperate with the office in performing evaluations and specific reporting requirements.
+15 4. Rulemaking. The office may establish by rule the criteria for eligibility for grants
+16 from the program and the process for applying to the program. Rules adopted pursuant to
+17 this subsection are routine technical rules as defined in Title 5, chapter 375, subchapter 2-
+18 A.
+19 Sec. 3. 5 MRSA §13056-J, as enacted by PL 2021, c. 635, Pt. U, §1, is repealed.'
+20 Amend the bill by striking out all of section 2 and inserting the following:
+21 'Sec. 2. 30-A MRSA §4354, sub-§1, as amended by PL 1999, c. 776, §11, is further
+22 amended to read:
+23 1. Construction or fees may be required. The requirements may include
+24 construction of capital infrastructure improvements or impact fees instead of capital
+25 infrastructure improvements including the expansion or replacement of existing
+26 infrastructure facilities and the construction of new infrastructure facilities. A municipality
+27 shall demonstrate that a required infrastructure improvement is necessary to accommodate
+28 the development and that the impact fee is based on the cost of the infrastructure
+29 improvement and proportionate to the development's use of the infrastructure
+30 improvement.
+31 A. For the purposes of this subsection, infrastructure facilities include, but are not
+32 limited to:
+33 (1) Waste water collection and treatment facilities;
+34 (2) Municipal water facilities;
+35 (3) Solid waste facilities;
+36 (4) Public safety equipment and facilities;
+37 (5) Roads and traffic control devices;
+38 (6) Parks and other open space or recreational areas; and
+39 (7) School facilities.'
+40 Amend the bill in section 3 in paragraph C in the 2nd line (page 1, line 26 in L.D.) by
+41 striking out the following: "use" and inserting the following: 'use encumber'
+Page 3 - 132LR2143(02)
+COMMITTEE AMENDMENT
+
+COMMITTEE AMENDMENT “ ” to H.P. 982, L.D. 1498
+1 Amend the bill in section 3 in paragraph C in the 2nd line (page 1, line 26 in L.D.) by
+2 striking out the following: "180" and inserting the following: '360'
+3 Amend the bill by inserting after section 3 the following:
+4 'Sec. 4. Transition provisions; Housing Opportunity Program. The following
+5 provisions govern the transition of the Housing Opportunity Program from the Department
+6 of Economic and Community Development to the Maine Office of Community Affairs
+7 established in the Maine Revised Statutes, Title 5, section 3202.
+8 1. The Maine Office of Community Affairs is the successor in every way to the powers,
+9 duties and functions of the Department of Economic and Community Development
+10 regarding the Housing Opportunity Program.
+11 2. All existing rules, regulations and procedures in effect, in operation or adopted in or
+12 by the Department of Economic and Community Development regarding the Housing
+13 Opportunity Program or any of its administrative units or officers are in effect and continue
+14 in effect until rescinded, revised or amended by the Maine Office of Community Affairs.
+15 3. All existing contracts, agreements and compacts currently in effect in the
+16 Department of Economic and Community Development regarding the Housing
+17 Opportunity Program continue in effect.
+18 4. All records, property and equipment previously belonging to or allocated for the use
+19 of the Housing Opportunity Program in the Department of Economic and Community
+20 Development become, on the effective date of this Act, part of the property of the Maine
+21 Office of Community Affairs.
+22 5. All existing forms, licenses, letterheads and similar items bearing the name of or
+23 referring to the Housing Opportunity Program may be used by the Maine Office of
+24 Community Affairs until existing supplies of those items are exhausted.
+25 Sec. 5. Appropriations and allocations. The following appropriations and
+26 allocations are made.
+27 ECONOMIC AND COMMUNITY DEVELOPMENT, DEPARTMENT OF
+28 Housing Opportunity Program Z336
+29 Initiative: Continues and makes permanent 2 Public Service Coordinator II positions
+30 previously continued by Public Law 2023, chapter 412 and previously established by
+31 Public Law 2021, chapter 635 and reduces All Other to fund the positions.
+32 GENERAL FUND 2025-26 2026-27
+33 POSITIONS - LEGISLATIVE COUNT 2.000 2.000
+34 Personal Services $327,236 $340,694
+35 All Other ($327,236) ($340,694)
+36 __________ __________
+37 GENERAL FUND TOTAL $0 $0
+3382 Housing Opportunity Program Z336
+39 Initiative: Transfers All Other funding from the Housing Opportunity Program within the
+40 Department of Economic and Community Development to the Housing Opportunity
+41 Program within the Maine Office of Community Affairs within the same fund to provide
+Page 4 - 132LR2143(02)
+COMMITTEE AMENDMENT
+
+COMMITTEE AMENDMENT “ ” to H.P. 982, L.D. 1498
+412 coordinated and efficient technical assistance and funding in partnership with communities
+423 across the State.
+3 GENERAL FUND 2025-26 2026-27
+4 All Other ($2,060,118) ($2,046,660)
+5 __________ __________
+6 GENERAL FUND TOTAL ($2,060,118) ($2,046,660)
+73 Housing Opportunity Program Z336
+8 Initiative: Transfers 2 Public Service Coordinator II positions from the Housing
+9 Opportunity Program within the Department of Economic and Community Development
+10 to the Housing Opportunity Program within the Maine Office of Community Affairs within
+11 the same fund to provide coordinated and efficient technical assistance and funding in
+12 partnership with communities across the State. Two authorized positions and any
+13 incumbent personnel as of July 1, 2025 in the Department of Economic and Community
+14 Development are transferred to the Maine Office of Community Affairs. All transferred
+15 positions, including those currently unclassified, are classified positions at the Maine
+16 Office of Community Affairs. The designation of each position as either confidential or
+17 bargaining unit is based on the classification of the position. Those employees retain their
+18 accrued vacation and sick leave balances.
+19 GENERAL FUND 2025-26 2026-27
+20 POSITIONS - LEGISLATIVE COUNT (2.000) (2.000)
+21 Personal Services ($327,236) ($340,694)
+22 __________ __________
+23 GENERAL FUND TOTAL ($327,236) ($340,694)
+2149
+25 ECONOMIC AND COMMUNITY
+26 DEVELOPMENT, DEPARTMENT OF
+27 DEPARTMENT TOTALS 2025-26 2026-27
+28
+29 GENERAL FUND ($2,387,354) ($2,387,354)
+30 __________ __________
+31 DEPARTMENT TOTAL - ALL FUNDS ($2,387,354) ($2,387,354)
+3225 MAINE OFFICE OF COMMUNITY AFFAIRS
+33 Housing Opportunity Program Z336
+34 Initiative: Transfers All Other funding from the Housing Opportunity Program within the
+35 Department of Economic and Community Development to the Housing Opportunity
+36 Program within the Maine Office of Community Affairs within the same fund to provide
+37 coordinated and efficient technical assistance and funding in partnership with communities
+38 across the State.
+39 GENERAL FUND 2025-26 2026-27
+40 All Other $2,060,174 $2,046,718
+41 __________ __________
+42 GENERAL FUND TOTAL $2,060,174 $2,046,718
+4339 Housing Opportunity Program Z336
+Page 5 - 132LR2143(02)
+COMMITTEE AMENDMENT
+
+COMMITTEE AMENDMENT “ ” to H.P. 982, L.D. 1498
+1 Initiative: Transfers 2 Public Service Coordinator II positions from the Housing
+2 Opportunity Program within the Department of Economic and Community Development
+3 to the Housing Opportunity Program within the Maine Office of Community Affairs within
+4 the same fund to provide coordinated and efficient technical assistance and funding in
+5 partnership with communities across the State. Two authorized positions and any
+6 incumbent personnel as of July 1, 2025 in the Department of Economic and Community
+7 Development are transferred to the Maine Office of Community Affairs. All transferred
+8 positions, including those currently unclassified, are classified positions at the Maine
+9 Office of Community Affairs. The designation of each position as either confidential or
+10 bargaining unit is based on the classification of the position. Those employees retain their
+11 accrued vacation and sick leave balances.
+12 GENERAL FUND 2025-26 2026-27
+13 POSITIONS - LEGISLATIVE COUNT 2.000 2.000
+14 Personal Services $327,180 $340,636
+15 __________ __________
+16 GENERAL FUND TOTAL $327,180 $340,636
+1172 Maine Office of Community Affairs Z396
+18 Initiative: Establishes one Secretary Specialist position and one Public Service Coordinator
+19 I position to provide administrative support for the Maine Office of Community Affairs
+20 and provides funding for related All Other costs.
+21 GENERAL FUND 2025-26 2026-27
+22 POSITIONS - LEGISLATIVE COUNT 2.000 2.000
+23 Personal Services $214,376 $231,076
+24 All Other $17,826 $17,826
+25 __________ __________
+26 GENERAL FUND TOTAL $232,202 $248,902
+2271
+28 MAINE OFFICE OF COMMUNITY AFFAIRS
+29 DEPARTMENT TOTALS 2025-26 2026-27
+30
+31 GENERAL FUND $2,619,556 $2,636,256
+32 __________ __________
+33 DEPARTMENT TOTAL - ALL FUNDS $2,619,556 $2,636,256
+3248
+35 SECTION TOTALS 2025-26 2026-27
+36
+37 GENERAL FUND $232,202 $248,902
+38 __________ __________
+39 SECTION TOTAL - ALL FUNDS $232,202 $248,902
+4305 '
+41 Amend the bill by adding before the summary the following:
+42 'Emergency clause. In view of the emergency cited in the preamble, this legislation
+43 takes effect when approved.'
+Page 6 - 132LR2143(02)
+COMMITTEE AMENDMENT
+
+COMMITTEE AMENDMENT “ ” to H.P. 982, L.D. 1498
+1 Amend the bill by relettering or renumbering any nonconsecutive Part letter or section
+2 number to read consecutively.
+3 SUMMARY
+44 This amendment changes the title of the bill and adds an emergency preamble and
+55 emergency clause. The amendment amends the time within which a municipality must
+66 encumber an impact fee from 180 days, as proposed in the bill, to 360 days after receipt.
+77 The amendment changes "capital improvements" to "infrastructure improvements"
+88 throughout the provisions of law amended in the bill to provide consistency. The
+99 amendment removes the limitation proposed in the bill that impact fees must be related to
+1100 infrastructure improvements on land or property that directly abuts the development. The
+1111 amendment repeals the provisions of law that established the Housing Opportunity
+1122 Program within the Department of Economic and Community Development and
+1133 establishes the program in the Maine Office of Community Affairs. The amendment
+1144 includes an appropriations and allocations section to accomplish this transfer.
+1155 FISCAL NOTE REQUIRED
+1166 (See attached)
+Page 7 - 132LR2143(02)
+COMMITTEE AMENDMENT
+
+[DELETED: LD:(RC A “ t H 9 L 1 “ A t L0M1A2'3H D a T O o t H O4P5A6' 7b8 9a0i1 2c3 t o o t H O P f t4D o E a C D i o c c i5f6 7a8a9 0t m o t C o M a r t f l a1i2t3A]
+[DELETED: ' r§Tfcf p s a i d p t t G t j sc o t L h j o h m a t js0a1 2C3H4§51 P e a  T H O P6r7C8o9u0i1o s a t p a p t a f a t2s c i z a l u p n t3s4a5h627s8f f t p T f c o m a t t f b t9L0A1a p G m b a t e s p a2m3(4e p p a c e i t p o5i6(7c8a9(]
+[DELETED: P r g u s ( m e rcGeB T o s p t a h p d agtab p f j i a o o t S p m0l f m o a p a p i t t1g p w m s l a s p c m t2i33 P e  A r o g f t t p s4c546f7t8A9 0A1' 2a31  C o f m b r  T r m i4c o c i i o i f i o c5i i i t e o r o e6i7s8t d a t t i f i b o t c o t i9i a p t t d u o t i0i1A2l3(4(5(6(7(8(9(0A1s]
+[DELETED: AsA' poe1d a f o t D o E a C D0r122b3O4i53 A e c a a c c i e i t6D o E a C D r t H7O849o0D1O253r t t H O P m b u b t M O o4C5  T f a a 5  A a a6a7E8H9I C a m p 2 P S C I p0p c b P L 2 c 4 a p e b1PD262T202s$6$r()(___L$0$2H9I0D o E a C D t t H O1P]
+[DELETED: 2c3aD262r()(___L()(HI T 2 P S C I p f t HO0t1t2p w c a t S  T a p a a3i4D5p i t c u a c p a t M6O7b8aD262T()(s()(___L()(9  S262 D()(___S()(5M3H4I5D o E a C D t t H O6P7c8aD262r$4$___L$4$9H]
+[DELETED: I T 2 P S C I p f t HOttp w c a t S  T a p a aiDp i t c u a c p a t MO0b1aD262T202s$0$___L$0$2M8I9I0aD262T202s$6$r$6$___L$2$1S S262 D$6$___S$6$8S262 D$2$___S$2$51A2'I3t]
+[DELETED: AnTeeT a c " i t " it t p o l a i t b t p c Ta0i1a r t p o l t e t H O2P w t D o E a C D a3e4i5F6(]

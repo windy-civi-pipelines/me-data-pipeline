@@ -1,0 +1,284 @@
+Title: 4 Reproduced and distributed under the direction of the Secretary of the Senate.
+Official Title: 4 Reproduced and distributed under the direction of the Secretary of the Senate.
+Number of Sections: 1
+Source: versions - Adopted Amendments
+Media Type: application/pdf
+Strikethrough Detection: 4 sections found
+
+================================================================================
+
+Section 1:
+1 L.D. 1792
+2 Date: (Filing No. S- )
+3 ENERGY, UTILITIES AND TECHNOLOGY
+5 STATE OF MAINE
+6 SENATE
+7 132ND LEGISLATURE
+8 FIRST SPECIAL SESSION
+9 COMMITTEE AMENDMENT “ ” to S.P. 694, L.D. 1792, “An Act Regarding the
+10 Energy Policy of the State”
+11 Amend the bill by striking out the title and substituting the following:
+12 'An Act to Ensure Fair and Equitable Recovery of Post-restructuring Stranded Costs'
+13 Amend the bill by inserting after the title and before the enacting clause the following:
+14 'Emergency preamble. Whereas, acts and resolves of the Legislature do not
+15 become effective until 90 days after adjournment unless enacted as emergencies; and
+16 Whereas, electricity costs are negatively impacting many Maine electricity
+17 consumers; and
+18 Whereas, the costs associated with the State's net energy billing programs are having
+19 a disproportionate impact on businesses in the State that are vital to economic growth; and
+20 Whereas, the rate design adopted by the Public Utilities Commission by order dated
+21 April 30, 2025 will not provide sufficient relief for Maine's large and industrial customers;
+22 and
+23 Whereas, it is the policy of the State that the commission advance through its
+24 decisions and orders beneficial electrification in order to achieve the emission reduction
+25 and renewable energy goals of the State, reduce energy costs to consumers and provide
+26 economic and climate benefits for all ratepayers pursuant to the Beneficial Electrification
+27 Policy Act, enacted June 26, 2023; and
+28 Whereas, in the judgment of the Legislature, these facts create an emergency within
+29 the meaning of the Constitution of Maine and require the following legislation as
+30 immediately necessary for the preservation of the public peace, health and safety; now,
+31 therefore,'
+32 Amend the bill by striking out everything after the enacting clause and inserting the
+33 following:
+Page 1 - 132LR2106(02)
+COMMITTEE AMENDMENT
+COMMITTEE AMENDMENT “ ” to S.P. 694, L.D. 1792
+1 'Sec. 1. 35-A MRSA §3209, sub-§1-A is enacted to read:
+2 1-A. Definitions. As used in this section, unless the context otherwise indicates, the
+3 following terms have the following meanings.
+4 A. "Beneficial electrification" has the same meaning as in section 10102, subsection
+5 3‑A.
+6 B. "Intermediate commercial customer" means a nonresidential customer that meets
+7 the availability criteria to take service under a core customer class of a transmission
+8 and distribution utility that includes a demand charge and that is not classified as a
+9 medium commercial customer or a large commercial customer.
+10 C. "Large commercial customer" means a nonresidential customer that meets the
+11 availability criteria to take service under a core customer class of a transmission and
+12 distribution utility in which a customer takes electrical service from the utility at a
+13 subtransmission or transmission voltage or in which a customer has a maximum
+14 demand of at least 400 kilowatts as defined under the terms and conditions of the
+15 transmission and distribution utility.
+16 D. "Lighting customer" means a nonresidential customer whose account for electricity
+17 service is limited to street or area lighting.
+18 E. "Medium commercial customer" has the same meaning as in section 3106,
+19 subsection 1, paragraph B.
+20 F. "Post-restructuring stranded costs" means costs allocated to a transmission and
+21 distribution utility pursuant to section 3209-C, subsection 2, paragraph B and pursuant
+22 to section 3210-F, subsection 3.
+23 G. "Residential customer" has the same meaning as in section 3106, subsection 1,
+24 paragraph C.
+25 H. "Small commercial customer" has the same meaning as in section 3106, subsection
+26 1, paragraph D.
+27 Sec. 2. 35-A MRSA §3209, sub-§5 is enacted to read:
+28 5. Post-restructuring stranded costs. No later than October 1, 2025, each investor-
+29 owned transmission and distribution utility shall recover post-restructuring stranded costs
+30 in accordance with the rate design established by the commission in accordance with this
+31 subsection. For investor-owned transmission and distribution utility rates applicable prior
+32 to July 1, 2028, the commission shall establish a rate design for each investor-owned
+33 transmission and distribution utility in the State for the recovery of post-restructuring
+34 stranded costs that:
+35 A. Aggregates the customers of investor-owned transmission and distribution utilities
+36 in the State on a statewide basis into groups of large commercial customers, medium
+37 commercial customers, intermediate commercial customers, small commercial
+38 customers, lighting customers and residential customers;
+39 B. Notwithstanding section 3209-C, subsection 2, paragraph B and section 3210-F,
+40 subsection 3, allocates the combined post-restructuring stranded costs, as determined
+41 by the commission, for investor-owned transmission and distribution utilities in the
+42 State to each customer class group described in paragraph A, based on each group's pro
+Page 2 - 132LR2106(02)
+COMMITTEE AMENDMENT
+COMMITTEE AMENDMENT “ ” to S.P. 694, L.D. 1792
+413 rata share of statewide post-restructuring stranded costs based on total retail kilowatt-
+424 hour energy sales to those customers;
+3 C. For any rate design established by the commission to apply after September 30, 2025
+4 and before July 1, 2028, increases the cost allocation to residential customers, small
+5 commercial customers and medium commercial customer groups as calculated in
+6 accordance with paragraph B by 10% and reduces the cost allocation to the large
+7 commercial customer class group by an equal dollar amount; and
+8 D. Requires each investor-owned transmission and distribution utility, prior to October
+9 1, 2025, to calculate its post-restructuring stranded cost rates, including any annual
+10 reconciliation of costs, by applying a rate design that:
+11 (1) For residential customers and small commercial customers, is recovered 100%
+12 through a fixed monthly charge;
+13 (2) For medium commercial customers, is recovered 50% through a fixed monthly
+14 charge and 50% through a volumetric per kilowatt-hour charge;
+15 (3) For intermediate commercial customers and large commercial customers, is
+16 recovered 85% through a fixed monthly charge and 15% through a volumetric per
+17 kilowatt-hour charge; and
+18 (4) For lighting customers, is recovered 100% through a volumetric per kilowatt-
+19 hour charge.
+20 Sec. 3. 35-A MRSA §3209, sub-§6 is enacted to read:
+21 6. Post-restructuring stranded cost allocation; rate design. For post-restructuring
+22 stranded cost allocations and rate designs applicable on or after July 1, 2028, the
+23 commission shall by order establish such cost allocations and rate designs applicable for
+24 the following 3-year period, subject to annual and other necessary reconciliations, and
+25 ensure the promotion of beneficial electrification in every customer class.
+26 Emergency clause. In view of the emergency cited in the preamble, this legislation
+27 takes effect when approved.'
+28 Amend the bill by relettering or renumbering any nonconsecutive Part letter or section
+29 number to read consecutively.
+30 SUMMARY
+3311 This amendment, which is the majority report of the committee, replaces the bill, which
+3322 is a concept draft, changes the title and adds an emergency preamble and emergency clause.
+3333 It requires the Public Utilities Commission, no later than October 1, 2025, to establish a
+3344 rate design for each investor-owned transmission and distribution utility for the recovery
+3355 of post-restructuring stranded costs that aggregates certain classes of customers of the
+3366 investor-owned transmission and distribution utilities and requires that post-restructuring
+3377 stranded costs be recovered from these class groups based on specific charges. It requires
+3388 the commission, for post-restructuring stranded cost allocations and rate designs applicable
+3399 on or after July 1, 2028, to establish such cost allocations and rate designs applicable for
+Page 3 - 132LR2106(02)
+COMMITTEE AMENDMENT
+COMMITTEE AMENDMENT “ ” to S.P. 694, L.D. 1792
+410 the following 3-year period subject to annual and other necessary reconciliations and
+421 ensure the promotion of beneficial electrification for every customer class.
+432 FISCAL NOTE REQUIRED
+443 (See attached)
+Page 4 - 132LR2106(02)
+COMMITTEE AMENDMENT
+[DELETED: LD:(RC0E1A2'3A4' 5b6e c a n i m M e7c8t9a0t1A2a3i i t p o t S t t c a t i4d5a6e7P8 9t m o t C o M a r t f l a0i1t2A3f]
+[DELETED: ' 1fA3Btam0C " c c m a n c t m t1a2d3s o t v o i w a c h a m4d5t6D7s8E " c c h t s m a i s 39s0F " s c m c a t a t a1d2t3G4p5H617 859o0i1s2t3t4s5A6i7c c i c c s c8c9B0s1b2S]
+[DELETED: 3r4hCac c a m c c g a c iacD10r1(2t3(4c5(6r7k8(9h0 162s c a a r d a o o a J 1 2 t3c4t5e6I7t8A9n1T2i3I4r5o6i7s8t9o]
+[DELETED: 0t f 3 p s t a a o n r a1e2F3(]
+
+
+================================================================================
+
+Raw Text:
+1 L.D. 1792
+2 Date: (Filing No. S- )
+3 ENERGY, UTILITIES AND TECHNOLOGY
+4 Reproduced and distributed under the direction of the Secretary of the Senate.
+5 STATE OF MAINE
+6 SENATE
+7 132ND LEGISLATURE
+8 FIRST SPECIAL SESSION
+9 COMMITTEE AMENDMENT “ ” to S.P. 694, L.D. 1792, “An Act Regarding the
+10 Energy Policy of the State”
+11 Amend the bill by striking out the title and substituting the following:
+12 'An Act to Ensure Fair and Equitable Recovery of Post-restructuring Stranded Costs'
+13 Amend the bill by inserting after the title and before the enacting clause the following:
+14 'Emergency preamble. Whereas, acts and resolves of the Legislature do not
+15 become effective until 90 days after adjournment unless enacted as emergencies; and
+16 Whereas, electricity costs are negatively impacting many Maine electricity
+17 consumers; and
+18 Whereas, the costs associated with the State's net energy billing programs are having
+19 a disproportionate impact on businesses in the State that are vital to economic growth; and
+20 Whereas, the rate design adopted by the Public Utilities Commission by order dated
+21 April 30, 2025 will not provide sufficient relief for Maine's large and industrial customers;
+22 and
+23 Whereas, it is the policy of the State that the commission advance through its
+24 decisions and orders beneficial electrification in order to achieve the emission reduction
+25 and renewable energy goals of the State, reduce energy costs to consumers and provide
+26 economic and climate benefits for all ratepayers pursuant to the Beneficial Electrification
+27 Policy Act, enacted June 26, 2023; and
+28 Whereas, in the judgment of the Legislature, these facts create an emergency within
+29 the meaning of the Constitution of Maine and require the following legislation as
+30 immediately necessary for the preservation of the public peace, health and safety; now,
+31 therefore,'
+32 Amend the bill by striking out everything after the enacting clause and inserting the
+33 following:
+Page 1 - 132LR2106(02)
+COMMITTEE AMENDMENT
+
+COMMITTEE AMENDMENT “ ” to S.P. 694, L.D. 1792
+1 'Sec. 1. 35-A MRSA §3209, sub-§1-A is enacted to read:
+2 1-A. Definitions. As used in this section, unless the context otherwise indicates, the
+3 following terms have the following meanings.
+4 A. "Beneficial electrification" has the same meaning as in section 10102, subsection
+5 3‑A.
+6 B. "Intermediate commercial customer" means a nonresidential customer that meets
+7 the availability criteria to take service under a core customer class of a transmission
+8 and distribution utility that includes a demand charge and that is not classified as a
+9 medium commercial customer or a large commercial customer.
+10 C. "Large commercial customer" means a nonresidential customer that meets the
+11 availability criteria to take service under a core customer class of a transmission and
+12 distribution utility in which a customer takes electrical service from the utility at a
+13 subtransmission or transmission voltage or in which a customer has a maximum
+14 demand of at least 400 kilowatts as defined under the terms and conditions of the
+15 transmission and distribution utility.
+16 D. "Lighting customer" means a nonresidential customer whose account for electricity
+17 service is limited to street or area lighting.
+18 E. "Medium commercial customer" has the same meaning as in section 3106,
+19 subsection 1, paragraph B.
+20 F. "Post-restructuring stranded costs" means costs allocated to a transmission and
+21 distribution utility pursuant to section 3209-C, subsection 2, paragraph B and pursuant
+22 to section 3210-F, subsection 3.
+23 G. "Residential customer" has the same meaning as in section 3106, subsection 1,
+24 paragraph C.
+25 H. "Small commercial customer" has the same meaning as in section 3106, subsection
+26 1, paragraph D.
+27 Sec. 2. 35-A MRSA §3209, sub-§5 is enacted to read:
+28 5. Post-restructuring stranded costs. No later than October 1, 2025, each investor-
+29 owned transmission and distribution utility shall recover post-restructuring stranded costs
+30 in accordance with the rate design established by the commission in accordance with this
+31 subsection. For investor-owned transmission and distribution utility rates applicable prior
+32 to July 1, 2028, the commission shall establish a rate design for each investor-owned
+33 transmission and distribution utility in the State for the recovery of post-restructuring
+34 stranded costs that:
+35 A. Aggregates the customers of investor-owned transmission and distribution utilities
+36 in the State on a statewide basis into groups of large commercial customers, medium
+37 commercial customers, intermediate commercial customers, small commercial
+38 customers, lighting customers and residential customers;
+39 B. Notwithstanding section 3209-C, subsection 2, paragraph B and section 3210-F,
+40 subsection 3, allocates the combined post-restructuring stranded costs, as determined
+41 by the commission, for investor-owned transmission and distribution utilities in the
+42 State to each customer class group described in paragraph A, based on each group's pro
+Page 2 - 132LR2106(02)
+COMMITTEE AMENDMENT
+
+COMMITTEE AMENDMENT “ ” to S.P. 694, L.D. 1792
+413 rata share of statewide post-restructuring stranded costs based on total retail kilowatt-
+424 hour energy sales to those customers;
+3 C. For any rate design established by the commission to apply after September 30, 2025
+4 and before July 1, 2028, increases the cost allocation to residential customers, small
+5 commercial customers and medium commercial customer groups as calculated in
+6 accordance with paragraph B by 10% and reduces the cost allocation to the large
+7 commercial customer class group by an equal dollar amount; and
+8 D. Requires each investor-owned transmission and distribution utility, prior to October
+9 1, 2025, to calculate its post-restructuring stranded cost rates, including any annual
+10 reconciliation of costs, by applying a rate design that:
+11 (1) For residential customers and small commercial customers, is recovered 100%
+12 through a fixed monthly charge;
+13 (2) For medium commercial customers, is recovered 50% through a fixed monthly
+14 charge and 50% through a volumetric per kilowatt-hour charge;
+15 (3) For intermediate commercial customers and large commercial customers, is
+16 recovered 85% through a fixed monthly charge and 15% through a volumetric per
+17 kilowatt-hour charge; and
+18 (4) For lighting customers, is recovered 100% through a volumetric per kilowatt-
+19 hour charge.
+20 Sec. 3. 35-A MRSA §3209, sub-§6 is enacted to read:
+21 6. Post-restructuring stranded cost allocation; rate design. For post-restructuring
+22 stranded cost allocations and rate designs applicable on or after July 1, 2028, the
+23 commission shall by order establish such cost allocations and rate designs applicable for
+24 the following 3-year period, subject to annual and other necessary reconciliations, and
+25 ensure the promotion of beneficial electrification in every customer class.
+26 Emergency clause. In view of the emergency cited in the preamble, this legislation
+27 takes effect when approved.'
+28 Amend the bill by relettering or renumbering any nonconsecutive Part letter or section
+29 number to read consecutively.
+30 SUMMARY
+3311 This amendment, which is the majority report of the committee, replaces the bill, which
+3322 is a concept draft, changes the title and adds an emergency preamble and emergency clause.
+3333 It requires the Public Utilities Commission, no later than October 1, 2025, to establish a
+3344 rate design for each investor-owned transmission and distribution utility for the recovery
+3355 of post-restructuring stranded costs that aggregates certain classes of customers of the
+3366 investor-owned transmission and distribution utilities and requires that post-restructuring
+3377 stranded costs be recovered from these class groups based on specific charges. It requires
+3388 the commission, for post-restructuring stranded cost allocations and rate designs applicable
+3399 on or after July 1, 2028, to establish such cost allocations and rate designs applicable for
+Page 3 - 132LR2106(02)
+COMMITTEE AMENDMENT
+
+COMMITTEE AMENDMENT “ ” to S.P. 694, L.D. 1792
+410 the following 3-year period subject to annual and other necessary reconciliations and
+421 ensure the promotion of beneficial electrification for every customer class.
+432 FISCAL NOTE REQUIRED
+443 (See attached)
+Page 4 - 132LR2106(02)
+COMMITTEE AMENDMENT
+
+[DELETED: LD:(RC0E1A2'3A4' 5b6e c a n i m M e7c8t9a0t1A2a3i i t p o t S t t c a t i4d5a6e7P8 9t m o t C o M a r t f l a0i1t2A3f]
+[DELETED: ' 1fA3Btam0C " c c m a n c t m t1a2d3s o t v o i w a c h a m4d5t6D7s8E " c c h t s m a i s 39s0F " s c m c a t a t a1d2t3G4p5H617 859o0i1s2t3t4s5A6i7c c i c c s c8c9B0s1b2S]
+[DELETED: 3r4hCac c a m c c g a c iacD10r1(2t3(4c5(6r7k8(9h0 162s c a a r d a o o a J 1 2 t3c4t5e6I7t8A9n1T2i3I4r5o6i7s8t9o]
+[DELETED: 0t f 3 p s t a a o n r a1e2F3(]

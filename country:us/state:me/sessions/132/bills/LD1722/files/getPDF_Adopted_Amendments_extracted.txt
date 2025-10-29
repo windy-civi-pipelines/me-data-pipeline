@@ -1,0 +1,417 @@
+Title: 4 Reproduced and distributed under the direction of the Clerk of the House.
+Official Title: 4 Reproduced and distributed under the direction of the Clerk of the House.
+Number of Sections: 1
+Source: versions - Adopted Amendments
+Media Type: application/pdf
+Strikethrough Detection: 5 sections found
+
+================================================================================
+
+Section 1:
+1 L.D. 1722
+2 Date: (Filing No. H- )
+3 MARINE RESOURCES
+5 STATE OF MAINE
+6 HOUSE OF REPRESENTATIVES
+7 132ND LEGISLATURE
+8 FIRST SPECIAL SESSION
+9 COMMITTEE AMENDMENT “ ” to H.P. 1149, L.D. 1722, “An Act to Simplify
+10 the Regulation of Aquaculture Leases”
+11 Amend the bill by striking out the title and substituting the following:
+12 'An Act to Amend the Laws Governing the Regulation of Aquaculture Leases'
+13 Amend the bill by inserting after the title and before the enacting clause the following:
+14 'Emergency preamble. Whereas, acts and resolves of the Legislature do not
+15 become effective until 90 days after adjournment unless enacted as emergencies; and
+16 Whereas, the process that an applicant for an aquaculture lease goes through is
+17 extremely rigorous and, for various reasons, the application process can take years; and
+18 Whereas, the administrative burden of processing applications for Department of
+19 Marine Resources staff is significant, contributing to the long wait times; and
+20 Whereas, this legislation seeks to simplify the administrative procedures the
+21 department must go through in an effort to reduce wait times for lease applicants; and
+22 Whereas, it is important that this legislation take effect immediately to reduce barriers
+23 to entry for applicants as soon as possible; and
+24 Whereas, in the judgment of the Legislature, these facts create an emergency within
+25 the meaning of the Constitution of Maine and require the following legislation as
+26 immediately necessary for the preservation of the public peace, health and safety; now,
+27 therefore,'
+28 Amend the bill by striking out all of section 1 and inserting the following:
+29 'Sec. 1. 12 MRSA §6072, sub-§12, as amended by PL 2023, c. 564, §5, is further
+30 amended to read:
+31 12. Renewal. The commissioner shall renew a lease if:
+32 A. The commissioner receives, at least 30 days prior to the expiration of a lease, an
+33 application for renewal that includes information on the type and amount of
+Page 1 - 132LR2164(02)
+COMMITTEE AMENDMENT
+COMMITTEE AMENDMENT “ ” to H.P. 1149, L.D. 1722
+314 aquaculture to be conducted during the new lease term. If the renewal application is
+325 received after the expiration of a lease but within 30 days of the date of expiration, the
+336 application must include a nonrefundable $500 late fee in order for the application to
+347 be accepted. The late fee may be waived by the commissioner if a substantial illness or
+358 medical condition prevented the leaseholder from submitting the application prior to
+369 the date of expiration. The applicant shall provide the commissioner with
+470 documentation from a physician describing the substantial illness or medical condition.
+481 The commissioner may not process an application received more than 30 days after the
+492 expiration of a lease, and the applicant's lease expires;
+10 B. The lessee has complied with the lease agreement during the term of the lease. The
+11 department shall consider the compliance record of the leaseholder. For the purposes
+12 of this paragraph, "compliance record" means department aquaculture inspection
+13 reports and enforcement actions as they relate to the operation of an aquaculture lease;
+14 C. The commissioner determines that renewal of the lease is in the best interest of the
+15 State;
+16 D. Except as provided in subsection 13‑A, the renewal will not cause the lessee to
+17 become a tenant of any kind in leases covering an aggregate of more than 500 acres;
+18 and
+19 E. The lease is not being held for speculative purposes.
+20 If a person who holds a lease pursuant to this section applies to renew the lease, the lease
+21 remains in effect until the commissioner makes a decision on the renewal application. If
+22 the renewal is denied, the lease expires 30 120 days after the date of the commissioner's
+23 decision and the leaseholder is responsible for removing all gear and products. If a renewal
+24 application is not received by the department within 30 days after the expiration of a lease,
+25 the leaseholder is responsible for removing all gear and products within 120 days.
+26 When aquaculture has not been routinely or substantially conducted on a lease that is
+27 proposed for renewal, the commissioner may renew the lease, as long as the proposed
+28 renewal will continue to meet the criteria for approval in subsection 7‑A.
+29 A lease renewal is an adjudicatory proceeding under Title 5, chapter 375, subchapter 4.
+30 Public notice must be given to the entities required to receive notice under subsection 6. A
+31 person may provide to the commissioner comments on the proposed lease renewal by the
+32 30-day deadline specified in the applicable notice to the entities required to receive notice
+33 under subsection 6 or within 30 days of publication of the proposed renewal. A hearing
+34 must be held if it is requested in writing by 10 persons within the 30 days. The
+35 commissioner may review multiple leases concurrently during the lease renewal process.
+36 A lease renewal is not an adjudicatory proceeding. Upon determining that the renewal
+37 application is complete, the commissioner shall provide notice of the application to owners
+38 of riparian land within 1,000 feet of the proposed location of the lease and to the municipal
+39 officers of the municipality in which the lease is located. The applicant shall provide the
+40 names and addresses of known owners of riparian land within 1,000 feet of the location of
+41 the lease. The names and addresses must be taken from the current property tax roster on
+42 file at the local municipal office or, for an unorganized territory, with the Department of
+43 Administrative and Financial Services, Bureau of Revenue Services. The commissioner
+44 shall publish a summary of the application in a newspaper of general circulation in the area
+Page 2 - 132LR2164(02)
+COMMITTEE AMENDMENT
+COMMITTEE AMENDMENT “ ” to H.P. 1149, L.D. 1722
+415 of the State in which the lease is located. The commissioner may require the applicant to
+426 reimburse the department for costs incurred by the department in providing public notice
+437 under this subsection. A person may provide comments to the commissioner on the
+448 application by the 30-day deadline specified in the applicable notice to owners of riparian
+459 land or municipal officers or within 30 days of publication of the newspaper notice.
+6 A lease renewal application must include a nonrefundable application fee of no more than
+7 $1,500, the amount to be set by the commissioner depending on the type of aquaculture
+8 permitted by the lease.'
+9 Amend the bill by striking out all of section 3 and inserting the following:
+10 'Sec. 3. 12 MRSA §6072-A, sub-§18, as amended by PL 2023, c. 564, §11, is
+11 repealed.
+12 Sec. 4. 12 MRSA §6072-A, sub-§18-A is enacted to read:
+13 18-A. Scientific lease renewal. A limited-purpose lease for scientific research may
+14 be renewed. The commissioner shall renew the lease if:
+15 A. The commissioner receives, prior to the expiration of a lease, an application for
+16 renewal that includes information on the type of aquaculture research to be conducted
+17 during the new lease term. If the renewal application is received after the expiration of
+18 a lease but within 30 days of the date of expiration, the application must include a
+19 nonrefundable $500 late fee in order for the application to be accepted. The late fee
+20 may be waived if a substantial illness or medical condition prevented the leaseholder
+21 from submitting the application within 30 days of the date of expiration. The
+22 leaseholder shall provide the commissioner with documentation from a physician
+23 describing the substantial illness or medical condition. The commissioner may not
+24 process applications received more than 30 days after the expiration of a lease, and the
+25 lease expires;
+26 B. The lessee has complied with the lease agreement during the term of the lease. The
+27 department shall consider the compliance record of the leaseholder and information
+28 received from the public in making this determination. For the purposes of this
+29 paragraph, "compliance record" means department aquaculture reports and
+30 enforcement actions as they relate to the operation of an aquaculture lease;
+31 C. The commissioner determines that renewal of the lease is in the best interest of the
+32 State;
+33 D. Except as provided in section 6072, subsection 13-A, the renewal will not cause the
+34 lessee to become a tenant of any kind in leases covering an aggregate of more than 500
+35 acres; and
+36 E. Research has been conducted during the term of the lease.
+37 If a person who holds a lease pursuant to this section applies to renew the lease, the lease
+38 remains in effect until the commissioner makes a decision on the renewal application. If
+39 the renewal is denied, the lease expires 120 days after the date of the commissioner's
+40 decision and the leaseholder is responsible for removing all gear and products. If a renewal
+41 application is not received by the department 30 days after the expiration of a lease, the
+42 leaseholder is responsible for removing all gear and products within 120 days.
+Page 3 - 132LR2164(02)
+COMMITTEE AMENDMENT
+COMMITTEE AMENDMENT “ ” to H.P. 1149, L.D. 1722
+1 When aquaculture research has not been routinely or substantially conducted on a lease that
+2 is proposed for renewal, the commissioner may renew the lease, as long as the proposed
+3 renewal continues to meet the criteria for approval described in subsection 13.
+4 Sec. 5. 12 MRSA §6072-A, sub-§20-A, as enacted by PL 2023, c. 564, §12, is
+5 amended to read:
+6 20-A. Extension for conversion of a commercial lease. If a person who holds a
+7 limited-purpose lease for commercial aquaculture research and development submits an
+8 application under section 6072, subsection 12‑D for that same lease area and the same
+9 operations before the expiration of that limited-purpose lease, or within 30 days of the
+10 expiration and accompanied by a nonrefundable late fee of $500, and if the commissioner
+11 does not make a decision under section 6072, subsection 12‑D before the expiration of that
+12 limited-purpose lease, the limited-purpose lease remains in effect until the commissioner
+13 makes a decision under section 6072, subsection 12‑D. The late fee may be waived if a
+14 substantial illness or a medical condition prevented the leaseholder from submitting the
+15 application within 30 days of the date of expiration. The applicant shall provide the
+16 commissioner with documentation from a physician describing the substantial illness or
+17 medical condition. If the commissioner grants the person a lease under section 6072,
+18 subsection 12‑D, that person's limited-purpose lease remains in effect until the effective
+19 date of the lease issued under section 6072, subsection 12‑D. If the commissioner denies
+20 that person a lease under section 6072, subsection 12‑D, that person's limited-purpose lease
+21 remains in effect until 30 120 days after the commissioner's decision. The commissioner
+22 may not process applications under section 6072, subsection 12‑D received more than 30
+23 days after the expiration of a lease, and the leaseholder is responsible for removing all gear
+24 and products within 120 days.'
+25 Amend the bill in section 4 in the 4th line (page 1, line 32 in L.D.) by striking out the
+26 following: "section" and inserting the following: 'sections'
+27 Amend the bill in section 4 in the 4th line (page 1, line 32 in L.D.) by inserting after
+28 the following: "6072" the following: 'and 6072-A'
+29 Amend the bill by inserting after section 4 the following:
+30 'Sec. 5. Application. Those sections of this Act that amend the Maine Revised
+31 Statutes, Title 12, section 6072, subsection 12 and section 6072-A, subsection 20-A relating
+32 to the renewal of aquaculture leases and that enact Title 12, section 6072-A, subsection 18-
+33 A relating to the renewal of aquaculture leases apply to all renewal applications pending
+34 with the Department of Marine Resources on the effective date of this Act and to all renewal
+35 applications submitted on or after the effective date of this Act.'
+36 Amend the bill by adding before the summary the following:
+37 'Emergency clause. In view of the emergency cited in the preamble, this legislation
+38 takes effect when approved.'
+39 Amend the bill by relettering or renumbering any nonconsecutive Part letter or section
+40 number to read consecutively.
+41 SUMMARY
+4422 This amendment makes the following changes to the bill.
+Page 4 - 132LR2164(02)
+COMMITTEE AMENDMENT
+COMMITTEE AMENDMENT “ ” to H.P. 1149, L.D. 1722
+1 1. It changes the title and adds an application provision that applies to certain sections
+2 of the bill.
+3 2. It makes a change to the lease renewal process to say that a lease renewal is not an
+4 adjudicatory proceeding.
+5 3. It makes changes to the lease renewal process so that if a renewal application is
+6 received late, but no more than 30 days after the expiration date, the application can still
+7 be considered if the applicant pays a nonrefundable late fee of $500 or if the Commissioner
+8 of Marine Resources waives the late fee because the applicant provides evidence of a
+9 substantial illness or medical condition that prevented the applicant from submitting the
+10 application on time.
+11 4. It changes from 30 days to 120 days the number of days it takes for a lease to expire
+12 after the Commissioner of Marine Resources makes a decision about a lease renewal.
+13 5. It increases the number of people who must be notified of a completed renewal
+14 application to include the owners of riparian land within 1,000 feet of the proposed lease
+15 and to the municipal officers of the municipality in which the lease is located.
+16 6. It makes changes to the scientific lease renewal process.
+1177 7. It adds an emergency preamble and emergency clause.
+1188 FISCAL NOTE REQUIRED
+1199 (See attached)
+Page 5 - 132LR2164(02)
+COMMITTEE AMENDMENT
+[DELETED: LD:(RC0t1A2'3A4' 5b6 t p t a a f a a l g t i7e8 9M0 t l s t s t a p t1d2 3t4 5t m o t C o M a r t f l a6i7t8A9' 0a112A3a f r t i i o t t a a o]
+[DELETED: 4a5r6a7b8m9t d o e T a s p t c w0d1T2e0B1d2o t p " r m d a i3r4C5S6D7b8a9E0I1r2t3d4a5t6W7p8r9A0P1p233u4m b h i i i r i w b 1 p w t 3 d  T5c6A7a8o9o0n1t2f3A4s]
+[DELETED: 5o6r7u t s A p m p c t t c o t8a9lA$pA0' 1r2 314b5A6r7d8a9n0m1f s t a w 3 d o t d o e T2l s p t c w d f a p3d4p5l6B7d8r f t p i m t d  F t p o t9p " r m d a r a0e1C2S3D4l5a6E7I8r9t0d1a2l]
+[DELETED: Wir a2lao0e1d2l3m4s5a w 3 d o t d o e T a s p t6c7m c I t c g t p a l u s 68s9d0t1r2m3d4a5A6f7A8t9A0'   .A1S2t3A4w5a6A7'I8t9A0n2T]
+[DELETED: 1o2a3rbos0a142a354a5a66778F9(]
+
+
+================================================================================
+
+Raw Text:
+1 L.D. 1722
+2 Date: (Filing No. H- )
+3 MARINE RESOURCES
+4 Reproduced and distributed under the direction of the Clerk of the House.
+5 STATE OF MAINE
+6 HOUSE OF REPRESENTATIVES
+7 132ND LEGISLATURE
+8 FIRST SPECIAL SESSION
+9 COMMITTEE AMENDMENT “ ” to H.P. 1149, L.D. 1722, “An Act to Simplify
+10 the Regulation of Aquaculture Leases”
+11 Amend the bill by striking out the title and substituting the following:
+12 'An Act to Amend the Laws Governing the Regulation of Aquaculture Leases'
+13 Amend the bill by inserting after the title and before the enacting clause the following:
+14 'Emergency preamble. Whereas, acts and resolves of the Legislature do not
+15 become effective until 90 days after adjournment unless enacted as emergencies; and
+16 Whereas, the process that an applicant for an aquaculture lease goes through is
+17 extremely rigorous and, for various reasons, the application process can take years; and
+18 Whereas, the administrative burden of processing applications for Department of
+19 Marine Resources staff is significant, contributing to the long wait times; and
+20 Whereas, this legislation seeks to simplify the administrative procedures the
+21 department must go through in an effort to reduce wait times for lease applicants; and
+22 Whereas, it is important that this legislation take effect immediately to reduce barriers
+23 to entry for applicants as soon as possible; and
+24 Whereas, in the judgment of the Legislature, these facts create an emergency within
+25 the meaning of the Constitution of Maine and require the following legislation as
+26 immediately necessary for the preservation of the public peace, health and safety; now,
+27 therefore,'
+28 Amend the bill by striking out all of section 1 and inserting the following:
+29 'Sec. 1. 12 MRSA §6072, sub-§12, as amended by PL 2023, c. 564, §5, is further
+30 amended to read:
+31 12. Renewal. The commissioner shall renew a lease if:
+32 A. The commissioner receives, at least 30 days prior to the expiration of a lease, an
+33 application for renewal that includes information on the type and amount of
+Page 1 - 132LR2164(02)
+COMMITTEE AMENDMENT
+
+COMMITTEE AMENDMENT “ ” to H.P. 1149, L.D. 1722
+314 aquaculture to be conducted during the new lease term. If the renewal application is
+325 received after the expiration of a lease but within 30 days of the date of expiration, the
+336 application must include a nonrefundable $500 late fee in order for the application to
+347 be accepted. The late fee may be waived by the commissioner if a substantial illness or
+358 medical condition prevented the leaseholder from submitting the application prior to
+369 the date of expiration. The applicant shall provide the commissioner with
+470 documentation from a physician describing the substantial illness or medical condition.
+481 The commissioner may not process an application received more than 30 days after the
+492 expiration of a lease, and the applicant's lease expires;
+10 B. The lessee has complied with the lease agreement during the term of the lease. The
+11 department shall consider the compliance record of the leaseholder. For the purposes
+12 of this paragraph, "compliance record" means department aquaculture inspection
+13 reports and enforcement actions as they relate to the operation of an aquaculture lease;
+14 C. The commissioner determines that renewal of the lease is in the best interest of the
+15 State;
+16 D. Except as provided in subsection 13‑A, the renewal will not cause the lessee to
+17 become a tenant of any kind in leases covering an aggregate of more than 500 acres;
+18 and
+19 E. The lease is not being held for speculative purposes.
+20 If a person who holds a lease pursuant to this section applies to renew the lease, the lease
+21 remains in effect until the commissioner makes a decision on the renewal application. If
+22 the renewal is denied, the lease expires 30 120 days after the date of the commissioner's
+23 decision and the leaseholder is responsible for removing all gear and products. If a renewal
+24 application is not received by the department within 30 days after the expiration of a lease,
+25 the leaseholder is responsible for removing all gear and products within 120 days.
+26 When aquaculture has not been routinely or substantially conducted on a lease that is
+27 proposed for renewal, the commissioner may renew the lease, as long as the proposed
+28 renewal will continue to meet the criteria for approval in subsection 7‑A.
+29 A lease renewal is an adjudicatory proceeding under Title 5, chapter 375, subchapter 4.
+30 Public notice must be given to the entities required to receive notice under subsection 6. A
+31 person may provide to the commissioner comments on the proposed lease renewal by the
+32 30-day deadline specified in the applicable notice to the entities required to receive notice
+33 under subsection 6 or within 30 days of publication of the proposed renewal. A hearing
+34 must be held if it is requested in writing by 10 persons within the 30 days. The
+35 commissioner may review multiple leases concurrently during the lease renewal process.
+36 A lease renewal is not an adjudicatory proceeding. Upon determining that the renewal
+37 application is complete, the commissioner shall provide notice of the application to owners
+38 of riparian land within 1,000 feet of the proposed location of the lease and to the municipal
+39 officers of the municipality in which the lease is located. The applicant shall provide the
+40 names and addresses of known owners of riparian land within 1,000 feet of the location of
+41 the lease. The names and addresses must be taken from the current property tax roster on
+42 file at the local municipal office or, for an unorganized territory, with the Department of
+43 Administrative and Financial Services, Bureau of Revenue Services. The commissioner
+44 shall publish a summary of the application in a newspaper of general circulation in the area
+Page 2 - 132LR2164(02)
+COMMITTEE AMENDMENT
+
+COMMITTEE AMENDMENT “ ” to H.P. 1149, L.D. 1722
+415 of the State in which the lease is located. The commissioner may require the applicant to
+426 reimburse the department for costs incurred by the department in providing public notice
+437 under this subsection. A person may provide comments to the commissioner on the
+448 application by the 30-day deadline specified in the applicable notice to owners of riparian
+459 land or municipal officers or within 30 days of publication of the newspaper notice.
+6 A lease renewal application must include a nonrefundable application fee of no more than
+7 $1,500, the amount to be set by the commissioner depending on the type of aquaculture
+8 permitted by the lease.'
+9 Amend the bill by striking out all of section 3 and inserting the following:
+10 'Sec. 3. 12 MRSA §6072-A, sub-§18, as amended by PL 2023, c. 564, §11, is
+11 repealed.
+12 Sec. 4. 12 MRSA §6072-A, sub-§18-A is enacted to read:
+13 18-A. Scientific lease renewal. A limited-purpose lease for scientific research may
+14 be renewed. The commissioner shall renew the lease if:
+15 A. The commissioner receives, prior to the expiration of a lease, an application for
+16 renewal that includes information on the type of aquaculture research to be conducted
+17 during the new lease term. If the renewal application is received after the expiration of
+18 a lease but within 30 days of the date of expiration, the application must include a
+19 nonrefundable $500 late fee in order for the application to be accepted. The late fee
+20 may be waived if a substantial illness or medical condition prevented the leaseholder
+21 from submitting the application within 30 days of the date of expiration. The
+22 leaseholder shall provide the commissioner with documentation from a physician
+23 describing the substantial illness or medical condition. The commissioner may not
+24 process applications received more than 30 days after the expiration of a lease, and the
+25 lease expires;
+26 B. The lessee has complied with the lease agreement during the term of the lease. The
+27 department shall consider the compliance record of the leaseholder and information
+28 received from the public in making this determination. For the purposes of this
+29 paragraph, "compliance record" means department aquaculture reports and
+30 enforcement actions as they relate to the operation of an aquaculture lease;
+31 C. The commissioner determines that renewal of the lease is in the best interest of the
+32 State;
+33 D. Except as provided in section 6072, subsection 13-A, the renewal will not cause the
+34 lessee to become a tenant of any kind in leases covering an aggregate of more than 500
+35 acres; and
+36 E. Research has been conducted during the term of the lease.
+37 If a person who holds a lease pursuant to this section applies to renew the lease, the lease
+38 remains in effect until the commissioner makes a decision on the renewal application. If
+39 the renewal is denied, the lease expires 120 days after the date of the commissioner's
+40 decision and the leaseholder is responsible for removing all gear and products. If a renewal
+41 application is not received by the department 30 days after the expiration of a lease, the
+42 leaseholder is responsible for removing all gear and products within 120 days.
+Page 3 - 132LR2164(02)
+COMMITTEE AMENDMENT
+
+COMMITTEE AMENDMENT “ ” to H.P. 1149, L.D. 1722
+1 When aquaculture research has not been routinely or substantially conducted on a lease that
+2 is proposed for renewal, the commissioner may renew the lease, as long as the proposed
+3 renewal continues to meet the criteria for approval described in subsection 13.
+4 Sec. 5. 12 MRSA §6072-A, sub-§20-A, as enacted by PL 2023, c. 564, §12, is
+5 amended to read:
+6 20-A. Extension for conversion of a commercial lease. If a person who holds a
+7 limited-purpose lease for commercial aquaculture research and development submits an
+8 application under section 6072, subsection 12‑D for that same lease area and the same
+9 operations before the expiration of that limited-purpose lease, or within 30 days of the
+10 expiration and accompanied by a nonrefundable late fee of $500, and if the commissioner
+11 does not make a decision under section 6072, subsection 12‑D before the expiration of that
+12 limited-purpose lease, the limited-purpose lease remains in effect until the commissioner
+13 makes a decision under section 6072, subsection 12‑D. The late fee may be waived if a
+14 substantial illness or a medical condition prevented the leaseholder from submitting the
+15 application within 30 days of the date of expiration. The applicant shall provide the
+16 commissioner with documentation from a physician describing the substantial illness or
+17 medical condition. If the commissioner grants the person a lease under section 6072,
+18 subsection 12‑D, that person's limited-purpose lease remains in effect until the effective
+19 date of the lease issued under section 6072, subsection 12‑D. If the commissioner denies
+20 that person a lease under section 6072, subsection 12‑D, that person's limited-purpose lease
+21 remains in effect until 30 120 days after the commissioner's decision. The commissioner
+22 may not process applications under section 6072, subsection 12‑D received more than 30
+23 days after the expiration of a lease, and the leaseholder is responsible for removing all gear
+24 and products within 120 days.'
+25 Amend the bill in section 4 in the 4th line (page 1, line 32 in L.D.) by striking out the
+26 following: "section" and inserting the following: 'sections'
+27 Amend the bill in section 4 in the 4th line (page 1, line 32 in L.D.) by inserting after
+28 the following: "6072" the following: 'and 6072-A'
+29 Amend the bill by inserting after section 4 the following:
+30 'Sec. 5. Application. Those sections of this Act that amend the Maine Revised
+31 Statutes, Title 12, section 6072, subsection 12 and section 6072-A, subsection 20-A relating
+32 to the renewal of aquaculture leases and that enact Title 12, section 6072-A, subsection 18-
+33 A relating to the renewal of aquaculture leases apply to all renewal applications pending
+34 with the Department of Marine Resources on the effective date of this Act and to all renewal
+35 applications submitted on or after the effective date of this Act.'
+36 Amend the bill by adding before the summary the following:
+37 'Emergency clause. In view of the emergency cited in the preamble, this legislation
+38 takes effect when approved.'
+39 Amend the bill by relettering or renumbering any nonconsecutive Part letter or section
+40 number to read consecutively.
+41 SUMMARY
+4422 This amendment makes the following changes to the bill.
+Page 4 - 132LR2164(02)
+COMMITTEE AMENDMENT
+
+COMMITTEE AMENDMENT “ ” to H.P. 1149, L.D. 1722
+1 1. It changes the title and adds an application provision that applies to certain sections
+2 of the bill.
+3 2. It makes a change to the lease renewal process to say that a lease renewal is not an
+4 adjudicatory proceeding.
+5 3. It makes changes to the lease renewal process so that if a renewal application is
+6 received late, but no more than 30 days after the expiration date, the application can still
+7 be considered if the applicant pays a nonrefundable late fee of $500 or if the Commissioner
+8 of Marine Resources waives the late fee because the applicant provides evidence of a
+9 substantial illness or medical condition that prevented the applicant from submitting the
+10 application on time.
+11 4. It changes from 30 days to 120 days the number of days it takes for a lease to expire
+12 after the Commissioner of Marine Resources makes a decision about a lease renewal.
+13 5. It increases the number of people who must be notified of a completed renewal
+14 application to include the owners of riparian land within 1,000 feet of the proposed lease
+15 and to the municipal officers of the municipality in which the lease is located.
+16 6. It makes changes to the scientific lease renewal process.
+1177 7. It adds an emergency preamble and emergency clause.
+1188 FISCAL NOTE REQUIRED
+1199 (See attached)
+Page 5 - 132LR2164(02)
+COMMITTEE AMENDMENT
+
+[DELETED: LD:(RC0t1A2'3A4' 5b6 t p t a a f a a l g t i7e8 9M0 t l s t s t a p t1d2 3t4 5t m o t C o M a r t f l a6i7t8A9' 0a112A3a f r t i i o t t a a o]
+[DELETED: 4a5r6a7b8m9t d o e T a s p t c w0d1T2e0B1d2o t p " r m d a i3r4C5S6D7b8a9E0I1r2t3d4a5t6W7p8r9A0P1p233u4m b h i i i r i w b 1 p w t 3 d  T5c6A7a8o9o0n1t2f3A4s]
+[DELETED: 5o6r7u t s A p m p c t t c o t8a9lA$pA0' 1r2 314b5A6r7d8a9n0m1f s t a w 3 d o t d o e T2l s p t c w d f a p3d4p5l6B7d8r f t p i m t d  F t p o t9p " r m d a r a0e1C2S3D4l5a6E7I8r9t0d1a2l]
+[DELETED: Wir a2lao0e1d2l3m4s5a w 3 d o t d o e T a s p t6c7m c I t c g t p a l u s 68s9d0t1r2m3d4a5A6f7A8t9A0'   .A1S2t3A4w5a6A7'I8t9A0n2T]
+[DELETED: 1o2a3rbos0a142a354a5a66778F9(]

@@ -1,0 +1,464 @@
+Title: 4 Reproduced and distributed under the direction of the Clerk of the House.
+Official Title: 4 Reproduced and distributed under the direction of the Clerk of the House.
+Number of Sections: 1
+Source: versions - Adopted Amendments
+Media Type: application/pdf
+Strikethrough Detection: 6 sections found
+
+================================================================================
+
+Section 1:
+1 L.D. 1164
+2 Date: (Filing No. H- )
+3 VETERANS AND LEGAL AFFAIRS
+5 STATE OF MAINE
+6 HOUSE OF REPRESENTATIVES
+7 132ND LEGISLATURE
+8 FIRST SPECIAL SESSION
+9 COMMITTEE AMENDMENT “ ” to H.P. 769, L.D. 1164, “An Act to Create
+10 Economic Opportunity for the Wabanaki Nations Through Internet Gaming”
+11 Amend the bill in section 4 in c. 39 in §1416 by striking out all of subsection 1 (page
+12 17, lines 5 to 23 in L.D.) and inserting the following:
+13 '1. Tax imposed; allocation of funds. An operator shall collect and distribute 18%
+14 of the adjusted gross Internet gaming receipts to the director to be forwarded by the director
+15 to the Treasurer of State for distribution as follows:
+16 A. Two percent of the adjusted gross Internet gaming receipts must be deposited in the
+17 Gambling Control Unit administrative expenses Other Special Revenue Funds account,
+18 which is a nonlapsing dedicated account;
+19 B. Two percent of the adjusted gross Internet gaming receipts must be deposited in the
+20 Gambling Addiction Prevention and Treatment Fund established under Title 5, section
+21 20006‑B;
+22 C. Two and one-half percent of the adjusted gross Internet gaming receipts must be
+23 deposited in the dairy stabilization tier program under Title 7, chapter 611;
+24 D. One and one-half percent of the adjusted gross Internet gaming receipts must be
+25 deposited in the Opioid Use Disorder Prevention and Treatment Fund established under
+26 Title 5, section 20010;
+27 E. Two percent of the adjusted gross Internet gaming receipts must be deposited in the
+28 Emergency Housing Relief Fund established under Title 30-A, section 4765;
+29 F. Five percent of the adjusted gross Internet gaming receipts must be deposited in the
+30 Maine Veterans' Homes Stabilization Fund established under Title 37-B, section 613;
+31 G. One percent of the adjusted gross Internet gaming receipts must be deposited in the
+32 Fund for a Healthy Maine established under Title 22, section 1511; and
+33 H. Two percent of the adjusted gross Internet gaming receipts must be deposited in the
+34 School Revolving Renovation Fund established under Title 30-A, section 6006-F.'
+Page 1 - 132LR2128(02)
+COMMITTEE AMENDMENT
+COMMITTEE AMENDMENT “ ” to H.P. 769, L.D. 1164
+1 Amend the bill by inserting after section 8 the following:
+2 'Sec. 9. Appropriations and allocations. The following appropriations and
+3 allocations are made.
+4 ADMINISTRATIVE AND FINANCIAL SERVICES, DEPARTMENT OF
+5 Fund for a Healthy Maine 0921
+6 Initiative: Provides allocation for expenditures authorized in the Maine Revised Statutes,
+7 Title 22, section 1511.
+8 FUND FOR A HEALTHY MAINE 2025-26 2026-27
+9 All Other $100,000 $200,000
+10 __________ __________
+11 FUND FOR A HEALTHY MAINE TOTAL $100,000 $200,000
+128
+13 ADMINISTRATIVE AND FINANCIAL
+14 SERVICES, DEPARTMENT OF
+15 DEPARTMENT TOTALS 2025-26 2026-27
+16
+17 FUND FOR A HEALTHY MAINE $100,000 $200,000
+18 __________ __________
+19 DEPARTMENT TOTAL - ALL FUNDS $100,000 $200,000
+2103 AGRICULTURE, CONSERVATION AND FORESTRY, DEPARTMENT OF
+21 Milk Commission 0188
+22 Initiative: Provides allocation for expenditures authorized in the Maine Revised Statutes,
+23 Title 7, section 3153-B.
+24 OTHER SPECIAL REVENUE FUNDS 2025-26 2026-27
+25 All Other $250,000 $500,000
+26 __________ __________
+27 OTHER SPECIAL REVENUE FUNDS TOTAL $250,000 $500,000
+2284
+29 AGRICULTURE, CONSERVATION AND
+30 FORESTRY, DEPARTMENT OF
+31 DEPARTMENT TOTALS 2025-26 2026-27
+32
+33 OTHER SPECIAL REVENUE FUNDS $250,000 $500,000
+34 __________ __________
+35 DEPARTMENT TOTAL - ALL FUNDS $250,000 $500,000
+3269 DEFENSE, VETERANS AND EMERGENCY MANAGEMENT, DEPARTMENT
+3370 OF
+38 Maine Veterans' Homes Stabilization Fund Z358
+39 Initiative: Allocates funds to support the operations of the Maine Veterans' Homes.
+40 OTHER SPECIAL REVENUE FUNDS 2025-26 2026-27
+41 All Other $500,000 $1,000,000
+Page 2 - 132LR2128(02)
+COMMITTEE AMENDMENT
+COMMITTEE AMENDMENT “ ” to H.P. 769, L.D. 1164
+1 __________ __________
+2 OTHER SPECIAL REVENUE FUNDS TOTAL $500,000 $1,000,000
+31
+4 DEFENSE, VETERANS AND EMERGENCY
+5 MANAGEMENT, DEPARTMENT OF
+6 DEPARTMENT TOTALS 2025-26 2026-27
+7
+8 OTHER SPECIAL REVENUE FUNDS $500,000 $1,000,000
+9 __________ __________
+10 DEPARTMENT TOTAL - ALL FUNDS $500,000 $1,000,000
+114 HEALTH AND HUMAN SERVICES, DEPARTMENT OF
+12 Maine Center for Disease Control and Prevention 0143
+13 Initiative: Provides allocation for expenditures authorized in the Maine Revised Statutes,
+14 Title 5, section 20006-B.
+15 OTHER SPECIAL REVENUE FUNDS 2025-26 2026-27
+16 All Other $200,000 $400,000
+17 __________ __________
+18 OTHER SPECIAL REVENUE FUNDS TOTAL $200,000 $400,000
+1195 Opioid Use Disorder Prevention and Treatment Fund Z289
+20 Initiative: Allocates funds to support opioid use disorder prevention and treatment in the
+21 State.
+22 OTHER SPECIAL REVENUE FUNDS 2025-26 2026-27
+23 All Other $150,000 $300,000
+24 __________ __________
+25 OTHER SPECIAL REVENUE FUNDS TOTAL $150,000 $300,000
+2262
+27 HEALTH AND HUMAN SERVICES,
+28 DEPARTMENT OF
+29 DEPARTMENT TOTALS 2025-26 2026-27
+30
+31 OTHER SPECIAL REVENUE FUNDS $350,000 $700,000
+32 __________ __________
+33 DEPARTMENT TOTAL - ALL FUNDS $350,000 $700,000
+3247 HOUSING AUTHORITY, MAINE STATE
+35 Emergency Housing Relief Fund Program Z340
+36 Initiative: Allocates funds to support housing emergencies in the State.
+37 OTHER SPECIAL REVENUE FUNDS 2025-26 2026-27
+38 All Other $200,000 $400,000
+39 __________ __________
+40 OTHER SPECIAL REVENUE FUNDS TOTAL $200,000 $400,000
+4317
+Page 3 - 132LR2128(02)
+COMMITTEE AMENDMENT
+COMMITTEE AMENDMENT “ ” to H.P. 769, L.D. 1164
+1 HOUSING AUTHORITY, MAINE STATE
+2 DEPARTMENT TOTALS 2025-26 2026-27
+3
+4 OTHER SPECIAL REVENUE FUNDS $200,000 $400,000
+5 __________ __________
+6 DEPARTMENT TOTAL - ALL FUNDS $200,000 $400,000
+71 MUNICIPAL BOND BANK, MAINE
+8 Maine Municipal Bond Bank 0671
+9 Initiative: Allocates funds for the School Revolving Renovation Fund established under the
+10 Maine Revised Statutes, Title 30-A, section 6006-F.
+11 OTHER SPECIAL REVENUE FUNDS 2025-26 2026-27
+12 All Other $200,000 $400,000
+13 __________ __________
+14 OTHER SPECIAL REVENUE FUNDS TOTAL $200,000 $400,000
+1151
+16 MUNICIPAL BOND BANK, MAINE
+17 DEPARTMENT TOTALS 2025-26 2026-27
+18
+19 OTHER SPECIAL REVENUE FUNDS $200,000 $400,000
+20 __________ __________
+21 DEPARTMENT TOTAL - ALL FUNDS $200,000 $400,000
+2126 PUBLIC SAFETY, DEPARTMENT OF
+23 Gambling Control Board Z002
+24 Initiative: Provides funding for 2 Auditor II positions, 2 Criminal Intelligence Analyst
+25 positions, one Public Service Coordinator II position and one Public Safety Inspector I
+26 position.
+27 GENERAL FUND 2025-26 2026-27
+28 POSITIONS - LEGISLATIVE COUNT 6.000 6.000
+29 Personal Services $645,354 $668,001
+30 __________ __________
+31 GENERAL FUND TOTAL $645,354 $668,001
+3227 Gambling Control Board Z002
+33 Initiative: Provides funding for position costs associated with 2 Auditor II positions, 2
+34 Criminal Intelligence Analyst positions, one Public Service Coordinator II position and one
+35 Public Safety Inspector I position.
+36 OTHER SPECIAL REVENUE FUNDS 2025-26 2026-27
+37 All Other $70,000 $70,000
+38 __________ __________
+39 OTHER SPECIAL REVENUE FUNDS TOTAL $70,000 $70,000
+4306 Gambling Control Board Z002
+41 Initiative: Provides allocations for expenditures related to administrative expenses.
+Page 4 - 132LR2128(02)
+COMMITTEE AMENDMENT
+COMMITTEE AMENDMENT “ ” to H.P. 769, L.D. 1164
+1 OTHER SPECIAL REVENUE FUNDS 2025-26 2026-27
+2 All Other $200,000 $400,000
+3 __________ __________
+4 OTHER SPECIAL REVENUE FUNDS TOTAL $200,000 $400,000
+51
+6 PUBLIC SAFETY, DEPARTMENT OF
+7 DEPARTMENT TOTALS 2025-26 2026-27
+8
+9 GENERAL FUND $645,354 $668,001
+10 OTHER SPECIAL REVENUE FUNDS $270,000 $470,000
+11 __________ __________
+12 DEPARTMENT TOTAL - ALL FUNDS $915,354 $1,138,001
+136
+14 SECTION TOTALS 2025-26 2026-27
+15
+16 GENERAL FUND $645,354 $668,001
+17 FUND FOR A HEALTHY MAINE $100,000 $200,000
+18 OTHER SPECIAL REVENUE FUNDS $1,770,000 $3,470,000
+19 __________ __________
+20 SECTION TOTAL - ALL FUNDS $2,515,354 $4,338,001
+2114 '
+22 Amend the bill by relettering or renumbering any nonconsecutive Part letter or section
+23 number to read consecutively.
+24 SUMMARY
+2255 This amendment adjusts the allocation of funds for adjusted gross Internet gaming
+2266 receipts. The amendment increases the overall collection and distribution of adjusted gross
+2277 Internet gaming receipts from 16% to 18%. It makes the following changes to distribution
+2288 of adjusted gross Internet gaming receipts.
+29 1. It reduces from 3% to 2% the amount that must be deposited in the Gambling
+30 Addiction Prevention and Treatment Fund and reduces from 3% to 1.5% the amount that
+31 must be deposited in the Opioid Use Disorder Prevention and Treatment Fund.
+32 2. It increases from 3% to 5% the amount that must be deposited in the Maine Veterans’
+33 Homes Stabilization Fund.
+34 3. It adds a 2.5% deposit to the dairy stabilization tier program, a 1% deposit into the
+35 Fund for a Healthy Maine and a 2% deposit in the School Revolving Renovation Fund.
+36 4. It removes the E-9-1-1 fund from the list of entities receiving funds.
+37 5. It makes no changes to the distribution of 2% to the Emergency Housing Relief Fund
+38 or to the distribution of 2% to the Gambling Control Unit administrative expenses Other
+39 Special Revenue Funds account.
+Page 5 - 132LR2128(02)
+COMMITTEE AMENDMENT
+COMMITTEE AMENDMENT “ ” to H.P. 769, L.D. 1164
+1 6. It adds an appropriations and allocations section.
+22 FISCAL NOTE REQUIRED
+33 (See attached)
+Page 6 - 132LR2128(02)
+COMMITTEE AMENDMENT
+[DELETED: LD:(RC0E1A213'4o5t6A7G8w9B0G122C3d4D5d6T7E8E9F0M1G2F3H4S]
+[DELETED: A'  T f a a 9  A a aaAFITE262r$0$___L$0$  S262 E$0$___S$0$3A1M2I3TS262r$0$___L$0$4  S262 S$0$___S$0$9D0O8M9IS262r$0$]
+[DELETED: ___L$0$  S262 S$0$___S$0$H2M3I4TS262r$0$___L$0$5O0I1SS262r$0$___L$0$2  S262 S$0$___S$0$7H5E6IS262r$0$___L$0$7]
+[DELETED: E S262 S$0$___S$0$MMI0MS262r$0$___L$0$1E S262 S$0$___S$0$6P3G4I5p6pD262T606s$4$___L$4$7G3I4C5PS262r$0$___L$0$6G1I]
+[DELETED: S262r$0$___L$0$F S262 D$4$S$0$___S$4$S262 D$4$E$0$S$0$___S$4$42A3n5T6r7I8o910A1m223H435F64758o9S]
+[DELETED: 6F(]
+
+
+================================================================================
+
+Raw Text:
+1 L.D. 1164
+2 Date: (Filing No. H- )
+3 VETERANS AND LEGAL AFFAIRS
+4 Reproduced and distributed under the direction of the Clerk of the House.
+5 STATE OF MAINE
+6 HOUSE OF REPRESENTATIVES
+7 132ND LEGISLATURE
+8 FIRST SPECIAL SESSION
+9 COMMITTEE AMENDMENT “ ” to H.P. 769, L.D. 1164, “An Act to Create
+10 Economic Opportunity for the Wabanaki Nations Through Internet Gaming”
+11 Amend the bill in section 4 in c. 39 in §1416 by striking out all of subsection 1 (page
+12 17, lines 5 to 23 in L.D.) and inserting the following:
+13 '1. Tax imposed; allocation of funds. An operator shall collect and distribute 18%
+14 of the adjusted gross Internet gaming receipts to the director to be forwarded by the director
+15 to the Treasurer of State for distribution as follows:
+16 A. Two percent of the adjusted gross Internet gaming receipts must be deposited in the
+17 Gambling Control Unit administrative expenses Other Special Revenue Funds account,
+18 which is a nonlapsing dedicated account;
+19 B. Two percent of the adjusted gross Internet gaming receipts must be deposited in the
+20 Gambling Addiction Prevention and Treatment Fund established under Title 5, section
+21 20006‑B;
+22 C. Two and one-half percent of the adjusted gross Internet gaming receipts must be
+23 deposited in the dairy stabilization tier program under Title 7, chapter 611;
+24 D. One and one-half percent of the adjusted gross Internet gaming receipts must be
+25 deposited in the Opioid Use Disorder Prevention and Treatment Fund established under
+26 Title 5, section 20010;
+27 E. Two percent of the adjusted gross Internet gaming receipts must be deposited in the
+28 Emergency Housing Relief Fund established under Title 30-A, section 4765;
+29 F. Five percent of the adjusted gross Internet gaming receipts must be deposited in the
+30 Maine Veterans' Homes Stabilization Fund established under Title 37-B, section 613;
+31 G. One percent of the adjusted gross Internet gaming receipts must be deposited in the
+32 Fund for a Healthy Maine established under Title 22, section 1511; and
+33 H. Two percent of the adjusted gross Internet gaming receipts must be deposited in the
+34 School Revolving Renovation Fund established under Title 30-A, section 6006-F.'
+Page 1 - 132LR2128(02)
+COMMITTEE AMENDMENT
+
+COMMITTEE AMENDMENT “ ” to H.P. 769, L.D. 1164
+1 Amend the bill by inserting after section 8 the following:
+2 'Sec. 9. Appropriations and allocations. The following appropriations and
+3 allocations are made.
+4 ADMINISTRATIVE AND FINANCIAL SERVICES, DEPARTMENT OF
+5 Fund for a Healthy Maine 0921
+6 Initiative: Provides allocation for expenditures authorized in the Maine Revised Statutes,
+7 Title 22, section 1511.
+8 FUND FOR A HEALTHY MAINE 2025-26 2026-27
+9 All Other $100,000 $200,000
+10 __________ __________
+11 FUND FOR A HEALTHY MAINE TOTAL $100,000 $200,000
+128
+13 ADMINISTRATIVE AND FINANCIAL
+14 SERVICES, DEPARTMENT OF
+15 DEPARTMENT TOTALS 2025-26 2026-27
+16
+17 FUND FOR A HEALTHY MAINE $100,000 $200,000
+18 __________ __________
+19 DEPARTMENT TOTAL - ALL FUNDS $100,000 $200,000
+2103 AGRICULTURE, CONSERVATION AND FORESTRY, DEPARTMENT OF
+21 Milk Commission 0188
+22 Initiative: Provides allocation for expenditures authorized in the Maine Revised Statutes,
+23 Title 7, section 3153-B.
+24 OTHER SPECIAL REVENUE FUNDS 2025-26 2026-27
+25 All Other $250,000 $500,000
+26 __________ __________
+27 OTHER SPECIAL REVENUE FUNDS TOTAL $250,000 $500,000
+2284
+29 AGRICULTURE, CONSERVATION AND
+30 FORESTRY, DEPARTMENT OF
+31 DEPARTMENT TOTALS 2025-26 2026-27
+32
+33 OTHER SPECIAL REVENUE FUNDS $250,000 $500,000
+34 __________ __________
+35 DEPARTMENT TOTAL - ALL FUNDS $250,000 $500,000
+3269 DEFENSE, VETERANS AND EMERGENCY MANAGEMENT, DEPARTMENT
+3370 OF
+38 Maine Veterans' Homes Stabilization Fund Z358
+39 Initiative: Allocates funds to support the operations of the Maine Veterans' Homes.
+40 OTHER SPECIAL REVENUE FUNDS 2025-26 2026-27
+41 All Other $500,000 $1,000,000
+Page 2 - 132LR2128(02)
+COMMITTEE AMENDMENT
+
+COMMITTEE AMENDMENT “ ” to H.P. 769, L.D. 1164
+1 __________ __________
+2 OTHER SPECIAL REVENUE FUNDS TOTAL $500,000 $1,000,000
+31
+4 DEFENSE, VETERANS AND EMERGENCY
+5 MANAGEMENT, DEPARTMENT OF
+6 DEPARTMENT TOTALS 2025-26 2026-27
+7
+8 OTHER SPECIAL REVENUE FUNDS $500,000 $1,000,000
+9 __________ __________
+10 DEPARTMENT TOTAL - ALL FUNDS $500,000 $1,000,000
+114 HEALTH AND HUMAN SERVICES, DEPARTMENT OF
+12 Maine Center for Disease Control and Prevention 0143
+13 Initiative: Provides allocation for expenditures authorized in the Maine Revised Statutes,
+14 Title 5, section 20006-B.
+15 OTHER SPECIAL REVENUE FUNDS 2025-26 2026-27
+16 All Other $200,000 $400,000
+17 __________ __________
+18 OTHER SPECIAL REVENUE FUNDS TOTAL $200,000 $400,000
+1195 Opioid Use Disorder Prevention and Treatment Fund Z289
+20 Initiative: Allocates funds to support opioid use disorder prevention and treatment in the
+21 State.
+22 OTHER SPECIAL REVENUE FUNDS 2025-26 2026-27
+23 All Other $150,000 $300,000
+24 __________ __________
+25 OTHER SPECIAL REVENUE FUNDS TOTAL $150,000 $300,000
+2262
+27 HEALTH AND HUMAN SERVICES,
+28 DEPARTMENT OF
+29 DEPARTMENT TOTALS 2025-26 2026-27
+30
+31 OTHER SPECIAL REVENUE FUNDS $350,000 $700,000
+32 __________ __________
+33 DEPARTMENT TOTAL - ALL FUNDS $350,000 $700,000
+3247 HOUSING AUTHORITY, MAINE STATE
+35 Emergency Housing Relief Fund Program Z340
+36 Initiative: Allocates funds to support housing emergencies in the State.
+37 OTHER SPECIAL REVENUE FUNDS 2025-26 2026-27
+38 All Other $200,000 $400,000
+39 __________ __________
+40 OTHER SPECIAL REVENUE FUNDS TOTAL $200,000 $400,000
+4317
+Page 3 - 132LR2128(02)
+COMMITTEE AMENDMENT
+
+COMMITTEE AMENDMENT “ ” to H.P. 769, L.D. 1164
+1 HOUSING AUTHORITY, MAINE STATE
+2 DEPARTMENT TOTALS 2025-26 2026-27
+3
+4 OTHER SPECIAL REVENUE FUNDS $200,000 $400,000
+5 __________ __________
+6 DEPARTMENT TOTAL - ALL FUNDS $200,000 $400,000
+71 MUNICIPAL BOND BANK, MAINE
+8 Maine Municipal Bond Bank 0671
+9 Initiative: Allocates funds for the School Revolving Renovation Fund established under the
+10 Maine Revised Statutes, Title 30-A, section 6006-F.
+11 OTHER SPECIAL REVENUE FUNDS 2025-26 2026-27
+12 All Other $200,000 $400,000
+13 __________ __________
+14 OTHER SPECIAL REVENUE FUNDS TOTAL $200,000 $400,000
+1151
+16 MUNICIPAL BOND BANK, MAINE
+17 DEPARTMENT TOTALS 2025-26 2026-27
+18
+19 OTHER SPECIAL REVENUE FUNDS $200,000 $400,000
+20 __________ __________
+21 DEPARTMENT TOTAL - ALL FUNDS $200,000 $400,000
+2126 PUBLIC SAFETY, DEPARTMENT OF
+23 Gambling Control Board Z002
+24 Initiative: Provides funding for 2 Auditor II positions, 2 Criminal Intelligence Analyst
+25 positions, one Public Service Coordinator II position and one Public Safety Inspector I
+26 position.
+27 GENERAL FUND 2025-26 2026-27
+28 POSITIONS - LEGISLATIVE COUNT 6.000 6.000
+29 Personal Services $645,354 $668,001
+30 __________ __________
+31 GENERAL FUND TOTAL $645,354 $668,001
+3227 Gambling Control Board Z002
+33 Initiative: Provides funding for position costs associated with 2 Auditor II positions, 2
+34 Criminal Intelligence Analyst positions, one Public Service Coordinator II position and one
+35 Public Safety Inspector I position.
+36 OTHER SPECIAL REVENUE FUNDS 2025-26 2026-27
+37 All Other $70,000 $70,000
+38 __________ __________
+39 OTHER SPECIAL REVENUE FUNDS TOTAL $70,000 $70,000
+4306 Gambling Control Board Z002
+41 Initiative: Provides allocations for expenditures related to administrative expenses.
+Page 4 - 132LR2128(02)
+COMMITTEE AMENDMENT
+
+COMMITTEE AMENDMENT “ ” to H.P. 769, L.D. 1164
+1 OTHER SPECIAL REVENUE FUNDS 2025-26 2026-27
+2 All Other $200,000 $400,000
+3 __________ __________
+4 OTHER SPECIAL REVENUE FUNDS TOTAL $200,000 $400,000
+51
+6 PUBLIC SAFETY, DEPARTMENT OF
+7 DEPARTMENT TOTALS 2025-26 2026-27
+8
+9 GENERAL FUND $645,354 $668,001
+10 OTHER SPECIAL REVENUE FUNDS $270,000 $470,000
+11 __________ __________
+12 DEPARTMENT TOTAL - ALL FUNDS $915,354 $1,138,001
+136
+14 SECTION TOTALS 2025-26 2026-27
+15
+16 GENERAL FUND $645,354 $668,001
+17 FUND FOR A HEALTHY MAINE $100,000 $200,000
+18 OTHER SPECIAL REVENUE FUNDS $1,770,000 $3,470,000
+19 __________ __________
+20 SECTION TOTAL - ALL FUNDS $2,515,354 $4,338,001
+2114 '
+22 Amend the bill by relettering or renumbering any nonconsecutive Part letter or section
+23 number to read consecutively.
+24 SUMMARY
+2255 This amendment adjusts the allocation of funds for adjusted gross Internet gaming
+2266 receipts. The amendment increases the overall collection and distribution of adjusted gross
+2277 Internet gaming receipts from 16% to 18%. It makes the following changes to distribution
+2288 of adjusted gross Internet gaming receipts.
+29 1. It reduces from 3% to 2% the amount that must be deposited in the Gambling
+30 Addiction Prevention and Treatment Fund and reduces from 3% to 1.5% the amount that
+31 must be deposited in the Opioid Use Disorder Prevention and Treatment Fund.
+32 2. It increases from 3% to 5% the amount that must be deposited in the Maine Veterans’
+33 Homes Stabilization Fund.
+34 3. It adds a 2.5% deposit to the dairy stabilization tier program, a 1% deposit into the
+35 Fund for a Healthy Maine and a 2% deposit in the School Revolving Renovation Fund.
+36 4. It removes the E-9-1-1 fund from the list of entities receiving funds.
+37 5. It makes no changes to the distribution of 2% to the Emergency Housing Relief Fund
+38 or to the distribution of 2% to the Gambling Control Unit administrative expenses Other
+39 Special Revenue Funds account.
+Page 5 - 132LR2128(02)
+COMMITTEE AMENDMENT
+
+COMMITTEE AMENDMENT “ ” to H.P. 769, L.D. 1164
+1 6. It adds an appropriations and allocations section.
+22 FISCAL NOTE REQUIRED
+33 (See attached)
+Page 6 - 132LR2128(02)
+COMMITTEE AMENDMENT
+
+[DELETED: LD:(RC0E1A213'4o5t6A7G8w9B0G122C3d4D5d6T7E8E9F0M1G2F3H4S]
+[DELETED: A'  T f a a 9  A a aaAFITE262r$0$___L$0$  S262 E$0$___S$0$3A1M2I3TS262r$0$___L$0$4  S262 S$0$___S$0$9D0O8M9IS262r$0$]
+[DELETED: ___L$0$  S262 S$0$___S$0$H2M3I4TS262r$0$___L$0$5O0I1SS262r$0$___L$0$2  S262 S$0$___S$0$7H5E6IS262r$0$___L$0$7]
+[DELETED: E S262 S$0$___S$0$MMI0MS262r$0$___L$0$1E S262 S$0$___S$0$6P3G4I5p6pD262T606s$4$___L$4$7G3I4C5PS262r$0$___L$0$6G1I]
+[DELETED: S262r$0$___L$0$F S262 D$4$S$0$___S$4$S262 D$4$E$0$S$0$___S$4$42A3n5T6r7I8o910A1m223H435F64758o9S]
+[DELETED: 6F(]
