@@ -1,0 +1,180 @@
+Title: 4 Reproduced and distributed under the direction of the Clerk of the House.
+Official Title: 4 Reproduced and distributed under the direction of the Clerk of the House.
+Number of Sections: 1
+Source: versions - Adopted Amendments
+Media Type: application/pdf
+Strikethrough Detection: 2 sections found
+
+================================================================================
+
+Section 1:
+1 L.D. 1618
+2 Date: (Filing No. H- )
+3 JUDICIARY
+5 STATE OF MAINE
+6 HOUSE OF REPRESENTATIVES
+7 132ND LEGISLATURE
+8 FIRST SPECIAL SESSION
+9 COMMITTEE AMENDMENT “ ” to H.P. 1072, L.D. 1618, “Resolve, to Study the
+10 Feasibility of Establishing a Dedicated Family Court in Maine”
+11 Amend the resolve by striking out all of section 2 and inserting the following:
+12 'Sec. 2. Study group membership. Resolved: That, notwithstanding Joint Rule
+13 353, the study group consists of 13 members appointed as follows:
+14 1. Two members of the Senate, appointed by the President of the Senate, including
+15 one member from each of the 2 parties holding the largest number of seats in the
+16 Legislature;
+17 2. Two members of the House of Representatives, appointed by the Speaker of the
+18 House, including one member from each of the 2 parties holding the largest number of seats
+19 in the Legislature;
+20 3. Three members representing the judicial branch, appointed by the Chief Justice of
+21 the Supreme Judicial Court;
+22 4. One member representing a child welfare advocacy organization, appointed by the
+23 President of the Senate;
+24 5. One member who is a guardian ad litem, appointed by the President of the Senate;
+25 6. One member who is an individual with personal experience with family law
+26 proceedings in court, appointed by the President of the Senate;
+27 7. One member representing the Family Law Advisory Commission under the Maine
+28 Revised Statutes, Title 19-A, chapter 5, appointed by the Speaker of the House;
+29 8. One member representing a statewide coalition of domestic violence projects,
+30 appointed by the Speaker of the House; and
+31 9. One member who is an individual with personal experience with family law
+32 proceedings in court, appointed by the Speaker of the House.'
+33 Amend the resolve by striking out all of section 5 and inserting the following:
+Page 1 - 132LR1804(02)
+COMMITTEE AMENDMENT
+COMMITTEE AMENDMENT “ ” to H.P. 1072, L.D. 1618
+1 'Sec. 5. Duties. Resolved: That the study group shall comprehensively evaluate
+2 the feasibility, potential benefits and challenges associated with establishing a dedicated
+3 family court system, which must include examination and consideration of:
+4 1. Best practices in other states with dedicated family courts;
+5 2. How best to structure a dedicated family court to ensure that it is available and
+6 accessible to parties across all areas of the State, including rural areas. The study group
+7 shall consider whether specific judges, mediators and other court staff should be assigned
+8 to work exclusively on family matters cases and whether to require single-judge
+9 assignments for specific cases or specific families;
+10 3. What categories of legal proceedings should be within the exclusive jurisdiction of
+11 a dedicated family court, such as all divorce, legal separation and annulment proceedings
+12 or only those proceedings involving minor children; paternity, parental rights and
+13 responsibilities and child support proceedings; some or all protection from abuse
+14 proceedings; child protection proceedings; and some or all guardianship, adoption and
+15 related proceedings under the Maine Uniform Probate Code;
+16 4. Data on the volume of cases within the different categories identified in subsection
+17 3 currently handled by the State’s courts, the number of times individual cases are heard
+18 by multiple judges, the average time to resolution for these categories of cases and the
+19 potential for reducing delays and improving outcomes in these categories of cases through
+20 a dedicated family court; and
+21 5. The resources required to establish a dedicated family court system.
+22 In performing its duties under this section, the study group shall solicit the input, advice
+23 or participation of the Department of Health and Human Services, Office of Child and
+24 Family Services and the Department of Health and Human Services, Division of Support
+25 Enforcement and Recovery, attorneys within the Office of the Attorney General with
+26 experience in child protection proceedings and restorative justice professionals.'
+27 Amend the resolve by relettering or renumbering any nonconsecutive Part letter or
+28 section number to read consecutively.
+29 SUMMARY
+3300 This amendment requires that the legislative members of the Study Group to Research
+3311 the Feasibility of Establishing a Dedicated Family Court in Maine, as established in the
+3322 resolve, include members from each of the 2 parties holding the largest number of seats in
+3333 the Legislature. It also provides that the Chief Justice of the Supreme Judicial Court
+3344 appoints the 3 representatives of the judicial branch who serve as members of the study
+3355 group. Finally, it provides more specificity regarding the duties of the study group and
+3366 directs that, when performing those duties, the study group must solicit the input, advice or
+3377 participation of the Department of Health and Human Services, Office of Child and Family
+3388 Services and the Department of Health and Human Services, Division of Support
+3399 Enforcement and Recovery, attorneys within the Office of the Attorney General with
+4400 experience in child protection proceedings and restorative justice professionals.
+4411 FISCAL NOTE REQUIRED
+4422 (See attached)
+Page 2 - 132LR1804(02)
+COMMITTEE AMENDMENT
+[DELETED: LD:(RC0F1A2'  T.S33415o m f e o t 2 p h t l n o s i t6L728H9i031t243P4556  O m w i a i w p e w f l6p778R98  O m r a s c o d v p0a19  O m w i a i w p e w f l2p3A]
+[DELETED: '  T.Dtf12ast w e o f m c a w t r sa031a2o o t p i m c p p r a3r a c s p s o a p f a4p5r64738b9p0a152I3o4F5E a R a w t O o t A G w6e7A8s0T1t2r3t4a5g6d7p8S a t D o H a H S D o S9E a R a w t O o t A G w0e1F2(]
+
+
+================================================================================
+
+Raw Text:
+1 L.D. 1618
+2 Date: (Filing No. H- )
+3 JUDICIARY
+4 Reproduced and distributed under the direction of the Clerk of the House.
+5 STATE OF MAINE
+6 HOUSE OF REPRESENTATIVES
+7 132ND LEGISLATURE
+8 FIRST SPECIAL SESSION
+9 COMMITTEE AMENDMENT “ ” to H.P. 1072, L.D. 1618, “Resolve, to Study the
+10 Feasibility of Establishing a Dedicated Family Court in Maine”
+11 Amend the resolve by striking out all of section 2 and inserting the following:
+12 'Sec. 2. Study group membership. Resolved: That, notwithstanding Joint Rule
+13 353, the study group consists of 13 members appointed as follows:
+14 1. Two members of the Senate, appointed by the President of the Senate, including
+15 one member from each of the 2 parties holding the largest number of seats in the
+16 Legislature;
+17 2. Two members of the House of Representatives, appointed by the Speaker of the
+18 House, including one member from each of the 2 parties holding the largest number of seats
+19 in the Legislature;
+20 3. Three members representing the judicial branch, appointed by the Chief Justice of
+21 the Supreme Judicial Court;
+22 4. One member representing a child welfare advocacy organization, appointed by the
+23 President of the Senate;
+24 5. One member who is a guardian ad litem, appointed by the President of the Senate;
+25 6. One member who is an individual with personal experience with family law
+26 proceedings in court, appointed by the President of the Senate;
+27 7. One member representing the Family Law Advisory Commission under the Maine
+28 Revised Statutes, Title 19-A, chapter 5, appointed by the Speaker of the House;
+29 8. One member representing a statewide coalition of domestic violence projects,
+30 appointed by the Speaker of the House; and
+31 9. One member who is an individual with personal experience with family law
+32 proceedings in court, appointed by the Speaker of the House.'
+33 Amend the resolve by striking out all of section 5 and inserting the following:
+Page 1 - 132LR1804(02)
+COMMITTEE AMENDMENT
+
+COMMITTEE AMENDMENT “ ” to H.P. 1072, L.D. 1618
+1 'Sec. 5. Duties. Resolved: That the study group shall comprehensively evaluate
+2 the feasibility, potential benefits and challenges associated with establishing a dedicated
+3 family court system, which must include examination and consideration of:
+4 1. Best practices in other states with dedicated family courts;
+5 2. How best to structure a dedicated family court to ensure that it is available and
+6 accessible to parties across all areas of the State, including rural areas. The study group
+7 shall consider whether specific judges, mediators and other court staff should be assigned
+8 to work exclusively on family matters cases and whether to require single-judge
+9 assignments for specific cases or specific families;
+10 3. What categories of legal proceedings should be within the exclusive jurisdiction of
+11 a dedicated family court, such as all divorce, legal separation and annulment proceedings
+12 or only those proceedings involving minor children; paternity, parental rights and
+13 responsibilities and child support proceedings; some or all protection from abuse
+14 proceedings; child protection proceedings; and some or all guardianship, adoption and
+15 related proceedings under the Maine Uniform Probate Code;
+16 4. Data on the volume of cases within the different categories identified in subsection
+17 3 currently handled by the State’s courts, the number of times individual cases are heard
+18 by multiple judges, the average time to resolution for these categories of cases and the
+19 potential for reducing delays and improving outcomes in these categories of cases through
+20 a dedicated family court; and
+21 5. The resources required to establish a dedicated family court system.
+22 In performing its duties under this section, the study group shall solicit the input, advice
+23 or participation of the Department of Health and Human Services, Office of Child and
+24 Family Services and the Department of Health and Human Services, Division of Support
+25 Enforcement and Recovery, attorneys within the Office of the Attorney General with
+26 experience in child protection proceedings and restorative justice professionals.'
+27 Amend the resolve by relettering or renumbering any nonconsecutive Part letter or
+28 section number to read consecutively.
+29 SUMMARY
+3300 This amendment requires that the legislative members of the Study Group to Research
+3311 the Feasibility of Establishing a Dedicated Family Court in Maine, as established in the
+3322 resolve, include members from each of the 2 parties holding the largest number of seats in
+3333 the Legislature. It also provides that the Chief Justice of the Supreme Judicial Court
+3344 appoints the 3 representatives of the judicial branch who serve as members of the study
+3355 group. Finally, it provides more specificity regarding the duties of the study group and
+3366 directs that, when performing those duties, the study group must solicit the input, advice or
+3377 participation of the Department of Health and Human Services, Office of Child and Family
+3388 Services and the Department of Health and Human Services, Division of Support
+3399 Enforcement and Recovery, attorneys within the Office of the Attorney General with
+4400 experience in child protection proceedings and restorative justice professionals.
+4411 FISCAL NOTE REQUIRED
+4422 (See attached)
+Page 2 - 132LR1804(02)
+COMMITTEE AMENDMENT
+
+[DELETED: LD:(RC0F1A2'  T.S33415o m f e o t 2 p h t l n o s i t6L728H9i031t243P4556  O m w i a i w p e w f l6p778R98  O m r a s c o d v p0a19  O m w i a i w p e w f l2p3A]
+[DELETED: '  T.Dtf12ast w e o f m c a w t r sa031a2o o t p i m c p p r a3r a c s p s o a p f a4p5r64738b9p0a152I3o4F5E a R a w t O o t A G w6e7A8s0T1t2r3t4a5g6d7p8S a t D o H a H S D o S9E a R a w t O o t A G w0e1F2(]

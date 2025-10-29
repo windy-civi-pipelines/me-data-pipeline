@@ -1,0 +1,823 @@
+Title: 4 Reproduced and distributed under the direction of the Clerk of the House.
+Official Title: 4 Reproduced and distributed under the direction of the Clerk of the House.
+Number of Sections: 1
+Source: versions - Adopted Amendments
+Media Type: application/pdf
+Strikethrough Detection: 9 sections found
+
+================================================================================
+
+Section 1:
+1 L.D. 1777
+2 Date: (Filing No. H- )
+3 ENERGY, UTILITIES AND TECHNOLOGY
+5 STATE OF MAINE
+6 HOUSE OF REPRESENTATIVES
+7 132ND LEGISLATURE
+8 FIRST SPECIAL SESSION
+9 COMMITTEE AMENDMENT “ ” to H.P. 1188, L.D. 1777, “An Act to Clarify
+10 Tariff Rates for Nonresidential Customers Participating in Net Energy Billing with a
+11 Distributed Generation Resource”
+12 Amend the bill by striking out the title and substituting the following:
+13 'An Act to Reduce Costs and Increase Customer Protections for the State's Net
+14 Energy Billing Programs'
+15 Amend the bill by striking out everything after the enacting clause and inserting the
+16 following:
+17 'Sec. 1. 35-A MRSA §3209-A, sub-§1, ¶B-1 is enacted to read:
+18 B-1. "Mechanical completion" means, with respect to a distributed generation
+19 resource, fully physically constructed and ready for operation.
+20 Sec. 2. 35-A MRSA §3209-A, sub-§2-A is enacted to read:
+21 2-A. Billing term length. An amendment, revision or reissuance of a net energy
+22 billing agreement made after June 1, 2025 may not include an end date that is later than the
+23 end date provided for in the agreement that is subject to the amendment, revision or
+24 reissuance.
+25 Sec. 3. 35-A MRSA §3209-A, sub-§10 is enacted to read:
+26 10. Applicability; mechanical completion. A distributed generation resource that is
+27 interconnected to the distribution grid on the grid side of a customer's meter may not be
+28 used for net energy billing under this section unless the distributed generation resource
+29 reaches mechanical completion by June 1, 2026.
+30 Sec. 4. 35-A MRSA §3209-A, sub-§11 is enacted to read:
+31 11. Distributed energy resource program. Notwithstanding any provision of this
+32 section to the contrary, beginning on the date the commission implements a distributed
+33 energy resource program pursuant to section 3209-I, the commission may not allow a
+34 transmission and distribution utility to enter into a net energy billing agreement with a
+Page 1 - 132LR2335(02)
+COMMITTEE AMENDMENT
+COMMITTEE AMENDMENT “ ” to H.P. 1188, L.D. 1777
+315 distributed generation resource that is interconnected to the distribution grid on the grid
+326 side of a customer's meter.
+3 Sec. 5. 35-A MRSA §3209-B, sub-§5, as amended by PL 2021, c. 659, §19, is
+4 further amended to read:
+5 5. Tariff rate; bill credits. The commission shall establish by rule tariff rates for
+6 customers participating in the program. The initial tariff rate must be established no later
+7 than December 1, 2019.
+8 A. The tariff rate for a customer participating in net energy billing with a distributed
+9 generation resource described in this paragraph, until December 31, 2025, must equal
+10 the standard-offer service rate established under section 3212 that is applicable to the
+11 customer receiving the credit plus 75% of the effective transmission and distribution
+12 rate for the rate class that includes the smallest commercial customers of the investor-
+13 owned transmission and distribution utility. The tariff rate under this paragraph applies
+14 to net energy billing with a distributed generation resource:
+15 (1) With a nameplate capacity of greater than one megawatt if:
+16 (a) The entity developing the distributed generation resource certifies by
+17 affidavit with accompanying documentation to the commission that the entity,
+18 before September 1, 2022, commenced on-site physical work of a significant
+19 nature on the distributed generation resource and the entity has made and will
+20 continue to make continuous on-site construction efforts to advance toward
+21 completion of the distributed generation resource. For the purpose of this
+22 paragraph, continuous on-site construction efforts include, but are not limited
+23 to, in the context of a solar facility, the continuous installation of racks or other
+24 structures to affix photovoltaic panels, collectors or solar cells to a site. The
+25 commission may share information contained in the affidavit submitted in
+26 accordance with this paragraph with a transmission and distribution utility, as
+27 necessary, to verify a distributed generation resource's compliance with this
+28 section. In administering this subsection, the commission may adopt rules
+29 including, but not limited to, requiring the entity that submits a sworn affidavit
+30 under this subparagraph to provide updated documentation to the commission
+31 after submission of the affidavit; or
+32 (b) The distributed generation resource is collocated with a net energy billing
+33 customer that is or net energy billing customers that are subscribed to at least
+34 50% of the facility's output; or
+35 (2) With a nameplate capacity of one megawatt or less.
+36 After December 31, 2025, the tariff rate must be calculated in accordance with
+37 paragraph A-2.
+38 A-1. The tariff rate for a customer participating in net energy billing under this section
+39 with a distributed generation resource not governed by paragraph A must:
+40 (1) In 2022, equal the standard-offer service rate established pursuant to section
+41 3212 that was applicable to the rate class of the customer receiving the credit on
+42 December 31, 2020 plus 75% of the effective transmission and distribution rate
+43 that was in effect on December 31, 2020 for the rate class that includes the smallest
+Page 2 - 132LR2335(02)
+COMMITTEE AMENDMENT
+COMMITTEE AMENDMENT “ ” to H.P. 1188, L.D. 1777
+414 commercial customers of the investor-owned transmission and distribution utility;
+425 and
+3 (2) Increase by 2.25% on January 1st of each subsequent year, beginning January
+4 1, 2023.
+5 A-2. Beginning January 1, 2026, the commission shall establish the tariff rate for a
+6 customer participating in net energy billing under this section with a distributed
+7 generation resource described in paragraph A in accordance with this paragraph.
+8 (1) For a distributed generation resource with a nameplate capacity of 3 megawatts
+9 or more and less than 5 megawatts, the tariff rate must:
+10 (a) Equal the tariff rate calculated under paragraph A-1 applicable in 2026;
+11 and
+12 (b) Increase by 2.25% on January 1st of each year, beginning January 1, 2027.
+13 (2) For a distributed generation resource with a nameplate capacity of less than 3
+14 megawatts, the tariff rate must:
+15 (a) Equal the standard-offer service rate established pursuant to section 3212
+16 that was applicable to the rate class of the customer receiving the credit on
+17 December 31, 2024 plus 75% of the effective transmission and distribution rate
+18 that was in effect on December 31, 2024 for the rate class that includes the
+19 smallest commercial customers of the investor-owned transmission and
+20 distribution utility; and
+21 (b) Increase by 2.25% on January 1st of each year, beginning January 1, 2027.
+22 B. A customer participating in the program must receive for electricity delivered to
+23 the electric grid from a distributed generation resource in which the customer has a
+24 financial interest a bill credit based on the tariff rate to apply against the costs of
+25 electricity delivered to the customer by the investor‑owned transmission and
+26 distribution utility.
+27 C. A bill credit under the program as described in paragraph B may be applied to any
+28 portion of a customer's electricity bill. Credits that remain unused at the end of any
+29 billing period may be carried forward for up to one year from the end of that billing
+30 period.
+31 D. A customer participating in the program who remains eligible to participate in the
+32 program must be allowed to receive a bill credit based on the tariff rate for a period of
+33 no less than 20 years from the date of first receiving the credit.
+34 The commission shall publish the tariff rates established in accordance with this subsection
+35 on its publicly accessible website.
+36 Sec. 6. 35-A MRSA §3209-B, sub-§7, as amended by PL 2023, c. 411, §3, is
+37 further amended to read:
+38 7. Applicability. The applicability of this section is limited by the requirements of
+39 section 3209‑A, subsection 7 and subsection 9 subsections 7, 9 and 10.
+40 Sec. 7. 35-A MRSA §3209-B, sub-§9 is enacted to read:
+Page 3 - 132LR2335(02)
+COMMITTEE AMENDMENT
+COMMITTEE AMENDMENT “ ” to H.P. 1188, L.D. 1777
+1 9. Distributed energy resource program. Notwithstanding any provision of this
+2 section to the contrary, beginning on the date the commission implements a distributed
+3 energy resource program pursuant to section 3209-I, the commission may not allow a
+4 transmission and distribution utility to enter into a net energy billing agreement with a
+5 distributed generation resource that is interconnected to the distribution grid on the grid
+6 side of a customer's meter.
+7 Sec. 8. 35-A MRSA §3209-D, as enacted by PL 2023, c. 411, §6, is repealed.
+8 Sec. 9. 35-A MRSA §3209-E, sub-§1, ¶A, as enacted by PL 2023, c. 411, §7, is
+9 amended to read:
+10 A. "Distributed generation resource" has the same meaning as in section 3209‑D,
+11 subsection 1, paragraph A. means an electric generating facility that uses a renewable
+12 fuel or technology under section 3210, subsection 2, paragraph B‑3, is located in the
+13 service territory of a transmission and distribution utility in the State and:
+14 (1) Has met or is reasonably likely to meet the requirements of section 3209‑A,
+15 subsection 7, paragraph E, as determined by the commission; or
+16 (2) Has a nameplate capacity of at least one megawatt and not more than 2
+17 megawatts and:
+18 (a) Is a member of a cluster study conducted by the transmission and
+19 distribution utility with which the distributed generation resource is seeking to
+20 interconnect; or
+21 (b) Is likely to receive required transmission approval from the New England
+22 independent system operator on or before April 30, 2024.
+23 Sec. 10. 35-A MRSA §3209-F is enacted to read:
+24 §3209-F. Net energy billing project charge for certain distributed generation projects
+25 1. Net energy billing project charge defined. As used in this section, "net energy
+26 billing project charge" means a monthly fee determined by the commission by rule in
+27 accordance with this section that a transmission and distribution utility must use to offset
+28 distribution costs associated with net energy billing arrangements under sections 3209-A
+29 and 3209-B that would otherwise be paid by ratepayers, as determined by the commission.
+30 2. Net energy billing project charge; applicability. Except as provided in subsection
+31 5, the commission shall require a transmission and distribution utility to assess each
+32 distributed generation resource participating in net energy billing with a shared financial
+33 interest customer in accordance with section 3209-A, subsection 3. The commission shall
+34 adopt rules to determine the net energy billing project charges applicable to distributed
+35 generation resources described in subsection 3 and establish a process by which a
+36 transmission and distribution utility must apply net energy billing project charges against
+37 costs associated with net energy billing.
+38 3. Initial net energy billing project charge. Beginning January 1, 2026, the initial
+39 monthly net energy billing project charge established by the commission must be:
+40 A. For a distributed generation resource with a nameplate capacity of 3 megawatts or
+41 more and less than 5 megawatts, $6.00 multiplied by the nameplate capacity of the
+42 distributed generation resource in kilowatts;
+Page 4 - 132LR2335(02)
+COMMITTEE AMENDMENT
+COMMITTEE AMENDMENT “ ” to H.P. 1188, L.D. 1777
+1 B. For a distributed generation resource with a nameplate capacity of one megawatt or
+2 more and less than 3 megawatts, $2.80 multiplied by the nameplate capacity of the
+3 distributed generation resource in kilowatts; and
+4 C. For a distributed generation resource with a nameplate capacity of less than one
+5 megawatt, zero.
+6 4. Adjustment of net energy billing project charge; compensation. The commission
+7 shall periodically by rule increase the initial net energy billing project charge to account
+8 for increases in transmission and distribution rates. Compensation to a distributed
+9 generation resource related to transmission and distribution rate credits may not increase
+10 by more than 2.25% per year.
+11 5. Exceptions. A distributed generation resource is exempt from the net energy billing
+12 project charge established in this section if the distributed generation resource demonstrates
+13 in a manner satisfactory to the commission that the distributed generation resource is:
+14 A. Wholly owned by the customer or customers receiving the net energy billing credits
+15 associated with the output of the distributed generation resource; or
+16 B. Wholly owned by a cooperative corporation organized under Title 13, chapter 85.
+17 6. Rules. The commission shall adopt rules to implement this section. Rules adopted
+18 pursuant to this subsection are routine technical rules as defined in Title 5, chapter 375,
+19 subchapter 2‑A.
+20 Sec. 11. 35-A MRSA §3209-G is enacted to read:
+21 §3209-G. Net energy billing cost rate year adjustment
+22 1. Adjustment of net energy billing cost rate year. The commission shall require a
+23 transmission and distribution utility to reconcile costs associated with net energy billing
+24 under sections 3209-A and 3209-B, as determined by the commission, in a rate year to
+25 begin on January 1st of each year, starting in 2026.
+26 2. Rules. The commission may adopt rules to implement this section. Rules adopted
+27 pursuant to this subsection are routine technical rules as defined in Title 5, chapter 375,
+28 subchapter 2‑A.
+29 Sec. 12. 35-A MRSA §3209-H is enacted to read:
+30 §3209-H. Net energy billing project procurement
+31 1. Definitions. As used in this section, the following terms have the following
+32 meanings.
+33 A. "Distributed generation resource" has the same meaning as in section 3209‑A,
+34 subsection 1, paragraph B.
+35 B. "Eligible resource" means a distributed generation resource:
+36 (1) That reaches commercial operation before November 1, 2025;
+37 (2) That is participating in net energy billing pursuant to section 3209-A or 3209-B;
+38 and
+39 (3) For which 75% or less of the bill credits associated with the distributed
+40 generation resource are allocated to a customer of or subscriber to the resource.
+Page 5 - 132LR2335(02)
+COMMITTEE AMENDMENT
+COMMITTEE AMENDMENT “ ” to H.P. 1188, L.D. 1777
+1 2. Competitive procurement. The commission shall direct investor-owned
+2 transmission and distribution utilities to enter into one or more contracts for energy or
+3 renewable energy credits or both from eligible resources in accordance with this section.
+4 The commission may not require a distributed generation resource to contract for the sale
+5 of energy or renewable energy credits under this section.
+6 A. By November 1, 2025, the commission shall initiate a competitive solicitation for
+7 contracts under this section for energy or renewable energy credits or both in an amount
+8 determined by the commission.
+9 B. The commission may initiate additional competitive solicitations in its sole
+10 discretion after consultation with the Governor's Energy Office.
+11 C. The commission may not award a contract to an eligible resource participating in
+12 net energy billing pursuant to section 3209-A at a rate that exceeds the tariff rate
+13 calculated under section 3209-B, subsection 5, paragraph A-1 applicable on November
+14 1, 2025 to medium commercial customers as defined in section 3106, subsection 1,
+15 paragraph B or industrial customers in the transmission and distribution service
+16 territory in which the eligible resource is located.
+17 D. The commission may not award a contract to an eligible resource participating in
+18 net energy billing pursuant to section 3209-B at a rate that exceeds 70% of the tariff
+19 rate calculated under section 3209-B, subsection 5, paragraph A-1 applicable on
+20 November 1, 2025 to medium commercial customers as defined in section 3106,
+21 subsection 1, paragraph B or industrial customers in the transmission and distribution
+22 service territory in which the eligible resource is located.
+23 3. Contract terms. A contract entered into pursuant to this section must be for a term
+24 of no more than 20 years or the remainder of the eligible resource's net energy billing
+25 agreement with a transmission and distribution utility, whichever is shorter, unless the
+26 commission finds a contract for a longer term to be prudent.
+27 4. Rules. The commission may adopt rules to implement this section. Rules adopted in
+28 accordance with this subsection are routine technical rules as defined in Title 5, chapter
+29 375, subchapter 2-A.
+30 Sec. 13. 35-A MRSA §3209-I is enacted to read:
+31 §3209-I. Distributed energy resource program
+32 1. Distributed energy resource defined. As used in this section, "distributed energy
+33 resource" means an electric generating facility that uses a renewable fuel or technology
+34 under section 3210, subsection 2, paragraph B‑3, is located in the service territory of a
+35 transmission and distribution utility in the State and is interconnected to the distribution
+36 grid on the grid side of a customer's meter.
+37 2. Program design; implementation. The Governor's Energy Office shall design a
+38 program or programs to encourage the development of distributed energy resources in the
+39 State and submit the proposed program or programs to the commission. If the commission
+40 finds that a program or programs proposed by the office provides benefits to ratepayers in
+41 the State in excess of the costs to ratepayers, the commission shall by rule implement the
+42 program or programs.
+Page 6 - 132LR2335(02)
+COMMITTEE AMENDMENT
+COMMITTEE AMENDMENT “ ” to H.P. 1188, L.D. 1777
+1 3. Program implementation; net energy billing. After the commission implements
+2 the program or programs under subsection 2, the commission may not permit a
+3 transmission and distribution utility to enter into a net energy billing agreement with a
+4 distributed energy resource under section 3209-A or 3209-B.
+5 4. Rules. The commission may adopt rules to implement this section. Rules adopted or
+6 amended under this subsection are routine technical rules as defined in Title 5, chapter 375,
+7 subchapter 2‑A.
+8 Sec. 14. 35-A MRSA §3210-G, sub-§3, as amended by PL 2023, c. 411, §8, is
+9 further amended to read:
+10 3. Report. No later than March 31, 2023 and biennially thereafter, the commission
+11 shall submit a report regarding the status of contracts for Class IA resources under this
+12 section and the status of contracts for energy or renewable energy credits from distributed
+13 generation resources under section 3209-D 3209-H to the joint standing committee of the
+14 Legislature having jurisdiction over utilities and energy matters. The report must include,
+15 but is not limited to, a description of Class IA resources participating in competitive
+16 solicitations, information about the resources selected for contracts and the selection
+17 process, the benefits and costs of the contracts and recommendations about how to further
+18 stimulate investment in Class IA resources or achieve ratepayer benefits from Class IA
+19 resources. The report may include information about benefits and costs of the contracts to
+20 the State's economy, environmental quality or electricity consumers over both the short and
+21 long terms. Any analysis of the benefits or costs of the contracts must be based on a forecast
+22 of all avoided costs resulting from the contracts that is transparent and balanced over the
+23 long term.
+24 Sec. 15. Distributed energy resource program; development. By September
+25 30, 2026 and in accordance with the Maine Revised Statutes, Title 35-A, section 3209-I,
+26 subsection 2, the Governor's Energy Office, referred to in this section as "the office," shall
+27 design and submit to the Public Utilities Commission, referred to in this section as "the
+28 commission," a proposed distributed energy resource program or programs to succeed the
+29 net energy billing programs established in Title 35-A, sections 3209-A and 3209-B for
+30 distributed energy resources. For the purposes of this section, "distributed energy resource"
+31 has the same meaning as in Title 35-A, section 3209-I, subsection 1.
+32 In designing the program or programs, the office shall consider:
+33 1. The marginal benefit to ratepayers in the State of the time value of generation and
+34 the location of generation;
+35 2. Reasonable compensation rates specific to a distributed energy resource's size and
+36 generation type;
+37 3. The development and use of a compensation model based on the value of distributed
+38 energy resources;
+39 4. Opportunities for a load reducer program for commercial customers;
+40 5. Incentivizing energy storage that provides benefits to ratepayers in the State; and
+41 6. Necessary changes to utility rate structure, billing systems, data collection or
+42 metering to implement the program.
+Page 7 - 132LR2335(02)
+COMMITTEE AMENDMENT
+COMMITTEE AMENDMENT “ ” to H.P. 1188, L.D. 1777
+1 The office may consider other factors the office determines appropriate and shall solicit
+2 public input prior to the submission of a program design to the commission.
+3 To support the office's development of the program, the office may request funds from
+4 the commission for the office's administrative costs, which may include, but are not limited
+5 to, costs associated with hiring consultants and office personnel and contracting for
+6 technical analysis in the design of the program or programs. Notwithstanding Title 35‑A,
+7 section 117, if the office requests funding in accordance with this section, the commission
+8 may provide funding, to the extent available, from the Public Utilities Commission
+9 Reimbursement Fund under Title 35-A, section 117. If the Public Utilities Commission
+10 Reimbursement Fund does not have sufficient funding, notwithstanding Title 35‑A, section
+11 116, subsection 4, the commission may provide funding in accordance with this section
+12 from the Public Utilities Commission Regulatory Fund.
+13 In accordance with Title 35-A, section 3209-I, the commission shall approve or reject
+14 the proposed program or programs submitted by the office pursuant to this section as
+15 expeditiously as possible, but no later than 120 calendar days after the commission receives
+16 the design from the office unless otherwise requested by the office. If the commission finds
+17 that the program provides benefits to ratepayers in the State in excess of the costs to
+18 ratepayers, the commission shall implement the program by rule.
+19 Sec. 16. Net energy billing; consumer protections. In accordance with the
+20 Maine Revised Statutes, Title 35-A, section 3209-A, subsection 5, paragraph E, by
+21 November 1, 2025, the Public Utilities Commission shall initiate rulemaking to establish
+22 consumer protection standards for customers participating in net energy billing pursuant to
+23 Title 35-A, section 3209-A. The rules must:
+24 1. Require that a distributed generation resource providing service to a customer
+25 participating in a net energy billing arrangement based upon a shared financial interest in
+26 the distributed generation resource establish a subscription size for a customer that is based
+27 on historical customer usage, while taking into account anticipated increases in usage, and
+28 require a project sponsor to adjust the customer's subscription size as needed to match
+29 changes in usage;
+30 2. Prohibit project sponsors or operators of distributed generation resources from
+31 retaining customer payment for unused kilowatt-hour credits that have expired;
+32 3. For a customer participating in net energy billing, require a transmission and
+33 distribution utility to provide the relevant project sponsor or owner of a distributed
+34 generation resource with the customer's usage and billing information, including net energy
+35 billing data needed to administer a customer's net energy billing arrangement; and
+36 4. Prohibit residential customers from simultaneously participating in more than one
+37 net energy billing arrangement pursuant to Title 35-A, section 3209-A, subsection 3.
+38 Notwithstanding any provision of Title 35-A, section 3209-A to the contrary, rules
+39 adopted by the commission pursuant to this section are routine technical rules as defined
+40 in Title 5, chapter 375, subchapter 2‑A.'
+41 Amend the bill by relettering or renumbering any nonconsecutive Part letter or section
+42 number to read consecutively.
+Page 8 - 132LR2335(02)
+COMMITTEE AMENDMENT
+COMMITTEE AMENDMENT “ ” to H.P. 1188, L.D. 1777
+1 SUMMARY
+22 This amendment, which is the majority report of the committee, replaces the bill and
+33 changes the title. The amendment does the following.
+4 1. It prohibits a distributed generation resource that is interconnected to the distribution
+5 grid on the grid side of a customer's meter from being used for the kilowatt-hour credit and
+6 commercial and institutional net energy billing programs unless the distributed generation
+7 resource reaches mechanical completion by June 1, 2026.
+8 2. It requires the Governor's Energy Office to design and submit to the Public Utilities
+9 Commission a proposed distributed energy resource program or programs to succeed the
+10 net energy billing programs for front-of-the-meter distributed generation resources.
+11 3. For both the kilowatt-hour credit and commercial and institutional net energy billing
+12 programs, it requires the commission to prohibit a transmission and distribution utility from
+13 entering into a net energy billing agreement with a distributed generation resource that is
+14 interconnected to the distribution grid on the grid side of a customer's meter beginning on
+15 the date the commission implements a distributed energy resource program to succeed the
+16 net energy billing programs for front-of-the-meter distributed generation resources
+17 pursuant to the Maine Revised Statutes, Title 35-A, section 3209-I.
+18 4. It directs the commission to require transmission and distribution utilities to
+19 reconcile costs associated with net energy billing in a rate year beginning on January 1,
+20 2026.
+21 5. It establishes an end date for the tariff rate received by certain distributed generation
+22 resources participating in the commercial and institutional net energy billing program
+23 effective January 1, 2026 and establishes new tariff rates effective January 1, 2026 that
+24 apply to certain distributed generation resources participating in the commercial and
+25 institutional net energy billing program.
+26 6. It repeals a section of law requiring the commission to conduct competitive
+27 solicitations for the procurement of energy or renewable energy credits from distributed
+28 generation resources and requires instead that the commission conduct competitive
+29 solicitations for the procurement of energy or renewable energy credits or both from
+30 distributed generation resources participating in net energy billing for which 75% or less
+31 of the bill credits associated with the resource are not allocated to a customer of or
+32 subscriber to the resource.
+33 7. It requires certain distributed generation resources participating in the kilowatt-hour
+34 credit net energy billing program to pay a monthly fee determined by the commission that
+35 must be used to offset distribution costs associated with net energy billing arrangements
+36 that would otherwise be paid by ratepayers.
+37 8. It requires the commission to adopt rules establishing consumer protections related
+38 to the kilowatt-hour credit net energy billing program.
+3399 FISCAL NOTE REQUIRED
+4400 (See attached)
+Page 9 - 132LR2335(02)
+COMMITTEE AMENDMENT
+[DELETED: LD:(RC0T R f N C P i N E B w a1D2A3' A t R C a I C P f t S N4E5A6f7' 8B  " c m w r t a d g9r0 122b3e d p f i t a t i s t t a r o4r5 617i8u9r0 112s3e4t]
+[DELETED: 5d6s f5ctAg0t1c2r3o4t5(6(  T e d t d g r c b7a8b9n0c1c o t d g r F t p o t2p3t4s5c6a7n8s I a t s c m r9i0u1a2(3c455(6A D 3 2 t t r m b c i a w7p8A9w0(132D3t]
+[DELETED: 4c5a(1Ac p i n e b u t s w a dg(o0(1a2(3(4m5(6t7D8t9s c c o t i t a0d1(2B3t4f5e d t t c b t i t a6d7C8p9b0p1D2p3n4T5o6 7f879s0 ]
+[DELETED: 9setds  a0A1s2f3s4(5s6(  H n o o m a n t 27m8(  I a m o a c s c b t t a9d0i1(2i3 4§516b7a8d9a0215 t c s r a t a d u t a e2d3i4a5g r d i s 3 a e a p b w a6t7c839m0A1m2d]
+[DELETED: BmdCm4sf i i t a d r C t a dg0b152p3i4A5a6B768p9s0 1§213t4u5b627p8s9 0§11 D A u i t s t f t h t f2m3A4s5B6(7(8a9( F w 7 o l o t b c a w t d0g]
+[DELETED: 2 C p T c s d itrToAcdB T c m i a c s i i s0d1C2n3c415p B o i c i t t a d s6t7D8n9r c u s 3 s 5 p A a o0N 1 2 t m c c a d i s 31s2s334o5a6c748a930 1§213r4u5t6g728p9S0f1t2p]
+[DELETED: 3t p o p u s 2 t c m n p atd4as f031s2s3g4L5b i n l t a d o C I r p i c6s i a t r s f c a t s7p8s9r0t1l2o3l4 536s7d8c9n0d1h2I314t526g738e940516 N c t u r s b s d c o2m]
+[DELETED: TpTtt c a w h c a o p a c ftsm p f t t e a f t P U CR0R112f3I4t5e6t7t8r9 0M R S T 3 s 3 s 5 p E b1N2c3T41 R t a d g r p s t a c5p6t7o8r9c02 P p s o o o d g r f1r23 F a c p i n e b r a t a3d u t p t r p s o o o a d4g5b647n8N9a0i1A2n]
+[DELETED: Tc1gcr2C0n132p3e4i5t6n e b p f f d g r7p84 I d t c t r t a d u t9r02152r p i t c a i n e b p3e4a t c d g r p i t c a5i66 I r a s o l r t c t c c7s8g r a r i t t c c c9s f t p o e o r e c o b f0d1o t b c a w t r a n a t a c o o2s374c5m6t788t9F0(]
+
+
+================================================================================
+
+Raw Text:
+1 L.D. 1777
+2 Date: (Filing No. H- )
+3 ENERGY, UTILITIES AND TECHNOLOGY
+4 Reproduced and distributed under the direction of the Clerk of the House.
+5 STATE OF MAINE
+6 HOUSE OF REPRESENTATIVES
+7 132ND LEGISLATURE
+8 FIRST SPECIAL SESSION
+9 COMMITTEE AMENDMENT “ ” to H.P. 1188, L.D. 1777, “An Act to Clarify
+10 Tariff Rates for Nonresidential Customers Participating in Net Energy Billing with a
+11 Distributed Generation Resource”
+12 Amend the bill by striking out the title and substituting the following:
+13 'An Act to Reduce Costs and Increase Customer Protections for the State's Net
+14 Energy Billing Programs'
+15 Amend the bill by striking out everything after the enacting clause and inserting the
+16 following:
+17 'Sec. 1. 35-A MRSA §3209-A, sub-§1, ¶B-1 is enacted to read:
+18 B-1. "Mechanical completion" means, with respect to a distributed generation
+19 resource, fully physically constructed and ready for operation.
+20 Sec. 2. 35-A MRSA §3209-A, sub-§2-A is enacted to read:
+21 2-A. Billing term length. An amendment, revision or reissuance of a net energy
+22 billing agreement made after June 1, 2025 may not include an end date that is later than the
+23 end date provided for in the agreement that is subject to the amendment, revision or
+24 reissuance.
+25 Sec. 3. 35-A MRSA §3209-A, sub-§10 is enacted to read:
+26 10. Applicability; mechanical completion. A distributed generation resource that is
+27 interconnected to the distribution grid on the grid side of a customer's meter may not be
+28 used for net energy billing under this section unless the distributed generation resource
+29 reaches mechanical completion by June 1, 2026.
+30 Sec. 4. 35-A MRSA §3209-A, sub-§11 is enacted to read:
+31 11. Distributed energy resource program. Notwithstanding any provision of this
+32 section to the contrary, beginning on the date the commission implements a distributed
+33 energy resource program pursuant to section 3209-I, the commission may not allow a
+34 transmission and distribution utility to enter into a net energy billing agreement with a
+Page 1 - 132LR2335(02)
+COMMITTEE AMENDMENT
+
+COMMITTEE AMENDMENT “ ” to H.P. 1188, L.D. 1777
+315 distributed generation resource that is interconnected to the distribution grid on the grid
+326 side of a customer's meter.
+3 Sec. 5. 35-A MRSA §3209-B, sub-§5, as amended by PL 2021, c. 659, §19, is
+4 further amended to read:
+5 5. Tariff rate; bill credits. The commission shall establish by rule tariff rates for
+6 customers participating in the program. The initial tariff rate must be established no later
+7 than December 1, 2019.
+8 A. The tariff rate for a customer participating in net energy billing with a distributed
+9 generation resource described in this paragraph, until December 31, 2025, must equal
+10 the standard-offer service rate established under section 3212 that is applicable to the
+11 customer receiving the credit plus 75% of the effective transmission and distribution
+12 rate for the rate class that includes the smallest commercial customers of the investor-
+13 owned transmission and distribution utility. The tariff rate under this paragraph applies
+14 to net energy billing with a distributed generation resource:
+15 (1) With a nameplate capacity of greater than one megawatt if:
+16 (a) The entity developing the distributed generation resource certifies by
+17 affidavit with accompanying documentation to the commission that the entity,
+18 before September 1, 2022, commenced on-site physical work of a significant
+19 nature on the distributed generation resource and the entity has made and will
+20 continue to make continuous on-site construction efforts to advance toward
+21 completion of the distributed generation resource. For the purpose of this
+22 paragraph, continuous on-site construction efforts include, but are not limited
+23 to, in the context of a solar facility, the continuous installation of racks or other
+24 structures to affix photovoltaic panels, collectors or solar cells to a site. The
+25 commission may share information contained in the affidavit submitted in
+26 accordance with this paragraph with a transmission and distribution utility, as
+27 necessary, to verify a distributed generation resource's compliance with this
+28 section. In administering this subsection, the commission may adopt rules
+29 including, but not limited to, requiring the entity that submits a sworn affidavit
+30 under this subparagraph to provide updated documentation to the commission
+31 after submission of the affidavit; or
+32 (b) The distributed generation resource is collocated with a net energy billing
+33 customer that is or net energy billing customers that are subscribed to at least
+34 50% of the facility's output; or
+35 (2) With a nameplate capacity of one megawatt or less.
+36 After December 31, 2025, the tariff rate must be calculated in accordance with
+37 paragraph A-2.
+38 A-1. The tariff rate for a customer participating in net energy billing under this section
+39 with a distributed generation resource not governed by paragraph A must:
+40 (1) In 2022, equal the standard-offer service rate established pursuant to section
+41 3212 that was applicable to the rate class of the customer receiving the credit on
+42 December 31, 2020 plus 75% of the effective transmission and distribution rate
+43 that was in effect on December 31, 2020 for the rate class that includes the smallest
+Page 2 - 132LR2335(02)
+COMMITTEE AMENDMENT
+
+COMMITTEE AMENDMENT “ ” to H.P. 1188, L.D. 1777
+414 commercial customers of the investor-owned transmission and distribution utility;
+425 and
+3 (2) Increase by 2.25% on January 1st of each subsequent year, beginning January
+4 1, 2023.
+5 A-2. Beginning January 1, 2026, the commission shall establish the tariff rate for a
+6 customer participating in net energy billing under this section with a distributed
+7 generation resource described in paragraph A in accordance with this paragraph.
+8 (1) For a distributed generation resource with a nameplate capacity of 3 megawatts
+9 or more and less than 5 megawatts, the tariff rate must:
+10 (a) Equal the tariff rate calculated under paragraph A-1 applicable in 2026;
+11 and
+12 (b) Increase by 2.25% on January 1st of each year, beginning January 1, 2027.
+13 (2) For a distributed generation resource with a nameplate capacity of less than 3
+14 megawatts, the tariff rate must:
+15 (a) Equal the standard-offer service rate established pursuant to section 3212
+16 that was applicable to the rate class of the customer receiving the credit on
+17 December 31, 2024 plus 75% of the effective transmission and distribution rate
+18 that was in effect on December 31, 2024 for the rate class that includes the
+19 smallest commercial customers of the investor-owned transmission and
+20 distribution utility; and
+21 (b) Increase by 2.25% on January 1st of each year, beginning January 1, 2027.
+22 B. A customer participating in the program must receive for electricity delivered to
+23 the electric grid from a distributed generation resource in which the customer has a
+24 financial interest a bill credit based on the tariff rate to apply against the costs of
+25 electricity delivered to the customer by the investor‑owned transmission and
+26 distribution utility.
+27 C. A bill credit under the program as described in paragraph B may be applied to any
+28 portion of a customer's electricity bill. Credits that remain unused at the end of any
+29 billing period may be carried forward for up to one year from the end of that billing
+30 period.
+31 D. A customer participating in the program who remains eligible to participate in the
+32 program must be allowed to receive a bill credit based on the tariff rate for a period of
+33 no less than 20 years from the date of first receiving the credit.
+34 The commission shall publish the tariff rates established in accordance with this subsection
+35 on its publicly accessible website.
+36 Sec. 6. 35-A MRSA §3209-B, sub-§7, as amended by PL 2023, c. 411, §3, is
+37 further amended to read:
+38 7. Applicability. The applicability of this section is limited by the requirements of
+39 section 3209‑A, subsection 7 and subsection 9 subsections 7, 9 and 10.
+40 Sec. 7. 35-A MRSA §3209-B, sub-§9 is enacted to read:
+Page 3 - 132LR2335(02)
+COMMITTEE AMENDMENT
+
+COMMITTEE AMENDMENT “ ” to H.P. 1188, L.D. 1777
+1 9. Distributed energy resource program. Notwithstanding any provision of this
+2 section to the contrary, beginning on the date the commission implements a distributed
+3 energy resource program pursuant to section 3209-I, the commission may not allow a
+4 transmission and distribution utility to enter into a net energy billing agreement with a
+5 distributed generation resource that is interconnected to the distribution grid on the grid
+6 side of a customer's meter.
+7 Sec. 8. 35-A MRSA §3209-D, as enacted by PL 2023, c. 411, §6, is repealed.
+8 Sec. 9. 35-A MRSA §3209-E, sub-§1, ¶A, as enacted by PL 2023, c. 411, §7, is
+9 amended to read:
+10 A. "Distributed generation resource" has the same meaning as in section 3209‑D,
+11 subsection 1, paragraph A. means an electric generating facility that uses a renewable
+12 fuel or technology under section 3210, subsection 2, paragraph B‑3, is located in the
+13 service territory of a transmission and distribution utility in the State and:
+14 (1) Has met or is reasonably likely to meet the requirements of section 3209‑A,
+15 subsection 7, paragraph E, as determined by the commission; or
+16 (2) Has a nameplate capacity of at least one megawatt and not more than 2
+17 megawatts and:
+18 (a) Is a member of a cluster study conducted by the transmission and
+19 distribution utility with which the distributed generation resource is seeking to
+20 interconnect; or
+21 (b) Is likely to receive required transmission approval from the New England
+22 independent system operator on or before April 30, 2024.
+23 Sec. 10. 35-A MRSA §3209-F is enacted to read:
+24 §3209-F. Net energy billing project charge for certain distributed generation projects
+25 1. Net energy billing project charge defined. As used in this section, "net energy
+26 billing project charge" means a monthly fee determined by the commission by rule in
+27 accordance with this section that a transmission and distribution utility must use to offset
+28 distribution costs associated with net energy billing arrangements under sections 3209-A
+29 and 3209-B that would otherwise be paid by ratepayers, as determined by the commission.
+30 2. Net energy billing project charge; applicability. Except as provided in subsection
+31 5, the commission shall require a transmission and distribution utility to assess each
+32 distributed generation resource participating in net energy billing with a shared financial
+33 interest customer in accordance with section 3209-A, subsection 3. The commission shall
+34 adopt rules to determine the net energy billing project charges applicable to distributed
+35 generation resources described in subsection 3 and establish a process by which a
+36 transmission and distribution utility must apply net energy billing project charges against
+37 costs associated with net energy billing.
+38 3. Initial net energy billing project charge. Beginning January 1, 2026, the initial
+39 monthly net energy billing project charge established by the commission must be:
+40 A. For a distributed generation resource with a nameplate capacity of 3 megawatts or
+41 more and less than 5 megawatts, $6.00 multiplied by the nameplate capacity of the
+42 distributed generation resource in kilowatts;
+Page 4 - 132LR2335(02)
+COMMITTEE AMENDMENT
+
+COMMITTEE AMENDMENT “ ” to H.P. 1188, L.D. 1777
+1 B. For a distributed generation resource with a nameplate capacity of one megawatt or
+2 more and less than 3 megawatts, $2.80 multiplied by the nameplate capacity of the
+3 distributed generation resource in kilowatts; and
+4 C. For a distributed generation resource with a nameplate capacity of less than one
+5 megawatt, zero.
+6 4. Adjustment of net energy billing project charge; compensation. The commission
+7 shall periodically by rule increase the initial net energy billing project charge to account
+8 for increases in transmission and distribution rates. Compensation to a distributed
+9 generation resource related to transmission and distribution rate credits may not increase
+10 by more than 2.25% per year.
+11 5. Exceptions. A distributed generation resource is exempt from the net energy billing
+12 project charge established in this section if the distributed generation resource demonstrates
+13 in a manner satisfactory to the commission that the distributed generation resource is:
+14 A. Wholly owned by the customer or customers receiving the net energy billing credits
+15 associated with the output of the distributed generation resource; or
+16 B. Wholly owned by a cooperative corporation organized under Title 13, chapter 85.
+17 6. Rules. The commission shall adopt rules to implement this section. Rules adopted
+18 pursuant to this subsection are routine technical rules as defined in Title 5, chapter 375,
+19 subchapter 2‑A.
+20 Sec. 11. 35-A MRSA §3209-G is enacted to read:
+21 §3209-G. Net energy billing cost rate year adjustment
+22 1. Adjustment of net energy billing cost rate year. The commission shall require a
+23 transmission and distribution utility to reconcile costs associated with net energy billing
+24 under sections 3209-A and 3209-B, as determined by the commission, in a rate year to
+25 begin on January 1st of each year, starting in 2026.
+26 2. Rules. The commission may adopt rules to implement this section. Rules adopted
+27 pursuant to this subsection are routine technical rules as defined in Title 5, chapter 375,
+28 subchapter 2‑A.
+29 Sec. 12. 35-A MRSA §3209-H is enacted to read:
+30 §3209-H. Net energy billing project procurement
+31 1. Definitions. As used in this section, the following terms have the following
+32 meanings.
+33 A. "Distributed generation resource" has the same meaning as in section 3209‑A,
+34 subsection 1, paragraph B.
+35 B. "Eligible resource" means a distributed generation resource:
+36 (1) That reaches commercial operation before November 1, 2025;
+37 (2) That is participating in net energy billing pursuant to section 3209-A or 3209-B;
+38 and
+39 (3) For which 75% or less of the bill credits associated with the distributed
+40 generation resource are allocated to a customer of or subscriber to the resource.
+Page 5 - 132LR2335(02)
+COMMITTEE AMENDMENT
+
+COMMITTEE AMENDMENT “ ” to H.P. 1188, L.D. 1777
+1 2. Competitive procurement. The commission shall direct investor-owned
+2 transmission and distribution utilities to enter into one or more contracts for energy or
+3 renewable energy credits or both from eligible resources in accordance with this section.
+4 The commission may not require a distributed generation resource to contract for the sale
+5 of energy or renewable energy credits under this section.
+6 A. By November 1, 2025, the commission shall initiate a competitive solicitation for
+7 contracts under this section for energy or renewable energy credits or both in an amount
+8 determined by the commission.
+9 B. The commission may initiate additional competitive solicitations in its sole
+10 discretion after consultation with the Governor's Energy Office.
+11 C. The commission may not award a contract to an eligible resource participating in
+12 net energy billing pursuant to section 3209-A at a rate that exceeds the tariff rate
+13 calculated under section 3209-B, subsection 5, paragraph A-1 applicable on November
+14 1, 2025 to medium commercial customers as defined in section 3106, subsection 1,
+15 paragraph B or industrial customers in the transmission and distribution service
+16 territory in which the eligible resource is located.
+17 D. The commission may not award a contract to an eligible resource participating in
+18 net energy billing pursuant to section 3209-B at a rate that exceeds 70% of the tariff
+19 rate calculated under section 3209-B, subsection 5, paragraph A-1 applicable on
+20 November 1, 2025 to medium commercial customers as defined in section 3106,
+21 subsection 1, paragraph B or industrial customers in the transmission and distribution
+22 service territory in which the eligible resource is located.
+23 3. Contract terms. A contract entered into pursuant to this section must be for a term
+24 of no more than 20 years or the remainder of the eligible resource's net energy billing
+25 agreement with a transmission and distribution utility, whichever is shorter, unless the
+26 commission finds a contract for a longer term to be prudent.
+27 4. Rules. The commission may adopt rules to implement this section. Rules adopted in
+28 accordance with this subsection are routine technical rules as defined in Title 5, chapter
+29 375, subchapter 2-A.
+30 Sec. 13. 35-A MRSA §3209-I is enacted to read:
+31 §3209-I. Distributed energy resource program
+32 1. Distributed energy resource defined. As used in this section, "distributed energy
+33 resource" means an electric generating facility that uses a renewable fuel or technology
+34 under section 3210, subsection 2, paragraph B‑3, is located in the service territory of a
+35 transmission and distribution utility in the State and is interconnected to the distribution
+36 grid on the grid side of a customer's meter.
+37 2. Program design; implementation. The Governor's Energy Office shall design a
+38 program or programs to encourage the development of distributed energy resources in the
+39 State and submit the proposed program or programs to the commission. If the commission
+40 finds that a program or programs proposed by the office provides benefits to ratepayers in
+41 the State in excess of the costs to ratepayers, the commission shall by rule implement the
+42 program or programs.
+Page 6 - 132LR2335(02)
+COMMITTEE AMENDMENT
+
+COMMITTEE AMENDMENT “ ” to H.P. 1188, L.D. 1777
+1 3. Program implementation; net energy billing. After the commission implements
+2 the program or programs under subsection 2, the commission may not permit a
+3 transmission and distribution utility to enter into a net energy billing agreement with a
+4 distributed energy resource under section 3209-A or 3209-B.
+5 4. Rules. The commission may adopt rules to implement this section. Rules adopted or
+6 amended under this subsection are routine technical rules as defined in Title 5, chapter 375,
+7 subchapter 2‑A.
+8 Sec. 14. 35-A MRSA §3210-G, sub-§3, as amended by PL 2023, c. 411, §8, is
+9 further amended to read:
+10 3. Report. No later than March 31, 2023 and biennially thereafter, the commission
+11 shall submit a report regarding the status of contracts for Class IA resources under this
+12 section and the status of contracts for energy or renewable energy credits from distributed
+13 generation resources under section 3209-D 3209-H to the joint standing committee of the
+14 Legislature having jurisdiction over utilities and energy matters. The report must include,
+15 but is not limited to, a description of Class IA resources participating in competitive
+16 solicitations, information about the resources selected for contracts and the selection
+17 process, the benefits and costs of the contracts and recommendations about how to further
+18 stimulate investment in Class IA resources or achieve ratepayer benefits from Class IA
+19 resources. The report may include information about benefits and costs of the contracts to
+20 the State's economy, environmental quality or electricity consumers over both the short and
+21 long terms. Any analysis of the benefits or costs of the contracts must be based on a forecast
+22 of all avoided costs resulting from the contracts that is transparent and balanced over the
+23 long term.
+24 Sec. 15. Distributed energy resource program; development. By September
+25 30, 2026 and in accordance with the Maine Revised Statutes, Title 35-A, section 3209-I,
+26 subsection 2, the Governor's Energy Office, referred to in this section as "the office," shall
+27 design and submit to the Public Utilities Commission, referred to in this section as "the
+28 commission," a proposed distributed energy resource program or programs to succeed the
+29 net energy billing programs established in Title 35-A, sections 3209-A and 3209-B for
+30 distributed energy resources. For the purposes of this section, "distributed energy resource"
+31 has the same meaning as in Title 35-A, section 3209-I, subsection 1.
+32 In designing the program or programs, the office shall consider:
+33 1. The marginal benefit to ratepayers in the State of the time value of generation and
+34 the location of generation;
+35 2. Reasonable compensation rates specific to a distributed energy resource's size and
+36 generation type;
+37 3. The development and use of a compensation model based on the value of distributed
+38 energy resources;
+39 4. Opportunities for a load reducer program for commercial customers;
+40 5. Incentivizing energy storage that provides benefits to ratepayers in the State; and
+41 6. Necessary changes to utility rate structure, billing systems, data collection or
+42 metering to implement the program.
+Page 7 - 132LR2335(02)
+COMMITTEE AMENDMENT
+
+COMMITTEE AMENDMENT “ ” to H.P. 1188, L.D. 1777
+1 The office may consider other factors the office determines appropriate and shall solicit
+2 public input prior to the submission of a program design to the commission.
+3 To support the office's development of the program, the office may request funds from
+4 the commission for the office's administrative costs, which may include, but are not limited
+5 to, costs associated with hiring consultants and office personnel and contracting for
+6 technical analysis in the design of the program or programs. Notwithstanding Title 35‑A,
+7 section 117, if the office requests funding in accordance with this section, the commission
+8 may provide funding, to the extent available, from the Public Utilities Commission
+9 Reimbursement Fund under Title 35-A, section 117. If the Public Utilities Commission
+10 Reimbursement Fund does not have sufficient funding, notwithstanding Title 35‑A, section
+11 116, subsection 4, the commission may provide funding in accordance with this section
+12 from the Public Utilities Commission Regulatory Fund.
+13 In accordance with Title 35-A, section 3209-I, the commission shall approve or reject
+14 the proposed program or programs submitted by the office pursuant to this section as
+15 expeditiously as possible, but no later than 120 calendar days after the commission receives
+16 the design from the office unless otherwise requested by the office. If the commission finds
+17 that the program provides benefits to ratepayers in the State in excess of the costs to
+18 ratepayers, the commission shall implement the program by rule.
+19 Sec. 16. Net energy billing; consumer protections. In accordance with the
+20 Maine Revised Statutes, Title 35-A, section 3209-A, subsection 5, paragraph E, by
+21 November 1, 2025, the Public Utilities Commission shall initiate rulemaking to establish
+22 consumer protection standards for customers participating in net energy billing pursuant to
+23 Title 35-A, section 3209-A. The rules must:
+24 1. Require that a distributed generation resource providing service to a customer
+25 participating in a net energy billing arrangement based upon a shared financial interest in
+26 the distributed generation resource establish a subscription size for a customer that is based
+27 on historical customer usage, while taking into account anticipated increases in usage, and
+28 require a project sponsor to adjust the customer's subscription size as needed to match
+29 changes in usage;
+30 2. Prohibit project sponsors or operators of distributed generation resources from
+31 retaining customer payment for unused kilowatt-hour credits that have expired;
+32 3. For a customer participating in net energy billing, require a transmission and
+33 distribution utility to provide the relevant project sponsor or owner of a distributed
+34 generation resource with the customer's usage and billing information, including net energy
+35 billing data needed to administer a customer's net energy billing arrangement; and
+36 4. Prohibit residential customers from simultaneously participating in more than one
+37 net energy billing arrangement pursuant to Title 35-A, section 3209-A, subsection 3.
+38 Notwithstanding any provision of Title 35-A, section 3209-A to the contrary, rules
+39 adopted by the commission pursuant to this section are routine technical rules as defined
+40 in Title 5, chapter 375, subchapter 2‑A.'
+41 Amend the bill by relettering or renumbering any nonconsecutive Part letter or section
+42 number to read consecutively.
+Page 8 - 132LR2335(02)
+COMMITTEE AMENDMENT
+
+COMMITTEE AMENDMENT “ ” to H.P. 1188, L.D. 1777
+1 SUMMARY
+22 This amendment, which is the majority report of the committee, replaces the bill and
+33 changes the title. The amendment does the following.
+4 1. It prohibits a distributed generation resource that is interconnected to the distribution
+5 grid on the grid side of a customer's meter from being used for the kilowatt-hour credit and
+6 commercial and institutional net energy billing programs unless the distributed generation
+7 resource reaches mechanical completion by June 1, 2026.
+8 2. It requires the Governor's Energy Office to design and submit to the Public Utilities
+9 Commission a proposed distributed energy resource program or programs to succeed the
+10 net energy billing programs for front-of-the-meter distributed generation resources.
+11 3. For both the kilowatt-hour credit and commercial and institutional net energy billing
+12 programs, it requires the commission to prohibit a transmission and distribution utility from
+13 entering into a net energy billing agreement with a distributed generation resource that is
+14 interconnected to the distribution grid on the grid side of a customer's meter beginning on
+15 the date the commission implements a distributed energy resource program to succeed the
+16 net energy billing programs for front-of-the-meter distributed generation resources
+17 pursuant to the Maine Revised Statutes, Title 35-A, section 3209-I.
+18 4. It directs the commission to require transmission and distribution utilities to
+19 reconcile costs associated with net energy billing in a rate year beginning on January 1,
+20 2026.
+21 5. It establishes an end date for the tariff rate received by certain distributed generation
+22 resources participating in the commercial and institutional net energy billing program
+23 effective January 1, 2026 and establishes new tariff rates effective January 1, 2026 that
+24 apply to certain distributed generation resources participating in the commercial and
+25 institutional net energy billing program.
+26 6. It repeals a section of law requiring the commission to conduct competitive
+27 solicitations for the procurement of energy or renewable energy credits from distributed
+28 generation resources and requires instead that the commission conduct competitive
+29 solicitations for the procurement of energy or renewable energy credits or both from
+30 distributed generation resources participating in net energy billing for which 75% or less
+31 of the bill credits associated with the resource are not allocated to a customer of or
+32 subscriber to the resource.
+33 7. It requires certain distributed generation resources participating in the kilowatt-hour
+34 credit net energy billing program to pay a monthly fee determined by the commission that
+35 must be used to offset distribution costs associated with net energy billing arrangements
+36 that would otherwise be paid by ratepayers.
+37 8. It requires the commission to adopt rules establishing consumer protections related
+38 to the kilowatt-hour credit net energy billing program.
+3399 FISCAL NOTE REQUIRED
+4400 (See attached)
+Page 9 - 132LR2335(02)
+COMMITTEE AMENDMENT
+
+[DELETED: LD:(RC0T R f N C P i N E B w a1D2A3' A t R C a I C P f t S N4E5A6f7' 8B  " c m w r t a d g9r0 122b3e d p f i t a t i s t t a r o4r5 617i8u9r0 112s3e4t]
+[DELETED: 5d6s f5ctAg0t1c2r3o4t5(6(  T e d t d g r c b7a8b9n0c1c o t d g r F t p o t2p3t4s5c6a7n8s I a t s c m r9i0u1a2(3c455(6A D 3 2 t t r m b c i a w7p8A9w0(132D3t]
+[DELETED: 4c5a(1Ac p i n e b u t s w a dg(o0(1a2(3(4m5(6t7D8t9s c c o t i t a0d1(2B3t4f5e d t t c b t i t a6d7C8p9b0p1D2p3n4T5o6 7f879s0 ]
+[DELETED: 9setds  a0A1s2f3s4(5s6(  H n o o m a n t 27m8(  I a m o a c s c b t t a9d0i1(2i3 4§516b7a8d9a0215 t c s r a t a d u t a e2d3i4a5g r d i s 3 a e a p b w a6t7c839m0A1m2d]
+[DELETED: BmdCm4sf i i t a d r C t a dg0b152p3i4A5a6B768p9s0 1§213t4u5b627p8s9 0§11 D A u i t s t f t h t f2m3A4s5B6(7(8a9( F w 7 o l o t b c a w t d0g]
+[DELETED: 2 C p T c s d itrToAcdB T c m i a c s i i s0d1C2n3c415p B o i c i t t a d s6t7D8n9r c u s 3 s 5 p A a o0N 1 2 t m c c a d i s 31s2s334o5a6c748a930 1§213r4u5t6g728p9S0f1t2p]
+[DELETED: 3t p o p u s 2 t c m n p atd4as f031s2s3g4L5b i n l t a d o C I r p i c6s i a t r s f c a t s7p8s9r0t1l2o3l4 536s7d8c9n0d1h2I314t526g738e940516 N c t u r s b s d c o2m]
+[DELETED: TpTtt c a w h c a o p a c ftsm p f t t e a f t P U CR0R112f3I4t5e6t7t8r9 0M R S T 3 s 3 s 5 p E b1N2c3T41 R t a d g r p s t a c5p6t7o8r9c02 P p s o o o d g r f1r23 F a c p i n e b r a t a3d u t p t r p s o o o a d4g5b647n8N9a0i1A2n]
+[DELETED: Tc1gcr2C0n132p3e4i5t6n e b p f f d g r7p84 I d t c t r t a d u t9r02152r p i t c a i n e b p3e4a t c d g r p i t c a5i66 I r a s o l r t c t c c7s8g r a r i t t c c c9s f t p o e o r e c o b f0d1o t b c a w t r a n a t a c o o2s374c5m6t788t9F0(]
